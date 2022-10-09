@@ -75,6 +75,7 @@ Shizuku allows normal apps to use system APIs directly with elevated privileges 
 * [App Ops](https://play.google.com/store/apps/details?id=rikka.appops) `IAP` 💰 `Ads` -  Manage application permissions without root `Proprietary`
 * [Blocker](https://github.com/lihenggui/blocker) - Enable/disable Android components such as activities, services, receivers, and providers `Apache-2.0`
 * [FreezeYou](https://play.google.com/store/apps/details?id=cf.playhi.freezeyou) - Improve your device's speed and battery life by freezing crappy software manually or semi-automatically `Apache-2.0` [(Source code)](https://github.com/FreezeYou/FreezeYou)
+* [Hail](https://f-droid.org/packages/com.aistra.hail/) Freeze, hide, or disable any app. Create and organize app groups that can be freezed with one-click.  - `GPL-3.0` [(Source code)](https://github.com/aistra0528/Hail)
 * [Ice Box](https://play.google.com/store/apps/details?id=com.catchingnow.icebox) `IAP` 💰 - Freeze or hide apps using Shizuku `Proprietary`
 * [Island](https://play.google.com/store/apps/details?id=com.oasisfeng.island) - Isolate and clone apps for privacy protection and parallel running `Proprietary`
 
