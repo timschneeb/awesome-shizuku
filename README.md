@@ -4,6 +4,8 @@
 
 Shizuku allows normal apps to use system APIs directly with elevated privileges using ADB on non-rooted devices. This list compiles a few apps that are known to make use with Shizuku's capabilities.
 
+More details: https://shizuku.rikka.app/
+
 --------------------
 
 
