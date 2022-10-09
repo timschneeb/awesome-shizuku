@@ -13,7 +13,6 @@ More details: https://shizuku.rikka.app/
 
 - [Apps](#apps)
   - [Audio](#audio)
-  - [Backups](#backups)
   - [Customization](#customization)
   - [Development utilities](#development-utilities)
   - [Installer & app stores](#installer--app-stores)
@@ -37,10 +36,6 @@ More details: https://shizuku.rikka.app/
 ### Audio
 
 * [RootlessJamesDSP](https://play.google.com/store/apps/details?id=me.timschneeberger.rootlessjamesdsp&utm_source=github&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) - An implementation of the system-wide JamesDSP audio processing engine for non-rooted Android devices `GPL-3.0` [(Source code)](https://github.com/ThePBone/RootlessJamesDSP)
-
-### Backups
-
-* [Swift Backup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup) `IAP` 💰 - Backup and restore apps, messages, call logs, and more `Proprietary` 
 
 ### Customization
 
