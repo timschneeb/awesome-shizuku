@@ -46,14 +46,14 @@ Shizuku allows normal apps to use system APIs directly with elevated privileges 
 * [AutoDark](https://f-droid.org/packages/me.ranko.autodark) - A small Android app to let you schedule dark mode On/Off `MIT` [(Source code)](https://github.com/0ranko0P/AutoDark)
 * [Better Internet Tiles](https://play.google.com/store/apps/details?id=be.casperverswijvelt.unifiedinternetqs) - Bring back Wi-Fi and mobile data tiles on Android 12 or higher + a better unified internet tile `GPL-3.0` [(Source code)](https://github.com/CasperVerswijvelt/Better-Internet-Tiles)
 * [DarQ](https://github.com/KieronQuinn/DarQ) - DarQ provides a per-app selectable force dark option for Android 10 and above `Apache-2.0`
-* [Repainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme) `IAP 💰` -  Install custom Material You designs on your device `Proprietary`
+* [Repainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme) `IAP ` 💰 -  Install custom Material You designs on your device `Proprietary`
 * [System UI Tuner](https://github.com/zacharee/Tweaker) - View and modify hidden settings on Android devices `Proprietary`
 * [TapTap](https://github.com/KieronQuinn/TapTap) - Port of the double tap on back of device feature from Android 12 to any Android 7.0+ device `GPL-3.0`
 
 ### Development utilities
 
 * [Logra](https://github.com/wingio/Logra) - Material You logcat viewer for Android `GPL-2.0` 
-* [RootActivityLauncher](https://play.google.com/store/apps/details?id=tk.zwander.rootactivitylauncher&hl=en&gl=US) `Paid 💰` -  Launch/interact with (un)exported activities, services, and receivers. Supports Shizuku alongside root. `Proprietary` [(Source code)](https://github.com/zacharee/RootActivityLauncher)
+* [RootActivityLauncher](https://play.google.com/store/apps/details?id=tk.zwander.rootactivitylauncher&hl=en&gl=US) `Paid` 💰 -  Launch/interact with (un)exported activities, services, and receivers. Supports Shizuku alongside root. `Proprietary` [(Source code)](https://github.com/zacharee/RootActivityLauncher)
 
 ### Installer & app stores
 
@@ -68,21 +68,21 @@ Shizuku allows normal apps to use system APIs directly with elevated privileges 
 * [LSPatch](https://github.com/LSPosed/LSPatch) - A non-root Xposed framework extending from LSPosed `GPL-3.0`
 * [ScreenOff](https://github.com/WuDi-ZhanShen/ScreenOff) - Turn off your Android's screen without entering standby/sleep mode `Proprietary`
 * [SecondScreen](https://play.google.com/store/apps/details?id=com.farmerbb.secondscreen.free) - Better screen mirroring for Android devices `Apache-2.0` [Source code](https://github.com/farmerbb/SecondScreen)
-* [WiFiList](https://play.google.com/store/apps/details?id=tk.zwander.wifilist&hl=gsw&gl=US) `Paid 💰` - View your saved WiFi passwords on Android 11 and later without root `Proprietary` [(Source code)](https://github.com/zacharee/WiFiList)
+* [WiFiList](https://play.google.com/store/apps/details?id=tk.zwander.wifilist&hl=gsw&gl=US) `Paid` 💰 - View your saved WiFi passwords on Android 11 and later without root `Proprietary` [(Source code)](https://github.com/zacharee/WiFiList)
 
 ### Software management
 
-* [App Ops](https://play.google.com/store/apps/details?id=rikka.appops) `IAP 💰` `Ads` -  Manage application permissions without root `Proprietary`
+* [App Ops](https://play.google.com/store/apps/details?id=rikka.appops) `IAP` 💰 `Ads` -  Manage application permissions without root `Proprietary`
 * [Blocker](https://github.com/lihenggui/blocker) - Enable/disable Android components such as activities, services, receivers, and providers `Apache-2.0`
 * [FreezeYou](https://play.google.com/store/apps/details?id=cf.playhi.freezeyou) - Improve your device's speed and battery life by freezing crappy software manually or semi-automatically `Apache-2.0` [(Source code)](https://github.com/FreezeYou/FreezeYou)
-* [Ice Box](https://play.google.com/store/apps/details?id=com.catchingnow.icebox) `IAP 💰` - Freeze or hide apps using Shizuku `Proprietary`
+* [Ice Box](https://play.google.com/store/apps/details?id=com.catchingnow.icebox) `IAP` 💰 - Freeze or hide apps using Shizuku `Proprietary`
 * [Island](https://play.google.com/store/apps/details?id=com.oasisfeng.island) - Isolate and clone apps for privacy protection and parallel running `Proprietary`
 
 ### Vendor-specific
 
 #### Samsung OneUI
 
-* [Hex Installer: OneUI themes](https://play.google.com/store/apps/details?id=project.vivid.hex.bodhi) `IAP 💰` - Custom system-wide theming engine for Samsung OneUI devices `Proprietary` 
+* [Hex Installer: OneUI themes](https://play.google.com/store/apps/details?id=project.vivid.hex.bodhi) `IAP` 💰 - Custom system-wide theming engine for Samsung OneUI devices `Proprietary` 
 
 #### MIUI
 
@@ -107,8 +107,8 @@ _________
 
 ## Annotations
 
-- `Paid 💰` - Paid application
-- `IAP 💰` - Contains in-app-purchases
+- `Paid` 💰 - Paid application
+- `IAP` 💰 - Contains in-app-purchases
 - `Ads` - Contains ads
 - `Proprietary` - Missing license or closed-source software
 
