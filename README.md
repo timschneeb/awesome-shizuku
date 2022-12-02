@@ -15,6 +15,7 @@ More details: https://shizuku.rikka.app/
   - [Audio](#audio)
   - [Customization](#customization)
   - [Development utilities](#development-utilities)
+  - [Entertainment](#entertainment)
   - [Installer & app stores](#installer--app-stores)
   - [Miscellaneous](#miscellaneous)
   - [Software management](#software-management)
@@ -51,6 +52,10 @@ More details: https://shizuku.rikka.app/
 
 * [Logra](https://github.com/wingio/Logra) - Material You logcat viewer for Android `GPL-2.0` 
 * [RootActivityLauncher](https://play.google.com/store/apps/details?id=tk.zwander.rootactivitylauncher&hl=en&gl=US) `Paid` 💰 -  Launch/interact with (un)exported activities, services, and receivers. Supports Shizuku alongside root. `Proprietary` [(Source code)](https://github.com/zacharee/RootActivityLauncher)
+
+### Entertainment
+
+* [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Manga reader with plugin management using Shizuku. `Apache-2.0`
 
 ### Installer & app stores
 
