@@ -6,6 +6,8 @@ Shizuku allows normal apps to use system APIs directly with elevated privileges 
 
 More details: https://shizuku.rikka.app/
 
+Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
+
 --------------------
 
 
