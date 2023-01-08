@@ -87,6 +87,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [Hail](https://f-droid.org/packages/com.aistra.hail/) Freeze, hide, or disable any app. Create and organize app groups that can be freezed with one-click.  - `GPL-3.0` [(Source code)](https://github.com/aistra0528/Hail)
 * [Ice Box](https://play.google.com/store/apps/details?id=com.catchingnow.icebox) `IAP` 💰 - Freeze or hide apps using Shizuku `Proprietary`
 * [Island](https://play.google.com/store/apps/details?id=com.oasisfeng.island) - Isolate and clone apps for privacy protection and parallel running `Apache-2.0` [(Source code)](https://github.com/oasisfeng/island)
+* [Package Manager](https://play.google.com/store/apps/details?id=com.smartpack.packagemanager) - A highly powerful app to manage both system and user apps `GPL-3.0` [(Source code)](https://github.com/SmartPack/PackageManager)
 
 ### Vendor-specific
 
