@@ -22,6 +22,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
   - [Miscellaneous](#miscellaneous)
   - [Software management](#software-management)
   - [Vendor-specific](#vendor-specific)
+    - [Google Pixel](#google-pixel)
     - [Samsung OneUI](#samsung-oneui)
     - [MIUI](#miui)
 - [Development libraries](#development-libraries)
@@ -92,6 +93,9 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [Package Manager](https://play.google.com/store/apps/details?id=com.smartpack.packagemanager) - A highly powerful app to manage both system and user apps `GPL-3.0` [(Source code)](https://github.com/SmartPack/PackageManager)
 
 ### Vendor-specific
+
+#### Google Pixel
+* [pixel-volte-patch](https://github.com/kyujin-cho/pixel-volte-patch/blob/main/README.en.md) - Enable VoLTE on Pixel 6 & 7 with LG U+ `GPL-3.0`
 
 #### Samsung OneUI
 
