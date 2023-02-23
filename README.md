@@ -59,6 +59,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 
 ### Entertainment
 
+* [Aniyomi](https://github.com/jmir1/aniyomi) - Tachiyami fork with anime support and plugin management using Shizuku. `Apache-2.0`
 * [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Manga reader with plugin management using Shizuku. `Apache-2.0`
 
 ### Installer & app stores
