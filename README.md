@@ -28,7 +28,6 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 - [Development libraries](#development-libraries)
   - [Core](#core)
   - [Power](#power)
-
 - [Annotations](#annotations)
 - [License](#license)
 
