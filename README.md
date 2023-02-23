@@ -49,7 +49,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [CarrierVanityName](https://github.com/nullbytepl/CarrierVanityName) - Carrier Vanity Name is a very simple app to change the carrier names on unrooted Android devices `No license`
 * [DarQ](https://github.com/KieronQuinn/DarQ) - DarQ provides a per-app selectable force dark option for Android 10 and above `Apache-2.0`
 * [Repainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme) `IAP` 💰 -  Install custom Material You designs on your device `Proprietary`
-* [System UI Tuner](https://github.com/zacharee/Tweaker) - View and modify hidden settings on Android devices `Proprietary`
+* [System UI Tuner](https://github.com/zacharee/Tweaker) - View and modify hidden settings on Android devices `MIT`
 * [TapTap](https://github.com/KieronQuinn/TapTap) - Port of the double tap on back of device feature from Android 12 to any Android 7.0+ device `GPL-3.0`
 
 ### Development utilities
