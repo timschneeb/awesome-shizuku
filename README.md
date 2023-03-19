@@ -101,6 +101,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 #### Samsung OneUI
 
 * [Hex Installer: OneUI themes](https://play.google.com/store/apps/details?id=project.vivid.hex.bodhi) `IAP` 💰 - Custom system-wide theming engine for Samsung OneUI devices `Proprietary` 
+* [SamsungTTSSystemShell](https://github.com/BLuFeNiX/SamsungTTSSystemShell) - Privilege escalation exploit [(CVE-2019-16253)](https://nvd.nist.gov/vuln/detail/CVE-2019-16253) to system user access (UID 1000) on non-rooted devices running up to OneUI 5. Uses Shizuku for automation `LGPL-2.1`
 
 #### MIUI
 
