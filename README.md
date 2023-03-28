@@ -90,6 +90,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 
 * [App Ops](https://play.google.com/store/apps/details?id=rikka.appops) `Ads` `IAP` 💰 -  Manage application permissions without root `Proprietary`
 * [Blocker](https://github.com/lihenggui/blocker) - Enable/disable Android components such as activities, services, receivers, and providers `Apache-2.0`
+* [BS Launcher](https://play.google.com/store/apps/details?id=pub.hanks.ps.launcher) - Custom launcher that has a built-in app freeze feature `Proprietary`
 * [DisabledLauncher](https://github.com/voruti/DisabledLauncher) - Android app that disables unused apps, while still allowing convenient access to them `MIT`
 * [FreezeYou](https://play.google.com/store/apps/details?id=cf.playhi.freezeyou) - Improve your device's speed and battery life by freezing crappy software manually or semi-automatically `Apache-2.0` [(Source code)](https://github.com/FreezeYou/FreezeYou)
 * [Hail](https://f-droid.org/packages/com.aistra.hail/) Freeze, hide, or disable any app. Create and organize app groups that can be freezed with one-click.  - `GPL-3.0` [(Source code)](https://github.com/aistra0528/Hail)
