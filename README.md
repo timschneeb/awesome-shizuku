@@ -25,6 +25,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
     - [Google Pixel](#google-pixel)
     - [Samsung OneUI](#samsung-oneui)
     - [MIUI](#miui)
+- [Rish shell](#rish-shell)
 - [Development libraries](#development-libraries)
   - [Core](#core)
   - [Power](#power)
@@ -47,6 +48,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [Better Internet Tiles](https://play.google.com/store/apps/details?id=be.casperverswijvelt.unifiedinternetqs) - Bring back Wi-Fi and mobile data tiles on Android 12 or higher + a better unified internet tile `GPL-3.0` [(Source code)](https://github.com/CasperVerswijvelt/Better-Internet-Tiles)
 * [CarrierVanityName](https://github.com/nullbytepl/CarrierVanityName) - Carrier Vanity Name is a very simple app to change the carrier names on unrooted Android devices `No license`
 * [DarQ](https://github.com/KieronQuinn/DarQ) - DarQ provides a per-app selectable force dark option for Android 10 and above `Apache-2.0`
+* [NoPopping](https://play.google.com/store/apps/details?id=rikka.nopeeking) `IAP` 💰 - Auto Do-Not-Disturb mode `Proprietary`
 * [Repainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme) `IAP` 💰 - Install custom Material You designs on your device `Proprietary`
 * [System UI Tuner](https://github.com/zacharee/Tweaker) - View and modify hidden settings on Android devices `MIT`
 * [TapTap](https://github.com/KieronQuinn/TapTap) - Port of the double tap on back of device feature from Android 12 to any Android 7.0+ device `GPL-3.0`
@@ -63,6 +65,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 
 * [Aniyomi](https://github.com/jmir1/aniyomi) - Tachiyomi fork with anime support and plugin management using Shizuku. `Apache-2.0`
 * [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Manga reader with plugin management using Shizuku. `Apache-2.0`
+  * Tachiyomi has several other active forks. You can find a list of the largest ones here: https://tachiyomi.org/forks
 
 ### Installer & app stores
 
@@ -85,7 +88,8 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [rebootmenu](https://github.com/ryuunoakaihitomi/rebootmenu) - Lock the screen or open the power menu using shortcuts. Useful if your power button is broken. `MIT`
 * [ScreenOff](https://github.com/WuDi-ZhanShen/ScreenOff) - Turn off your Android's screen without entering standby/sleep mode `Proprietary`
 * [SecondScreen](https://play.google.com/store/apps/details?id=com.farmerbb.secondscreen.free) - Better screen mirroring for Android devices `Apache-2.0` [(Source code)](https://github.com/farmerbb/SecondScreen)
-* [WiFiList](https://play.google.com/store/apps/details?id=tk.zwander.wifilist&hl=gsw&gl=US) `Paid` 💰 - View your saved WiFi passwords on Android 11 and later without root `Proprietary` [(Source code)](https://github.com/zacharee/WiFiList)
+* [SwiftBackup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup) `IAP` 💰 - Swift Backup can backup your important data in minutes `Proprietary`
+* [WiFiList](https://play.google.com/store/apps/details?id=tk.zwander.wifilist) `Paid` 💰 - View your saved WiFi passwords on Android 11 and later without root `Proprietary` [(Source code)](https://github.com/zacharee/WiFiList)
 
 ### Software management
 
@@ -96,6 +100,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [FreezeYou](https://play.google.com/store/apps/details?id=cf.playhi.freezeyou) - Improve your device's speed and battery life by freezing crappy software manually or semi-automatically `Apache-2.0` [(Source code)](https://github.com/FreezeYou/FreezeYou)
 * [Hail](https://f-droid.org/packages/com.aistra.hail/) Freeze, hide, or disable any app. Create and organize app groups that can be freezed with one-click.  - `GPL-3.0` [(Source code)](https://github.com/aistra0528/Hail)
 * [Ice Box](https://play.google.com/store/apps/details?id=com.catchingnow.icebox) `IAP` 💰 - Freeze or hide apps using Shizuku `Proprietary`
+* [Inure App Manager](https://play.google.com/store/apps/details?id=app.simple.inure) `15-day trial` `Paid` 💰 - Android app manager for both rooted and non-rooted devices `GPL-3.0` [(Source code)](https://github.com/Hamza417/Inure)
 * [Island](https://play.google.com/store/apps/details?id=com.oasisfeng.island) - Isolate and clone apps for privacy protection and parallel running `Apache-2.0` [(Source code)](https://github.com/oasisfeng/island)
 * [Package Manager](https://play.google.com/store/apps/details?id=com.smartpack.packagemanager) - A highly powerful app to manage both system and user apps `GPL-3.0` [(Source code)](https://github.com/SmartPack/PackageManager)
 
@@ -114,6 +119,23 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [AppLock](https://github.com/Mufanc/AppLock) - Prevent apps from being killed by side slide or one-click cleanup on MIUI 12+  `GPL-3.0` 
 * [FiveGSwitcher](https://play.google.com/store/apps/details?id=com.ysy.switcherfiveg) - 5G shortcut switch for MIUI `GPL-3.0` - [(Source code)](https://github.com/ysy950803/FiveGSwitcher)
 * [Mi-FreeForm](https://github.com/sunshine0523/Mi-FreeForm) - Display most apps in the form of freeform on MIUI `GPL-3.0` 
+
+
+## Rish shell
+`rish` is an Android executable (not an app) for interacting with a shell that runs on a high-elevated daemon process. 
+For example, if Shizuku was launched using ADB privileges, then `rish` will also provide a shell that maintains ADB privileges.
+
+To set up `rish`, open Shizuku, navigate to 'Use Shizuku in terminal apps', and follow the setup instructions. Please note that you need a basic understanding of shells, terminals, and essential commands to use this efficiently.
+
+After `rish` is set up, you can use it together with any apps that support calling any shell script or executable, even if the app doesn't support Shizuku itself.
+> **Note**: Because `rish`'s location is not in `$PATH`, you may need to manually specify the path to the executable to launch it. If it is located in your current working directory, use `./rish` to launch it.
+
+**Usage examples:**
+* Open an interactive ADB shell using a terminal emulator like **Termux** directly on your device
+* Trigger high-privilege ADB shell commands using automation apps like **Tasker** automatically in the background
+  * Example: Command `rish -c 'reboot'` would reboot the device using Shizuku via the shell
+
+The official rish documentation is available here: https://github.com/RikkaApps/Shizuku-API/blob/master/rish/README.md
 
 _________
 
@@ -136,6 +158,7 @@ _________
 - `IAP` 💰 - Contains in-app-purchases
 - `Ads` - Contains ads
 - `Proprietary` - Missing license or closed-source software
+- `n-day trial` - Payment required after `n` days
 
 --------------------
 
