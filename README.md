@@ -130,6 +130,13 @@ To set up `rish`, open Shizuku, navigate to 'Use Shizuku in terminal apps', and 
 After `rish` is set up, you can use it together with any apps that support calling any shell script or executable, even if the app doesn't support Shizuku itself.
 > **Note**: Because `rish`'s location is not in `$PATH`, you may need to manually specify the path to the executable to launch it. If it is located in your current working directory, use `./rish` to launch it.
 
+**Syntax:**
+* `rish`: Launch the default interactive shell (uses /system/bin/sh)
+* `rish exec /path/to/custom/shell`: Launch custom/alternative interactive shell
+* `rish -c 'whoami'`: Execute shell command and exit once completed
+* `echo 'whoami' | rish`: Read shell command from stdin, execute it, and exit once completed
+> **Note**: `whoami` is used as an example and would return the name of the current shell user.
+
 **Usage examples:**
 * Open an interactive ADB shell using a terminal emulator like **Termux** directly on your device
 * Trigger high-privilege ADB shell commands using automation apps like **Tasker** automatically in the background
