@@ -85,6 +85,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [IzzyOnDroid](https://gitlab.com/sunilpaulmathew/izzyondroid) - An unofficial client for IzzyOnDroid F-Droid Repository `GPL-3.0`
 * [SAI](https://play.google.com/store/apps/details?id=com.aefyr.sai) - Android split APKs installer `GPL-3.0` [(Source code)](https://github.com/Aefyr/SAI)
 * [skydroid](https://github.com/redsolver/skydroid) - A decentralized domain-based App Store for Android `GPL-3.0`
+* [InstallerX](https://github.com/iamr0s/InstallerX/tree/v1.7) - A modern and functional Android app installer. It is possible to replace the standard installer.
 
 ### Miscellaneous
 
