@@ -66,6 +66,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [AndroidLowLevelDetector](https://play.google.com/store/apps/details?id=net.imknown.android.forefrontinfo) - Detect Treble, GSI, Mainline, APEX, system-as-root(SAR), A/B, etc. `Apache-2.0` [(Source code)](https://github.com/imknown/AndroidLowLevelDetector)
 * [CurrentActivity](https://github.com/Omico/CurrentActivity) - A current activity monitor `GPL-3.0`
 * [LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps in your device. Uses Shizuku to determine the install source of other apps. `Apache-2.0`
+* [LogFox](https://github.com/F0x1d/LogFox) - Yet another logcat reader for Android  `GPL-3.0`
 * [Logra](https://github.com/wingio/Logra) - Material You logcat viewer for Android `GPL-2.0` 
 * [RootActivityLauncher](https://play.google.com/store/apps/details?id=tk.zwander.rootactivitylauncher&hl=en&gl=US) `Paid` 💰 - Launch/interact with (un)exported activities, services, and receivers. Supports Shizuku alongside root. `Proprietary` [(Source code)](https://github.com/zacharee/RootActivityLauncher)
 * [TakoStats](https://play.google.com/store/apps/details?id=rikka.fpsmonitor) `IAP` 💰 - FPS and performance overlay with detailed realtime system information `Proprietary`
