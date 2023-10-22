@@ -30,6 +30,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 - [Development libraries](#development-libraries)
   - [Core](#core)
   - [Power](#power)
+- [Similar projects](#similar-projects)
 - [Annotations](#annotations)
 - [License](#license)
 
@@ -175,6 +176,13 @@ _________
 ### Power
 
 * [PowerAct](https://github.com/ryuunoakaihitomi/PowerAct) - An Android library that can manipulate power-related actions with just few lines of code `Apache-2.0`
+
+
+--------------------
+
+## Similar projects
+
+* [Dhizuku](https://github.com/iamr0s/Dhizuku) - Shizuku-inspired app that allows sharing DeviceOwner permissions to third-party apps `GPL-3.0`
 
 --------------------
 
