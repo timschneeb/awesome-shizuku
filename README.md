@@ -96,7 +96,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 
 ### Miscellaneous
 
-* [Ice-Box]([https://github.com/basti564/Oculess](https://github.com/heruoxin/Ice-Box-Docs/blob/master/Active%20with%20Shizuku%20ManagerManager.md))
+* [Ice-Box](https://github.com/heruoxin/Ice-Box-Docs/blob/master/Active%20with%20Shizuku%20ManagerManager.md)
 * [Amarok-Hider](https://apt.izzysoft.de/fdroid/index/apk/deltazero.amarok.foss) - Amarok: Hide your private Files and Android APPs with just one click. `Apache-2.0` [(Source code)](https://github.com/deltazefiro/Amarok-Hider)
 * [Anywhere](https://github.com/zhaobozhen/Anywhere-/) - An activity and shell shortcut folder `Apache-2.0`
 * [aShell](https://gitlab.com/sunilpaulmathew/ashell) - A local ADB shell for Shizuku powered android devices `GPL-3.0`
