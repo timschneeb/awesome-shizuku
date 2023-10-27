@@ -92,9 +92,11 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [MT Manager](https://mt2.cn) - Split-screen file manager. Can install APKs using Shizuku `Proprietary`
 * [SAI](https://play.google.com/store/apps/details?id=com.aefyr.sai) - Android split APKs installer `GPL-3.0` [(Source code)](https://github.com/Aefyr/SAI)
 * [skydroid](https://github.com/redsolver/skydroid) - A decentralized domain-based App Store for Android `GPL-3.0`
+* ~~[App Manager](https://muntashirakon.github.io/AppManager/en/#toc:subsec:faq:shizuku-support)~~
 
 ### Miscellaneous
 
+* [Ice-Box]([https://github.com/basti564/Oculess](https://github.com/heruoxin/Ice-Box-Docs/blob/master/Active%20with%20Shizuku%20ManagerManager.md))
 * [Amarok-Hider](https://apt.izzysoft.de/fdroid/index/apk/deltazero.amarok.foss) - Amarok: Hide your private Files and Android APPs with just one click. `Apache-2.0` [(Source code)](https://github.com/deltazefiro/Amarok-Hider)
 * [Anywhere](https://github.com/zhaobozhen/Anywhere-/) - An activity and shell shortcut folder `Apache-2.0`
 * [aShell](https://gitlab.com/sunilpaulmathew/ashell) - A local ADB shell for Shizuku powered android devices `GPL-3.0`
