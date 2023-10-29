@@ -128,6 +128,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 
 #### Google Pixel
 * [pixel-volte-patch](https://github.com/kyujin-cho/pixel-volte-patch/blob/main/README.en.md) - Enable VoLTE on Pixel 6 & 7 with LG U+ `GPL-3.0`
+* [Smartspacer](https://github.com/KieronQuinn/Smartspacer) - Customizable widget, can upgrade the built-in 'At a glance' widget on Pixel devices using Shizuku `GPL-3.0`
 
 #### Samsung OneUI
 
