@@ -83,7 +83,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
   * Tachiyomi has several other active forks. You can find a list of the largest ones here: https://tachiyomi.org/forks
 
 ### File management
-* [FV File Manager](https://play.google.com/store/apps/details?id=com.folderv.file) - File manager to [access Android/data and Android/obb](http://folderv.com/2023/11/24/access-Android-data-and-Android-obb-on-Android-14/) -
+* [FV File Manager](https://play.google.com/store/apps/details?id=com.folderv.file) - File manager to [access Android/data and Android/obb](http://folderv.com/2023/11/24/access-Android-data-and-Android-obb-on-Android-14/) `Proprietary`
 
 ### Installer & app stores
 
