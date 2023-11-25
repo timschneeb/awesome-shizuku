@@ -81,6 +81,9 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Manga reader with plugin management using Shizuku. `Apache-2.0`
   * Tachiyomi has several other active forks. You can find a list of the largest ones here: https://tachiyomi.org/forks
 
+### File mananger
+* [FV File Manager](https://play.google.com/store/apps/details?id=com.folderv.file) File manager to access Android/data and Android obb. http://folderv.com/2023/11/24/access-Android-data-and-Android-obb-on-Android-14/
+
 ### Installer & app stores
 
 * [AuroraStore](https://f-droid.org/en/packages/com.aurora.store/) - An open-source alternative to Google Play Store with privacy and modern design `GPL-3.0` [(Source code)](https://gitlab.com/AuroraOSS/AuroraStore)
