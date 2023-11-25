@@ -19,6 +19,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
   - [Customization](#customization)
   - [Development utilities](#development-utilities)
   - [Entertainment](#entertainment)
+  - [File management](#file-management)
   - [Installer & app stores](#installer--app-stores)
   - [Miscellaneous](#miscellaneous)
   - [Software management](#software-management)
@@ -80,6 +81,9 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [Aniyomi](https://github.com/jmir1/aniyomi) - Tachiyomi fork with anime support and plugin management using Shizuku. `Apache-2.0`
 * [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Manga reader with plugin management using Shizuku. `Apache-2.0`
   * Tachiyomi has several other active forks. You can find a list of the largest ones here: https://tachiyomi.org/forks
+
+### File management
+* [FV File Manager](https://play.google.com/store/apps/details?id=com.folderv.file) - File manager to [access Android/data and Android/obb](http://folderv.com/2023/11/24/access-Android-data-and-Android-obb-on-Android-14/) -
 
 ### Installer & app stores
 
