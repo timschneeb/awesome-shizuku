@@ -107,7 +107,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [Lemmy Redirect](https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.lemmyredirect) - A simple app for automatically launching fediverse links in your preferred Lemmy client. `MIT` [(Source code)](https://github.com/zacharee/MastodonRedirect)
 * [LSPatch](https://github.com/LSPosed/LSPatch) - A non-root Xposed framework extending from LSPosed `GPL-3.0`
 * [Mastodon Redirect](https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.mastodonredirect) - A simple app for automatically launching fediverse links in your preferred Mastodon client. `MIT` [(Source code)](https://github.com/zacharee/MastodonRedirect)
-* [RealMouse](https://play.google.com/store/apps/details?id=com.redlee90.realmouse) - Control mouse using virtual touchpad. Designed for secondary displays. `Proprietary`
+* [RealMouse](https://play.google.com/store/apps/details?id=com.redlee90.realmouse) - Control the mouse using a virtual touchpad. Designed for secondary displays. `Proprietary`
 * [rebootmenu](https://github.com/ryuunoakaihitomi/rebootmenu) - Lock the screen or open the power menu using shortcuts. Useful if your power button is broken. `MIT`
 * [ScreenOff](https://github.com/WuDi-ZhanShen/ScreenOff) - Turn off your Android's screen without entering standby/sleep mode `Proprietary`
 * [SDMaid-SE](https://play.google.com/store/apps/details?id=eu.darken.sdmse) - SD Maid 2/SE is Android's most thorough cleaning tool `GPL-3.0` [(Source code)](https://github.com/d4rken-org/sdmaid-se)
@@ -122,7 +122,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [Canta](https://github.com/samolego/Canta) - Uninstall any app without root `LGPL-3.0`
 * [DisabledLauncher](https://github.com/voruti/DisabledLauncher) - Android app that disables unused apps, while still allowing convenient access to them `MIT`
 * [FreezeYou](https://f-droid.org/packages/cf.playhi.freezeyou/) - Improve your device's speed and battery life by freezing crappy software manually or semi-automatically `Apache-2.0` [(Source code)](https://github.com/FreezeYou/FreezeYou)
-* [Hail](https://f-droid.org/packages/com.aistra.hail/) Freeze, hide or disable any app. Create and organize app groups that can be frozen with one-click.  - `GPL-3.0` [(Source code)](https://github.com/aistra0528/Hail)
+* [Hail](https://f-droid.org/packages/com.aistra.hail/) Freeze, hide or disable any app. Create and organize app groups that can be frozen with one click.  - `GPL-3.0` [(Source code)](https://github.com/aistra0528/Hail)
 * [Ice Box](https://play.google.com/store/apps/details?id=com.catchingnow.icebox) `IAP` 💰 - Freeze or hide apps using Shizuku `Proprietary`
 * [Inure App Manager](https://play.google.com/store/apps/details?id=app.simple.inure) `15-day trial` `Paid` 💰 - Android app manager for both rooted and non-rooted devices `GPL-3.0` [(Source code)](https://github.com/Hamza417/Inure)
 * [Island](https://play.google.com/store/apps/details?id=com.oasisfeng.island) - Isolate and clone apps for privacy protection and parallel running `Apache-2.0` [(Source code)](https://github.com/oasisfeng/island)
@@ -153,14 +153,16 @@ For example, if Shizuku was launched using ADB privileges, then `rish` will also
 To set up `rish`, open Shizuku, navigate to 'Use Shizuku in terminal apps', and follow the setup instructions. Please note that you need a basic understanding of shells, terminals, and essential commands to use this efficiently.
 
 After `rish` is set up, you can use it together with any apps that support calling any shell script or executable, even if the app doesn't support Shizuku itself.
-> **Note**: Because `rish`'s location is not in `$PATH`, you may need to manually specify the path to the executable to launch it. If it is located in your current working directory, use `./rish` to launch it.
+> [!NOTE] 
+> Because `rish`'s location is not in `$PATH`, you may need to specify the path to the executable to launch it manually. If it is located in your current working directory, use `./rish` to launch it.
 
 **Syntax:**
 * `rish`: Launch the default interactive shell (uses /system/bin/sh)
 * `rish exec /path/to/custom/shell`: Launch custom/alternative interactive shell
 * `rish -c 'whoami'`: Execute shell command and exit once completed
 * `echo 'whoami' | rish`: Read shell command from stdin, execute it, and exit once completed
-> **Note**: `whoami` is used as an example and would return the name of the current shell user.
+> [!NOTE]
+> `whoami` is used as an example and would return the name of the current shell user.
 
 **Usage examples:**
 * Open an interactive ADB shell using a terminal emulator like **Termux** directly on your device
@@ -180,7 +182,7 @@ _________
 
 ### Power
 
-* [PowerAct](https://github.com/ryuunoakaihitomi/PowerAct) - An Android library that can manipulate power-related actions with just few lines of code `Apache-2.0`
+* [PowerAct](https://github.com/ryuunoakaihitomi/PowerAct) - An Android library that can manipulate power-related actions with just a few lines of code `Apache-2.0`
 
 
 --------------------
