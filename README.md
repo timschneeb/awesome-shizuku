@@ -84,6 +84,8 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 
 ### File management
 * [FV File Manager](https://play.google.com/store/apps/details?id=com.folderv.file) - File manager to [access Android/data and Android/obb](http://folderv.com/2023/11/24/access-Android-data-and-Android-obb-on-Android-14/) `Proprietary`
+* [MT Manager](https://mt2.cn) - Split-screen file manager. Can install APKs and access Android/data and Android/obb using Shizuku `Proprietary`
+* [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver) `IAP` 💰 - Archive management program. Supports editing files using Root/Shizuku. `Proprietary`
 
 ### Installer & app stores
 
@@ -93,7 +95,6 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [ffupdater](https://f-droid.org/packages/de.marmaro.krt.ffupdater/) - FFUpdater: Updater for privacy-friendly browser `GPL-3.0` [(Source code)](https://github.com/Tobi823/ffupdater)
 * [InstallerX](https://github.com/iamr0s/InstallerX) - A modern and functional Android app installer. It is possible to replace the standard installer. (Chinese) `GPL-3.0`
 * [IzzyOnDroid](https://gitlab.com/sunilpaulmathew/izzyondroid) - An unofficial client for IzzyOnDroid F-Droid Repository `GPL-3.0`
-* [MT Manager](https://mt2.cn) - Split-screen file manager. Can install APKs using Shizuku `Proprietary`
 * [SAI](https://play.google.com/store/apps/details?id=com.aefyr.sai) - Android split APKs installer `GPL-3.0` [(Source code)](https://github.com/Aefyr/SAI)
 * [skydroid](https://github.com/redsolver/skydroid) - A decentralized domain-based App Store for Android `GPL-3.0`
 
