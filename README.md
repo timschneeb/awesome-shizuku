@@ -167,6 +167,7 @@ For the sake of completeness, these projects are linked despite being inaccessib
 
 * [AccessibilityManager](https://github.com/WuDi-ZhanShen/AccessibilityManager) - Replacement for Android's Accessibility settings `No license`
 * [AutoCheckinPlugin](https://github.com/MartinKayJr/AutoCheckinPlugin) - WeChat automatic check-in `No license`
+* [AutoSkip](https://github.com/xjunz/AutoSkip) - Skip startup advertisements in some apps `Apache-2.0`
 * [FabricateOverlay](https://github.com/zacharee/FabricateOverlay) - (Deprecated) Manage fabricated overlays on Android 12.0; Android 12L breaks this app. `No license`
 * [gkd](https://github.com/gkd-kit/gkd) - Automation and tweaks for Chinese chat apps `GPL-3.0`
 * [hap-viewer-android](https://github.com/westinyang/hap-viewer-android) - Viewer for HarmonyOS application installation packages `Apache-2.0`
