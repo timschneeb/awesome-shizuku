@@ -28,6 +28,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
     - [Google Pixel](#google-pixel)
     - [Samsung OneUI](#samsung-oneui)
     - [MIUI](#miui)
+  - [Uncategorized](#uncategorized)
 - [Rish shell](#rish-shell)
 - [Development libraries](#development-libraries)
   - [Core](#core)
@@ -154,6 +155,16 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [FiveGSwitcher](https://play.google.com/store/apps/details?id=com.ysy.switcherfiveg) - 5G shortcut switch for MIUI `GPL-3.0` - [(Source code)](https://github.com/ysy950803/FiveGSwitcher)
 * [Mi-FreeForm](https://github.com/sunshine0523/Mi-FreeForm) - Display most apps in the form of freeform on MIUI `GPL-3.0` 
 
+### Uncategorized
+All projects listed in this section have either:
+* a non-English landing page or no documentation at all,
+* or do not provide any APK download links and need to be compiled manually from the source code.
+
+For the sake of completeness, these projects are linked despite being inaccessible to some people.
+
+* [AccessibilityManager](https://github.com/WuDi-ZhanShen/AccessibilityManager) - Replacement for Android's Accessibility settings `No license`
+* [ShizukuRunner](https://github.com/WuDi-ZhanShen/ShizukuRunner) - 50KB Android app to run any command via Shizuku `No license`
+* [XAutoDaily](https://github.com/LuckyPray/XAutoDaily) - A fully automatic check-in module for QQ `GPL-3.0`
 
 ## Rish shell
 `rish` is an Android executable (not an app) for interacting with a shell that runs on a high-elevated daemon process. 
