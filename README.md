@@ -165,6 +165,7 @@ All projects listed in this section have either:
 For the sake of completeness, these projects are linked despite being inaccessible to some people.
 
 * [AccessibilityManager](https://github.com/WuDi-ZhanShen/AccessibilityManager) - Replacement for Android's Accessibility settings `No license`
+* [gkd](https://github.com/gkd-kit/gkd) - Automation and tweaks for Chinese chat apps `GPL-3.0`
 * [ShizukuRunner](https://github.com/WuDi-ZhanShen/ShizukuRunner) - 50KB Android app to run any command via Shizuku `No license`
 * [XAutoDaily](https://github.com/LuckyPray/XAutoDaily) - A fully automatic check-in module for QQ `GPL-3.0`
 
