@@ -48,7 +48,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 
 ### Automation
 
-* [PhoneProfilesPlus](https://github.com/henrichg/PhoneProfilesPlus) - Allows automatic or with one-click configuration of your device for specific life situations `Apache-2.0`
+* [PhoneProfilesPlus](https://github.com/henrichg/PhoneProfilesPlus) - Allows automatic or one-click configuration of your device for specific life situations `Apache-2.0`
 
 ### Communication
 
@@ -68,7 +68,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [NoPopping](https://play.google.com/store/apps/details?id=rikka.nopeeking) `IAP` 💰 - Auto Do-Not-Disturb mode `Proprietary`
 * [Repainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme) `IAP` 💰 - Install custom Material You designs on your device `Proprietary`
 * [System UI Tuner](https://github.com/zacharee/Tweaker) - View and modify hidden settings on Android devices `MIT`
-* [TapTap](https://github.com/KieronQuinn/TapTap) - Port of the double tap on back of device feature from Android 12 to any Android 7.0+ device `GPL-3.0`
+* [TapTap](https://github.com/KieronQuinn/TapTap) - Port of the double tap on the back of the device feature from Android 12 to any Android 7.0+ device `GPL-3.0`
 
 ### Development utilities
 
@@ -76,12 +76,12 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [AndroidLowLevelDetector](https://play.google.com/store/apps/details?id=net.imknown.android.forefrontinfo) - Detect Treble, GSI, Mainline, APEX, system-as-root(SAR), A/B, etc. `Apache-2.0` [(Source code)](https://github.com/imknown/AndroidLowLevelDetector)
 * [Cosmic-IDE](https://github.com/Cosmic-Ide/Cosmic-IDE) IDE for JVM development. Uses Shizuku for an embedded shell - `GPL-3.0`
 * [CurrentActivity](https://github.com/Omico/CurrentActivity) - A current activity monitor `GPL-3.0`
-* [LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps in your device. Uses Shizuku to determine the install source of other apps. `Apache-2.0`
+* [LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps on your device. Uses Shizuku to determine the install source of other apps. `Apache-2.0`
 * [LogFox](https://github.com/F0x1d/LogFox) - Yet another logcat reader for Android  `GPL-3.0`
 * [Logra](https://github.com/wingio/Logra) - Material You logcat viewer for Android `GPL-2.0` 
 * [RootActivityLauncher](https://play.google.com/store/apps/details?id=tk.zwander.rootactivitylauncher&hl=en&gl=US) `Paid` 💰 - Launch/interact with (un)exported activities, services, and receivers. Supports Shizuku alongside root. `Proprietary` [(Source code)](https://github.com/zacharee/RootActivityLauncher)
 * [SensorsOff](https://github.com/LinerSRT/SensorsOff) - Enable/Disable device sensors via quick settings `Apache-2.0`
-* [TakoStats](https://play.google.com/store/apps/details?id=rikka.fpsmonitor) `IAP` 💰 - FPS and performance overlay with detailed realtime system information `Proprietary`
+* [TakoStats](https://play.google.com/store/apps/details?id=rikka.fpsmonitor) `IAP` 💰 - FPS and performance overlay with detailed real-time system information `Proprietary`
 
 ### Entertainment
 
@@ -206,7 +206,7 @@ _________
 ### Core
 
 * [Shizuku](https://github.com/RikkaApps/Shizuku) - Shizuku system server, API, and app `Apache-2.0` 
-* [Shizuku-API](https://github.com/RikkaApps/Shizuku-API) - Developer documentation for Shizuku and Sui including examples `Apache-2.0` 
+* [Shizuku-API](https://github.com/RikkaApps/Shizuku-API) - Developer documentation for Shizuku and Sui, including examples `Apache-2.0` 
 
 ### Power
 
