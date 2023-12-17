@@ -97,7 +97,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 ### Installer & app stores
 
 * [AuroraStore](https://f-droid.org/en/packages/com.aurora.store/) - An open-source alternative to Google Play Store with privacy and modern design `GPL-3.0` [(Source code)](https://gitlab.com/AuroraOSS/AuroraStore)
-* [Droid-ify](https://f-droid.org/packages/com.looker.droidify) - Material F-Droid client `GPL-3.0` [(Source code)](https://github.com/Iamlooker/Droid-ify)
+* [Droid-ify](https://f-droid.org/packages/com.looker.droidify) - Material F-Droid client `GPL-3.0` [(Source code)](https://github.com/Droid-ify/client)
 * [fdroid_shizuku_privileged_extension](https://depau.github.io/fdroid_shizuku_privileged_extension/fdroid/repo/) - F-Droid Privilege Extension that works with Shizuku `Apache-2.0` [(Source code)](https://github.com/depau/fdroid_shizuku_privileged_extension)
 * [ffupdater](https://f-droid.org/packages/de.marmaro.krt.ffupdater/) - FFUpdater: Updater for privacy-friendly browser `GPL-3.0` [(Source code)](https://github.com/Tobi823/ffupdater)
 * [InstallerX](https://github.com/iamr0s/InstallerX) - A modern and functional Android app installer. It is possible to replace the standard installer. (Chinese) `GPL-3.0`
