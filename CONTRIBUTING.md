@@ -13,6 +13,11 @@ Please try to preserve the following format:
     - `Paid` 💰 - Paid application
     - `IAP` 💰 - Contains in-app-purchases
     - `Ads` - Contains ads
+- To keep the main list clean, please put projects that do not meet the following requirements into [UNLISTED.md](pages/UNLISTED.md) instead of the main list:
+  - Project must have an English landing page, readme, or documentation
+  - Project must not be deprecated by the developer
+  - Project must provide some kind of download link for the app (APK file, Play Store, F-Droid, ...)
+
 
 
 Pushing your changes:

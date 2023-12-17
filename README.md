@@ -28,12 +28,12 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
     - [Google Pixel](#google-pixel)
     - [Samsung OneUI](#samsung-oneui)
     - [MIUI](#miui)
-  - [Uncategorized](#uncategorized)
-- [Rish shell](#rish-shell)
+  - [Unlisted apps](#unlisted-apps)
 - [Development libraries](#development-libraries)
   - [Core](#core)
   - [Power](#power)
 - [Similar projects](#similar-projects)
+- [Rish shell](#rish-shell)
 - [Annotations](#annotations)
 - [License](#license)
 
@@ -157,49 +157,10 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [FiveGSwitcher](https://play.google.com/store/apps/details?id=com.ysy.switcherfiveg) - 5G shortcut switch for MIUI `GPL-3.0` - [(Source code)](https://github.com/ysy950803/FiveGSwitcher)
 * [Mi-FreeForm](https://github.com/sunshine0523/Mi-FreeForm) - Display most apps in the form of freeform on MIUI `GPL-3.0` 
 
-### Uncategorized
-All projects listed in this section have either:
-* a non-English landing page or no documentation at all,
-* or are deprecated,
-* or do not provide any APK download links and need to be compiled manually from the source code.
+### Unlisted apps
+To keep the main list clean, all apps that do not meet certain requirements are stored on a separate page: [UNLISTED.md](pages/UNLISTED.md)
 
-For the sake of completeness, these projects are linked despite being inaccessible to some people.
-
-* [AccessibilityManager](https://github.com/WuDi-ZhanShen/AccessibilityManager) - Replacement for Android's Accessibility settings `No license`
-* [AutoCheckinPlugin](https://github.com/MartinKayJr/AutoCheckinPlugin) - WeChat automatic check-in `No license`
-* [AutoSkip](https://github.com/xjunz/AutoSkip) - Skip startup advertisements in some apps `Apache-2.0`
-* [FabricateOverlay](https://github.com/zacharee/FabricateOverlay) - (Deprecated) Manage fabricated overlays on Android 12.0; Android 12L breaks this app. `No license`
-* [gkd](https://github.com/gkd-kit/gkd) - Automation and tweaks for Chinese chat apps `GPL-3.0`
-* [hap-viewer-android](https://github.com/westinyang/hap-viewer-android) - Viewer for HarmonyOS application installation packages `Apache-2.0`
-* [ShizukuRunner](https://github.com/WuDi-ZhanShen/ShizukuRunner) - 50KB Android app to run any command via Shizuku `No license`
-* [XAutoDaily](https://github.com/LuckyPray/XAutoDaily) - A fully automatic check-in module for QQ `GPL-3.0`
-
-## Rish shell
-`rish` is an Android executable (not an app) for interacting with a shell that runs on a high-elevated daemon process. 
-For example, if Shizuku was launched using ADB privileges, then `rish` will also provide a shell that maintains ADB privileges.
-
-To set up `rish`, open Shizuku, navigate to 'Use Shizuku in terminal apps', and follow the setup instructions. Please note that you need a basic understanding of shells, terminals, and essential commands to use this efficiently.
-
-After `rish` is set up, you can use it together with any apps that support calling any shell script or executable, even if the app doesn't support Shizuku itself.
-> [!NOTE] 
-> Because `rish`'s location is not in `$PATH`, you may need to specify the path to the executable to launch it manually. If it is located in your current working directory, use `./rish` to launch it.
-
-**Syntax:**
-* `rish`: Launch the default interactive shell (uses /system/bin/sh)
-* `rish exec /path/to/custom/shell`: Launch custom/alternative interactive shell
-* `rish -c 'whoami'`: Execute shell command and exit once completed
-* `echo 'whoami' | rish`: Read shell command from stdin, execute it, and exit once completed
-> [!NOTE]
-> `whoami` is used as an example and would return the name of the current shell user.
-
-**Usage examples:**
-* Open an interactive ADB shell using a terminal emulator like **Termux** directly on your device
-* Trigger high-privilege ADB shell commands using automation apps like **Tasker** automatically in the background
-  * Example: Command `rish -c 'reboot'` would reboot the device using Shizuku via the shell
-
-The official rish documentation is available here: https://github.com/RikkaApps/Shizuku-API/blob/master/rish/README.md
-
-_________
+--------------------
 
 ## Development libraries
 
@@ -212,12 +173,43 @@ _________
 
 * [PowerAct](https://github.com/ryuunoakaihitomi/PowerAct) - An Android library that can manipulate power-related actions with just a few lines of code `Apache-2.0`
 
-
 --------------------
 
 ## Similar projects
 
 * [Dhizuku](https://github.com/iamr0s/Dhizuku) - Shizuku-inspired app that allows sharing DeviceOwner permissions to third-party apps `GPL-3.0`
+
+--------------------
+
+## Rish shell
+
+`rish` is an Android executable (not an app) for interacting with a shell that runs on a high-elevated daemon process. 
+For example, if Shizuku was launched using ADB privileges, then `rish` will also provide a shell that maintains ADB privileges.
+
+To set up `rish`, open Shizuku, navigate to 'Use Shizuku in terminal apps', and follow the setup instructions. Please note that you need a basic understanding of shells, terminals, and essential commands to use this efficiently.
+
+After `rish` is set up, you can use it together with any apps that support calling any shell script or executable, even if the app doesn't support Shizuku itself.
+
+> [!NOTE] 
+> Because `rish`'s location is not in `$PATH`, you may need to specify the path to the executable to launch it manually. If it is located in your current working directory, use `./rish` to launch it.
+
+**Syntax:**
+
+* `rish`: Launch the default interactive shell (uses /system/bin/sh)
+* `rish exec /path/to/custom/shell`: Launch custom/alternative interactive shell
+* `rish -c 'whoami'`: Execute shell command and exit once completed
+* `echo 'whoami' | rish`: Read shell command from stdin, execute it, and exit once completed
+
+> [!NOTE]
+> `whoami` is used as an example and would return the name of the current shell user.
+
+**Usage examples:**
+
+* Open an interactive ADB shell using a terminal emulator like **Termux** directly on your device
+* Trigger high-privilege ADB shell commands using automation apps like **Tasker** automatically in the background
+  * Example: Command `rish -c 'reboot'` would reboot the device using Shizuku via the shell
+
+The official rish documentation is available here: https://github.com/RikkaApps/Shizuku-API/blob/master/rish/README.md
 
 --------------------
 
