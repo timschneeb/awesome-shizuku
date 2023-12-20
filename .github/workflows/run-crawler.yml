@@ -40,7 +40,7 @@ jobs:
         SUMMARY_FILE: "list/pages/TODO.md"
       run: |
         python main.py ./list
-        cat pages/TODO.md >> $GITHUB_STEP_SUMMARY
+        cat ./list/pages/TODO.md >> $GITHUB_STEP_SUMMARY
 
     - name: Publish summary changes
       uses: stefanzweifel/git-auto-commit-action@v4
