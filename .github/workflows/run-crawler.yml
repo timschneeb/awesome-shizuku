@@ -47,6 +47,6 @@ jobs:
       with:
         repository: ./list
         commit_message: Update TODO.md
-        file_pattern: ./list/pages/TODO.md
+        file_pattern: pages/TODO.md
 
         
