@@ -9,6 +9,7 @@ All projects in this section have either:
 For the sake of completeness, these projects are linked despite being inaccessible to some people.
 
 * [AccessibilityManager](https://github.com/WuDi-ZhanShen/AccessibilityManager) - Replacement for Android's Accessibility settings `No license`
+* [android_airplane_mode](https://github.com/lalakii/android_airplane_mode) - Airplane mode switch `No license`
 * [Android-Gyroscope-MC](https://github.com/WuDi-ZhanShen/Android-Gyroscope-MC) - Use the gyro sensor as a virtual gamepad. Designed for Minecraft `No license`
 * [AutoCheckinPlugin](https://github.com/MartinKayJr/AutoCheckinPlugin) - WeChat automatic check-in `No license`
 * [AutoJs6](https://github.com/SuperMonster003/AutoJs6) - JavaScript-based automation tool `MPL-2.0`
@@ -27,5 +28,5 @@ For the sake of completeness, these projects are linked despite being inaccessib
 * [ShizukuRunner](https://github.com/WuDi-ZhanShen/ShizukuRunner) - 50KB Android app to run any command via Shizuku `No license`
 * [ThirdpartyPhysicalChannelConfig](https://github.com/takusan23/ThirdpartyPhysicalChannelConfig) - Obtain 4G/5G channel information `Apache-2.0`
 * [XAutoDaily](https://github.com/LuckyPray/XAutoDaily) - A fully automatic check-in module for QQ `GPL-3.0`
-
+* [xperia-camera-button](https://github.com/aaronkh/xperia-camera-button) - Adds the software shutter button back to Sony devices `No license`
  
