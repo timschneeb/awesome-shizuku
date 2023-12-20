@@ -13,6 +13,7 @@ For the sake of completeness, these projects are linked despite being inaccessib
 * [AutoSkip](https://github.com/xjunz/AutoSkip) - Skip startup advertisements in some apps `Apache-2.0`
 * [FabricateOverlay](https://github.com/zacharee/FabricateOverlay) - (Deprecated) Manage fabricated overlays on Android 12.0; Android 12L breaks this app. `No license`
 * [gkd](https://github.com/gkd-kit/gkd) - Automation and tweaks for Chinese chat apps `GPL-3.0`
+* [greentooth](https://github.com/qwerty12/greentooth) - Automatically disable Bluetooth when the last Bluetooth device has been disconnected. Fork of another app called 'greentooth'. `Apache-2.0`
 * [hap-viewer-android](https://github.com/westinyang/hap-viewer-android) - Viewer for HarmonyOS application installation packages `Apache-2.0`
 * [PowerKeyAction](https://github.com/ryuunoakaihitomi/PowerKeyAction) - Simulates hardware power button presses `No license`
 * [ShizukuRunner](https://github.com/WuDi-ZhanShen/ShizukuRunner) - 50KB Android app to run any command via Shizuku `No license`

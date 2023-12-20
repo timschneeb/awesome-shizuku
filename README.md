@@ -48,7 +48,6 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 
 ### Automation
 
-* [greentooth](https://github.com/qwerty12/greentooth) - Automatically disable Bluetooth when the last Bluetooth device has been disconnected `Apache-2.0`
 * [PhoneProfilesPlus](https://github.com/henrichg/PhoneProfilesPlus) - Allows automatic or one-click configuration of your device for specific life situations `Apache-2.0`
 
 ### Communication
