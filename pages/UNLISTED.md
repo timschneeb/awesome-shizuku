@@ -14,6 +14,7 @@ For the sake of completeness, these projects are linked despite being inaccessib
 * [FabricateOverlay](https://github.com/zacharee/FabricateOverlay) - (Deprecated) Manage fabricated overlays on Android 12.0; Android 12L breaks this app. `No license`
 * [gkd](https://github.com/gkd-kit/gkd) - Automation and tweaks for Chinese chat apps `GPL-3.0`
 * [hap-viewer-android](https://github.com/westinyang/hap-viewer-android) - Viewer for HarmonyOS application installation packages `Apache-2.0`
+* [PowerKeyAction](https://github.com/ryuunoakaihitomi/PowerKeyAction) - Simulates hardware power button presses `No license`
 * [ShizukuRunner](https://github.com/WuDi-ZhanShen/ShizukuRunner) - 50KB Android app to run any command via Shizuku `No license`
 * [XAutoDaily](https://github.com/LuckyPray/XAutoDaily) - A fully automatic check-in module for QQ `GPL-3.0`
 
