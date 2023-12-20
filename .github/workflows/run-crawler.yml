@@ -37,18 +37,16 @@ jobs:
     - name: Run crawler
       env: 
         GITHUB_AUTH: ${{ secrets.GH_PAT }}
-        SUMMARY_FILE: "pages/TODO.md"
+        SUMMARY_FILE: "list/pages/TODO.md"
       run: |
-        ls -la
-        sudo apt install tree
-        tree
         python main.py ./list
         cat pages/TODO.md >> $GITHUB_STEP_SUMMARY
 
     - name: Publish summary changes
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
+        repository: ./list
         commit_message: Update TODO.md
-        file_pattern: ./pages/TODO.md
+        file_pattern: ./list/pages/TODO.md
 
         
