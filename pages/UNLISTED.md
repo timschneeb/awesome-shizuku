@@ -9,6 +9,7 @@ All projects in this section have either:
 For the sake of completeness, these projects are linked despite being inaccessible to some people.
 
 * [AccessibilityManager](https://github.com/WuDi-ZhanShen/AccessibilityManager) - Replacement for Android's Accessibility settings `No license`
+* [Android-Gyroscope-MC](https://github.com/WuDi-ZhanShen/Android-Gyroscope-MC) - Use the gyro sensor as a virtual gamepad. Designed for Minecraft `No license`
 * [AutoCheckinPlugin](https://github.com/MartinKayJr/AutoCheckinPlugin) - WeChat automatic check-in `No license`
 * [AutoSkip](https://github.com/xjunz/AutoSkip) - Skip startup advertisements in some apps `Apache-2.0`
 * [FabricateOverlay](https://github.com/zacharee/FabricateOverlay) - (Deprecated) Manage fabricated overlays on Android 12.0; Android 12L breaks this app. `No license`
