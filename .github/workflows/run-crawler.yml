@@ -1,0 +1,51 @@
+name: Run scanner
+
+on:
+  push:
+    branches: [ "master" ]
+  workflow_dispatch:
+  schedule:
+    - cron: '0 17 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        repository: thepbone/app-crawler
+
+    - uses: actions/checkout@v3
+      with:
+        repository: thepbone/awesome-shizuku
+        path: './list'
+    
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.9"
+        
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+    
+    - name: Run crawler
+      env: 
+        GITHUB_AUTH: ${{ secrets.GH_PAT }}
+        SUMMARY_FILE: "pages/TODO.md"
+      run: |
+        python main.py ./list
+        cat pages/TODO.md >> $GITHUB_STEP_SUMMARY
+
+    - name: Publish summary changes
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: Update TODO.md
+        file_pattern: ./pages/TODO.md
+
+        
