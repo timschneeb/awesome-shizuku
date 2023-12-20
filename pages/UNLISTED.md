@@ -19,6 +19,7 @@ For the sake of completeness, these projects are linked despite being inaccessib
 * [Dawn-Desktop-Addons](https://github.com/Dawncraft/Dawn-Desktop-Addons) - Widgets and live wallpapers `GPL-3.0`
 * [DroidCloudSms](https://github.com/xfl12345/DroidCloudSms) - Use your phone as a cloud SMS server `AGPL-3.0`
 * [FabricateOverlay](https://github.com/zacharee/FabricateOverlay) - (Deprecated) Manage fabricated overlays on Android 12.0; Android 12L breaks this app. `No license`
+* [freeform_update](https://github.com/eswd04/freeform_update) - Fork of [Mi-FreeForm](https://github.com/sunshine0523/Mi-FreeForm) `GPL-3.0`
 * [fps-switcher](https://github.com/AlphaBoom/fps_switcher) - Refresh rate quick settings tile for MIUI `No license`
 * [gkd](https://github.com/gkd-kit/gkd) - Automation and tweaks for Chinese chat apps `GPL-3.0`
 * [greentooth](https://github.com/qwerty12/greentooth) - Automatically disable Bluetooth when the last Bluetooth device has been disconnected. Fork of another app called 'greentooth'. `Apache-2.0`
