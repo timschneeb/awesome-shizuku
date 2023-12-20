@@ -39,6 +39,9 @@ jobs:
         GITHUB_AUTH: ${{ secrets.GH_PAT }}
         SUMMARY_FILE: "pages/TODO.md"
       run: |
+        ls -la
+        sudo apt install tree
+        tree
         python main.py ./list
         cat pages/TODO.md >> $GITHUB_STEP_SUMMARY
 
