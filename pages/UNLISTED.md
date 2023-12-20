@@ -21,8 +21,10 @@ For the sake of completeness, these projects are linked despite being inaccessib
 * [gkd](https://github.com/gkd-kit/gkd) - Automation and tweaks for Chinese chat apps `GPL-3.0`
 * [greentooth](https://github.com/qwerty12/greentooth) - Automatically disable Bluetooth when the last Bluetooth device has been disconnected. Fork of another app called 'greentooth'. `Apache-2.0`
 * [hap-viewer-android](https://github.com/westinyang/hap-viewer-android) - Viewer for HarmonyOS application installation packages `Apache-2.0`
+* [majora-adr](https://github.com/yint-tech/majora-adr) - Centralized system for quickly building proxy IP pool clusters `No license`
 * [PowerKeyAction](https://github.com/ryuunoakaihitomi/PowerKeyAction) - Simulates hardware power button presses `No license`
 * [ShizukuRunner](https://github.com/WuDi-ZhanShen/ShizukuRunner) - 50KB Android app to run any command via Shizuku `No license`
+* [ThirdpartyPhysicalChannelConfig](https://github.com/takusan23/ThirdpartyPhysicalChannelConfig) - Obtain 4G/5G channel information `Apache-2.0`
 * [XAutoDaily](https://github.com/LuckyPray/XAutoDaily) - A fully automatic check-in module for QQ `GPL-3.0`
 
  
