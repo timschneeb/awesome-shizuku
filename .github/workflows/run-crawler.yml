@@ -33,6 +33,13 @@ jobs:
     - name: Install dependencies
       run: |
         pip install -r requirements.txt
+
+    - name: Restore cache
+      id: cache-primes-restore
+      uses: actions/cache/restore@v3
+      with:
+        path: cache/
+        key: crawler-cache
     
     - name: Run crawler
       env: 
@@ -41,6 +48,13 @@ jobs:
       run: |
         python main.py ./list
         cat ./list/pages/TODO.md >> $GITHUB_STEP_SUMMARY
+
+    - name: Save cache
+      id: cache-primes-save
+      uses: actions/cache/save@v3
+      with:
+        path: cache/
+        key: crawler-cache
 
     - name: Publish summary changes
       uses: stefanzweifel/git-auto-commit-action@v4
