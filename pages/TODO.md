@@ -18,4 +18,5 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [TermPlux-App](https://github.com/TermPlux/TermPlux-App) - TermPlux致力于让Termux更加好用、易用，提高移动设备生产力。
  * [cjluFree](https://github.com/zxy19/cjluFree) - [XPOSED]量大自由-疫情防控页面快捷方式自动化程序
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
+ * [potential-octo-system](https://github.com/Asilkan5807/potential-octo-system)
  * [uninstallBlackForUserApps](https://github.com/sbmatch/uninstallBlackForUserApps)
