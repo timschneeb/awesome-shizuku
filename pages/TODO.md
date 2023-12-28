@@ -11,7 +11,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [HoleConsoleApp](https://github.com/zmide/HoleConsoleApp) - Hole Console App
  * [HyLi-Connect](https://github.com/A-JiuA/HyLi-Connect)
  * [NoJump](https://github.com/Mufanc/NoJump)
- * [Obtainium](https://github.com/ImranR98/Obtainium) - Get Android App Updates Directly From the Source.
  * [OriginPlan](https://github.com/ItosEO/OriginPlan)
  * [ShizuTools](https://github.com/legendsayantan/ShizuTools) - Tools to modify android system via shizuku.
  * [ShizukuActivityManager](https://github.com/kzaemrio/ShizukuActivityManager) - execute forceStopPackage and clearApplicationUserData by Shizuku and AndroidHiddenApiBypass
