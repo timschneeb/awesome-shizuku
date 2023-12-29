@@ -7,6 +7,7 @@ This document tracks all GitHub repos and F-Droid apps that make use of Shizuku 
 Typically, these apps will be added to the list as soon as possible; however, unfinished apps are usually left in this document until they reach a usable state.
 
  * [ADBMultiApp](https://github.com/Mobsama/ADBMultiApp) - Realme基于shizuku双开工具
+ * [AURORA_Store](https://github.com/elonmasai7/AURORA_Store)
  * [ApkInstaller](https://github.com/Tokyonth/ApkInstaller) - 安卓APK安装软件
  * [HoleConsoleApp](https://github.com/zmide/HoleConsoleApp) - Hole Console App
  * [HyLi-Connect](https://github.com/A-JiuA/HyLi-Connect)
@@ -16,6 +17,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [ShizukuActivityManager](https://github.com/kzaemrio/ShizukuActivityManager) - execute forceStopPackage and clearApplicationUserData by Shizuku and AndroidHiddenApiBypass
  * [ShizukuSamples](https://github.com/LinerSRT/ShizukuSamples)
  * [TermPlux-App](https://github.com/TermPlux/TermPlux-App) - TermPlux致力于让Termux更加好用、易用，提高移动设备生产力。
+ * [TouchToolPro](https://github.com/mr-bogey/TouchToolPro)
  * [cjluFree](https://github.com/zxy19/cjluFree) - [XPOSED]量大自由-疫情防控页面快捷方式自动化程序
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [potential-octo-system](https://github.com/Asilkan5807/potential-octo-system)
