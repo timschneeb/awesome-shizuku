@@ -15,6 +15,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [ShizukuSamples](https://github.com/LinerSRT/ShizukuSamples)
  * [TermPlux-App](https://github.com/TermPlux/TermPlux-App) - TermPlux致力于让Termux更加好用、易用，提高移动设备生产力。
  * [TouchToolPro](https://github.com/mr-bogey/TouchToolPro)
+ * [dualapp-mediastore-compatibility](https://github.com/kaedea/dualapp-mediastore-compatibility) - 安卓双开/分身 MediaStore 兼容性测试。Tuning of Android MediaStore & File IO compatibility issues between HostProfile App and WorkProfile/DualApp/MultiApp.
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [potential-octo-system](https://github.com/Asilkan5807/potential-octo-system)
  * [uninstallBlackForUserApps](https://github.com/sbmatch/uninstallBlackForUserApps)
