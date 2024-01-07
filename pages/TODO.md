@@ -9,7 +9,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [ADBMultiApp](https://github.com/Mobsama/ADBMultiApp) - Realme基于shizuku双开工具
  * [AURORA_Store](https://github.com/elonmasai7/AURORA_Store)
  * [HyLi-Connect](https://github.com/A-JiuA/HyLi-Connect)
- * [NPatch](https://github.com/HSSkyBoy/NPatch)
+ * [NPatch](https://github.com/vaginessa/NPatch)
  * [NoJump](https://github.com/Mufanc/NoJump)
  * [OriginPlan](https://github.com/ItosEO/OriginPlan)
  * [ShizuTools](https://github.com/legendsayantan/ShizuTools) - Tools to modify android system via shizuku.
