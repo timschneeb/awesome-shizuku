@@ -8,7 +8,8 @@ Typically, these apps will be added to the list as soon as possible; however, un
 
  * [ADBMultiApp](https://github.com/Mobsama/ADBMultiApp) - Realme基于shizuku双开工具
  * [AURORA_Store](https://github.com/elonmasai7/AURORA_Store) - Aurora store clone yopu can use it without signing in. It works perfectly well in android 7 to android 12
- * [HyLi-Connect](https://github.com/A-JiuA/HyLi-Connect)
+ * [HyLi-Connect](https://github.com/Lyxot/HyLi-Connect)
+ * [InstallWithOptions](https://github.com/zacharee/InstallWithOptions) - Simple-ish app using Shizuku to install APKs on-device with advanced options
  * [NPatch](https://github.com/vaginessa/NPatch)
  * [NoJump](https://github.com/Mufanc/NoJump)
  * [OriginPlan](https://github.com/ItosEO/OriginPlan)
