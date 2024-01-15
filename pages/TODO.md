@@ -19,6 +19,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [TermPlux-App](https://github.com/TermPlux/TermPlux-App) - TermPlux致力于让Termux更加好用、易用，提高移动设备生产力。
  * [TouchToolPro](https://github.com/mr-bogey/TouchToolPro)
  * [VendettaManager](https://github.com/vendetta-mod/VendettaManager) - Easily install Vendetta on Android
+ * [android-reader](https://github.com/justinrubek/android-reader)
  * [dualapp-mediastore-compatibility](https://github.com/kaedea/dualapp-mediastore-compatibility) - 安卓双开/分身 MediaStore 兼容性测试。Tuning of Android MediaStore & File IO compatibility issues between HostProfile App and WorkProfile/DualApp/MultiApp.
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [potential-octo-system](https://github.com/Asilkan5807/potential-octo-system)
