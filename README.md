@@ -91,8 +91,8 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 ### Entertainment
 
 * [Aniyomi](https://github.com/aniyomiorg/aniyomi) - Tachiyomi fork with anime support and plugin management using Shizuku. `Apache-2.0`
-* [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Manga reader with plugin management using Shizuku. `Apache-2.0`
-  * Tachiyomi has several other active forks. You can find a list of the largest ones here: https://tachiyomi.org/forks/
+* [Mihon](https://github.com/mihonapp/mihon) - Manga reader with plugin management using Shizuku. Independent successor of Tachiyomi. `Apache-2.0`
+  * Mihon/Tachiyomi has several other active forks, including [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) and [TachiyomiAZ](https://github.com/az4521/TachiyomiAZ)
 
 ### File management
 * [FV File Manager](https://play.google.com/store/apps/details?id=com.folderv.file) - File manager to [access Android/data and Android/obb](https://folderv.com/2023/11/24/access-Android-data-and-Android-obb-on-Android-14/) `Proprietary`
