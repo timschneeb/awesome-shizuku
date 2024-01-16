@@ -7,22 +7,16 @@ This document tracks all GitHub repos and F-Droid apps that make use of Shizuku 
 Typically, these apps will be added to the list as soon as possible; however, unfinished apps are usually left in this document until they reach a usable state.
 
  * [ADBMultiApp](https://github.com/Mobsama/ADBMultiApp) - Realme基于shizuku双开工具
- * [AURORA_Store](https://github.com/elonmasai7/AURORA_Store) - Aurora store clone yopu can use it without signing in. It works perfectly well in android 7 to android 12
  * [HyLi-Connect](https://github.com/Lyxot/HyLi-Connect)
  * [InstallWithOptions](https://github.com/zacharee/InstallWithOptions) - Simple-ish app using Shizuku to install APKs on-device with advanced options
- * [NPatch](https://github.com/vaginessa/NPatch)
  * [NoJump](https://github.com/Mufanc/NoJump)
  * [OriginPlan](https://github.com/ItosEO/OriginPlan)
  * [ShizuTools](https://github.com/legendsayantan/ShizuTools) - Tools to modify android system via shizuku.
  * [ShizukuSamples](https://github.com/LinerSRT/ShizukuSamples)
- * [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Manga reader
- * [TachiyomiSY-Fork](https://github.com/Hero-Over/TachiyomiSY-Fork) - just
  * [TermPlux-App](https://github.com/TermPlux/TermPlux-App) - TermPlux致力于让Termux更加好用、易用，提高移动设备生产力。
  * [TouchToolPro](https://github.com/mr-bogey/TouchToolPro)
  * [VendettaManager](https://github.com/vendetta-mod/VendettaManager) - Easily install Vendetta on Android
- * [android-reader](https://github.com/justinrubek/android-reader)
  * [dualapp-mediastore-compatibility](https://github.com/kaedea/dualapp-mediastore-compatibility) - 安卓双开/分身 MediaStore 兼容性测试。Tuning of Android MediaStore & File IO compatibility issues between HostProfile App and WorkProfile/DualApp/MultiApp.
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [potential-octo-system](https://github.com/Asilkan5807/potential-octo-system)
- * [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
  * [uninstallBlackForUserApps](https://github.com/sbmatch/uninstallBlackForUserApps)
