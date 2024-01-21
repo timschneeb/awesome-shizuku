@@ -8,9 +8,11 @@ Typically, these apps will be added to the list as soon as possible; however, un
 
  * [ADBMultiApp](https://github.com/Mobsama/ADBMultiApp) - Realme基于shizuku双开工具
  * [AuroraStore4](https://github.com/Kobold831/AuroraStore4)
+ * [CPadCustomizeTool](https://github.com/Kobold831/CPadCustomizeTool)
  * [HyLi-Connect](https://github.com/Lyxot/HyLi-Connect)
  * [InstallWithOptions](https://github.com/zacharee/InstallWithOptions) - Simple-ish app using Shizuku to install APKs on-device with advanced options
  * [NoJump](https://github.com/Mufanc/NoJump)
+ * [Open-Source-Object-Validation](https://github.com/23522046/Open-Source-Object-Validation)
  * [OriginPlan](https://github.com/ItosEO/OriginPlan)
  * [ShizuTools](https://github.com/legendsayantan/ShizuTools) - Tools to modify android system via shizuku.
  * [ShizukuSamples](https://github.com/LinerSRT/ShizukuSamples)
