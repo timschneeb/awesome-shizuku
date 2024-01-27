@@ -16,6 +16,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [NoJump](https://github.com/Mufanc/NoJump)
  * [Open-Source-Object-Validation](https://github.com/23522046/Open-Source-Object-Validation)
  * [OriginPlan](https://github.com/ItosEO/OriginPlan)
+ * [Screen](https://github.com/nai559/Screen)
  * [ShizuTools](https://github.com/legendsayantan/ShizuTools) - Tools to modify android system via shizuku.
  * [ShizukuSamples](https://github.com/LinerSRT/ShizukuSamples)
  * [TermPlux-App](https://github.com/TermPlux/TermPlux-App) - TermPlux致力于让Termux更加好用、易用，提高移动设备生产力。
@@ -26,4 +27,5 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [get_event](https://github.com/lalakii/get_event) - read /dev/input/event*
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
+ * [tachiyomi](https://github.com/andrewc12/tachiyomi)
  * [uninstallBlackForUserApps](https://github.com/sbmatch/uninstallBlackForUserApps)
