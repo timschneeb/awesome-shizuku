@@ -7,25 +7,17 @@ This document tracks all GitHub repos and F-Droid apps that make use of Shizuku 
 Typically, these apps will be added to the list as soon as possible; however, unfinished apps are usually left in this document until they reach a usable state.
 
  * [ADBMultiApp](https://github.com/Mobsama/ADBMultiApp) - Realme基于shizuku双开工具
- * [AuroraStore4](https://github.com/Kobold831/AuroraStore4)
  * [CPadCustomizeTool](https://github.com/Kobold831/CPadCustomizeTool)
  * [HyLi-Connect](https://github.com/Lyxot/HyLi-Connect)
  * [InstallWithOptions](https://github.com/zacharee/InstallWithOptions) - Simple-ish app using Shizuku to install APKs on-device with advanced options
- * [LOModInstaller](https://github.com/anyabot/LOModInstaller)
  * [MultiLocale](https://github.com/Nightdavisao/MultiLocale) - A simple app that allows you to select multiple languages in your Android device, if the OEM (ahem Xiaomi) doesn't let you.
  * [NoJump](https://github.com/Mufanc/NoJump)
- * [Open-Source-Object-Validation](https://github.com/23522046/Open-Source-Object-Validation)
  * [OriginPlan](https://github.com/ItosEO/OriginPlan)
  * [Screen](https://github.com/nai559/Screen)
  * [ShizuTools](https://github.com/legendsayantan/ShizuTools) - Tools to modify android system via shizuku.
  * [ShizukuSamples](https://github.com/LinerSRT/ShizukuSamples)
  * [TermPlux-App](https://github.com/TermPlux/TermPlux-App) - TermPlux致力于让Termux更加好用、易用，提高移动设备生产力。
  * [TouchToolPro](https://github.com/mr-bogey/TouchToolPro)
- * [VendettaManager](https://github.com/vendetta-mod/VendettaManager) - Easily install Vendetta on Android
- * [dualapp-mediastore-compatibility](https://github.com/kaedea/dualapp-mediastore-compatibility) - 安卓双开/分身 MediaStore 兼容性测试。Tuning of Android MediaStore & File IO compatibility issues between HostProfile App and WorkProfile/DualApp/MultiApp.
- * [ecosed_kit](https://github.com/libecosed/ecosed_kit) - EcosedKit
- * [get_event](https://github.com/lalakii/get_event) - read /dev/input/event*
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
- * [tachiyomi](https://github.com/andrewc12/tachiyomi)
  * [uninstallBlackForUserApps](https://github.com/sbmatch/uninstallBlackForUserApps)
