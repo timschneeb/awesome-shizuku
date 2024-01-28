@@ -18,6 +18,8 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [ShizukuSamples](https://github.com/LinerSRT/ShizukuSamples)
  * [TermPlux-App](https://github.com/TermPlux/TermPlux-App) - TermPlux致力于让Termux更加好用、易用，提高移动设备生产力。
  * [TouchToolPro](https://github.com/mr-bogey/TouchToolPro)
+ * [flutter_ecosed](https://github.com/libecosed/flutter_ecosed) - A relatively abstract Flutter Plugin
+ * [lspatch_android](https://github.com/Prasads13/lspatch_android)
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [uninstallBlackForUserApps](https://github.com/sbmatch/uninstallBlackForUserApps)
