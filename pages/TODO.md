@@ -18,7 +18,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [ShizuTools](https://github.com/legendsayantan/ShizuTools) - Tools to modify android system via shizuku.
  * [ShizukuSamples](https://github.com/LinerSRT/ShizukuSamples)
  * [TermPlux](https://github.com/TermPlux/TermPlux) - TermPlux致力于让Termux更加好用、易用，提高移动设备生产力。
- * [TermPlux-App](https://github.com/TermPlux/TermPlux-App) - TermPlux致力于让Termux更加好用、易用，提高移动设备生产力。
  * [TouchToolPro](https://github.com/mr-bogey/TouchToolPro)
  * [flutter_ecosed](https://github.com/libecosed/flutter_ecosed) - A relatively abstract Flutter Plugin
  * [lspatch_android](https://github.com/Prasads13/lspatch_android)
