@@ -20,6 +20,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [TermPlux](https://github.com/TermPlux/TermPlux) - TermPlux致力于让Termux更加好用、易用，提高移动设备生产力。
  * [TouchToolPro](https://github.com/mr-bogey/TouchToolPro)
  * [Voyage](https://github.com/MiChongs/Voyage)
+ * [aShellYou](https://github.com/DP-Hridayan/aShellYou) - Material You Redesign of aShell app.
  * [flutter_ecosed](https://github.com/libecosed/flutter_ecosed) - A relatively abstract Flutter Plugin
  * [lspatch_android](https://github.com/Prasads13/lspatch_android)
  * [mfmh](https://github.com/sanwan1314/mfmh) - gh repo clone tachiyomiorg/tachiyomi
