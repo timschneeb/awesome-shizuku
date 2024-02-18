@@ -11,7 +11,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Aurora-Store](https://github.com/Katya-Incorporated/Aurora-Store) - About Aurora Store 📺 focused on security, minimalism and usability. Our app store is currently being used to distribute our own apps and the Google Play mirror for isolated download functionality of all apps that are available on the Google Play Market. In the future, it will be used for the possible distribution of builds of Katya ® 👽 Mobile OS.
  * [CPadCustomizeTool](https://github.com/Kobold831/CPadCustomizeTool)
  * [HyLi-Connect](https://github.com/Lyxot/HyLi-Connect)
- * [InstallWithOptions](https://github.com/zacharee/InstallWithOptions) - Simple-ish app using Shizuku to install APKs on-device with advanced options
  * [MultiLocale](https://github.com/Nightdavisao/MultiLocale) - A simple app that allows you to select multiple languages in your Android device, if the OEM (ahem Xiaomi) doesn't let you.
  * [NoJump](https://github.com/Mufanc/NoJump)
  * [OriginPlan](https://github.com/ItosEO/OriginPlan)
