@@ -24,6 +24,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [flutter_ecosed](https://github.com/libecosed/flutter_ecosed) - FlutterEcosed is a Flutter plugin and an advanced Flutter development framework that provides Android platform debugging, plugin development and dashboard functions.
  * [lspatch_android](https://github.com/Prasads13/lspatch_android)
  * [mfmh](https://github.com/sanwan1314/mfmh) - gh repo clone tachiyomiorg/tachiyomi
+ * [nextgenfs](https://github.com/rayshift/nextgenfs) - Shizuku compatible android/data access from Xamarin - AIDL library
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [tachiyomi-archived](https://github.com/sdvina/tachiyomi-archived) - R.I.P.
