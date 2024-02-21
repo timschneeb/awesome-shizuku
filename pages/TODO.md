@@ -8,7 +8,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
 
  * [ADBMultiApp](https://github.com/Mobsama/ADBMultiApp) - Realme基于shizuku双开工具
  * [Android-Show-Taps](https://github.com/k3x1n/Android-Show-Taps) - Show customized taps upon touches. Shizuku required.
- * [Aurora-Store](https://github.com/Katya-Incorporated/Aurora-Store) - About Aurora Store 📺 focused on security, minimalism and usability. Our app store is currently being used to distribute our own apps and the Google Play mirror for isolated download functionality of all apps that are available on the Google Play Market. In the future, it will be used for the possible distribution of builds of Katya ® 👽 Mobile OS.
  * [CPadCustomizeTool](https://github.com/Kobold831/CPadCustomizeTool)
  * [HyLi-Connect](https://github.com/Lyxot/HyLi-Connect)
  * [MultiLocale](https://github.com/Nightdavisao/MultiLocale) - A simple app that allows you to select multiple languages in your Android device, if the OEM (ahem Xiaomi) doesn't let you.
@@ -18,14 +17,10 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [ShizuTools](https://github.com/legendsayantan/ShizuTools) - Tools to modify android system via shizuku.
  * [ShizukuSamples](https://github.com/LinerSRT/ShizukuSamples)
  * [TouchToolPro](https://github.com/mr-bogey/TouchToolPro)
- * [Voyage](https://github.com/MiChongs/Voyage)
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [aShellYou](https://github.com/DP-Hridayan/aShellYou) - Material You Redesign of aShell app.
  * [flutter_ecosed](https://github.com/libecosed/flutter_ecosed) - FlutterEcosed is a Flutter plugin and an advanced Flutter development framework that provides Android platform debugging, plugin development and dashboard functions.
- * [lspatch_android](https://github.com/Prasads13/lspatch_android)
- * [mfmh](https://github.com/sanwan1314/mfmh) - gh repo clone tachiyomiorg/tachiyomi
  * [nextgenfs](https://github.com/rayshift/nextgenfs) - Shizuku compatible android/data access from Xamarin - AIDL library
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
- * [tachiyomi-archived](https://github.com/sdvina/tachiyomi-archived) - R.I.P.
  * [uninstallBlackForUserApps](https://github.com/sbmatch/uninstallBlackForUserApps)
