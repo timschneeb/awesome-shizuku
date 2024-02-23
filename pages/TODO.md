@@ -14,7 +14,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [NoJump](https://github.com/Mufanc/NoJump)
  * [OriginPlan](https://github.com/ItosEO/OriginPlan)
  * [Screen](https://github.com/nai559/Screen)
- * [ShizuTools](https://github.com/legendsayantan/ShizuTools) - Tools to modify android system via shizuku.
  * [ShizukuSamples](https://github.com/LinerSRT/ShizukuSamples)
  * [TouchToolPro](https://github.com/mr-bogey/TouchToolPro)
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
