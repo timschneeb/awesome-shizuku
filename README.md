@@ -32,6 +32,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
   - [Unlisted apps](#unlisted-apps)
 - [Development libraries](#development-libraries)
   - [Core](#core)
+  - [Filesystem](#filesystem)
   - [Power](#power)
 - [Similar projects](#similar-projects)
 - [Rish shell](#rish-shell)
@@ -196,6 +197,9 @@ I'm also using an automated crawler that searches for new projects making use of
 
 * [Shizuku](https://github.com/RikkaApps/Shizuku) - Shizuku system server, API, and app `Apache-2.0` 
 * [Shizuku-API](https://github.com/RikkaApps/Shizuku-API) - Developer documentation for Shizuku and Sui, including examples `Apache-2.0` 
+
+### Filesystem
+* [nextgenfs](https://github.com/rayshift/nextgenfs) -Shizuku compatible android/data access from Xamarin - AIDL library `MIT`
 
 ### Power
 
