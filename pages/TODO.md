@@ -15,6 +15,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Screen](https://github.com/nai559/Screen)
  * [ShizukuSamples](https://github.com/LinerSRT/ShizukuSamples)
  * [TouchToolPro](https://github.com/mr-bogey/TouchToolPro)
+ * [Voyage](https://github.com/MiChongs/Voyage)
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [flutter_ecosed](https://github.com/libecosed/flutter_ecosed) - FlutterEcosed is a Flutter plugin and an advanced Flutter development framework that provides Android platform debugging, plugin development and dashboard functions.
  * [nextgenfs](https://github.com/rayshift/nextgenfs) - Shizuku compatible android/data access from Xamarin - AIDL library
