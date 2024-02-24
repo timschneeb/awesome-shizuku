@@ -7,6 +7,7 @@ This document tracks all GitHub repos and F-Droid apps that make use of Shizuku 
 Typically, these apps will be added to the list as soon as possible; however, unfinished apps are usually left in this document until they reach a usable state.
 
  * [ADBMultiApp](https://github.com/Mobsama/ADBMultiApp) - Realme基于shizuku双开工具
+ * [AndroidOwner](https://github.com/BinTianqi/AndroidOwner) - 使用Device owner管理你的安卓设备。Manage your device with Device owner privilege
  * [CPadCustomizeTool](https://github.com/Kobold831/CPadCustomizeTool)
  * [HyLi-Connect](https://github.com/Lyxot/HyLi-Connect)
  * [MultiLocale](https://github.com/Nightdavisao/MultiLocale) - A simple app that allows you to select multiple languages in your Android device, if the OEM (ahem Xiaomi) doesn't let you.
@@ -17,6 +18,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [TouchToolPro](https://github.com/mr-bogey/TouchToolPro)
  * [Voyage](https://github.com/MiChongs/Voyage)
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
+ * [XPlanForHyper](https://github.com/ItosEO/XPlanForHyper)
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [uninstallBlackForUserApps](https://github.com/sbmatch/uninstallBlackForUserApps)
