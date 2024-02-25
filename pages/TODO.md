@@ -21,6 +21,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [XPlanForHyper](https://github.com/ItosEO/XPlanForHyper)
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
- * [pf-tool](https://github.com/aliernfrog/pf-tool) - ⛰️ Easily import and share Polyfield maps
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
+ * [translatefgo](https://github.com/rayshift/translatefgo) - FGO Translation Project
  * [uninstallBlackForUserApps](https://github.com/sbmatch/uninstallBlackForUserApps)
