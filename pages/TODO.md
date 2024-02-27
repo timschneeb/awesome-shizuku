@@ -8,7 +8,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
 
  * [ADBMultiApp](https://github.com/Mobsama/ADBMultiApp) - Realme基于shizuku双开工具
  * [AIDE-Plus](https://github.com/ZeroAicy/AIDE-Plus) - AIDE+
- * [AndroidOwner](https://github.com/BinTianqi/AndroidOwner) - 使用Device owner管理你的安卓设备。Manage your device with Device owner privilege
  * [CPadCustomizeTool](https://github.com/Kobold831/CPadCustomizeTool)
  * [HyLi-Connect](https://github.com/Lyxot/HyLi-Connect)
  * [MultiLocale](https://github.com/Nightdavisao/MultiLocale) - A simple app that allows you to select multiple languages in your Android device, if the OEM (ahem Xiaomi) doesn't let you.
