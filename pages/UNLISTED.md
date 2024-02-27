@@ -10,6 +10,7 @@ For the sake of completeness, these projects are linked despite being inaccessib
 
 * [AccessibilityManager](https://github.com/WuDi-ZhanShen/AccessibilityManager) - Replacement for Android's Accessibility settings `No license`
 * [ApkInstaller](https://github.com/Tokyonth/ApkInstaller) - APK installer/uninstaller `No license`
+* [AndroidOwner](https://github.com/BinTianqi/AndroidOwner) - Manage your device with Device owner privilege `GPL-3.0`
 * [android_airplane_mode](https://github.com/lalakii/android_airplane_mode) - Airplane mode switch `No license`
 * [Android-Gyroscope-MC](https://github.com/WuDi-ZhanShen/Android-Gyroscope-MC) - Use the gyro sensor as a virtual gamepad. Designed for Minecraft `No license`
 * [AutoCheckinPlugin](https://github.com/MartinKayJr/AutoCheckinPlugin) - WeChat automatic check-in `No license`
