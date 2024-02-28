@@ -15,6 +15,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [OriginPlan](https://github.com/ItosEO/OriginPlan)
  * [Screen](https://github.com/nai559/Screen)
  * [ShizukuSamples](https://github.com/LinerSRT/ShizukuSamples)
+ * [TachiyomiS](https://github.com/Hero-Over/TachiyomiS)
  * [TouchToolPro](https://github.com/mr-bogey/TouchToolPro)
  * [Voyage](https://github.com/MiChongs/Voyage)
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
