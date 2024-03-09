@@ -16,6 +16,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [OriginPlan](https://github.com/ItosEO/OriginPlan)
  * [Screen](https://github.com/nai559/Screen)
  * [ShizukuSamples](https://github.com/LinerSRT/ShizukuSamples)
+ * [SuperToolBox](https://github.com/dudu-Dev0/SuperToolBox)
  * [TachiyomiS](https://github.com/Hero-Over/TachiyomiS)
  * [TouchToolPro](https://github.com/mr-bogey/TouchToolPro)
  * [Voyage](https://github.com/MiChongs/Voyage)
