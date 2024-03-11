@@ -9,7 +9,9 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [ADBMultiApp](https://github.com/Mobsama/ADBMultiApp) - Realme基于shizuku双开工具
  * [AIDE-Plus](https://github.com/ZeroAicy/AIDE-Plus) - AIDE+
  * [Android-FileExplorerDemo](https://github.com/MagicianGuo/Android-FileExplorerDemo) - 能够访问Android/data(obb)目录，已适配Android 5.0 ~ 14。安卓高版本可以使用Shizuku授权。
+ * [Auto.js](https://github.com/TonyJiangWJ/Auto.js)
  * [CPadCustomizeTool](https://github.com/Kobold831/CPadCustomizeTool)
+ * [DiscordModManager](https://github.com/SelfMadeSystem/DiscordModManager) - Easily install discord mods on Android
  * [HyLi-Connect](https://github.com/Lyxot/HyLi-Connect)
  * [MultiLocale](https://github.com/Nightdavisao/MultiLocale) - A simple app that allows you to select multiple languages in your Android device, if the OEM (ahem Xiaomi) doesn't let you.
  * [NoJump](https://github.com/Mufanc/NoJump)
@@ -23,6 +25,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Voyage](https://github.com/MiChongs/Voyage)
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [XPlanForHyper](https://github.com/ItosEO/XPlanForHyper)
+ * [lac-tool](https://github.com/aliernfrog/lac-tool) - 🔧 Easily manage LAC maps, wallpapers and screenshots
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [tachiyomi-backup](https://github.com/gammesB/tachiyomi-backup)
