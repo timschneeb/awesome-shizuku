@@ -13,6 +13,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [CPadCustomizeTool](https://github.com/Kobold831/CPadCustomizeTool)
  * [DiscordModManager](https://github.com/SelfMadeSystem/DiscordModManager) - Easily install discord mods on Android
  * [HyLi-Connect](https://github.com/Lyxot/HyLi-Connect)
+ * [Kapy2003-aniyomi-fork](https://github.com/Kapy2003/Kapy2003-aniyomi-fork)
  * [MultiLocale](https://github.com/Nightdavisao/MultiLocale) - A simple app that allows you to select multiple languages in your Android device, if the OEM (ahem Xiaomi) doesn't let you.
  * [NoJump](https://github.com/Mufanc/NoJump)
  * [OriginPlan](https://github.com/ItosEO/OriginPlan)
