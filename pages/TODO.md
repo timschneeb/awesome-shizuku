@@ -13,6 +13,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Auto.js](https://github.com/TonyJiangWJ/Auto.js)
  * [Better Network Tiles](https://github.com/D3SOX/Better-Network-Tiles-Libre) - Bring back Wi-Fi, mobile data and add even more useful tiles on Android 12+
  * [CPadCustomizeTool](https://github.com/Kobold831/CPadCustomizeTool)
+ * [Cfm_Joy_Manager](https://github.com/rlin1538/Cfm_Joy_Manager)
  * [DiscordModManager](https://github.com/SelfMadeSystem/DiscordModManager) - Easily install discord mods on Android
  * [HyLi-Connect](https://github.com/Lyxot/HyLi-Connect)
  * [Kapy2003-aniyomi-fork](https://github.com/Kapy2003/Kapy2003-aniyomi-fork)
