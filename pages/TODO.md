@@ -32,6 +32,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [XPlanForHyper](https://github.com/ItosEO/XPlanForHyper)
  * [lac-tool](https://github.com/aliernfrog/lac-tool) - 🔧 Easily manage LAC maps, wallpapers and screenshots
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
+ * [paskoocheh-android](https://github.com/ASL-19/paskoocheh-android)
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [tachiyomi-backup](https://github.com/gammesB/tachiyomi-backup)
  * [uninstallBlackForUserApps](https://github.com/sbmatch/uninstallBlackForUserApps)
