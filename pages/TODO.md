@@ -25,6 +25,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [SagerNet](https://github.com/maskedeken/SagerNet)
  * [Screen](https://github.com/nai559/Screen)
  * [ShizukuSamples](https://github.com/LinerSRT/ShizukuSamples)
+ * [SmartspacerPlugins](https://github.com/KieronQuinn/SmartspacerPlugins) - A collection of plugins for Smartspacer
  * [SuperToolBox](https://github.com/dudu-Dev0/SuperToolBox)
  * [TachiyomiS](https://github.com/Hero-Over/TachiyomiS)
  * [TouchToolPro](https://github.com/mr-bogey/TouchToolPro)
