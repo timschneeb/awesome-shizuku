@@ -15,6 +15,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Better Network Tiles](https://github.com/D3SOX/Better-Network-Tiles-Libre) - Bring back Wi-Fi, mobile data and add even more useful tiles on Android 12+
  * [CPadCustomizeTool](https://github.com/Kobold831/CPadCustomizeTool)
  * [Cfm_Joy_Manager](https://github.com/rlin1538/Cfm_Joy_Manager)
+ * [DSU-Sideloader-2](https://github.com/vaginessa/DSU-Sideloader-2)
  * [DiscordModManager](https://github.com/SelfMadeSystem/DiscordModManager) - Easily install discord mods on Android
  * [HyLi-Connect](https://github.com/Lyxot/HyLi-Connect)
  * [Kapy2003-aniyomi-fork](https://github.com/Kapy2003/Kapy2003-aniyomi-fork)
@@ -32,6 +33,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Voyage](https://github.com/MiChongs/Voyage)
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [XPlanForHyper](https://github.com/ItosEO/XPlanForHyper)
+ * [bili-down-out](https://github.com/10miaomiao/bili-down-out) - 哔哩哔哩缓存导出工具
  * [lac-tool](https://github.com/aliernfrog/lac-tool) - 🔧 Easily manage LAC maps, wallpapers and screenshots
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [paskoocheh-android](https://github.com/ASL-19/paskoocheh-android)
