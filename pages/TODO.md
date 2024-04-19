@@ -18,6 +18,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [DSU-Sideloader-2](https://github.com/vaginessa/DSU-Sideloader-2)
  * [DiscordModManager](https://github.com/SelfMadeSystem/DiscordModManager) - Easily install discord mods on Android
  * [DyImage](https://github.com/huaweikai/DyImage) - 用于扫描抖音的沙盒目录，读取表情包信息，并用在其他app
+ * [FunLogCatcher](https://github.com/Hicores/FunLogCatcher) - Logcat日志记录工具,需要shizuku
  * [HyLi-Connect](https://github.com/Lyxot/HyLi-Connect)
  * [Kapy2003-aniyomi-fork](https://github.com/Kapy2003/Kapy2003-aniyomi-fork)
  * [MultiLocale](https://github.com/Nightdavisao/MultiLocale) - A simple app that allows you to select multiple languages in your Android device, if the OEM (ahem Xiaomi) doesn't let you.
