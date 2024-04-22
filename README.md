@@ -107,6 +107,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [AirData UAV](https://play.google.com/store/apps/details?id=com.airdata.uav.app) - Drone flight analysis and fleet management platform with [access to /Android/Data](https://app.airdata.com/wiki/Help/Granting+Permissions+in+Android+13+and+14) `Proprietary`
 * [FV File Manager](https://play.google.com/store/apps/details?id=com.folderv.file) - File manager to [access Android/data and Android/obb](https://folderv.com/2023/11/24/access-Android-data-and-Android-obb-on-Android-14/) `Proprietary`
 * [MT Manager](https://mt2.cn) - Split-screen file manager. Can install APKs and access Android/data and Android/obb using Shizuku `Proprietary`
+* [X-Plore](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore) - File manager that can access Android/data and obb using Shizuku `Proprietary`
 * [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver) `IAP` 💰 - Archive management program. Supports editing files using Root/Shizuku. `Proprietary`
 
 ### Installer & app stores
