@@ -26,6 +26,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [MultiLocale](https://github.com/Nightdavisao/MultiLocale) - A simple app that allows you to select multiple languages in your Android device, if the OEM (ahem Xiaomi) doesn't let you.
  * [NoJump](https://github.com/Mufanc/NoJump)
  * [OriginPlan](https://github.com/ItosEO/OriginPlan)
+ * [OwnDroid](https://github.com/BinTianqi/OwnDroid) - 使用Device owner管理你的安卓设备。Manage your device with Device owner privilege
  * [Renata](https://github.com/Andrianusaan/Renata)
  * [SagerNet](https://github.com/maskedeken/SagerNet)
  * [Screen](https://github.com/nai559/Screen)
