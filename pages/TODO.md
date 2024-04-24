@@ -38,6 +38,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [XPlanForHyper](https://github.com/ItosEO/XPlanForHyper)
  * [bili-down-out](https://github.com/10miaomiao/bili-down-out) - 哔哩哔哩缓存导出工具
+ * [hideRecent](https://github.com/Young-Lord/hideRecent) - [Xposed] Hide app from Recent task list
  * [lac-tool](https://github.com/aliernfrog/lac-tool) - 🔧 Easily manage LAC maps, wallpapers and screenshots
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [paskoocheh-android](https://github.com/ASL-19/paskoocheh-android)
