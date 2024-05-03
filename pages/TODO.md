@@ -14,6 +14,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [AuroraStoreCrxmson](https://github.com/ThIsLinked/AuroraStoreCrxmson) - A moddify/fork the original Aurora Store source project.
  * [Auto.js](https://github.com/TonyJiangWJ/Auto.js)
  * [Better Network Tiles](https://github.com/D3SOX/Better-Network-Tiles-Libre) - Bring back Wi-Fi, mobile data and add even more useful tiles on Android 12+
+ * [BilibiliCacheVideoMerge](https://github.com/molihuan/BilibiliCacheVideoMerge) - 🔥🔥Android上将bilibili缓存视频合并导出为mp4，支持安卓5.0 ~ 13，视频挂载弹幕播放(Android consolidates and exports the bilibilibili cache video to mp4, supports Android 5.0~13, and plays the video on the screen)
  * [CPadCustomizeTool](https://github.com/Kobold831/CPadCustomizeTool)
  * [Cfm_Joy_Manager](https://github.com/rlin1538/Cfm_Joy_Manager)
  * [DSU-Sideloader-2](https://github.com/vaginessa/DSU-Sideloader-2)
@@ -27,7 +28,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [MultiLocale](https://github.com/Nightdavisao/MultiLocale) - A simple app that allows you to select multiple languages in your Android device, if the OEM (ahem Xiaomi) doesn't let you.
  * [NoJump](https://github.com/Mufanc/NoJump)
  * [OriginPlan](https://github.com/ItosEO/OriginPlan)
- * [OwnDroid](https://github.com/BinTianqi/OwnDroid) - 使用Device owner管理你的安卓设备。Manage your device with Device owner privilege
+ * [OwnDroid](https://github.com/BinTianqi/OwnDroid) - Manage your device with Device owner privilege
  * [Renata](https://github.com/Andrianusaan/Renata)
  * [SagerNet](https://github.com/maskedeken/SagerNet)
  * [Screen](https://github.com/nai559/Screen)
