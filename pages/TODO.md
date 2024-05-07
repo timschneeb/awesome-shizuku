@@ -36,6 +36,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [SmartspacerPlugins](https://github.com/KieronQuinn/SmartspacerPlugins) - A collection of plugins for Smartspacer
  * [SuperToolBox](https://github.com/dudu-Dev0/SuperToolBox)
  * [TachiyomiS](https://github.com/Hero-Over/TachiyomiS)
+ * [TrindadeWare](https://github.com/aquilesTrindade/TrindadeWare)
  * [Voyage](https://github.com/MiChongs/Voyage)
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [XPlanForHyper](https://github.com/ItosEO/XPlanForHyper)
