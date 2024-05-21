@@ -36,13 +36,13 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [SmartspacerPlugins](https://github.com/KieronQuinn/SmartspacerPlugins) - A collection of plugins for Smartspacer
  * [SuperToolBox](https://github.com/dudu-Dev0/SuperToolBox)
  * [TachiyomiS](https://github.com/Hero-Over/TachiyomiS)
- * [TrindadeWare](https://github.com/aquilesTrindade/TrindadeWare)
  * [Voyage](https://github.com/MiChongs/Voyage)
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [XPlanForHyper](https://github.com/ItosEO/XPlanForHyper)
  * [bili-down-out](https://github.com/10miaomiao/bili-down-out) - 哔哩哔哩缓存导出工具
  * [hideRecent](https://github.com/Young-Lord/hideRecent) - [Xposed] Hide app from Recent task list
  * [icebox](https://github.com/sotcit/icebox)
+ * [komikku](https://github.com/komikku-app/komikku) - Free and open source manga reader for Android
  * [lac-tool](https://github.com/aliernfrog/lac-tool) - 🔧 Easily manage LAC maps, wallpapers and screenshots
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [paskoocheh-android](https://github.com/ASL-19/paskoocheh-android)
