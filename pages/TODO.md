@@ -29,6 +29,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [NoJump](https://github.com/Mufanc/NoJump)
  * [OriginPlan](https://github.com/ItosEO/OriginPlan)
  * [OwnDroid](https://github.com/BinTianqi/OwnDroid) - Manage your device with Device owner privilege
+ * [PI-Lite](https://github.com/SanmerApps/PI-Lite) - PackageInstaller Lite
  * [Renata](https://github.com/Andrianusaan/Renata)
  * [SagerNet](https://github.com/maskedeken/SagerNet)
  * [Screen](https://github.com/nai559/Screen)
