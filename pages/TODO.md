@@ -43,6 +43,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [XPlanForHyper](https://github.com/ItosEO/XPlanForHyper)
  * [bili-down-out](https://github.com/10miaomiao/bili-down-out) - 哔哩哔哩缓存导出工具
  * [crosscore-mod-manager](https://github.com/laoxinH/crosscore-mod-manager) - 交错战线mod管理器，支持扫描QQ目录、下载目录、自动备份原文件、关闭mod自动恢复、支持mod预览
+ * [dex2oat](https://github.com/fansangg/dex2oat) - dex2oat
  * [hideRecent](https://github.com/Young-Lord/hideRecent) - [Xposed] Hide app from Recent task list
  * [icebox](https://github.com/sotcit/icebox)
  * [komikku](https://github.com/komikku-app/komikku) - Free and open source manga reader for Android
