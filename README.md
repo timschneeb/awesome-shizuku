@@ -67,6 +67,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [AutoDark](https://f-droid.org/packages/me.ranko.autodark/) - A small Android app to let you schedule dark mode On/Off `MIT` [(Source code)](https://github.com/0ranko0P/AutoDark)
 * [AutoDND](https://f-droid.org/packages/moe.dic1911.autodnd/) - A simple tool to toggle DND automatically when using specified apps `AGPL-3.0` [(Source code)](https://github.com/dic1911/android_AutoDND)
 * [Better Internet Tiles](https://play.google.com/store/apps/details?id=be.casperverswijvelt.unifiedinternetqs) - Bring back Wi-Fi and mobile data tiles on Android 12 or higher + a better unified internet tile `GPL-3.0` [(Source code)](https://github.com/CasperVerswijvelt/Better-Internet-Tiles)
+  * [Better Internet Tiles Libre](https://github.com/D3SOX/Better-Network-Tiles-Libre) - Libre fork of Better Internet Tiles without proprietary libraries `GPL-3.0`
 * [CarrierVanityName](https://github.com/nullbytepl/CarrierVanityName) - Carrier Vanity Name is a very simple app to change the carrier names on unrooted Android devices `GPL-3.0`
 * [ColorBlendr](https://github.com/Mahmud0808/ColorBlendr) - An application to modify Material You colors of your device `GPL-3.0`
 * [DarQ](https://github.com/KieronQuinn/DarQ) - DarQ provides a per-app selectable force dark option for Android 10 and above `Apache-2.0`
@@ -75,9 +76,11 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [NoPopping](https://play.google.com/store/apps/details?id=rikka.nopeeking) `IAP` 💰 - Auto Do-Not-Disturb mode `Proprietary`
 * [Repainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme) `IAP` 💰 - Install custom Material You designs on your device `Proprietary`
 * [ShizuTools](https://github.com/legendsayantan/ShizuTools) - Contains some easy-to-use tools to go beyond the level of control allowed by Android System `No license`
+* [SmartspacerPlugins](https://github.com/KieronQuinn/SmartspacerPlugins) - Plugins for Smartspacer `GPL-3.0`
 * [System UI Tuner](https://github.com/zacharee/Tweaker) - View and modify hidden settings on Android devices `MIT`
 * [TapTap](https://github.com/KieronQuinn/TapTap) - Port of the double tap on the back of the device feature from Android 12 to any Android 7.0+ device `GPL-3.0`
 * [Taskbar](https://f-droid.org/packages/com.farmerbb.taskbar/) - Use a start menu to access apps. Shizuku can unlock additional features `Apache-2.0` [(Source code)](https://github.com/farmerbb/Taskbar)
+* [OwnDroid](https://github.com/BinTianqi/OwnDroid) - Manage your device with Device owner privileges `GPL-3.0`
 
 ### Development utilities
 
@@ -97,8 +100,10 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 ### Entertainment
 
 * [Aniyomi](https://github.com/aniyomiorg/aniyomi) - Tachiyomi fork with anime support and plugin management using Shizuku. `Apache-2.0`
+* [BilibiliCacheVideoMerge](https://github.com/molihuan/BilibiliCacheVideoMerge) - Export BiliBili video cache files to MP4 `Apache-2.0`
 * [Mihon](https://github.com/mihonapp/mihon) - Manga reader with plugin management using Shizuku. Independent successor of Tachiyomi. `Apache-2.0`
   * Mihon/Tachiyomi has several other active forks, including [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) and [TachiyomiAZ](https://github.com/az4521/TachiyomiAZ)
+* [lac-tool](https://github.com/aliernfrog/lac-tool) - Manage maps, wallpapers, and screenshots for the game 'Los Angeles Crimes' `MIT`
 * [LOModInstaller](https://github.com/anyabot/LOModInstaller) - Mod manager for the game 'Last Origin' `No license`
 * [pf-tool](https://github.com/aliernfrog/pf-tool) - Easily import and share Polyfield maps `MIT`
 * [translatefgo](https://github.com/rayshift/translatefgo) - Fate/Grand Order game translation project `CC BY-NC-SA 4.0`
@@ -187,7 +192,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [FiveGSwitcher](https://play.google.com/store/apps/details?id=com.ysy.switcherfiveg) - 5G shortcut switch for MIUI `GPL-3.0` - [(Source code)](https://github.com/ysy950803/FiveGSwitcher)
 * [FxxkMIUIAd](https://github.com/qhy040404/FxxkMIUIAd) - Turn off MIUI ads with minimal cost `Apache-2.0`
 * [Mi-FreeForm](https://github.com/sunshine0523/Mi-FreeForm) - Display most apps in the form of freeform on MIUI `GPL-3.0`
-
+  * [Flyme-FreeForm](https://github.com/Live-Block/Flyme-FreeForm) - Fork of Mi-FreeForm `GPL-3.0`
 
 
 ### Unlisted apps
@@ -206,7 +211,8 @@ I'm also using an automated crawler that searches for new projects making use of
 * [Shizuku-API](https://github.com/RikkaApps/Shizuku-API) - Developer documentation for Shizuku and Sui, including examples `Apache-2.0` 
 
 ### Filesystem
-* [nextgenfs](https://github.com/rayshift/nextgenfs) -Shizuku compatible android/data access from Xamarin - AIDL library `MIT`
+* [nextgenfs](https://github.com/rayshift/nextgenfs) - Shizuku compatible android/data access from Xamarin - AIDL library `MIT`
+* [PI-Lite](https://github.com/SanmerApps/PI-Lite) - Package installer related APIs `MIT`
 
 ### Power
 
