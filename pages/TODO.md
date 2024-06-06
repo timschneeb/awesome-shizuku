@@ -15,6 +15,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [CPadCustomizeTool](https://github.com/Kobold831/CPadCustomizeTool)
  * [Cfm_Joy_Manager](https://github.com/rlin1538/Cfm_Joy_Manager)
  * [DyImage](https://github.com/huaweikai/DyImage) - 用于扫描抖音的沙盒目录，读取表情包信息，并用在其他app
+ * [Find My Device (FMD)](https://gitlab.com/Nulide/findmydevice) - Locate and control your device remotely
  * [FunLogCatcher](https://github.com/Hicores/FunLogCatcher) - Logcat日志记录工具,需要shizuku
  * [Genshin-Lyre-midi-player2](https://github.com/weixiansen574/Genshin-Lyre-midi-player2) - 基于shizuku的原神midi自动演奏器
  * [Hs](https://github.com/keluokeda/Hs)
@@ -36,4 +37,5 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [paskoocheh-android](https://github.com/ASL-19/paskoocheh-android)
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [shizuku_apk_installer](https://github.com/re7gog/shizuku_apk_installer) - Flutter plugin for installing Android APKs using Shizuku API
+ * [tachiyomiJ2K](https://github.com/cuong-tran/tachiyomiJ2K)
  * [uninstallBlackForUserApps](https://github.com/sbmatch/uninstallBlackForUserApps)
