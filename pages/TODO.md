@@ -16,6 +16,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [DyImage](https://github.com/huaweikai/DyImage) - 用于扫描抖音的沙盒目录，读取表情包信息，并用在其他app
  * [Find My Device (FMD)](https://gitlab.com/Nulide/findmydevice) - Locate and control your device remotely
  * [FunLogCatcher](https://github.com/Hicores/FunLogCatcher) - Logcat日志记录工具,需要shizuku
+ * [GameBot](https://github.com/tkkcc/GameBot)
  * [Genshin-Lyre-midi-player2](https://github.com/weixiansen574/Genshin-Lyre-midi-player2) - 基于shizuku的原神midi自动演奏器
  * [Hs](https://github.com/keluokeda/Hs)
  * [HyLi-Connect](https://github.com/Lyxot/HyLi-Connect)
