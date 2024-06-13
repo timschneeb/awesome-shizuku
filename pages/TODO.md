@@ -32,6 +32,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [bili-down-out](https://github.com/10miaomiao/bili-down-out) - 哔哩哔哩缓存导出工具
  * [crosscore-mod-manager](https://github.com/laoxinH/crosscore-mod-manager) - 交错战线mod管理器，支持扫描QQ目录、下载目录、自动备份原文件、关闭mod自动恢复、支持mod预览
  * [dex2oat](https://github.com/fansangg/dex2oat) - dex2oat
+ * [glassdown](https://github.com/Sinneida/glassdown)
  * [icebox](https://github.com/sotcit/icebox)
  * [packages_apps_LogFox](https://github.com/Project-PixelStar/packages_apps_LogFox) - Better replacement for MatLog
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
