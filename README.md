@@ -212,7 +212,6 @@ I'm also using an automated crawler that searches for new projects making use of
 
 ### Filesystem
 * [nextgenfs](https://github.com/rayshift/nextgenfs) - Shizuku compatible android/data access from Xamarin - AIDL library `MIT`
-* [PI-Lite](https://github.com/SanmerApps/PI-Lite) - Package installer related APIs `MIT`
 
 ### Power
 
