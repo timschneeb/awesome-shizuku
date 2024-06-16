@@ -14,7 +14,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Auto.js](https://github.com/TonyJiangWJ/Auto.js)
  * [Cfm_Joy_Manager](https://github.com/rlin1538/Cfm_Joy_Manager)
  * [DyImage](https://github.com/huaweikai/DyImage) - 用于扫描抖音的沙盒目录，读取表情包信息，并用在其他app
- * [Find My Device (FMD)](https://gitlab.com/Nulide/findmydevice) - Locate and control your device remotely
  * [FunLogCatcher](https://github.com/Hicores/FunLogCatcher) - Logcat日志记录工具,需要shizuku
  * [GameBot](https://github.com/tkkcc/GameBot)
  * [Genshin-Lyre-midi-player2](https://github.com/weixiansen574/Genshin-Lyre-midi-player2) - 基于shizuku的原神midi自动演奏器
@@ -32,12 +31,10 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [bili-down-out](https://github.com/10miaomiao/bili-down-out) - 哔哩哔哩缓存导出工具
  * [crosscore-mod-manager](https://github.com/laoxinH/crosscore-mod-manager) - 交错战线mod管理器，支持扫描QQ目录、下载目录、自动备份原文件、关闭mod自动恢复、支持mod预览
  * [dex2oat](https://github.com/fansangg/dex2oat) - dex2oat
- * [glassdown](https://github.com/Sinneida/glassdown)
  * [icebox](https://github.com/sotcit/icebox)
  * [packages_apps_LogFox](https://github.com/Project-PixelStar/packages_apps_LogFox) - Better replacement for MatLog
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [paskoocheh-android](https://github.com/ASL-19/paskoocheh-android)
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
- * [shizuku_apk_installer](https://github.com/re7gog/shizuku_apk_installer) - Flutter plugin for installing Android APKs using Shizuku API
  * [tachiyomiJ2K](https://github.com/cuong-tran/tachiyomiJ2K)
  * [uninstallBlackForUserApps](https://github.com/sbmatch/uninstallBlackForUserApps)
