@@ -164,6 +164,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [FindMyDevice](https://gitlab.com/Nulide/findmydevice) - Secure & open-source alternative to Google's FindMyDevice service. `GPL-3.0`
 * [PrivateDNSAndroid](https://github.com/karasevm/PrivateDNSAndroid) - Quick settings tile to switch active private DNS server  `MIT`
 * [WiFiList](https://play.google.com/store/apps/details?id=tk.zwander.wifilist) `Paid` 💰 - View your saved WiFi passwords on Android 11 and later without root `Proprietary` [(Source code)](https://github.com/zacharee/WiFiList)
+* [WiFiList (FOSS)](https://github.com/jaredcat/WiFiList) - FOSS fork of 'WiFiList'  `No license`
 
 ### Software management
 
