@@ -25,7 +25,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [SagerNet](https://github.com/maskedeken/SagerNet)
  * [ShizukuSamples](https://github.com/LinerSRT/ShizukuSamples)
  * [SuperToolBox](https://github.com/dudu-Dev0/SuperToolBox)
- * [Voyage](https://github.com/MiChongs/Voyage)
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [XPlanForHyper](https://github.com/ItosEO/XPlanForHyper)
  * [bili-down-out](https://github.com/10miaomiao/bili-down-out) - 哔哩哔哩缓存导出工具
