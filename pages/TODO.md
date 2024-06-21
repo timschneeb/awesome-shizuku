@@ -14,6 +14,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Auto.js](https://github.com/TonyJiangWJ/Auto.js)
  * [Cfm_Joy_Manager](https://github.com/rlin1538/Cfm_Joy_Manager)
  * [DyImage](https://github.com/huaweikai/DyImage) - 用于扫描抖音的沙盒目录，读取表情包信息，并用在其他app
+ * [Fold_Switcher](https://github.com/eiyooooo/Fold_Switcher)
  * [FunLogCatcher](https://github.com/Hicores/FunLogCatcher) - Logcat日志记录工具,需要shizuku
  * [GameBot](https://github.com/tkkcc/GameBot)
  * [Genshin-Lyre-midi-player2](https://github.com/weixiansen574/Genshin-Lyre-midi-player2) - 基于shizuku的原神midi自动演奏器
