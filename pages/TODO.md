@@ -24,6 +24,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [NoJump](https://github.com/Mufanc/NoJump)
  * [OriginPlan](https://github.com/ItosEO/OriginPlan)
  * [SagerNet](https://github.com/maskedeken/SagerNet)
+ * [ServiceManagerCompat](https://github.com/SanmerApps/ServiceManagerCompat)
  * [ShizukuSamples](https://github.com/LinerSRT/ShizukuSamples)
  * [SuperToolBox](https://github.com/dudu-Dev0/SuperToolBox)
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
