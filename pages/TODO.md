@@ -20,6 +20,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Genshin-Lyre-midi-player2](https://github.com/weixiansen574/Genshin-Lyre-midi-player2) - 基于shizuku的原神midi自动演奏器
  * [Hs](https://github.com/keluokeda/Hs)
  * [HyLi-Connect](https://github.com/Lyxot/HyLi-Connect)
+ * [LintFile](https://github.com/lumkit/LintFile) - A file operation library suitable for Android platform.
  * [MultiLocale](https://github.com/Nightdavisao/MultiLocale) - A simple app that allows you to select multiple languages in your Android device, if the OEM (ahem Xiaomi) doesn't let you.
  * [NoJump](https://github.com/Mufanc/NoJump)
  * [OriginPlan](https://github.com/ItosEO/OriginPlan)
