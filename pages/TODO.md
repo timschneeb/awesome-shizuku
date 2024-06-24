@@ -12,6 +12,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Android-FileExplorerDemo](https://github.com/MagicianGuo/Android-FileExplorerDemo) - 能够访问Android/data(obb)目录，已适配Android 5.0 ~ 14。安卓高版本可以使用Shizuku授权。
  * [Android-SettingTools](https://github.com/MagicianGuo/Android-SettingTools) - 通过Shizuku授权，实现修改部分系统设置项。
  * [Auto.js](https://github.com/TonyJiangWJ/Auto.js)
+ * [BHub](https://github.com/B1ays/BHub) - Download, Install and Share mods easily
  * [Cfm_Joy_Manager](https://github.com/rlin1538/Cfm_Joy_Manager)
  * [DyImage](https://github.com/huaweikai/DyImage) - 用于扫描抖音的沙盒目录，读取表情包信息，并用在其他app
  * [Fold_Switcher](https://github.com/eiyooooo/Fold_Switcher)
