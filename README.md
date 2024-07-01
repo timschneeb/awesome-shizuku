@@ -19,6 +19,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
   - [Communication](#communication)
   - [Customization](#customization)
   - [Development utilities](#development-utilities)
+  - [Education](#education)
   - [Entertainment](#entertainment)
   - [File management](#file-management)
   - [Installer & app stores](#installer--app-stores)
@@ -99,6 +100,10 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [SensorsOff](https://github.com/LinerSRT/SensorsOff) - Enable/Disable device sensors via quick settings `Apache-2.0`
 * [TakoStats](https://play.google.com/store/apps/details?id=rikka.fpsmonitor) `IAP` 💰 - FPS and performance overlay with detailed real-time system information `Proprietary`
 * [wireless-adb-switch](https://github.com/Smooth-E/wireless-adb-switch) Widgets & quick settings tile to toggle wireless debugging (with KDE Connect integration) - `GPL-3.0`
+
+### Education
+
+* [Quiz-Platform](https://github.com/Yugyd/quiz-platform) - Quiz Platform is a Open Source knowledge testing platform for Android based on Jetpack Compose and Google solutions. `Apache-2.0` [(Source code)](https://github.com/Yugyd/quiz-platform)
 
 ### Entertainment
 
