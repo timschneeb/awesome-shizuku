@@ -29,6 +29,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [ServiceManagerCompat](https://github.com/SanmerApps/ServiceManagerCompat)
  * [ShizukuSamples](https://github.com/LinerSRT/ShizukuSamples)
  * [SuperToolBox](https://github.com/dudu-Dev0/SuperToolBox)
+ * [VendettaManager](https://github.com/vendetta-mod/VendettaManager) - Easily install Vendetta on Android
  * [Voyage](https://github.com/rgsngdha/Voyage)
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [XPlanForHyper](https://github.com/ItosEO/XPlanForHyper)
