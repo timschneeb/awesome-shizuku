@@ -58,7 +58,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [Lemmy Redirect](https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.lemmyredirect) - A simple app for automatically launching lemmy links in your preferred Lemmy client. `MIT` [(Source code)](https://github.com/zacharee/MastodonRedirect)
 * [Mastodon Redirect](https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.mastodonredirect) - A simple app for automatically launching fediverse links in your preferred Mastodon client. `MIT` [(Source code)](https://github.com/zacharee/MastodonRedirect)
 * [TxtNet-Browser](https://github.com/lukeaschenbrenner/TxtNet-Browser) - An app that lets you browse the web over SMS `GPL-3.0`
-* [Vendetta-Manager](https://github.com/vendetta-mod/VendettaManager) - Patch manager for the Discord Vendetta mod `OSL-3.0`
+* [Bunny-Manager](https://github.com/pyoncord/BunnyManager) - Patch manager for the Discord Bunny mod `OSL-3.0`
 
 
 ### Customization
