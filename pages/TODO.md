@@ -42,6 +42,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [paskoocheh-android](https://github.com/ASL-19/paskoocheh-android)
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [shizuku-example](https://github.com/aquilesTrindade/shizuku-example)
- * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3
+ * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
  * [tachiyomiJ2K](https://github.com/cuong-tran/tachiyomiJ2K)
  * [uninstallBlackForUserApps](https://github.com/sbmatch/uninstallBlackForUserApps)
