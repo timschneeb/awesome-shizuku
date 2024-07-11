@@ -33,6 +33,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [VendettaManager](https://github.com/vendetta-mod/VendettaManager) - Easily install Vendetta on Android
  * [Voyage](https://github.com/rgsngdha/Voyage)
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
+ * [XPlan-for-Color](https://github.com/ItosEO/XPlan-for-Color)
  * [XPlanForHyper](https://github.com/ItosEO/XPlanForHyper)
  * [bili-down-out](https://github.com/10miaomiao/bili-down-out) - 哔哩哔哩缓存导出工具
  * [crosscore-mod-manager](https://github.com/laoxinH/crosscore-mod-manager) - MOD实验室：一个游戏mod管理工具，支持管理大多数二游的MOD，例如交错战线、明日方舟、碧蓝航线、碧蓝档案的魔改以及mod管理，一键开启备份还原，mod预览等
