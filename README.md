@@ -118,7 +118,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [MiXplorer](https://xdaforums.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/#post-23109280) - File manager that can batch install APKs and access Android/data and obb using Shizuku `Proprietary`
 * [MT Manager](https://mt2.cn) - Split-screen file manager. Can install APKs and access Android/data and Android/obb using Shizuku `Proprietary`
 * [X-Plore](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore) - File manager that can access Android/data and obb using Shizuku `Proprietary`
-* [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver) `IAP` 💰 - Archive management program. Supports editing files using Root/Shizuku. `Proprietary`
+* [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver) - Archive management program. Supports editing files using Root/Shizuku. `Proprietary`
 
 ### Installer & app stores
 
