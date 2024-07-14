@@ -9,6 +9,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [ADBMultiApp](https://github.com/Mobsama/ADBMultiApp) - Realme基于shizuku双开工具
  * [AIDE-Plus](https://github.com/ZeroAicy/AIDE-Plus) - AIDE+
  * [AdbShellUtils](https://github.com/xxinPro/AdbShellUtils) - Shizuku开发演示项目，通过Shizuku使app拥有shell权限
+ * [Always On Display Toggle](https://github.com/Alberto97/AlwaysOnDisplayToggle) - Toggle Always on Display from the quick settings panel
  * [AlwaysOnDisplayToggle](https://github.com/Alberto97/AlwaysOnDisplayToggle) - An Android quick setting to toggle Always on Display
  * [Android-FileExplorerDemo](https://github.com/MagicianGuo/Android-FileExplorerDemo) - 能够访问Android/data(obb)目录，已适配Android 5.0 ~ 14。安卓高版本可以使用Shizuku授权。
  * [Android-SettingTools](https://github.com/MagicianGuo/Android-SettingTools) - 通过Shizuku授权，实现修改部分系统设置项。
@@ -16,6 +17,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [BHub](https://github.com/B1ays/BHub) - Download, Install and Share mods easily
  * [Cfm_Joy_Manager](https://github.com/rlin1538/Cfm_Joy_Manager)
  * [DyImage](https://github.com/huaweikai/DyImage) - 用于扫描抖音的沙盒目录，读取表情包信息，并用在其他app
+ * [EcosedKit](https://github.com/EcosedApps/EcosedKit) - 🔥EcosedKit是一款现代化Android高级开发框架,利用Kotlin语法提供类似基础组件封装的功能,但不需要继承,只需要附加即可,包含沉浸式适配,对Shizuku等第三方框架的再封装,并提供了一些诸如提示,延时操作,日志输出等小工具,以方便快速构建应用程序.
  * [Fold_Switcher](https://github.com/eiyooooo/Fold_Switcher)
  * [FunLogCatcher](https://github.com/Hicores/FunLogCatcher) - Logcat日志记录工具,需要shizuku
  * [GameBot](https://github.com/tkkcc/GameBot)
