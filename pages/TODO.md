@@ -18,6 +18,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Cfm_Joy_Manager](https://github.com/rlin1538/Cfm_Joy_Manager)
  * [DyImage](https://github.com/huaweikai/DyImage) - 用于扫描抖音的沙盒目录，读取表情包信息，并用在其他app
  * [EcosedKit](https://github.com/EcosedApps/EcosedKit) - 🔥EcosedKit是一款现代化Android高级开发框架,利用Kotlin语法提供类似基础组件封装的功能,但不需要继承,只需要附加即可,包含沉浸式适配,对Shizuku等第三方框架的再封装,并提供了一些诸如提示,延时操作,日志输出等小工具,以方便快速构建应用程序.
+ * [FelocordManager](https://github.com/Felitendo/FelocordManager)
  * [Fold_Switcher](https://github.com/eiyooooo/Fold_Switcher)
  * [FunLogCatcher](https://github.com/Hicores/FunLogCatcher) - Logcat日志记录工具,需要shizuku
  * [GameBot](https://github.com/tkkcc/GameBot)
@@ -32,7 +33,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [ServiceManagerCompat](https://github.com/SanmerApps/ServiceManagerCompat)
  * [ShizukuSamples](https://github.com/LinerSRT/ShizukuSamples)
  * [SuperToolBox](https://github.com/dudu-Dev0/SuperToolBox)
- * [VendettaManager](https://github.com/vendetta-mod/VendettaManager) - Easily install Vendetta on Android
  * [Voyage](https://github.com/rgsngdha/Voyage)
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [XPlan-for-Color](https://github.com/ItosEO/XPlan-for-Color)
