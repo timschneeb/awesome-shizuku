@@ -16,6 +16,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Auto.js](https://github.com/TonyJiangWJ/Auto.js)
  * [BHub](https://github.com/B1ays/BHub) - Download, Install and Share mods easily
  * [Cfm_Joy_Manager](https://github.com/rlin1538/Cfm_Joy_Manager)
+ * [Coals](https://github.com/Cossall/Coals) - Main learning and development
  * [DyImage](https://github.com/huaweikai/DyImage) - 用于扫描抖音的沙盒目录，读取表情包信息，并用在其他app
  * [EcosedKit](https://github.com/EcosedApps/EcosedKit) - 🔥EcosedKit是一款现代化Android高级开发框架,利用Kotlin语法提供类似基础组件封装的功能,但不需要继承,只需要附加即可,包含沉浸式适配,对Shizuku等第三方框架的再封装,并提供了一些诸如提示,延时操作,日志输出等小工具,以方便快速构建应用程序.
  * [FelocordManager](https://github.com/Felitendo/FelocordManager)
@@ -41,6 +42,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [bili-down-out](https://github.com/10miaomiao/bili-down-out) - 哔哩哔哩缓存导出工具
  * [crosscore-mod-manager](https://github.com/laoxinH/crosscore-mod-manager) - MOD实验室：一个游戏mod管理工具，支持管理大多数二游的MOD，例如交错战线、明日方舟、碧蓝航线、碧蓝档案的魔改以及mod管理，一键开启备份还原，mod预览等
  * [dex2oat](https://github.com/fansangg/dex2oat) - dex2oat
+ * [krude](https://github.com/KusStar/krude) - All in one app and workflow launcher / 小而美的应用启动器。
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [paskoocheh-android](https://github.com/ASL-19/paskoocheh-android)
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
