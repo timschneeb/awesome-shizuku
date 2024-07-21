@@ -30,6 +30,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [MultiLocale](https://github.com/Nightdavisao/MultiLocale) - A simple app that allows you to select multiple languages in your Android device, if the OEM (ahem Xiaomi) doesn't let you.
  * [NoJump](https://github.com/Mufanc/NoJump)
  * [OriginPlan](https://github.com/ItosEO/OriginPlan)
+ * [RexFile](https://github.com/Ruyomi/RexFile)
  * [SD-Maid](https://github.com/Chadisak/SD-Maid)
  * [SagerNet](https://github.com/maskedeken/SagerNet)
  * [ServiceManagerCompat](https://github.com/SanmerApps/ServiceManagerCompat)
