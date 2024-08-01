@@ -246,7 +246,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 
 设置好 `rish` 后，您可以将它与任何支持调用任何 shell 脚本或可执行文件的应用程序一起使用，即使应用程序本身不支持 Shizuku。
 
-> [!注意] 
+> [!NOTE] 
 > 由于 `rish` 的位置不在 `$PATH` 中，因此您可能需要指定可执行文件的路径才能手动启动它。如果它位于您当前的工作目录中，请使用“./rish”启动它。
 
 **Syntax:**
@@ -256,7 +256,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * `rish -c 'whoami'`：执行 shell 命令，完成后退出
 * `echo 'whoami' | rish`：从 stdin 读取 shell 命令，执行并在完成后退出
 
-> [!注意] 
+> [!NOTE] 
 > 以 `whoami` 为例，它将返回当前 shell 用户的名称。
 
 **Usage examples:**
