@@ -22,7 +22,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Extendroid](https://github.com/legendsayantan/Extendroid)
  * [FeloStore](https://github.com/Felitendo/FeloStore)
  * [FeloStore-old](https://github.com/Felitendo/FeloStore-old)
- * [Fold_Switcher](https://github.com/eiyooooo/Fold_Switcher)
+ * [Fold_Switcher](https://github.com/eiyooooo/Fold_Switcher) - 折叠屏切换器 | switch between various folding states on foldable devices
  * [FunLogCatcher](https://github.com/Hicores/FunLogCatcher) - Logcat日志记录工具,需要shizuku
  * [GameBot](https://github.com/tkkcc/GameBot)
  * [Genshin-Lyre-midi-player2](https://github.com/weixiansen574/Genshin-Lyre-midi-player2) - 基于shizuku的原神midi自动演奏器
