@@ -20,7 +20,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [DyImage](https://github.com/huaweikai/DyImage) - 用于扫描抖音的沙盒目录，读取表情包信息，并用在其他app
  * [EcosedKit](https://github.com/EcosedApps/EcosedKit) - 🔥EcosedKit是一款现代化Android高级开发框架,利用Kotlin语法提供类似基础组件封装的功能,但不需要继承,只需要附加即可,包含沉浸式适配,对Shizuku等第三方框架的再封装,并提供了一些诸如提示,延时操作,日志输出等小工具,以方便快速构建应用程序.
  * [Extendroid](https://github.com/legendsayantan/Extendroid)
- * [FeloStore](https://github.com/Felitendo/FeloStore)
  * [FeloStore-old](https://github.com/Felitendo/FeloStore-old)
  * [Fold_Switcher](https://github.com/eiyooooo/Fold_Switcher) - 折叠屏切换器 | switch between various folding states on foldable devices
  * [FunLogCatcher](https://github.com/Hicores/FunLogCatcher) - Logcat日志记录工具,需要shizuku
@@ -55,4 +54,5 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [shizuku-example](https://github.com/aquilesTrindade/shizuku-example) - Example of how to use the shizuku api.
  * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
  * [tachiyomiJ2K](https://github.com/cuong-tran/tachiyomiJ2K)
+ * [test2app](https://github.com/maxregnerklos/test2app)
  * [uninstallBlackForUserApps](https://github.com/sbmatch/uninstallBlackForUserApps)
