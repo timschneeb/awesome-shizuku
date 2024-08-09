@@ -1,6 +1,9 @@
 
 # awesome-shizuku
 
+> [!IMPORTANT]
+> 中文文档可能落后于英文文档，如果有问题请先查看英文文档。
+
 ### 语言
 [English](/README.md) | 简体中文
 
