@@ -12,18 +12,21 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Android-FileExplorerDemo](https://github.com/MagicianGuo/Android-FileExplorerDemo) - 能够访问Android/data(obb)目录，已适配Android 5.0 ~ 14。安卓高版本可以使用Shizuku授权。
  * [Android-SettingTools](https://github.com/MagicianGuo/Android-SettingTools) - 通过Shizuku授权，实现修改部分系统设置项。
  * [Auto.js](https://github.com/TonyJiangWJ/Auto.js)
+ * [AutojsEx](https://github.com/LegendLHZ/AutojsEx)
  * [Borrowing-this-for-future-app](https://github.com/BenayaBertLaurent/Borrowing-this-for-future-app)
  * [Cfm_Joy_Manager](https://github.com/rlin1538/Cfm_Joy_Manager)
  * [DyImage](https://github.com/huaweikai/DyImage) - 用于扫描抖音的沙盒目录，读取表情包信息，并用在其他app
  * [EcosedKit](https://github.com/EcosedApps/EcosedKit) - 🔥EcosedKit是一款现代化Android高级开发框架,利用Kotlin语法提供类似基础组件封装的功能,但不需要继承,只需要附加即可,包含沉浸式适配,对Shizuku等第三方框架的再封装,并提供了一些诸如提示,延时操作,日志输出等小工具,以方便快速构建应用程序.
  * [FeloStore](https://github.com/Felitendo/FeloStore)
  * [Fold_Switcher](https://github.com/eiyooooo/Fold_Switcher) - 折叠屏切换器 | switch between various folding states on foldable devices
+ * [FreeFEOS](https://github.com/FreeFEOS/FreeFEOS) - freefeos
  * [FunLogCatcher](https://github.com/Hicores/FunLogCatcher) - Logcat日志记录工具,需要shizuku
  * [GameBot](https://github.com/tkkcc/GameBot)
  * [Genshin-Lyre-midi-player2](https://github.com/weixiansen574/Genshin-Lyre-midi-player2) - 基于shizuku的原神midi自动演奏器
  * [HandheldExp](https://github.com/Teppichseite/HandheldExp) - An in game menu for ES-DE on Android
  * [Hs](https://github.com/keluokeda/Hs)
  * [HyLi-Connect](https://github.com/Lyxot/HyLi-Connect)
+ * [LogPounce](https://github.com/KaranveerB/LogPounce)
  * [MahjongClubBooster](https://github.com/OlegPV2/MahjongClubBooster) - One button only
  * [Manager](https://github.com/Felocord/Manager)
  * [MultiLocale](https://github.com/Nightdavisao/MultiLocale) - A simple app that allows you to select multiple languages in your Android device, if the OEM (ahem Xiaomi) doesn't let you.
