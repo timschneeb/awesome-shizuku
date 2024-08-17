@@ -39,6 +39,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [SD-Maid](https://github.com/Chadisak/SD-Maid)
  * [SagerNet](https://github.com/maskedeken/SagerNet)
  * [ServiceManagerCompat](https://github.com/SanmerApps/ServiceManagerCompat) - ServiceManager (LibSu/Shizuku)
+ * [ShizukuLegendaryStreamer](https://github.com/Harshshah6/ShizukuLegendaryStreamer)
  * [ShizukuSamples](https://github.com/LinerSRT/ShizukuSamples)
  * [SimpleVirtualDisplay](https://github.com/kangrio/SimpleVirtualDisplay) - open any apps in virtual display require shizuku
  * [SuperToolBox](https://github.com/dudu-Dev0/SuperToolBox)
