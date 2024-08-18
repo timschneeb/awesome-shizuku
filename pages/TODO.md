@@ -24,6 +24,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [GameBot](https://github.com/tkkcc/GameBot)
  * [Genshin-Lyre-midi-player2](https://github.com/weixiansen574/Genshin-Lyre-midi-player2) - 基于shizuku的原神midi自动演奏器
  * [HandheldExp](https://github.com/Teppichseite/HandheldExp) - An in game menu for ES-DE on Android
+ * [Hostman](https://github.com/LinZong/Hostman) - A simple Android app that can preview/edit /etc/hosts file in a GUI manner. Shizuku required.
  * [Hs](https://github.com/keluokeda/Hs)
  * [HyLi-Connect](https://github.com/Lyxot/HyLi-Connect)
  * [LogPounce](https://github.com/KaranveerB/LogPounce)
