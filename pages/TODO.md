@@ -8,6 +8,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
 
  * [ADBMultiApp](https://github.com/Mobsama/ADBMultiApp) - Realme基于shizuku双开工具
  * [AIDE-Plus](https://github.com/ZeroAicy/AIDE-Plus) - AIDE+
+ * [AIDEPlus](https://github.com/AndroidIDE-CN/AIDEPlus) - AIDE+版本源码
  * [AdbShellUtils](https://github.com/xxinPro/AdbShellUtils) - Shizuku开发演示项目，通过Shizuku使app执行shell命令
  * [Android-FileExplorerDemo](https://github.com/MagicianGuo/Android-FileExplorerDemo) - 能够访问Android/data(obb)目录，已适配Android 5.0 ~ 14。安卓高版本可以使用Shizuku授权。
  * [Android-SettingTools](https://github.com/MagicianGuo/Android-SettingTools) - 通过Shizuku授权，实现修改部分系统设置项。
@@ -27,6 +28,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Hostman](https://github.com/LinZong/Hostman) - A simple Android app that can preview/edit /etc/hosts file in a GUI manner. Shizuku required.
  * [Hs](https://github.com/keluokeda/Hs)
  * [HyLi-Connect](https://github.com/Lyxot/HyLi-Connect)
+ * [IPHUNTER](https://github.com/MosetiObadiah/IPHUNTER)
  * [LogPounce](https://github.com/KaranveerB/LogPounce)
  * [MahjongClubBooster](https://github.com/OlegPV2/MahjongClubBooster) - One button only
  * [Manager](https://github.com/Felocord/Manager)
