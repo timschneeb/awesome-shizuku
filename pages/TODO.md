@@ -29,6 +29,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Hs](https://github.com/keluokeda/Hs)
  * [HyLi-Connect](https://github.com/Lyxot/HyLi-Connect)
  * [IPHUNTER](https://github.com/MosetiObadiah/IPHUNTER)
+ * [LSPatch2](https://github.com/TeamConceptKR/LSPatch2)
  * [LogPounce](https://github.com/KaranveerB/LogPounce)
  * [MahjongClubBooster](https://github.com/OlegPV2/MahjongClubBooster) - One button only
  * [Manager](https://github.com/Felocord/Manager)
