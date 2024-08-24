@@ -12,6 +12,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [AdbShellUtils](https://github.com/xxinPro/AdbShellUtils) - Shizuku开发演示项目，通过Shizuku使app执行shell命令
  * [Android-FileExplorerDemo](https://github.com/MagicianGuo/Android-FileExplorerDemo) - 能够访问Android/data(obb)目录，已适配Android 5.0 ~ 14。安卓高版本可以使用Shizuku授权。
  * [Android-SettingTools](https://github.com/MagicianGuo/Android-SettingTools) - 通过Shizuku授权，实现修改部分系统设置项。
+ * [Andrr](https://github.com/Kboxoxx/Andrr) - sfnj
  * [Auto.js](https://github.com/TonyJiangWJ/Auto.js)
  * [AutojsEx](https://github.com/LegendLHZ/AutojsEx)
  * [Borrowing-this-for-future-app](https://github.com/BenayaBertLaurent/Borrowing-this-for-future-app)
@@ -40,6 +41,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [OriginPlan](https://github.com/ItosEO/OriginPlan)
  * [ProberAssistant](https://github.com/ZhuRuoLing/ProberAssistant)
  * [RexFile](https://github.com/Ruyomi/RexFile)
+ * [Runner](https://github.com/yangFenTuoZi/Runner)
  * [SD-Maid](https://github.com/Chadisak/SD-Maid)
  * [SagerNet](https://github.com/maskedeken/SagerNet)
  * [ServiceManagerCompat](https://github.com/SanmerApps/ServiceManagerCompat) - ServiceManager (LibSu/Shizuku)
