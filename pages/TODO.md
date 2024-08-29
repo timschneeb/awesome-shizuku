@@ -7,8 +7,8 @@ This document tracks all GitHub repos and F-Droid apps that make use of Shizuku 
 Typically, these apps will be added to the list as soon as possible; however, unfinished apps are usually left in this document until they reach a usable state.
 
  * [ADBMultiApp](https://github.com/Mobsama/ADBMultiApp) - Realme基于shizuku双开工具
- * [AIDE-Plus](https://github.com/ZeroAicy/AIDE-Plus) - AIDE+
  * [AIDEPlus](https://github.com/AndroidIDE-CN/AIDEPlus) - AIDE+版本源码
+ * [ALI-FAROOQI-](https://github.com/aloneftw2009/ALI-FAROOQI-)
  * [AdbShellUtils](https://github.com/xxinPro/AdbShellUtils) - Shizuku开发演示项目，通过Shizuku使app执行shell命令
  * [Android-FileExplorerDemo](https://github.com/MagicianGuo/Android-FileExplorerDemo) - 能够访问Android/data(obb)目录，已适配Android 5.0 ~ 14。安卓高版本可以使用Shizuku授权。
  * [Android-SettingTools](https://github.com/MagicianGuo/Android-SettingTools) - 通过Shizuku授权，实现修改部分系统设置项。
@@ -51,6 +51,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [ShizukuSamples](https://github.com/LinerSRT/ShizukuSamples)
  * [SimpleVirtualDisplay](https://github.com/kangrio/SimpleVirtualDisplay) - open any apps in virtual display require shizuku
  * [SuperToolBox](https://github.com/dudu-Dev0/SuperToolBox)
+ * [TaskManager](https://github.com/java30433/TaskManager) - A simple Task Manager for some special Android devices like WearOS 2.
  * [VivoTools](https://github.com/ItosEO/VivoTools) - 蓝厂工具盒,用于降级GW和电源信息
  * [Voyage](https://github.com/rgsngdha/Voyage)
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
