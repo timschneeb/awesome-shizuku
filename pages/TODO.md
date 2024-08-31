@@ -61,6 +61,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [bili-down-out](https://github.com/10miaomiao/bili-down-out) - 哔哩哔哩缓存导出工具
  * [crosscore-mod-manager](https://github.com/laoxinH/crosscore-mod-manager) - MOD实验室：一个游戏mod管理工具，支持管理大多数二游的MOD，例如交错战线、明日方舟、碧蓝航线、碧蓝档案的魔改以及mod管理，一键开启备份还原，mod预览等
  * [dex2oat](https://github.com/fansangg/dex2oat) - dex2oat
+ * [freefeos](https://github.com/freefeos/freefeos) - FreeFEOS is a Flutter plugin, a simple Flutter library operating system and an advanced Flutter development framework that can provide many advanced features for applications.
  * [mrsideloader](https://github.com/maxregnerklos/mrsideloader)
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [paskoocheh-android](https://github.com/ASL-19/paskoocheh-android)
