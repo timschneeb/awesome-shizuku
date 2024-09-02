@@ -52,6 +52,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [SimpleVirtualDisplay](https://github.com/kangrio/SimpleVirtualDisplay) - open any apps in virtual display require shizuku
  * [SuperToolBox](https://github.com/dudu-Dev0/SuperToolBox)
  * [TaskManager](https://github.com/java30433/TaskManager) - A simple Task Manager for some special Android devices like WearOS 2.
+ * [VRPquest](https://github.com/metalex201/VRPquest) - A quest standalone version of the VRP Rookie sideloader.  !WIP!
  * [VivoTools](https://github.com/ItosEO/VivoTools) - 蓝厂工具盒,用于降级GW和电源信息
  * [Voyage](https://github.com/rgsngdha/Voyage)
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
