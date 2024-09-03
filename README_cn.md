@@ -71,6 +71,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 ### Customization
 
 * [AAAD](https://github.com/shmykelsa/AAAD) `IAP` 💰 - 下载流行的 Android Auto 第 3 方应用程序并安装在 Android Auto 上 `Proprietary`
+* [AlwaysOnDisplayToggle](https://f-droid.org/packages/org.alberto97.aodtoggle/) - Android 快速设置可切换“始终显示” `MIT` [(源代码)](https://github.com/Alberto97/AlwaysOnDisplayToggle)
 * [AmbientMusicMod](https://github.com/KieronQuinn/AmbientMusicMod) - 将 Now Playing 从 Pixels 移植到其他 Android 设备`GPL-3.0`
 * [Android-Screener](https://github.com/jiesou/Android-Screener) - 轻松调整屏幕分辨率和帧频的工具`MIT`
 * [Android-Show-Taps](https://github.com/k3x1n/Android-Show-Taps) - 触摸时显示定制的轻触`GPL-3.0`
@@ -81,6 +82,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [CarrierVanityName](https://github.com/nullbytepl/CarrierVanityName)- Carrier Vanity Name 是一个非常简单的应用程序，用于更改未 root 的 Android 设备上的运营商名称 `GPL-3.0`
 * [ColorBlendr](https://github.com/Mahmud0808/ColorBlendr) - 修改设备 Material You 颜色的应用程序 `GPL-3.0`
 * [DarQ](https://github.com/KieronQuinn/DarQ) - DarQ 为 Android 10 及以上版本提供可按应用程序选择的强制变暗选项`Apache-2.0`
+* [Extendroid](https://github.com/legendsayantan/Extendroid) - 在智能手机的 Android 操作系统上添加类似桌面的多窗口支持。 `No license`
 * [Language-Selector](https://github.com/VegaBobo/Language-Selector) - 允许用户选择单独的应用程序语言（Android 13+） `Apache-2.0`
 * [LinkSheet](https://github.com/1fexd/LinkSheet) - 使用 Material3 恢复 Android <12 Url-App-Link-Chooser `Modified MPL-2.0`
 * [NoPopping](https://play.google.com/store/apps/details?id=rikka.nopeeking) `IAP` 💰- 自动免打扰模式 `Proprietary`
@@ -102,6 +104,8 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [LibChecker](https://github.com/LibChecker/LibChecker) - 一款用于查看设备上应用程序所使用库的应用程序。使用 Shizuku 来确定其他应用程序的安装源。`Apache-2.0`
 * [LogFox](https://github.com/F0x1d/LogFox) -另一个适用于 Android 的 logcat 阅读器 `GPL-3.0`
 * [Logra](https://github.com/wingio/Logra) - 适用于 Android 的 Material You logcat 查看器 `GPL-2.0` 
+* [Logra](https://github.com/wingio/Logra) - 适用于 Android 的 Material You logcat 查看器 `GPL-2.0`
+* [PyDroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) `Ads` `IAP` 💰 - 适用于 Python 3 的 IDE `Proprietary`
 * [RootActivityLauncher](https://play.google.com/store/apps/details?id=tk.zwander.rootactivitylauncher&hl=en&gl=US) `Paid` 💰 - 启动/交互（未）导出的活动、服务和接收器。支持 Shizuku 和 root。 `Proprietary` [(源代码)](https://github.com/zacharee/RootActivityLauncher)
 * [SensorsOff](https://github.com/LinerSRT/SensorsOff) - 通过快速设置启用/禁用设备传感器 `Apache-2.0`
 * [TakoStats](https://play.google.com/store/apps/details?id=rikka.fpsmonitor) `IAP` 💰- FPS 和性能叠加，提供详细的实时系统信息`Proprietary`
@@ -130,6 +134,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 ### Installer & app stores
 
 * [AuroraStore](https://f-droid.org/en/packages/com.aurora.store/)- Google Play 应用商店的开源替代品，具有隐私保护功能和现代化设计 `GPL-3.0` [(源代码)](https://gitlab.com/AuroraOSS/AuroraStore)
+* [BHub](https://github.com/B1ays/BHub) - 轻松下载、安装和共享修改器 `No license`
 * [Droid-ify](https://f-droid.org/packages/com.looker.droidify/) - Material F-Droid 客户端 `GPL-3.0` [(源代码)](https://github.com/Droid-ify/client)
 * [fdroid_shizuku_privileged_extension](https://depau.github.io/fdroid_shizuku_privileged_extension/fdroid/repo/) - 与 Shizuku 协同工作的 F-Droid 权限扩展 `Apache-2.0` [(源代码)](https://github.com/depau/fdroid_shizuku_privileged_extension)
 * [ffupdater](https://f-droid.org/packages/de.marmaro.krt.ffupdater/)- FFUpdater：隐私友好浏览器的更新程序 `GPL-3.0` [(源代码)](https://github.com/Tobi823/ffupdater)
@@ -186,6 +191,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [Inure App Manager](https://play.google.com/store/apps/details?id=app.simple.inure.play) `15-day trial` `Paid` 💰 - 适用于 root 和非 root 设备的 Android 应用程序管理器 `GPL-3.0` [(源代码)](https://github.com/Hamza417/Inure)
 * [Insular](https://f-droid.org/packages/com.oasisfeng.island.fdroid/) - Island 完整的 FLOSS 分叉 `Apache-2.0` [(源代码)](https://gitlab.com/secure-system/Insular)
 * [Island](https://play.google.com/store/apps/details?id=com.oasisfeng.island) -隔离和克隆应用程序，以保护隐私并实现并行运行 `Apache-2.0` [(源代码)](https://github.com/oasisfeng/island)
+* [krude](https://github.com/KusStar/krude) - 多合一应用程序和工作流程启动器 `MIT`
 * [Package Manager](https://play.google.com/store/apps/details?id=com.smartpack.packagemanager) - 功能强大的应用程序，可同时管理系统和用户应用程序`GPL-3.0` [(源代码)](https://github.com/SmartPack/PackageManager)
 * [UpgradeAll](https://f-droid.org/packages/net.xzos.upgradeall/) - 检查 Android 应用程序、Magisk 模块等的更新！ `GPL-3.0` [(源代码)](https://github.com/DUpdateSystem/UpgradeAll)
 
