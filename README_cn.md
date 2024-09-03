@@ -82,12 +82,12 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [CarrierVanityName](https://github.com/nullbytepl/CarrierVanityName)- Carrier Vanity Name 是一个非常简单的应用程序，用于更改未 root 的 Android 设备上的运营商名称 `GPL-3.0`
 * [ColorBlendr](https://github.com/Mahmud0808/ColorBlendr) - 修改设备 Material You 颜色的应用程序 `GPL-3.0`
 * [DarQ](https://github.com/KieronQuinn/DarQ) - DarQ 为 Android 10 及以上版本提供可按应用程序选择的强制变暗选项`Apache-2.0`
-* [Extendroid](https://github.com/legendsayantan/Extendroid) - 在智能手机的 Android 操作系统上添加类似桌面的多窗口支持。 `No license`
+* [Extendroid](https://github.com/legendsayantan/Extendroid) - 在智能手机的 Android 操作系统上添加类似桌面的多窗口支持。 `无许可证`
 * [Language-Selector](https://github.com/VegaBobo/Language-Selector) - 允许用户选择单独的应用程序语言（Android 13+） `Apache-2.0`
 * [LinkSheet](https://github.com/1fexd/LinkSheet) - 使用 Material3 恢复 Android <12 Url-App-Link-Chooser `Modified MPL-2.0`
 * [NoPopping](https://play.google.com/store/apps/details?id=rikka.nopeeking) `IAP` 💰- 自动免打扰模式 `Proprietary`
 * [Repainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme) `IAP` 💰- 在设备上安装自定义 Material You 设计 `Proprietary`
-* [ShizuTools](https://github.com/legendsayantan/ShizuTools) - 包含一些易于使用的工具，可超越 Android 系统允许的控制水平 `No license`
+* [ShizuTools](https://github.com/legendsayantan/ShizuTools) - 包含一些易于使用的工具，可超越 Android 系统允许的控制水平 `无许可证`
 * [SmartspacerPlugins](https://github.com/KieronQuinn/SmartspacerPlugins) -Smartspacer 插件`GPL-3.0`
 * [System UI Tuner](https://github.com/zacharee/Tweaker) - 查看和修改 Android 设备上的隐藏设置 `MIT`
 * [TapTap](https://github.com/KieronQuinn/TapTap)- 将双击设备背面功能从 Android 12 移植到任何 Android 7.0+ 设备上 `GPL-3.0`
@@ -96,11 +96,11 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 
 ### Development utilities
 
-* [AndroidAccounts](https://github.com/iamr0s/AndroidAccounts) - 删除已为用户注册账户的应用程序的软件包名称。 `No license`
+* [AndroidAccounts](https://github.com/iamr0s/AndroidAccounts) - 删除已为用户注册账户的应用程序的软件包名称。 `无许可证`
 * [AndroidLowLevelDetector](https://play.google.com/store/apps/details?id=net.imknown.android.forefrontinfo) - 检测 Treble、GSI、Mainline、APEX、system-as-root(SAR)、A/B 等。`Apache-2.0` [(源代码)](https://github.com/imknown/AndroidLowLevelDetector)
 * [Cosmic-IDE](https://github.com/Cosmic-Ide/Cosmic-IDE) 用于 JVM 开发的集成开发环境。使用 Shizuku 作为嵌入式外壳 - `GPL-3.0`
 * [CurrentActivity](https://github.com/Omico/CurrentActivity)- 当前活动监视器`GPL-3.0`
-* [get_event](https://github.com/lalakii/get_event) - 读取/dev/input/event* `No license`
+* [get_event](https://github.com/lalakii/get_event) - 读取/dev/input/event* `无许可证`
 * [LibChecker](https://github.com/LibChecker/LibChecker) - 一款用于查看设备上应用程序所使用库的应用程序。使用 Shizuku 来确定其他应用程序的安装源。`Apache-2.0`
 * [LogFox](https://github.com/F0x1d/LogFox) -另一个适用于 Android 的 logcat 阅读器 `GPL-3.0`
 * [Logra](https://github.com/wingio/Logra) - 适用于 Android 的 Material You logcat 查看器 `GPL-2.0`
@@ -117,7 +117,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [Mihon](https://github.com/mihonapp/mihon) - 使用 Shizuku 进行插件管理的漫画阅读器。Tachiyomi 的独立继承者. `Apache-2.0`
   * Mihon/Tachiyomi 还有其他几个活跃的分叉，包括 [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) 和[TachiyomiAZ](https://github.com/az4521/TachiyomiAZ)
 * [lac-tool](https://github.com/aliernfrog/lac-tool) - 管理游戏'Los Angeles Crimes'的地图、壁纸和截图  `MIT`
-* [LOModInstaller](https://github.com/anyabot/LOModInstaller) - 游戏“Last Origin”的 Mod 管理器 'Last Origin' `No license`
+* [LOModInstaller](https://github.com/anyabot/LOModInstaller) - 游戏“Last Origin”的 Mod 管理器 'Last Origin' `无许可证`
 * [Panda Gamepad Pro](https://play.google.com/store/apps/details?id=com.panda.gamepad) `Paid` `IAP` 💰 - 游戏键盘映射器`Proprietary`
 * [pf-tool](https://github.com/aliernfrog/pf-tool) - 轻松导入和共享 Polyfield 地图 `MIT`
 * [translatefgo](https://github.com/rayshift/translatefgo)- Fate/Grand Order游戏翻译项目 `CC BY-NC-SA 4.0`
@@ -133,7 +133,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 ### Installer & app stores
 
 * [AuroraStore](https://f-droid.org/en/packages/com.aurora.store/)- Google Play 应用商店的开源替代品，具有隐私保护功能和现代化设计 `GPL-3.0` [(源代码)](https://gitlab.com/AuroraOSS/AuroraStore)
-* [BHub](https://github.com/B1ays/BHub) - 轻松下载、安装和共享修改器 `No license`
+* [BHub](https://github.com/B1ays/BHub) - 轻松下载、安装和共享修改器 `无许可证`
 * [Droid-ify](https://f-droid.org/packages/com.looker.droidify/) - Material F-Droid 客户端 `GPL-3.0` [(源代码)](https://github.com/Droid-ify/client)
 * [fdroid_shizuku_privileged_extension](https://depau.github.io/fdroid_shizuku_privileged_extension/fdroid/repo/) - 与 Shizuku 协同工作的 F-Droid 权限扩展 `Apache-2.0` [(源代码)](https://github.com/depau/fdroid_shizuku_privileged_extension)
 * [ffupdater](https://f-droid.org/packages/de.marmaro.krt.ffupdater/)- FFUpdater：隐私友好浏览器的更新程序 `GPL-3.0` [(源代码)](https://github.com/Tobi823/ffupdater)
@@ -153,7 +153,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
   * [aShell You](https://github.com/DP-Hridayan/aShellYou) - Material You 重新设计 aShell 应用程序。 `GPL-3.0`
 * [Batt](https://gitlab.com/narektor/batt) - 这是一款简单的应用程序，可在 Android 14 及更高版本上显示电池状态信息。 `GPL-3.0`
 * [DSU-Sideloader](https://github.com/VegaBobo/DSU-Sideloader) - 这是一个简单的应用程序，可帮助用户通过 DSU 的安卓功能轻松安装 GSI。 `Apache-2.0`
-* [dualapp-mediastore-compatibility](https://github.com/kaedea/dualapp-mediastore-compatibility) - 修复了 HostProfile 应用程序和 WorkProfile/DualApp/MultiApp 之间的 MediaStore 和文件 IO 兼容性问题。 `No license`
+* [dualapp-mediastore-compatibility](https://github.com/kaedea/dualapp-mediastore-compatibility) - 修复了 HostProfile 应用程序和 WorkProfile/DualApp/MultiApp 之间的 MediaStore 和文件 IO 兼容性问题。 `无许可证`
 * [EDS Full - Encrypted Data Store Full](https://sovworks.com/eds/index.php) `Paid` 💰- 适用于 Android 的虚拟磁盘加密软件，允许您将文件存储在加密容器中。适用于 root 和非 root 的广泛而丰富的功能，此处无法列出（请参阅站点）。通过 Android 意图进行 Shizuku 控制（请参阅常见问题解答）。`Proprietary`
   * [EDS Lite - Encrypted Data Store Lite](https://sovworks.com/eds/index.php) -EDS 完整版的免费版本。功能有限但仍然强大。非 root 和 root 功能。仅适用于非安装模式（有关说明，请参阅站点）。 `GPL-2.0` [(源代码)](https://github.com/sovworks/edslite)
 * [Extinguish](https://play.google.com/store/apps/details?id=own.moderpach.extinguish) - 熄灭关闭屏幕，但保持设备唤醒状态 `Proprietary`
