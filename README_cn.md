@@ -103,7 +103,6 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [get_event](https://github.com/lalakii/get_event) - 读取/dev/input/event* `No license`
 * [LibChecker](https://github.com/LibChecker/LibChecker) - 一款用于查看设备上应用程序所使用库的应用程序。使用 Shizuku 来确定其他应用程序的安装源。`Apache-2.0`
 * [LogFox](https://github.com/F0x1d/LogFox) -另一个适用于 Android 的 logcat 阅读器 `GPL-3.0`
-* [Logra](https://github.com/wingio/Logra) - 适用于 Android 的 Material You logcat 查看器 `GPL-2.0` 
 * [Logra](https://github.com/wingio/Logra) - 适用于 Android 的 Material You logcat 查看器 `GPL-2.0`
 * [PyDroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) `Ads` `IAP` 💰 - 适用于 Python 3 的 IDE `Proprietary`
 * [RootActivityLauncher](https://play.google.com/store/apps/details?id=tk.zwander.rootactivitylauncher&hl=en&gl=US) `Paid` 💰 - 启动/交互（未）导出的活动、服务和接收器。支持 Shizuku 和 root。 `Proprietary` [(源代码)](https://github.com/zacharee/RootActivityLauncher)
