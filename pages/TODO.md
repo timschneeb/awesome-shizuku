@@ -21,7 +21,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [EcosedKit](https://github.com/EcosedApps/EcosedKit) - 🔥EcosedKit是一款现代化Android高级开发框架,利用Kotlin语法提供类似基础组件封装的功能,但不需要继承,只需要附加即可,包含沉浸式适配,对Shizuku等第三方框架的再封装,并提供了一些诸如提示,延时操作,日志输出等小工具,以方便快速构建应用程序.
  * [FeloStore](https://github.com/Felitendo/FeloStore)
  * [Fold_Switcher](https://github.com/eiyooooo/Fold_Switcher) - 折叠屏切换器 | switch between various folding states on foldable devices
- * [FreeFEOS](https://github.com/FreeFEOS/FreeFEOS) - freefeos
  * [FunLogCatcher](https://github.com/Hicores/FunLogCatcher) - Logcat日志记录工具,需要shizuku
  * [GameBot](https://github.com/tkkcc/GameBot)
  * [Genshin-Lyre-midi-player2](https://github.com/weixiansen574/Genshin-Lyre-midi-player2) - 基于shizuku的原神midi自动演奏器
@@ -52,6 +51,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [SimpleVirtualDisplay](https://github.com/kangrio/SimpleVirtualDisplay) - open any apps in virtual display require shizuku
  * [SuperToolBox](https://github.com/dudu-Dev0/SuperToolBox)
  * [TaskManager](https://github.com/java30433/TaskManager) - A simple Task Manager for some special Android devices like WearOS 2.
+ * [Tiny-Installer](https://github.com/trindadedev13/Tiny-Installer) - A Package Installer with MD3 UI.
  * [VRPquest](https://github.com/metalex201/VRPquest) - A quest standalone version of the VRP Rookie sideloader.  !WIP!
  * [VivoTools](https://github.com/ItosEO/VivoTools) - 蓝厂工具盒,用于降级GW和电源信息
  * [Voyage](https://github.com/rgsngdha/Voyage)
@@ -61,7 +61,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [astern](https://github.com/maxregnerklos/astern)
  * [bili-down-out](https://github.com/10miaomiao/bili-down-out) - 哔哩哔哩缓存导出工具
  * [blocktopograph](https://github.com/NguyenDuck/blocktopograph) - Blocktopograph is an app server for MCBE, it includes a world, NBT editor for local world
- * [crosscore-mod-manager](https://github.com/laoxinH/crosscore-mod-manager) - MOD实验室：一个游戏mod管理工具，支持管理大多数二游的MOD，例如交错战线、明日方舟、碧蓝航线、碧蓝档案的魔改以及mod管理，一键开启备份还原，mod预览等
+ * [crosscore-mod-manager](https://github.com/laoxinH/crosscore-mod-manager) - MOD实验室：一个游戏mod管理工具，支持管理大多数二游的MOD，例如交错战线、碧蓝航线、碧蓝档案的魔改以及mod管理，一键开启备份还原，mod预览等
  * [dex2oat](https://github.com/fansangg/dex2oat) - dex2oat
  * [freefeos](https://github.com/freefeos/freefeos) - FreeFEOS is a Flutter plugin, a simple Flutter library operating system and an advanced Flutter development framework that can provide many advanced features for applications.
  * [mrsideloader](https://github.com/maxregnerklos/mrsideloader)
