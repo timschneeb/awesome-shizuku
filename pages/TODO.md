@@ -8,14 +8,8 @@ Please note that many of these apps are often incomplete or sometimes even false
 
 Typically, these apps will be added to the list as soon as possible; however, unfinished apps are usually left in this document until they reach a usable state.
 
- * [DyImage](https://github.com/huaweikai/DyImage) - 用于扫描抖音的沙盒目录，读取表情包信息，并用在其他app
- * [FunLogCatcher](https://github.com/Hicores/FunLogCatcher) - Logcat日志记录工具,需要shizuku
  * [GameBot](https://github.com/tkkcc/GameBot)
- * [Hs](https://github.com/keluokeda/Hs)
- * [HyLi-Connect](https://github.com/Lyxot/HyLi-Connect)
- * [IPHUNTER](https://github.com/MosetiObadiah/IPHUNTER)
  * [MahjongClubBooster](https://github.com/OlegPV2/MahjongClubBooster) - One button only
- * [Manager](https://github.com/Felocord/Manager) - Discord Mobile Client with Plugins and Themes support. Get Plugins/Themes on my Discord:
  * [MyAOD](https://github.com/Uvneshkumar/MyAOD) - A mimic of AOSP AOD
  * [OriginPlan](https://github.com/ItosEO/OriginPlan)
  * [ProberAssistant](https://github.com/ZhuRuoLing/ProberAssistant)
@@ -25,12 +19,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [VRPquest](https://github.com/metalex201/VRPquest) - A quest standalone version of the VRP Rookie sideloader.  !WIP!
  * [VivoTools](https://github.com/ItosEO/VivoTools) - 蓝厂工具盒,用于降级GW和电源信息
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
- * [XPlan-for-Color](https://github.com/ItosEO/XPlan-for-Color)
- * [XPlanForHyper](https://github.com/ItosEO/XPlanForHyper)
- * [hidden-app-atg](https://github.com/khang-atg-dev/hidden-app-atg)
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
- * [paskoocheh-android](https://github.com/ASL-19/paskoocheh-android)
- * [powersoundswitch](https://github.com/sbmatch/powersoundswitch)
- * [react](https://github.com/krmilan14/react)
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
