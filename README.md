@@ -223,7 +223,9 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
   * [aShell You](https://github.com/DP-Hridayan/aShellYou) - Material You Redesign of aShell app. `GPL-3.0`
 * [ShizuShell](https://play.google.com/store/apps/details?id=com.noxinfinity.shell) - ADB shell using Shizuku `Proprietary`
 
-Note: Using [rish](#rish-shell), you can create a local ADB shell with any terminal emulator, such as Termux.
+
+> [!NOTE]
+> Using [rish](#rish-shell), you can create a local ADB shell with any terminal emulator, such as Termux.
 
 ### Vendor-specific
 
@@ -292,7 +294,7 @@ After `rish` is set up, you can use it together with any apps that support calli
 * `echo 'whoami' | rish`: Read shell command from stdin, execute it, and exit once completed
 
 > [!NOTE]
-> `whoami` is used as an example and would return the name of the current shell user.
+> `whoami` is used as an example command and would return the name of the current shell user.
 
 **Usage examples:**
 
