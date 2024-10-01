@@ -4,6 +4,8 @@
 
 This document tracks all GitHub repos and F-Droid apps that make use of Shizuku in some way but are not yet listed in the awesome-shizuku list.
 
+Please note that many of these apps are often incomplete or sometimes even false positives.
+
 Typically, these apps will be added to the list as soon as possible; however, unfinished apps are usually left in this document until they reach a usable state.
 
  * [ADBMultiApp](https://github.com/Mobsama/ADBMultiApp) - Realme基于shizuku双开工具
@@ -37,7 +39,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [MMRL](https://github.com/DerGoogler/MMRL) - A modules manager for Magisk & KernelSU
  * [MahjongClubBooster](https://github.com/OlegPV2/MahjongClubBooster) - One button only
  * [Manager](https://github.com/Felocord/Manager) - Discord Mobile Client with Plugins and Themes support. Get Plugins/Themes on my Discord:
- * [MultiLocale](https://github.com/Nightdavisao/MultiLocale) - A simple app that enables you to add additional (or "unsupported") languages to your device's locale settings, if the OEM (ahem Xiaomi) doesn't let you.
  * [MyAOD](https://github.com/Uvneshkumar/MyAOD) - A mimic of AOSP AOD
  * [NPatch-0.6.1](https://github.com/Mate5000/NPatch-0.6.1)
  * [NavigationSwitcher](https://github.com/chiyuki0325/NavigationSwitcher) - 🎚️ Enable 3-button navigation in rhythm games for MIUI / HyperOS
