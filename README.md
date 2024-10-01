@@ -182,6 +182,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 
 ### Software management
 
+* [AppDash](https://play.google.com/store/apps/details?id=flar2.appdashboard) `IAP` 💰 - An app manager that makes it easy to manage APKs and apps installed on your device `Proprietary`
 * [App Ops](https://play.google.com/store/apps/details?id=rikka.appops) `Ads` `IAP` 💰 -  Manage application permissions without root `Proprietary`
 * [Blocker](https://github.com/lihenggui/blocker) - Enable/disable Android components such as activities, services, receivers, and providers `Apache-2.0`
 * [Canta](https://github.com/samolego/Canta) - Uninstall any app without root `LGPL-3.0`
