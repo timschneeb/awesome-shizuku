@@ -109,6 +109,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 
 ### Entertainment
 
+* [90 FPS + 120 FPS & IPAD VIEW](https://play.google.com/store/apps/details?id=tq.tech.Fps) `Ads` - Enables high FPS in PUBG `Proprietary`
 * [Aniyomi](https://github.com/aniyomiorg/aniyomi) - Tachiyomi fork with anime support and plugin management using Shizuku. `Apache-2.0`
 * [BilibiliCacheVideoMerge](https://github.com/molihuan/BilibiliCacheVideoMerge) - Export BiliBili video cache files to MP4 `Apache-2.0`
 * [Mihon](https://github.com/mihonapp/mihon) - Manga reader with plugin management using Shizuku. Independent successor of Tachiyomi. `Apache-2.0`
@@ -117,6 +118,8 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [LOModInstaller](https://github.com/anyabot/LOModInstaller) - Mod manager for the game 'Last Origin' `No license`
 * [Panda Gamepad Pro](https://play.google.com/store/apps/details?id=com.panda.gamepad) `Paid` `IAP` 💰 - Keymapper for games `Proprietary`
 * [pf-tool](https://github.com/aliernfrog/pf-tool) - Easily import and share Polyfield maps `MIT`
+* [PGT: GFX, Launcher & Optimizer](https://play.google.com/store/apps/details?id=inc.trilokia.pubgfxtool.free) `Ads` - Additional settings for PUBG `Proprietary`
+  * [PGT+: Pro GFX, Launcher & Optimizer](https://play.google.com/store/apps/details?id=inc.trilokia.pubgfxtool) `Paid` 💰 - Additional settings for PUBG `Proprietary`
 * [translatefgo](https://github.com/rayshift/translatefgo) - Fate/Grand Order game translation project `CC BY-NC-SA 4.0`
 
 ### File management
