@@ -8,33 +8,18 @@ Please note that many of these apps are often incomplete or sometimes even false
 
 Typically, these apps will be added to the list as soon as possible; however, unfinished apps are usually left in this document until they reach a usable state.
 
- * [ADBMultiApp](https://github.com/Mobsama/ADBMultiApp) - Realme基于shizuku双开工具
- * [AIDE-Plus](https://github.com/AndroidIDE-CN/AIDE-Plus) - AIDE+版本源码
- * [AIDEPlus](https://github.com/AndroidIDE-CN/AIDEPlus) - AIDE+版本源码
- * [Android-SettingTools](https://github.com/MagicianGuo/Android-SettingTools) - 通过Shizuku授权，实现修改部分系统设置项。
- * [Auto.js](https://github.com/TonyJiangWJ/Auto.js)
- * [Cfm_Joy_Manager](https://github.com/rlin1538/Cfm_Joy_Manager)
  * [DyImage](https://github.com/huaweikai/DyImage) - 用于扫描抖音的沙盒目录，读取表情包信息，并用在其他app
- * [Fold_Switcher](https://github.com/eiyooooo/Fold_Switcher) - 折叠屏切换器 | switch between various folding states on foldable devices
  * [FunLogCatcher](https://github.com/Hicores/FunLogCatcher) - Logcat日志记录工具,需要shizuku
  * [GameBot](https://github.com/tkkcc/GameBot)
- * [Genshin-Lyre-midi-player2](https://github.com/weixiansen574/Genshin-Lyre-midi-player2) - 基于shizuku的原神midi自动演奏器
- * [HandheldExp](https://github.com/Teppichseite/HandheldExp) - An in game menu for ES-DE on Android
- * [Hostman](https://github.com/LinZong/Hostman) - A simple Android app that can preview/edit /etc/hosts file in a GUI manner. Shizuku required.
  * [Hs](https://github.com/keluokeda/Hs)
  * [HyLi-Connect](https://github.com/Lyxot/HyLi-Connect)
  * [IPHUNTER](https://github.com/MosetiObadiah/IPHUNTER)
- * [MMRL](https://github.com/DerGoogler/MMRL) - A modules manager for Magisk & KernelSU
  * [MahjongClubBooster](https://github.com/OlegPV2/MahjongClubBooster) - One button only
  * [Manager](https://github.com/Felocord/Manager) - Discord Mobile Client with Plugins and Themes support. Get Plugins/Themes on my Discord:
  * [MyAOD](https://github.com/Uvneshkumar/MyAOD) - A mimic of AOSP AOD
- * [NavigationSwitcher](https://github.com/chiyuki0325/NavigationSwitcher) - 🎚️ Enable 3-button navigation in rhythm games for MIUI / HyperOS
  * [OriginPlan](https://github.com/ItosEO/OriginPlan)
  * [ProberAssistant](https://github.com/ZhuRuoLing/ProberAssistant)
- * [RexFile](https://github.com/Ruyomi/RexFile)
- * [ServiceManagerCompat](https://github.com/SanmerApps/ServiceManagerCompat) - ServiceManager (LibSu/Shizuku)
  * [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Simple module to change country for tiktok to Belarus(for russian)
- * [SimpleVirtualDisplay](https://github.com/kangrio/SimpleVirtualDisplay) - open any apps in virtual display require shizuku
  * [TaskManager](https://github.com/java30433/TaskManager) - A simple Task Manager for some special Android devices like WearOS 2.
  * [Tiny-Installer](https://github.com/trindadedev13/Tiny-Installer) - A Package Installer with MD3 UI.
  * [VRPquest](https://github.com/metalex201/VRPquest) - A quest standalone version of the VRP Rookie sideloader.  !WIP!
@@ -42,8 +27,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [XPlan-for-Color](https://github.com/ItosEO/XPlan-for-Color)
  * [XPlanForHyper](https://github.com/ItosEO/XPlanForHyper)
- * [blocktopograph](https://github.com/NguyenDuck/blocktopograph) - Blocktopograph is an app server for MCBE, it includes a world, NBT editor for local world
- * [crosscore-mod-manager](https://github.com/laoxinH/crosscore-mod-manager) - MOD实验室：一个游戏mod管理工具，支持管理大多数二游的MOD，例如交错战线、碧蓝航线、碧蓝档案的魔改以及mod管理，一键开启备份还原，mod预览等
  * [hidden-app-atg](https://github.com/khang-atg-dev/hidden-app-atg)
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [paskoocheh-android](https://github.com/ASL-19/paskoocheh-android)
