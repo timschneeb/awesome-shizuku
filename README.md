@@ -22,7 +22,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
   - [Communication](#communication)
   - [Customization](#customization)
   - [Development utilities](#development-utilities)
-  - [Device Owner (DPM)]
+  - [Device Owner (DPM)](#device-owner-dpm)
   - [Display management](#display-management)
   - [Entertainment](#entertainment)
   - [File management](#file-management)
