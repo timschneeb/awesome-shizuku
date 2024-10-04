@@ -8,9 +8,11 @@ Please note that many of these apps are often incomplete or sometimes even false
 
 Typically, these apps will be added to the list as soon as possible; however, unfinished apps are usually left in this document until they reach a usable state.
 
+ * [AIDE-Plus-Private](https://github.com/ZeroAicy/AIDE-Plus-Private) - AIDE+个人备份仓库
  * [GameBot](https://github.com/tkkcc/GameBot)
  * [MahjongClubBooster](https://github.com/OlegPV2/MahjongClubBooster) - One button only
  * [MyAOD](https://github.com/Uvneshkumar/MyAOD) - A mimic of AOSP AOD
+ * [Nh](https://github.com/Huffmybird/Nh)
  * [OriginPlan](https://github.com/ItosEO/OriginPlan)
  * [ProberAssistant](https://github.com/ZhuRuoLing/ProberAssistant)
  * [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Simple module to change country for tiktok to Belarus(for russian)
@@ -19,6 +21,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [VRPquest](https://github.com/metalex201/VRPquest) - A quest standalone version of the VRP Rookie sideloader.  !WIP!
  * [VivoTools](https://github.com/ItosEO/VivoTools) - 蓝厂工具盒,用于降级GW和电源信息
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
+ * [XSamsung](https://github.com/ItosEO/XSamsung) - X计划 for 三星
  * [com.klqmz.test](https://github.com/kuaileqimingzi/com.klqmz.test) - 安卓开发测试
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
