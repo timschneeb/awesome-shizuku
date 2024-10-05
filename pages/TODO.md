@@ -9,6 +9,7 @@ Please note that many of these apps are often incomplete or sometimes even false
 Typically, these apps will be added to the list as soon as possible; however, unfinished apps are usually left in this document until they reach a usable state.
 
  * [AIDE-Plus-Private](https://github.com/ZeroAicy/AIDE-Plus-Private) - AIDE+个人备份仓库
+ * [Amazon_spinner](https://github.com/alexandrampolta/Amazon_spinner) - An Android app that can change your IP (using shizuku ADB ) and visit sponsored products on Amazon.es.
  * [GameBot](https://github.com/tkkcc/GameBot)
  * [MahjongClubBooster](https://github.com/OlegPV2/MahjongClubBooster) - One button only
  * [MyAOD](https://github.com/Uvneshkumar/MyAOD) - A mimic of AOSP AOD
@@ -23,6 +24,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [XSamsung](https://github.com/ItosEO/XSamsung) - X计划 for 三星
  * [com.klqmz.test](https://github.com/kuaileqimingzi/com.klqmz.test) - 安卓开发测试
+ * [mewtachibackup](https://github.com/bigbabyboost/mewtachibackup)
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
