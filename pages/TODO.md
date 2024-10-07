@@ -25,6 +25,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [XSamsung](https://github.com/ItosEO/XSamsung) - X计划 for 三星
  * [com.klqmz.test](https://github.com/kuaileqimingzi/com.klqmz.test) - 安卓开发测试
  * [mewtachibackup](https://github.com/bigbabyboost/mewtachibackup)
+ * [my-scrcpy](https://github.com/5ec1cff/my-scrcpy) - scrcpy app (based on 1.18)
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
