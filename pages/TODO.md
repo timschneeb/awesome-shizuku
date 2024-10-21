@@ -12,6 +12,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [GameBot](https://github.com/tkkcc/GameBot)
  * [GrooveLauncher](https://github.com/groovelauncher/GrooveLauncher) - A groovy personalized home screen experience for Android
  * [MahjongClubBooster](https://github.com/OlegPV2/MahjongClubBooster) - One button only
+ * [MixFlipTool](https://github.com/parallelcc/MixFlipTool) - Root-free one-click configuration for Mix Flip's outer screen: Add and use any apps & Restore system apps to default style
  * [MyAOD](https://github.com/Uvneshkumar/MyAOD) - A mimic of AOSP AOD
  * [Nh](https://github.com/Huffmybird/Nh)
  * [OriginPlan](https://github.com/ItosEO/OriginPlan)
@@ -28,6 +29,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [com.klqmz.test](https://github.com/lovelmxa/com.klqmz.test) - 安卓开发测试
  * [mewtachibackup](https://github.com/bigbabyboost/mewtachibackup)
  * [my-scrcpy](https://github.com/5ec1cff/my-scrcpy) - scrcpy app (based on 1.18)
+ * [noname-shijian-android](https://github.com/nonameShijian/noname-shijian-android) - 无名杀安卓诗笺版仓库
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
