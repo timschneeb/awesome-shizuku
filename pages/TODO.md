@@ -19,6 +19,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [ProberAssistant](https://github.com/ZhuRuoLing/ProberAssistant)
  * [RotaenoUploader](https://github.com/milkycandy/RotaenoUploader) - Rotaeno存档上传器
  * [SBatteryTweaks](https://github.com/pascua28/SBatteryTweaks) - A simple app to enable or disable fast charging mode on Samsung device when battery temperature reaches a certain point
+ * [Shizuku-Plugin](https://github.com/santhosh-D-subramani/Shizuku-Plugin) - A flutter Plugin that gives access to shizuku api
  * [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Simple module to change country for tiktok to Belarus(for russian)
  * [TaskManager](https://github.com/java30433/TaskManager) - A simple Task Manager for some special Android devices like WearOS 2.
  * [Tiny-Installer](https://github.com/trindadedev13/Tiny-Installer) - A Package Installer with MD3 UI.
