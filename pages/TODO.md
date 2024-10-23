@@ -28,6 +28,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [XSamsung](https://github.com/ItosEO/XSamsung) - X计划 for 三星
  * [com.klqmz.test](https://github.com/lovelmxa/com.klqmz.test) - 安卓开发测试
+ * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
  * [mewtachibackup](https://github.com/bigbabyboost/mewtachibackup)
  * [my-scrcpy](https://github.com/5ec1cff/my-scrcpy) - scrcpy app (based on 1.18)
  * [noname-shijian-android](https://github.com/nonameShijian/noname-shijian-android) - 无名杀安卓诗笺版仓库
