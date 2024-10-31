@@ -10,10 +10,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
 
  * [AIDE-Plus-Private](https://github.com/ZeroAicy/AIDE-Plus-Private) - AIDE+个人备份仓库
  * [MahjongClubBooster](https://github.com/OlegPV2/MahjongClubBooster) - One button only
- * [MyAOD](https://github.com/Uvneshkumar/MyAOD) - A mimic of AOSP AOD
- * [Nh](https://github.com/Huffmybird/Nh)
- * [OriginPlan](https://github.com/ItosEO/OriginPlan)
- * [ProberAssistant](https://github.com/ZhuRuoLing/ProberAssistant)
  * [RotaenoUploader](https://github.com/milkycandy/RotaenoUploader) - Rotaeno存档上传器
  * [Shizuku-Plugin](https://github.com/santhosh-D-subramani/Shizuku-Plugin) - A flutter Plugin that gives access to shizuku api
  * [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Simple module to change country for tiktok to Belarus(for russian)
@@ -23,7 +19,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [VivoTools](https://github.com/ItosEO/VivoTools) - 蓝厂工具盒,用于降级GW和电源信息
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [XSamsung](https://github.com/ItosEO/XSamsung) - X计划 for 三星
- * [com.klqmz.test](https://github.com/lovelmxa/com.klqmz.test) - 安卓开发测试
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
  * [noname-shijian-android](https://github.com/nonameShijian/noname-shijian-android) - 无名杀安卓诗笺版仓库
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
