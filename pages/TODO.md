@@ -9,7 +9,6 @@ Please note that many of these apps are often incomplete or sometimes even false
 Typically, these apps will be added to the list as soon as possible; however, unfinished apps are usually left in this document until they reach a usable state.
 
  * [AIDE-Plus-Private](https://github.com/ZeroAicy/AIDE-Plus-Private) - AIDE+个人备份仓库
- * [GameBot](https://github.com/tkkcc/GameBot)
  * [MahjongClubBooster](https://github.com/OlegPV2/MahjongClubBooster) - One button only
  * [MyAOD](https://github.com/Uvneshkumar/MyAOD) - A mimic of AOSP AOD
  * [Nh](https://github.com/Huffmybird/Nh)
@@ -26,8 +25,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [XSamsung](https://github.com/ItosEO/XSamsung) - X计划 for 三星
  * [com.klqmz.test](https://github.com/lovelmxa/com.klqmz.test) - 安卓开发测试
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
- * [mewtachibackup](https://github.com/bigbabyboost/mewtachibackup)
- * [my-scrcpy](https://github.com/5ec1cff/my-scrcpy) - scrcpy app (based on 1.18)
  * [noname-shijian-android](https://github.com/nonameShijian/noname-shijian-android) - 无名杀安卓诗笺版仓库
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
