@@ -10,15 +10,12 @@ Typically, these apps will be added to the list as soon as possible; however, un
 
  * [AIDE-Plus-Private](https://github.com/ZeroAicy/AIDE-Plus-Private) - AIDE+个人备份仓库
  * [GameBot](https://github.com/tkkcc/GameBot)
- * [GrooveLauncher](https://github.com/groovelauncher/GrooveLauncher) - A groovy personalized home screen experience for Android
  * [MahjongClubBooster](https://github.com/OlegPV2/MahjongClubBooster) - One button only
- * [MixFlipTool](https://github.com/parallelcc/MixFlipTool) - Root-free one-click configuration for Mix Flip's outer screen: Add and use any apps & Restore system apps to default style
  * [MyAOD](https://github.com/Uvneshkumar/MyAOD) - A mimic of AOSP AOD
  * [Nh](https://github.com/Huffmybird/Nh)
  * [OriginPlan](https://github.com/ItosEO/OriginPlan)
  * [ProberAssistant](https://github.com/ZhuRuoLing/ProberAssistant)
  * [RotaenoUploader](https://github.com/milkycandy/RotaenoUploader) - Rotaeno存档上传器
- * [SBatteryTweaks](https://github.com/pascua28/SBatteryTweaks) - A simple app to enable or disable fast charging mode on Samsung device when battery temperature reaches a certain point
  * [Shizuku-Plugin](https://github.com/santhosh-D-subramani/Shizuku-Plugin) - A flutter Plugin that gives access to shizuku api
  * [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Simple module to change country for tiktok to Belarus(for russian)
  * [TaskManager](https://github.com/java30433/TaskManager) - A simple Task Manager for some special Android devices like WearOS 2.
