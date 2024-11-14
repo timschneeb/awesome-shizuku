@@ -183,7 +183,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [IzzyOnDroid](https://gitlab.com/sunilpaulmathew/izzyondroid) - IzzyOnDroid F-Droid 存储库的非官方客户端`GPL-3.0`
 * [Obtainium](https://github.com/ImranR98/Obtainium) - 直接从源获取 Android 应用程序更新 `GPL-3.0`
 * [PI](https://github.com/SanmerApps/PI) - 允许覆盖包请求者和执行者的包安装程序 `MIT`
-* [SAI](https://play.google.com/store/apps/details?id=com.aefyr.sai) - Android 拆分 APK 安装程序 `GPL-3.0` [(源代码)](https://github.com/Aefyr/SAI)
+* [SAI](https://f-droid.org/packages/com.aefyr.sai.fdroid/) - Android 拆分 APK 安装程序 `GPL-3.0` [(源代码)](https://github.com/Aefyr/SAI)
 * [skydroid](https://github.com/redsolver/skydroid) - 适用于 Android 的分散式基于域的应用程序商店 `GPL-3.0`
 
 ### Miscellaneous
