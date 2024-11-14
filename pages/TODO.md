@@ -17,7 +17,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Simple module to change country for tiktok to Belarus(for russian)
  * [TachiyomiH](https://github.com/ImaginaryDesignation/TachiyomiH) - Free and open source manga reader for Android.
  * [TaskManager](https://github.com/java30433/TaskManager) - A simple Task Manager for some special Android devices like WearOS 2.
- * [Tiny-Installer](https://github.com/trindadedev13/Tiny-Installer) - A Package Installer with MD3 UI.
  * [VRPquest](https://github.com/metalex201/VRPquest) - A quest standalone version of the VRP Rookie sideloader.  !WIP!
  * [VerfDark](https://github.com/wkbin/VerfDark) - 极暗模式
  * [VivoTools](https://github.com/ItosEO/VivoTools) - 蓝厂工具盒,用于降级GW和电源信息
