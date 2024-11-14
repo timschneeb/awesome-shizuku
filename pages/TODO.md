@@ -15,6 +15,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Sd-maid](https://github.com/w1s3one805/Sd-maid)
  * [Shizuku-Plugin](https://github.com/santhosh-D-subramani/Shizuku-Plugin) - A flutter Plugin that gives access to shizuku api
  * [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Simple module to change country for tiktok to Belarus(for russian)
+ * [Sui-magisk](https://github.com/w1s3one805/Sui-magisk)
  * [TachiyomiH](https://github.com/ImaginaryDesignation/TachiyomiH) - Free and open source manga reader for Android.
  * [TaskManager](https://github.com/java30433/TaskManager) - A simple Task Manager for some special Android devices like WearOS 2.
  * [VRPquest](https://github.com/metalex201/VRPquest) - A quest standalone version of the VRP Rookie sideloader.  !WIP!
