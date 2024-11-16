@@ -24,6 +24,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [XSamsung](https://github.com/ItosEO/XSamsung) - X计划 for 三星
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
+ * [instafel-updater](https://github.com/mamiiblt/instafel-updater) - Shizuku updater app for Instafel
  * [newapp2](https://github.com/maxregnerklos/newapp2)
  * [noname-shijian-android](https://github.com/nonameShijian/noname-shijian-android) - 无名杀安卓诗笺版仓库
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
