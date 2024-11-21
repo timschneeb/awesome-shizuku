@@ -10,6 +10,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
 
  * [AIDE-Plus-Private](https://github.com/ZeroAicy/AIDE-Plus-Private) - AIDE+个人备份仓库
  * [AdvancedReboot](https://github.com/EX3124/AdvancedReboot)
+ * [Ashuyomi](https://github.com/Ashuyomi/Ashuyomi) - Brincando com Android Studio para entender como a ferramenta funciona 
  * [MahjongClubBooster](https://github.com/OlegPV2/MahjongClubBooster) - One button only
  * [RotaenoUploader](https://github.com/milkycandy/RotaenoUploader) - Rotaeno存档上传器
  * [Sd-maid](https://github.com/w1s3one805/Sd-maid)
