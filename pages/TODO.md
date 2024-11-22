@@ -15,6 +15,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [RotaenoUploader](https://github.com/milkycandy/RotaenoUploader) - Rotaeno存档上传器
  * [Sd-maid](https://github.com/w1s3one805/Sd-maid)
  * [Shizuku-Plugin](https://github.com/santhosh-D-subramani/Shizuku-Plugin) - A flutter Plugin that gives access to shizuku api
+ * [Shizuku1](https://github.com/lingyanlearn/Shizuku1)
  * [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Simple module to change country for tiktok to Belarus(for russian)
  * [Sui-magisk](https://github.com/w1s3one805/Sui-magisk)
  * [TachiyomiH](https://github.com/ImaginaryDesignation/TachiyomiH) - Free and open source manga reader for Android.
