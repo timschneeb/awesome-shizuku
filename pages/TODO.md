@@ -10,15 +10,12 @@ Typically, these apps will be added to the list as soon as possible; however, un
 
  * [AIDE-Plus-Private](https://github.com/ZeroAicy/AIDE-Plus-Private) - AIDE+个人备份仓库
  * [AdvancedReboot](https://github.com/EX3124/AdvancedReboot)
- * [Ashuyomi](https://github.com/Ashuyomi/Ashuyomi) - Brincando com Android Studio para entender como a ferramenta funciona 
  * [MahjongClubBooster](https://github.com/OlegPV2/MahjongClubBooster) - One button only
+ * [NPatch1](https://github.com/mostafameesr1/NPatch1)
  * [RotaenoUploader](https://github.com/milkycandy/RotaenoUploader) - Rotaeno存档上传器
- * [Sd-maid](https://github.com/w1s3one805/Sd-maid)
  * [Shizuku-Plugin](https://github.com/santhosh-D-subramani/Shizuku-Plugin) - A flutter Plugin that gives access to shizuku api
  * [Shizuku1](https://github.com/lingyanlearn/Shizuku1)
  * [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Simple module to change country for tiktok to Belarus(for russian)
- * [Sui-magisk](https://github.com/w1s3one805/Sui-magisk)
- * [TachiyomiH](https://github.com/ImaginaryDesignation/TachiyomiH) - Free and open source manga reader for Android.
  * [TaskManager](https://github.com/java30433/TaskManager) - A simple Task Manager for some special Android devices like WearOS 2.
  * [VRPquest](https://github.com/metalex201/VRPquest) - A quest standalone version of the VRP Rookie sideloader.  !WIP!
  * [VerfDark](https://github.com/wkbin/VerfDark) - 极暗模式
@@ -27,7 +24,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [XSamsung](https://github.com/ItosEO/XSamsung) - X计划 for 三星
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
  * [instafel-updater](https://github.com/mamiiblt/instafel-updater) - Shizuku updater app for Instafel
- * [newapp2](https://github.com/maxregnerklos/newapp2)
  * [noname-shijian-android](https://github.com/nonameShijian/noname-shijian-android) - 无名杀安卓诗笺版仓库
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
