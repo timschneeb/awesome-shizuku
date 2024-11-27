@@ -10,6 +10,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
 
  * [AIDE-Plus-Private](https://github.com/ZeroAicy/AIDE-Plus-Private) - AIDE+个人备份仓库
  * [AdvancedReboot](https://github.com/EX3124/AdvancedReboot)
+ * [CBJQ_HugFenny](https://github.com/LiuJiewenTT/CBJQ_HugFenny)
  * [MahjongClubBooster](https://github.com/OlegPV2/MahjongClubBooster) - One button only
  * [NPatch](https://github.com/mostafameesr1/NPatch)
  * [NPatch1](https://github.com/mostafameesr1/NPatch1)
@@ -18,6 +19,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Shizuku1](https://github.com/lingyanlearn/Shizuku1)
  * [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Simple module to change country for tiktok to Belarus(for russian)
  * [TaskManager](https://github.com/java30433/TaskManager) - A simple Task Manager for some special Android devices like WearOS 2.
+ * [Tiny-Installer](https://github.com/scto/Tiny-Installer) - A Package Installer with MD3 UI.
  * [VRPquest](https://github.com/metalex201/VRPquest) - A quest standalone version of the VRP Rookie sideloader.  !WIP!
  * [VerfDark](https://github.com/wkbin/VerfDark) - 极暗模式
  * [VivoTools](https://github.com/ItosEO/VivoTools) - 蓝厂工具盒,用于降级GW和电源信息
