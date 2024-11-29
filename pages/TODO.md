@@ -25,6 +25,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [VivoTools](https://github.com/ItosEO/VivoTools) - 蓝厂工具盒,用于降级GW和电源信息
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [XSamsung](https://github.com/ItosEO/XSamsung) - X计划 for 三星
+ * [delta](https://github.com/supershadoe/delta) - Hotspot manager using Shizuku API
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
  * [instafel-updater](https://github.com/mamiiblt/instafel-updater) - Shizuku updater app for Instafel
  * [noname-shijian-android](https://github.com/nonameShijian/noname-shijian-android) - 无名杀安卓诗笺版仓库
