@@ -34,6 +34,7 @@ For the sake of completeness, these projects are linked despite being inaccessib
 * [HoleConsoleApp](https://github.com/zmide/HoleConsoleApp) - A mobile chrome web debugging app `No license`
 * [InstallerX](https://t.me/InstallerX) - A modern and functional Android app installer. It is possible to replace the standard installer. (Used to be open-source; [archived source code](https://github.com/drogga/InstallerX)) `Proprietary`
 * [majora-adr](https://github.com/yint-tech/majora-adr) - Centralized system for quickly building proxy IP pool clusters `No license`
+* [NoPopping](https://appteka.store/app/d9fr99475) `IAP` 💰 - Auto Do-Not-Disturb mode (Discontinued) `Proprietary`
 * [PowerKeyAction](https://github.com/ryuunoakaihitomi/PowerKeyAction) - Simulates hardware power button presses `No license`
 * [RexFile](https://github.com/Ruyomi/RexFile) - Development library for interacting with files on Android `LGPL-2.1`
 * [ServiceManagerCompat](https://github.com/SanmerApps/ServiceManagerCompat) - Development library for interacting with ServiceManagerCompat on Android `MIT`
