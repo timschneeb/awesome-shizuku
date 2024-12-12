@@ -121,6 +121,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [Android-Screener](https://github.com/jiesou/Android-Screener) - A tool for easily adjusting screen resolution and frame rate `MIT`
 * [Fold_Switcher](https://github.com/eiyooooo/Fold_Switcher) - Switch between various display folding states on foldable devices `Apache-2.0`
 * [SecondScreen](https://play.google.com/store/apps/details?id=com.farmerbb.secondscreen.free) - Better screen mirroring for Android devices `Apache-2.0` [(Source code)](https://github.com/farmerbb/SecondScreen)
+* [ConnectScreen](https://connect-screen.com/) - Launch single apps to display in fullscreen on external displays, support both USB 2.0 (via displaylink dock) and USB 3.0 mobile phones. Can control the external display with touch screen, usb devices or bluetooth controller (even you are USB 2.0 and using displaylink dock). Can use the primary screen of the mobile as a virtual touchpad to control external display. Can rotate the screen for applications like tiktok `GPL-3.0` [(Source code)](https://gitee.com/connect-screen/connect-screen)
 
 ### Entertainment
 
