@@ -249,7 +249,6 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 
 #### MIUI
 
-* [AppLock](https://github.com/Mufanc/AppLock) - Prevent apps from being killed by side slide or one-click cleanup on MIUI 12+  `GPL-3.0` 
 * [FiveGSwitcher](https://play.google.com/store/apps/details?id=com.ysy.switcherfiveg) - 5G shortcut switch for MIUI `GPL-3.0` - [(Source code)](https://github.com/ysy950803/FiveGSwitcher)
 * [FxxkMIUIAd](https://github.com/qhy040404/FxxkMIUIAd) - Turn off MIUI ads with minimal cost `Apache-2.0`
 * [MixFlipTool](https://github.com/parallelcc/MixFlipTool) - One-click configuration for Mix Flip's outer screen: Use any apps and restore system apps to default style `GPL-3.0`
