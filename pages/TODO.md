@@ -12,17 +12,13 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [AIDE-Plus-Private](https://github.com/ZeroAicy/AIDE-Plus-Private) - AIDE+个人备份仓库
  * [AdvancedReboot](https://github.com/EX3124/AdvancedReboot)
  * [CBJQ_HugFenny](https://github.com/LiuJiewenTT/CBJQ_HugFenny)
- * [FMD](https://github.com/loyality7/FMD)
  * [MahjongClubBooster](https://github.com/OlegPV2/MahjongClubBooster) - One button only
- * [NPatch](https://github.com/mostafameesr1/NPatch)
- * [NPatch1](https://github.com/mostafameesr1/NPatch1)
  * [RotaenoUploader](https://github.com/milkycandy/RotaenoUploader) - Rotaeno存档上传器
  * [Shizuku-Plugin](https://github.com/santhosh-D-subramani/Shizuku-Plugin) - A flutter Plugin that gives access to shizuku api
- * [Shizuku1](https://github.com/lingyanlearn/Shizuku1)
  * [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Simple module to change country for tiktok to Belarus(for russian)
  * [TaskManager](https://github.com/java30433/TaskManager) - A simple Task Manager for some special Android devices like WearOS 2.
  * [Tiny-Installer](https://github.com/scto/Tiny-Installer) - A Package Installer with MD3 UI.
- * [TxtNet-Browser-updated73trash](https://github.com/Austinati/TxtNet-Browser-updated73trash)
+ * [TxtNet-Browser-night](https://github.com/Austinati/TxtNet-Browser-night)
  * [VRPquest](https://github.com/metalex201/VRPquest) - A quest standalone version of the VRP Rookie sideloader.  !WIP!
  * [VerfDark](https://github.com/wkbin/VerfDark) - 极暗模式
  * [VivoTools](https://github.com/ItosEO/VivoTools) - 蓝厂工具盒,用于降级GW和电源信息
@@ -35,4 +31,3 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
- * [yokai](https://github.com/null2264/yokai) - Free and open source manga reader for Android
