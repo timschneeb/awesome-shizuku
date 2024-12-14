@@ -16,7 +16,6 @@ For the sake of completeness, these projects are linked despite being inaccessib
 * [Android-SettingTools](https://github.com/MagicianGuo/Android-SettingTools) - Changes various system settings `No license`
 * [AutoCheckinPlugin](https://github.com/MartinKayJr/AutoCheckinPlugin) - WeChat automatic check-in `No license`
 * [Auto.js](https://github.com/TonyJiangWJ/Auto.js) - JavaScript IDE on Android `MPL-2.0`
-* [AutoJs6](https://github.com/SuperMonster003/AutoJs6) - JavaScript-based automation tool `MPL-2.0`
 * [AutoSkip](https://github.com/xjunz/AutoSkip) - Skip startup advertisements in some apps `Apache-2.0`
 * [AutoTask](https://github.com/xjunz/AutoTask) - An automation assistant app supporting both Shizuku and AccessibilityService `Apache-2.0`
 * [Cfm_Joy_Manager](https://github.com/rlin1538/Cfm_Joy_Manager) - Gamepad mapper for CrossFire: Gunfight King `No license`
