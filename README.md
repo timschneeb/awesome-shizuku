@@ -42,6 +42,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 - [Development libraries](#development-libraries)
   - [Core](#core)
   - [Filesystem](#filesystem)
+  - [System](#system)
   - [Power](#power)
 - [Rish shell](#rish-shell)
 - [Annotations](#annotations)
@@ -82,6 +83,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [CarrierVanityName](https://github.com/nullbytepl/CarrierVanityName) - Carrier Vanity Name is a very simple app to change the carrier names on unrooted Android devices `GPL-3.0`
 * [ColorBlendr](https://github.com/Mahmud0808/ColorBlendr) - An application to modify Material You colors of your device `GPL-3.0`
 * [DarQ](https://github.com/KieronQuinn/DarQ) - DarQ provides a per-app selectable force dark option for Android 10 and above `Apache-2.0`
+* [Dawn-Desktop-Addons](https://github.com/Dawncraft/Dawn-Desktop-Addons) - Some Android app widgets and live wallpapers `GPL-3.0`
 * [Extendroid](https://github.com/legendsayantan/Extendroid) - Adds desktop-like multi-window support, on android os for smartphones. `No license`
 * [GrooveLauncher](https://github.com/groovelauncher/GrooveLauncher) - Windows 8 Metro-styled launcher that can uninstall apps using Shizuku
 * [Language-Selector](https://github.com/VegaBobo/Language-Selector) - Allows users to select individual app languages (Android 13+) `Apache-2.0`
@@ -97,6 +99,8 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 
 ### Development utilities
 
+* [AIDE-Plus](https://github.com/AndroidIDE-CN/AIDE-Plus) - Android IDE for phones `AGPL-3.0`
+* [android_airplane_mode](https://github.com/lalakii/android_airplane_mode) - Sample app that can switch airplane mode `No license`
 * [AndroidAccounts](https://github.com/iamr0s/AndroidAccounts) - Dump package names of apps that have registered an account for a user. `No license`
 * [AndroidLowLevelDetector](https://play.google.com/store/apps/details?id=net.imknown.android.forefrontinfo) - Detect Treble, GSI, Mainline, APEX, system-as-root(SAR), A/B, etc. `Apache-2.0` [(Source code)](https://github.com/imknown/AndroidLowLevelDetector)
 * [Cosmic-IDE](https://github.com/Cosmic-Ide/Cosmic-IDE) IDE for JVM development. Uses Shizuku for an embedded shell - `GPL-3.0`
@@ -276,6 +280,9 @@ I'm also using an automated crawler that searches for new projects, making use o
 * [LintFile](https://github.com/lumkit/LintFile) - A file operation library with Shizuku, root, and regular filesystem backends `LGPL-2.1`
 * [nextgenfs](https://github.com/rayshift/nextgenfs) - Shizuku compatible android/data access from Xamarin - AIDL library `MIT`
 * [shizuku_apk_installer](https://github.com/re7gog/shizuku_apk_installer) - Flutter plugin for installing Android APKs using Shizuku API `MIT`
+
+### System
+* [ServiceManagerCompat](https://github.com/SanmerApps/ServiceManagerCompat) - ServiceManager bindings `MIT`
 
 ### Power
 
