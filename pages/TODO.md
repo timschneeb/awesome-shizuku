@@ -21,7 +21,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Tiny-Installer](https://github.com/scto/Tiny-Installer) - A Package Installer with MD3 UI.
  * [Unofficial-Shizuku](https://github.com/Shoukaku07/Unofficial-Shizuku) - Shizuku with new gradlew. Just personal project and for fun.
  * [VRPquest](https://github.com/metalex201/VRPquest) - A quest standalone version of the VRP Rookie sideloader.  !WIP!
- * [VerfDark](https://github.com/wkbin/VerfDark) - 极暗模式
  * [VeryDark](https://github.com/wkbin/VeryDark) - 极暗模式
  * [VivoTools](https://github.com/ItosEO/VivoTools) - 蓝厂工具盒,用于降级GW和电源信息
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
