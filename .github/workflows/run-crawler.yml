@@ -39,7 +39,7 @@ jobs:
 
     - name: Restore cache
       id: cache-restore
-      uses: actions/cache/restore@v3
+      uses: actions/cache/restore@v4
       with:
         path: cache/
         key: ${{ env.cache-key }}
@@ -63,7 +63,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Save cache
-      uses: actions/cache/save@v3
+      uses: actions/cache/save@v4
       with:
         path: cache/
         key: ${{ env.cache-key }}
