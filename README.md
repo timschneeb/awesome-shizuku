@@ -125,9 +125,10 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 ### Display management
 * [AG Displays](https://play.google.com/store/apps/details?id=com.htl.agdisplays) `Ads` - Launch other apps on external displays (TV/Monitor) or desktop mode on virtual displays while the phone screen can be used for other purposes or turned off `Proprietary`
 * [Android-Screener](https://github.com/jiesou/Android-Screener) - A tool for easily adjusting screen resolution and frame rate `MIT`
+* [ConnectScreen](https://connect-screen.com/) - Launch single apps to display in fullscreen on external displays, supporting both USB 2.0 (via DisplayLink dock) and USB 3.0 mobile phones. Can control the external display with a touch screen, USB devices or Bluetooth controller (even if you are USB 2.0 and using a DisplayLink dock). Can use the primary screen of the mobile as a virtual touchpad to control external display. Can rotate the screen for applications like TikTok `GPL-3.0` [(Source code)](https://gitee.com/connect-screen/connect-screen)
 * [Fold_Switcher](https://github.com/eiyooooo/Fold_Switcher) - Switch between various display folding states on foldable devices `Apache-2.0`
 * [SecondScreen](https://play.google.com/store/apps/details?id=com.farmerbb.secondscreen.free) - Better screen mirroring for Android devices `Apache-2.0` [(Source code)](https://github.com/farmerbb/SecondScreen)
-* [ConnectScreen](https://connect-screen.com/) - Launch single apps to display in fullscreen on external displays, support both USB 2.0 (via displaylink dock) and USB 3.0 mobile phones. Can control the external display with touch screen, usb devices or bluetooth controller (even you are USB 2.0 and using displaylink dock). Can use the primary screen of the mobile as a virtual touchpad to control external display. Can rotate the screen for applications like tiktok `GPL-3.0` [(Source code)](https://gitee.com/connect-screen/connect-screen)
+* [pixelify](https://github.com/DitzDev/pixelify) - Fast and simple display resolution changer  `MIT`
 
 ### Entertainment
 
