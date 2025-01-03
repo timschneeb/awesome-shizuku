@@ -13,6 +13,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [AdvancedReboot](https://github.com/EX3124/AdvancedReboot)
  * [BunnyManager](https://github.com/The-Autists/BunnyManager)
  * [CBJQ_HugFenny](https://github.com/LiuJiewenTT/CBJQ_HugFenny)
+ * [CatShare](https://github.com/kmod-midori/CatShare)
  * [Genshin-Lyre-midi-player-server](https://github.com/byzp/Genshin-Lyre-midi-player-server)
  * [MahjongClubBooster](https://github.com/OlegPV2/MahjongClubBooster) - One button only
  * [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解锁运营商限制，优化信号显示，突破区域限制
