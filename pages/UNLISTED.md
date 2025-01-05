@@ -24,7 +24,7 @@ For the sake of completeness, these projects are linked despite being inaccessib
 * [FabricateOverlay](https://github.com/zacharee/FabricateOverlay) - (Deprecated) Manage fabricated overlays on Android 12.0; Android 12L breaks this app. `No license`
 * [freeform_update](https://github.com/eswd04/freeform_update) - Fork of [Mi-FreeForm](https://github.com/sunshine0523/Mi-FreeForm) `GPL-3.0`
 * [fps-switcher](https://github.com/AlphaBoom/fps_switcher) - Refresh rate quick settings tile for MIUI `No license`
-* [gkd](https://github.com/gkd-kit/gkd) - Automation and tweaks for Chinese chat apps `GPL-3.0`
+* [gkd](https://github.com/gkd-kit/gkd) - An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules `GPL-3.0`
 * [greentooth](https://github.com/qwerty12/greentooth) - Automatically disable Bluetooth when the last Bluetooth device has been disconnected. Fork of another app called 'greentooth'. `Apache-2.0`
 * [hap-viewer-android](https://github.com/westinyang/hap-viewer-android) - Viewer for HarmonyOS application installation packages `Apache-2.0`
 * [HoleConsoleApp](https://github.com/zmide/HoleConsoleApp) - A mobile chrome web debugging app `No license`
