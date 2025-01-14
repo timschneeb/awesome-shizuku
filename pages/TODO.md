@@ -36,4 +36,5 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
+ * [simple-adb-wifi](https://github.com/theshoqanebi/simple-adb-wifi) - Enable adb over WIFI (root required)
  * [zukulock](https://github.com/tiendnm/zukulock)
