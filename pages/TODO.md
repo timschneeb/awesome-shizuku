@@ -15,6 +15,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [CBJQ_HugFenny](https://github.com/LiuJiewenTT/CBJQ_HugFenny)
  * [CatShare](https://github.com/kmod-midori/CatShare) - 类原生 & 海外设备，现已加入互传联盟。
  * [Genshin-Lyre-midi-player-server](https://github.com/byzp/Genshin-Lyre-midi-player-server)
+ * [IgniteX.Cheats](https://github.com/dev-swarup/IgniteX.Cheats)
  * [MahjongClubBooster](https://github.com/OlegPV2/MahjongClubBooster) - One button only
  * [ManageSensors](https://github.com/Carry-rrk/ManageSensors) - use appops and shizuku manage sensor
  * [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
@@ -36,6 +37,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [instafel-updater](https://github.com/mamiiblt/instafel-updater) - Shizuku updater app for Instafel
  * [noname-shijian-android](https://github.com/nonameShijian/noname-shijian-android) - 无名杀安卓诗笺版仓库
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
+ * [reactmap-android](https://github.com/Mygod/reactmap-android) - Android WebView app for ReactMap with added goodies
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
  * [simple-adb-wifi](https://github.com/theshoqanebi/simple-adb-wifi) - Enable adb over WIFI (root required)
