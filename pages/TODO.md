@@ -14,6 +14,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [BunnyManager](https://github.com/The-Autists/BunnyManager)
  * [CBJQ_HugFenny](https://github.com/LiuJiewenTT/CBJQ_HugFenny)
  * [CatShare](https://github.com/kmod-midori/CatShare) - 类原生 & 海外设备，现已加入互传联盟。
+ * [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)
  * [Genshin-Lyre-midi-player-server](https://github.com/byzp/Genshin-Lyre-midi-player-server)
  * [IgniteX.Cheats](https://github.com/dev-swarup/IgniteX.Cheats)
  * [MahjongClubBooster](https://github.com/OlegPV2/MahjongClubBooster) - One button only
@@ -32,6 +33,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [XSamsung](https://github.com/ItosEO/XSamsung) - X计划 for 三星
  * [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed
  * [delta](https://github.com/supershadoe/delta) - Hotspot manager using Shizuku API
+ * [delta_spot](https://github.com/supershadoe/delta_spot) - (not working) Hotspot manager using Shizuku API
  * [digipaws](https://github.com/nethical6/digipaws) - Free App Blocker for android
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
  * [instafel-updater](https://github.com/mamiiblt/instafel-updater) - Shizuku updater app for Instafel
