@@ -13,8 +13,9 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [AdvancedReboot](https://github.com/EX3124/AdvancedReboot)
  * [BunnyManager](https://github.com/The-Autists/BunnyManager)
  * [CBJQ_HugFenny](https://github.com/LiuJiewenTT/CBJQ_HugFenny)
- * [CatShare](https://github.com/kmod-midori/CatShare) - 类原生 & 海外设备，现已加入互传联盟。
+ * [CatShare](https://github.com/kmod-midori/CatShare) - App for Mutual Transmission Alliance
  * [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)
+ * [DigiPaws - Digital Wellbeing and App Blocker](https://github.com/nethical6/digipaws) - Monitor and Cut Down Your Screen Time Effectively
  * [DroneHub](https://github.com/alexis-/DroneHub)
  * [Genshin-Lyre-midi-player-server](https://github.com/byzp/Genshin-Lyre-midi-player-server)
  * [IgniteX.Cheats](https://github.com/dev-swarup/IgniteX.Cheats)
