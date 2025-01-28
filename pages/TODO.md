@@ -29,8 +29,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Tiny-Installer](https://github.com/scto/Tiny-Installer) - A Package Installer with MD3 UI.
  * [VRPquest](https://github.com/metalex201/VRPquest) - A quest standalone version of the VRP Rookie sideloader.  !WIP!
  * [VeryDark](https://github.com/wkbin/VeryDark) - 极暗模式
- * [VivoTools](https://github.com/ItosEO/VivoTools) - 蓝厂工具盒,用于降级GW和电源信息
- * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [XSamsung](https://github.com/ItosEO/XSamsung) - X计划 for 三星
  * [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
