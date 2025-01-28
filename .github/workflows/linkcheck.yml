@@ -9,12 +9,13 @@ on:
 jobs:
   check:
     strategy:
+      fail-fast: false
       matrix:
         file: ['README.md', 'pages/UNLISTED.md']
 
     runs-on: ubuntu-latest
-    continue-on-error: true
-    fail-fast: false
+    cc: true
+
 
     steps:
     - uses: actions/checkout@v3
