@@ -13,9 +13,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [AdvancedReboot](https://github.com/EX3124/AdvancedReboot)
  * [BunnyManager](https://github.com/The-Autists/BunnyManager)
  * [CBJQ_HugFenny](https://github.com/LiuJiewenTT/CBJQ_HugFenny)
- * [CatShare](https://github.com/kmod-midori/CatShare) - App for Mutual Transmission Alliance
  * [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)
- * [DigiPaws - Digital Wellbeing and App Blocker](https://github.com/nethical6/digipaws) - Monitor and Cut Down Your Screen Time Effectively
  * [DroneHub](https://github.com/alexis-/DroneHub)
  * [Genshin-Lyre-midi-player-server](https://github.com/byzp/Genshin-Lyre-midi-player-server)
  * [IgniteX.Cheats](https://github.com/dev-swarup/IgniteX.Cheats)
@@ -36,7 +34,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [XSamsung](https://github.com/ItosEO/XSamsung) - X计划 for 三星
  * [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed
  * [delta_spot](https://github.com/supershadoe/delta_spot) - (not working) Hotspot manager using Shizuku API
- * [digipaws](https://github.com/nethical6/digipaws) - Free App Blocker for android
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
  * [noname-shijian-android](https://github.com/nonameShijian/noname-shijian-android) - 无名杀安卓诗笺版仓库
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
@@ -44,4 +41,3 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
  * [simple-adb-wifi](https://github.com/theshoqanebi/simple-adb-wifi) - Enable adb over WIFI (root required)
- * [zukulock](https://github.com/tiendnm/zukulock)
