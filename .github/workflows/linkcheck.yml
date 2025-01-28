@@ -20,4 +20,10 @@ jobs:
     - name: Run awesome_bot
       run: |
         gem install awesome_bot
-        awesome_bot -f README.md,pages/UNLISTED.md -a 429 -w timschneeb/awesome-shizuku --base-url https://github.com/timschneeb/awesome-shizuku/blob/master/
+        awesome_bot -f README.md,pages/UNLISTED.md -a 429 --base-url https://github.com/timschneeb/awesome-shizuku/blob/master/
+
+    - uses: actions/upload-artifact@v4
+      if: failure()
+      with:
+        name: ab-results
+        path: ab-results-README.md-filtered.json
