@@ -182,7 +182,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [Droid-ify](https://f-droid.org/packages/com.looker.droidify/) - Material F-Droid client `GPL-3.0` [(Source code)](https://github.com/Droid-ify/client)
 * [fdroid_shizuku_privileged_extension](https://depau.github.io/fdroid_shizuku_privileged_extension/fdroid/repo/) - F-Droid Privilege Extension that works with Shizuku `Apache-2.0` [(Source code)](https://github.com/depau/fdroid_shizuku_privileged_extension)
 * [ffupdater](https://f-droid.org/packages/de.marmaro.krt.ffupdater/) - FFUpdater: Updater for privacy-friendly browser `GPL-3.0` [(Source code)](https://github.com/Tobi823/ffupdater)
-* [glassdown](https://github.com/Sinneida/glassdown) - Client for APKMirror `GPL-3.0`
+* [instafel-updater](https://github.com/mamiiblt/instafel-updater) - Updater app for Instafel, an Instagram mod `Apache-2.0`
 * [InstallWithOptions](https://github.com/zacharee/InstallWithOptions) -  Simple-ish app using Shizuku to install APKs on-device with advanced options `MIT`
 * [IzzyOnDroid](https://gitlab.com/sunilpaulmathew/izzyondroid) - An unofficial client for IzzyOnDroid F-Droid Repository `GPL-3.0`
 * [Obtainium](https://github.com/ImranR98/Obtainium) - Get Android App Updates Directly From the Source `GPL-3.0`
@@ -201,6 +201,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 ### Network
 
 * [CellReader](https://play.google.com/store/apps/details?id=dev.zwander.cellreader) `Paid` 💰 - Can read cell tower info on Android `MIT` [(Source code)](https://github.com/zacharee/CellReader)
+* [delta](https://github.com/supershadoe/delta) - Hotspot manager using Shizuku `BSD-3-Clause`
 * [FindMyDevice](https://gitlab.com/Nulide/findmydevice) - Secure & open-source alternative to Google's FindMyDevice service. `GPL-3.0`
 * [Hostman](https://github.com/LinZong/Hostman) `Root` - Preview & edit the /etc/hosts file `MIT`
 * [NaiveproxyForAndroid](https://github.com/Dobiec/NaiveproxyForAndroid) - A simple application to run Naiveproxy on Android `MIT`
