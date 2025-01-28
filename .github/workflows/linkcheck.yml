@@ -30,6 +30,6 @@ jobs:
         gem install awesome_bot
         FILE=${{ matrix.file }}
         FILE_SLUG="${FILE//\//-}"
-        awesome_bot -f "$FILE" -a 429 --base-url https://github.com/timschneeb/awesome-shizuku/blob/master/
+        awesome_bot -f "$FILE" -a 429 --allow-dupe --base-url https://github.com/timschneeb/awesome-shizuku/blob/master/
         echo "## $FILE" >> $$GITHUB_STEP_SUMMARY
         cat ab-results-${FILE_SLUG}-markdown-table.json | jq .message -r >> $GITHUB_STEP_SUMMARY
