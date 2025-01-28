@@ -13,6 +13,8 @@ jobs:
         file: ['README.md', 'pages/UNLISTED.md']
 
     runs-on: ubuntu-latest
+    continue-on-error: true
+    fail-fast: false
 
     steps:
     - uses: actions/checkout@v3
@@ -22,6 +24,8 @@ jobs:
         ruby-version: '2.6'
     - name: Run awesome_bot
       run: |
+        set +e # Don't cancel step when the bot fails
+
         gem install awesome_bot
         FILE=${{ matrix.file }}
         FILE_SLUG="${FILE//\//-}"
