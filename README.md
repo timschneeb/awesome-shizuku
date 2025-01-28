@@ -32,6 +32,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
   - [Miscellaneous](#miscellaneous)
   - [Network](#network)
   - [Power management](#power-management)
+  - [Productivity](#productivity)
   - [Software management](#software-management)
   - [Terminals](#terminals)
   - [Vendor-specific](#vendor-specific)
@@ -66,10 +67,11 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 
 ### Communication
 
+* [Bunny-Manager](https://github.com/pyoncord/BunnyManager) - Patch manager for the Discord Bunny mod `OSL-3.0`
+* [CatShare](https://f-droid.org/packages/moe.reimu.catshare/) - Send and receive files over Bluetooth `MIT` [(Source code)](https://github.com/kmod-midori/CatShare)
 * [Lemmy Redirect](https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.lemmyredirect) - A simple app for automatically launching lemmy links in your preferred Lemmy client. `MIT` [(Source code)](https://github.com/zacharee/MastodonRedirect)
 * [Mastodon Redirect](https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.mastodonredirect) - A simple app for automatically launching fediverse links in your preferred Mastodon client. `MIT` [(Source code)](https://github.com/zacharee/MastodonRedirect)
 * [TxtNet-Browser](https://github.com/lukeaschenbrenner/TxtNet-Browser) - An app that lets you browse the web over SMS `GPL-3.0`
-* [Bunny-Manager](https://github.com/pyoncord/BunnyManager) - Patch manager for the Discord Bunny mod `OSL-3.0`
 
 ### Customization
 
@@ -215,6 +217,11 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [Extinguish](https://play.google.com/store/apps/details?id=own.moderpach.extinguish) - Extinguish turn your screen off but keep your device wake `Proprietary`
 * [rebootmenu](https://github.com/ryuunoakaihitomi/rebootmenu) - Lock the screen or open the power menu using shortcuts. Useful, if your power button is broken. `MIT`
 * [ScreenOff](https://github.com/WuDi-ZhanShen/ScreenOff) - Turn off your Android's screen without entering standby/sleep mode `Proprietary`
+* [zukulock](https://github.com/tiendnm/zukulock) - Very lightweight app that locks the screen when launched. Helps reduce wear on the power button `Proprietary`
+
+### Productivity
+
+* [digipaws](https://f-droid.org/packages/nethical.digipaws/) - Tool to reduce screen addiction by regulating app usage through a gamified experience `GPL-3.0` [(Source code)](https://github.com/nethical6/digipaws)
 
 ### Software management
 
@@ -233,7 +240,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [MMRL](https://github.com/DerGoogler/MMRL) `Root` - Manage your Magisk module repository `GPL-3.0`
 * [Package Manager](https://play.google.com/store/apps/details?id=com.smartpack.packagemanager) - A highly powerful app to manage both system and user apps `GPL-3.0` [(Source code)](https://github.com/SmartPack/PackageManager)
 * [UpgradeAll](https://f-droid.org/packages/net.xzos.upgradeall/) - Check updates for Android apps, Magisk modules and more! `GPL-3.0` [(Source code)](https://github.com/DUpdateSystem/UpgradeAll)
-
+  
 ### Terminals
 
 * [aShell](https://gitlab.com/sunilpaulmathew/ashell) - A local ADB shell for Shizuku powered android devices `GPL-3.0`
