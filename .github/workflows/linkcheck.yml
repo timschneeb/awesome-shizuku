@@ -7,7 +7,10 @@ on:
     branches: [ '*' ]
 
 jobs:
-  build:
+  check:
+    strategy:
+      matrix:
+        file: ['README.md', 'pages/UNLISTED.md']
 
     runs-on: ubuntu-latest
 
@@ -20,10 +23,8 @@ jobs:
     - name: Run awesome_bot
       run: |
         gem install awesome_bot
-        awesome_bot -f README.md,pages/UNLISTED.md -a 429 --base-url https://github.com/timschneeb/awesome-shizuku/blob/master/
-
-    - uses: actions/upload-artifact@v4
-      if: failure()
-      with:
-        name: ab-results
-        path: ab-results-README.md-filtered.json
+        FILE=${{ matrix.file }}
+        FILE_SLUG="${FILE//\//-}"
+        awesome_bot -f "$FILE" -a 429 --base-url https://github.com/timschneeb/awesome-shizuku/blob/master/
+        echo "## $FILE" >> $$GITHUB_STEP_SUMMARY
+        cat ab-results-${FILE_SLUG}-markdown-table.json | jq .message -r >> $GITHUB_STEP_SUMMARY
