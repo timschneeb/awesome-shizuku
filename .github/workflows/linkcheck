@@ -1,0 +1,23 @@
+name: linkcheck
+
+on:
+  push:
+    branches: [ '*' ]
+  pull_request:
+    branches: [ '*' ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Ruby 2.6
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '2.6'
+    - name: Run awesome_bot
+      run: |
+        gem install awesome_bot
+        awesome_bot -f README.md,UNLISTED.md -a 429 -w timschneeb/awesome-shizuku --base-url https://github.com/timschneeb/awesome-shizuku/blob/master/
