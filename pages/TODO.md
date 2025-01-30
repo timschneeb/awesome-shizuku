@@ -14,6 +14,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [BunnyManager](https://github.com/The-Autists/BunnyManager)
  * [CBJQ_HugFenny](https://github.com/LiuJiewenTT/CBJQ_HugFenny)
  * [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)
+ * [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新
  * [DroneHub](https://github.com/alexis-/DroneHub)
  * [Genshin-Lyre-midi-player-server](https://github.com/byzp/Genshin-Lyre-midi-player-server)
  * [IgniteX.Cheats](https://github.com/dev-swarup/IgniteX.Cheats)
@@ -34,6 +35,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
  * [noname-shijian-android](https://github.com/nonameShijian/noname-shijian-android) - 无名杀安卓诗笺版仓库
+ * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [reactmap-android](https://github.com/Mygod/reactmap-android) - Android WebView app for ReactMap with added goodies
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
