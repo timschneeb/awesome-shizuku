@@ -27,7 +27,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Simple module to change country for tiktok to Belarus(for russian)
  * [StarryStore](https://github.com/lingyicute/StarryStore) - The official store for lingyicute's FOSS Apps.
  * [SysProxy](https://github.com/Kr328/SysProxy) - A tiny app to set system proxy on Android. (Root required)
- * [Tarnhelm](https://github.com/lz233/Tarnhelm) - The magic to clean sharing links up.
+ * [Tarnhelm](https://github.com/lz233/Tarnhelm) - The magic to clean sharing links up
  * [TaskManager](https://github.com/java30433/TaskManager) - A simple Task Manager for some special Android devices like WearOS 2.
  * [Tiny-Installer](https://github.com/scto/Tiny-Installer) - A Package Installer with MD3 UI.
  * [VRPquest](https://github.com/metalex201/VRPquest) - A quest standalone version of the VRP Rookie sideloader.  !WIP!
