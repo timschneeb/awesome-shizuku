@@ -1,6 +1,7 @@
 name: Trigger app crawler
 
 on:
+  workflow-dispatch:
   push:
     branches: [ '*' ]
 
