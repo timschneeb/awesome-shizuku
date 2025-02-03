@@ -275,7 +275,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 ### Unlisted apps
 To keep the main list clean, all apps that do not meet certain requirements are stored on a separate page: [UNLISTED.md](pages/UNLISTED.md)
 
-I'm also using an automated crawler that searches for new projects, making use of Shizuku across GitHub and several F-Droid repos. You can view the current auto-generated crawl report here: [TODO.md](pages/TODO.md).
+I'm also using an automated crawler that searches for new projects, making use of Shizuku across GitHub and several F-Droid repos. You can view the [current auto-generated crawl report here](https://github.com/timschneeb/app-crawler/blob/master/SUMMARY.md).
 
 
 --------------------
