@@ -1,4 +1,4 @@
-name: linkcheck
+name: Validate links
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
     branches: [ '*' ]
 
 jobs:
-  check:
+  linkcheck:
     strategy:
       fail-fast: false
       matrix:
