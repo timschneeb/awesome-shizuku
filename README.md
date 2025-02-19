@@ -99,6 +99,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [TapTap](https://github.com/KieronQuinn/TapTap) - Port of the double tap on the back of the device feature from Android 12 to any Android 7.0+ device `GPL-3.0`
 * [Tarnhelm](https://f-droid.org/packages/cn.ac.lz233.tarnhelm/) - Clean up tracking from sharing links. Supports custom URL rewrite rules `GPL-3.0` [(Source code)](https://github.com/lz233/Tarnhelm)
 * [Taskbar](https://f-droid.org/packages/com.farmerbb.taskbar/) - Use a start menu to access apps. Shizuku can unlock additional features `Apache-2.0` [(Source code)](https://github.com/farmerbb/Taskbar)
+* [Widget](https://github.com/preethamkmr3/Widget) - CPU and battery widgets `No license`
 * [zFont 3](https://play.google.com/store/apps/details?id=com.htetznaing.zfont2) `Ads` `IAP` 💰 - Emoji & Font Changer `Proprietary`
 
 ### Development utilities
@@ -130,6 +131,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [Android-Screener](https://github.com/jiesou/Android-Screener) - A tool for easily adjusting screen resolution and frame rate `MIT`
 * [ConnectScreen](https://connect-screen.com/) - Launch single apps to display in fullscreen on external displays, supporting both USB 2.0 (via DisplayLink dock) and USB 3.0 mobile phones. Can control the external display with a touch screen, USB devices or Bluetooth controller (even if you are USB 2.0 and using a DisplayLink dock). Can use the primary screen of the mobile as a virtual touchpad to control external display. Can rotate the screen for applications like TikTok `GPL-3.0` [(Source code)](https://gitee.com/connect-screen/connect-screen)
 * [Fold_Switcher](https://github.com/eiyooooo/Fold_Switcher) - Switch between various display folding states on foldable devices `Apache-2.0`
+* [Grayscaler](https://github.com/C10udburst/Grayscaler) - Keep your phone mostly monochrome, but allow apps like camera to be in color `GPL-3.0`
 * [SecondScreen](https://play.google.com/store/apps/details?id=com.farmerbb.secondscreen.free) - Better screen mirroring for Android devices `Apache-2.0` [(Source code)](https://github.com/farmerbb/SecondScreen)
 * [pixelify](https://github.com/DitzDev/pixelify) - Fast and simple display resolution changer  `MIT`
 
