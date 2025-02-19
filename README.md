@@ -114,7 +114,8 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [Geto](https://github.com/JackEblan/Geto) - Apply device settings to your apps. `GPL-3.0`
 * [LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps on your device. Uses Shizuku to determine the install source of other apps. `Apache-2.0`
 * [LogFox](https://github.com/F0x1d/LogFox) - Yet another logcat reader for Android  `GPL-3.0`
-* [Logra](https://github.com/wingio/Logra) - Material You logcat viewer for Android `GPL-2.0` 
+* [Logra](https://github.com/wingio/Logra) - Material You logcat viewer for Android `GPL-2.0`
+* [ManageSensors](https://github.com/Carry-rrk/ManageSensors) - Utilizes Shizuku to call AppOps APIs for fine-grained app permission control `MIT`
 * [PyDroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) `Ads` `IAP` 💰 - IDE for Python 3 `Proprietary`
 * [RootActivityLauncher](https://play.google.com/store/apps/details?id=tk.zwander.rootactivitylauncher) `Paid` 💰 - Launch/interact with (un)exported activities, services, and receivers. Supports Shizuku alongside root. `Proprietary` [(Source code)](https://github.com/zacharee/RootActivityLauncher)
 * [SensorsOff](https://github.com/LinerSRT/SensorsOff) - Enable/Disable device sensors via quick settings `Apache-2.0`
