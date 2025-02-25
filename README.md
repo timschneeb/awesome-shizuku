@@ -112,6 +112,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [CurrentActivity](https://github.com/Omico/CurrentActivity) - A current activity monitor `GPL-3.0`
 * [get_event](https://github.com/lalakii/get_event) - Read /dev/input/event*  `No license`
 * [Geto](https://github.com/JackEblan/Geto) - Apply device settings to your apps. `GPL-3.0`
+* [KeyAttestation](https://github.com/vvb2060/KeyAttestation) - Supports generating, saving, loading, parsing and verifying Android key and ID attestation data. `No license`
 * [LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps on your device. Uses Shizuku to determine the install source of other apps. `Apache-2.0`
 * [LogFox](https://github.com/F0x1d/LogFox) - Yet another logcat reader for Android  `GPL-3.0`
 * [Logra](https://github.com/wingio/Logra) - Material You logcat viewer for Android `GPL-2.0`
