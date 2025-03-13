@@ -88,6 +88,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [Dawn-Desktop-Addons](https://github.com/Dawncraft/Dawn-Desktop-Addons) - Some Android app widgets and live wallpapers `GPL-3.0`
 * [Extendroid](https://github.com/legendsayantan/Extendroid) - Adds desktop-like multi-window support, on android os for smartphones. `No license`
 * [GrooveLauncher](https://github.com/groovelauncher/GrooveLauncher) - Windows 8 Metro-styled launcher that can uninstall apps using Shizuku
+* [HardenDroid](https://github.com/oddbyte/HardenDroid) - shizuku & dhizuku app to allow you to manage users without root `Apache-2.0`
 * [Language-Selector](https://github.com/VegaBobo/Language-Selector) - Allows users to select individual app languages (Android 13+) `Apache-2.0`
 * [LinkSheet](https://github.com/LinkSheet/LinkSheet) - Restore the Android <12 Url-App-Link-Chooser with Material3  `Modified MPL-2.0`
 * [Lockscreen Widgets](https://play.google.com/store/apps/details?id=tk.zwander.lockscreenwidgets) `IAP` 💰 - Display widgets on the lockscreen. Shizuku is only required on Android 13 and later `MIT` [(Source code)](https://github.com/zacharee/LockscreenWidgets/)
@@ -127,6 +128,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 ### Device owner (DPM)
 
 * [Dhizuku](https://github.com/iamr0s/Dhizuku) - Shizuku-inspired app that allows sharing DeviceOwner permissions to third-party apps `GPL-3.0`
+* [HardenDroid](https://github.com/oddbyte/HardenDroid) - shizuku & dhizuku app to allow you to manage users without root `Apache-2.0`
 * [OwnDroid](https://github.com/BinTianqi/OwnDroid) - Manage your device with Device owner privileges `GPL-3.0`
 
 ### Display management
