@@ -262,7 +262,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 ### Unlisted apps
 为了保持主列表干净，所有不满足特定要求的应用程序都存储在单独的页面上： [UNLISTED.md](pages/UNLISTED.md)
 
-我还使用自动爬虫来搜索新项目，并在 GitHub 和多个 F-Droid 存储库中使用 Shizuku。您可以在此处查看当前自动生成的爬网报告：[TODO.md](pages/TODO.md).
+我还使用自动爬虫来搜索新项目，并在 GitHub 和多个 F-Droid 存储库中使用 Shizuku。您可以在此处查看当前自动生成的爬网报告：[TODO.md](https://github.com/timschneeb/app-crawler/blob/master/SUMMARY.md).
 
 
 --------------------
