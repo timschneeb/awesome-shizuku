@@ -249,6 +249,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [krude](https://github.com/KusStar/krude) - All-in-one app and workflow launcher `MIT`
 * [MMRL](https://github.com/MMRLApp/MMRL) `Root` - Manage your Magisk module repository `GPL-3.0`
 * [Package Manager](https://play.google.com/store/apps/details?id=com.smartpack.packagemanager) - A highly powerful app to manage both system and user apps `GPL-3.0` [(Source code)](https://github.com/SmartPack/PackageManager)
+* [Package Name Scripter](https://play.google.com/store/apps/details?id=in.ms.packagenamesscripter) Manage installed apps using Shizuku or create ADB scripts to enable, disable, uninstall, reinstall, or run other app-related ADB commands. `Missing license`
 * [UpgradeAll](https://f-droid.org/packages/net.xzos.upgradeall/) - Check updates for Android apps, Magisk modules and more! `GPL-3.0` [(Source code)](https://github.com/DUpdateSystem/UpgradeAll)
   
 ### Terminals
