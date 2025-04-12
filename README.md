@@ -361,4 +361,4 @@ The official rish documentation is available here: https://github.com/RikkaApps/
 
 ## License
 
-This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LICENSE) License.
+This list is licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en) License.
