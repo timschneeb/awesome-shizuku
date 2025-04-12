@@ -57,6 +57,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 ### Audio
 
 * [RootlessJamesDSP](https://play.google.com/store/apps/details?id=me.timschneeberger.rootlessjamesdsp) - An implementation of the system-wide JamesDSP audio processing engine for non-rooted Android devices `GPL-3.0` [(Source code)](https://github.com/timschneeb/RootlessJamesDSP)
+* [VolumeManager](https://github.com/yume-chan/VolumeManager) - Control each app's volume independently `GPL-2.0`
 
 ### Automation
 
@@ -80,6 +81,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [AmbientMusicMod](https://github.com/KieronQuinn/AmbientMusicMod) - Port of Now Playing from Pixels to other Android devices `GPL-3.0`
 * [AutoDark](https://f-droid.org/packages/me.ranko.autodark/) - A small Android app to let you schedule dark mode On/Off `MIT` [(Source code)](https://github.com/0ranko0P/AutoDark)
 * [AutoDND](https://f-droid.org/packages/moe.dic1911.autodnd/) - A simple tool to toggle DND automatically when using specified apps `AGPL-3.0` [(Source code)](https://github.com/dic1911/android_AutoDND)
+* [AutoRotate](https://github.com/eiyooooo/AutoRotate) - Manage automatic rotation of different screens on Android phones `GPL-3.0`
 * [Better Internet Tiles](https://play.google.com/store/apps/details?id=be.casperverswijvelt.unifiedinternetqs) - Bring back Wi-Fi and mobile data tiles on Android 12 or higher + a better-unified internet tile `GPL-3.0` [(Source code)](https://github.com/CasperVerswijvelt/Better-Internet-Tiles)
   * [Better Internet Tiles Libre](https://github.com/D3SOX/Better-Network-Tiles-Libre) - Libre fork of Better Internet Tiles without proprietary libraries `GPL-3.0`
 * [CarrierVanityName](https://github.com/nullbytepl/CarrierVanityName) - Carrier Vanity Name is a very simple app to change the carrier names on unrooted Android devices `GPL-3.0`
@@ -200,6 +202,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [PI](https://github.com/SanmerApps/PI) - Package installer that allows overwriting the package requester and executor `MIT`
 * [SAI](https://f-droid.org/packages/com.aefyr.sai.fdroid/) - Android split APKs installer `GPL-3.0` [(Source code)](https://github.com/Aefyr/SAI)
 * [skydroid](https://github.com/redsolver/skydroid) - A decentralized domain-based App Store for Android `GPL-3.0`
+* [Tiny-Installer](https://github.com/scto/Tiny-Installer) - A Package Installer with MD3 UI. Fork of the abandoned InstallerX app. `GPL-3.0`
 
 ### Miscellaneous
 
@@ -224,6 +227,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 ### Power management
 
 * [Batt](https://gitlab.com/narektor/batt) - A simple app that shows battery status information on Android 14 and later. `GPL-3.0`
+* [dumpsys-battery-manager](https://github.com/superisuer/dumpsys-battery-manager) - View and change the battery values using the dumpsys command `GPL-3.0`
 * [Extinguish](https://play.google.com/store/apps/details?id=own.moderpach.extinguish) - Extinguish turns your screen off but keeps your device awake `Proprietary`
 * [rebootmenu](https://github.com/ryuunoakaihitomi/rebootmenu) - Lock the screen or open the power menu using shortcuts. Useful if your power button is broken. `MIT`
 * [ScreenOff](https://github.com/WuDi-ZhanShen/ScreenOff) - Turn off your Android's screen without entering standby/sleep mode `Proprietary`
