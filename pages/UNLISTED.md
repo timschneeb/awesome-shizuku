@@ -28,7 +28,6 @@ For the sake of completeness, these projects are linked despite being inaccessib
 * [greentooth](https://github.com/qwerty12/greentooth) - Automatically disable Bluetooth when the last Bluetooth device has been disconnected. Fork of another app called 'greentooth'. `Apache-2.0`
 * [hap-viewer-android](https://github.com/westinyang/hap-viewer-android) - Viewer for HarmonyOS application installation packages `Apache-2.0`
 * [HoleConsoleApp](https://github.com/zmide/HoleConsoleApp) - A mobile chrome web debugging app `No license`
-* [InstallerX](https://t.me/InstallerX) - A modern and functional Android app installer. It is possible to replace the standard installer. (Used to be open-source; [archived source code (chinese)](https://github.com/iamr0s/InstallerX)) `Proprietary`
 * [NoPopping](https://appteka.store/app/d9fr99475) `IAP` 💰 - Auto Do-Not-Disturb mode (Discontinued) `Proprietary`
 * [PowerKeyAction](https://github.com/ryuunoakaihitomi/PowerKeyAction) - Simulates hardware power button presses `No license`
 * [RexFile](https://github.com/Ruyomi/RexFile) - Development library for interacting with files on Android `LGPL-2.1`
