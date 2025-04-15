@@ -201,7 +201,6 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [PI](https://github.com/SanmerApps/PI) - Package installer that allows overwriting the package requester and executor `MIT`
 * [SAI](https://f-droid.org/packages/com.aefyr.sai.fdroid/) - Android split APKs installer `GPL-3.0` [(Source code)](https://github.com/Aefyr/SAI)
 * [skydroid](https://github.com/redsolver/skydroid) - A decentralized domain-based App Store for Android `GPL-3.0`
-* [Tiny-Installer](https://github.com/scto/Tiny-Installer) - A Package Installer with MD3 UI. Fork of the abandoned InstallerX app. `GPL-3.0`
 
 ### Miscellaneous
 
