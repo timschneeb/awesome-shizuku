@@ -139,7 +139,6 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [Fold_Switcher](https://github.com/eiyooooo/Fold_Switcher) - Switch between various display folding states on foldable devices `Apache-2.0`
 * [Grayscaler](https://github.com/C10udburst/Grayscaler) - Keep your phone mostly monochrome, but allow apps like camera to be in color `GPL-3.0`
 * [SecondScreen](https://play.google.com/store/apps/details?id=com.farmerbb.secondscreen.free) - Better screen mirroring for Android devices `Apache-2.0` [(Source code)](https://github.com/farmerbb/SecondScreen)
-* [pixelify](https://github.com/DitzDev/pixelify) - Fast and simple display resolution changer  `MIT`
 
 ### Entertainment
 
