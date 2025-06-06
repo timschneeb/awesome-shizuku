@@ -11,6 +11,7 @@ For the sake of completeness, these projects are linked despite being inaccessib
 * [AccessibilityManager](https://github.com/WuDi-ZhanShen/AccessibilityManager) - Replacement for Android's Accessibility settings `No license`
 * [ApkInstaller](https://github.com/Tokyonth/ApkInstaller) - APK installer/uninstaller `No license`
 * [Android-Gyroscope-MC](https://github.com/WuDi-ZhanShen/Android-Gyroscope-MC) - Use the gyro sensor as a virtual gamepad. Designed for Minecraft `No license`
+* [Android-Screener](https://github.com/jiesou/Android-Screener) - A tool for easily adjusting screen resolution and frame rate `MIT`
 * [Android-SettingTools](https://github.com/MagicianGuo/Android-SettingTools) - Changes various system settings `No license`
 * [AutoCheckinPlugin](https://github.com/MartinKayJr/AutoCheckinPlugin) - WeChat automatic check-in `No license`
 * [Auto.js](https://github.com/TonyJiangWJ/Auto.js) - JavaScript IDE on Android `MPL-2.0`
