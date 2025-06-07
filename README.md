@@ -310,6 +310,8 @@ I'm also using an automated crawler that searches for new projects, making use o
 
 ### System
 * [ServiceManagerCompat](https://github.com/SanmerApps/ServiceManagerCompat) - ServiceManager bindings `MIT`
+* [Better Shizuku Starter](https://llamalab.com/automate/community/flows/50863) - Rootless script to automatically start the Shizuku service on boot, WiFi connect, wake from doze, power (dis)connect, and/or on demand. `FOSS`
+* [Shizuku Watchdog](https://llamalab.com/automate/community/flows/50871) - Rootless script to automatically start the Shizuku service on boot and restart it if it stops. `FOSS`
 
 ### Power
 
