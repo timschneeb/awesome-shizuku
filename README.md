@@ -45,6 +45,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
   - [Filesystem](#filesystem)
   - [System](#system)
   - [Power](#power)
+- [Miscellaneous content](#miscellaneous-content)
 - [Rish shell](#rish-shell)
 - [Annotations](#annotations)
 - [License](#license)
@@ -310,13 +311,20 @@ I'm also using an automated crawler that searches for new projects, making use o
 
 ### System
 * [ServiceManagerCompat](https://github.com/SanmerApps/ServiceManagerCompat) - ServiceManager bindings `MIT`
-* [Better Shizuku Starter](https://llamalab.com/automate/community/flows/50863) - Rootless script to automatically start the Shizuku service on boot, WiFi connect, wake from doze, power (dis)connect, and/or on demand. `FOSS`
-* [Shizuku Watchdog](https://llamalab.com/automate/community/flows/50871) - Rootless script to automatically start the Shizuku service on boot and restart it if it stops. `FOSS`
 
 ### Power
 
 * [PowerAct](https://github.com/ryuunoakaihitomi/PowerAct) - An Android library that can manipulate power-related actions with just a few lines of code `Apache-2.0`
 
+
+--------------------
+
+## Miscellaneous content
+
+### Flows for [Automate](https://llamalab.com/automate/)
+
+* [Better Shizuku Starter](https://llamalab.com/automate/community/flows/50863) - Rootless script to automatically start the Shizuku service on boot, WiFi connect, wake from doze, power (dis)connect, and/or on demand
+* [Shizuku Watchdog](https://llamalab.com/automate/community/flows/50871) - Rootless script to automatically start the Shizuku service on boot and restart it if it stops
 
 --------------------
 
