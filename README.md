@@ -256,6 +256,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [TaskManager](https://github.com/RohitKushvaha01/TaskManager) - A Task Manager for Android. Killing processes requires root access. `Apache-2.0`
 * [Thor](https://play.google.com/store/apps/details?id=com.valhalla.thor) - App manager with freeze and install capabilities. `GPL-3.0`  [(Source code)](https://github.com/trinadhthatakula/Thor)
 * [UpgradeAll](https://f-droid.org/packages/net.xzos.upgradeall/) - Check updates for Android apps, Magisk modules and more! `GPL-3.0` [(Source code)](https://github.com/DUpdateSystem/UpgradeAll)
+* [Thanox](https://github.com/Tornaco/Thanox) - Android system and app manager. `Apache-2.0`
 
 ### Terminals
 
