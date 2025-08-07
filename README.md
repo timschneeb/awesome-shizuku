@@ -68,6 +68,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 ### Automation
 
 * [AutoJs6](https://github.com/SuperMonster003/AutoJs6) - JavaScript-based automation tool `MPL-2.0`
+* [Geto](https://github.com/JackEblan/Geto) - Automatically change device settings when a specific app is launched. `GPL-3.0`
 * [PhoneProfilesPlus](https://github.com/henrichg/PhoneProfilesPlus) - Allows automatic or one-click configuration of your device for specific life situations `Apache-2.0`
 * [MacroDroid](https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid) `Ads` `IAP` 💰 - Automation app for Android devices. Version 5.46 and later introduce Shizuku support. `Proprietary`
 * [UbikiTouch](https://play.google.com/store/apps/details?id=eu.toneiv.ubktouch) `IAP` 💰 - Add functions to your favourite applications, accessible with a single gesture. Swipe one edge of your screen to reveal a customisable menu displaying your favourite actions. `Proprietary`
@@ -119,7 +120,6 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [Cosmic-IDE](https://github.com/Cosmic-Ide/Cosmic-IDE) IDE for JVM development. Uses Shizuku for an embedded shell - `GPL-3.0`
 * [CurrentActivity](https://github.com/Omico/CurrentActivity) - A current activity monitor `GPL-3.0`
 * [get_event](https://github.com/lalakii/get_event) - Read /dev/input/event*  `Proprietary`
-* [Geto](https://github.com/JackEblan/Geto) - Apply device settings to your apps. `GPL-3.0`
 * [KeyAttestation](https://github.com/vvb2060/KeyAttestation) - Supports generating, saving, loading, parsing and verifying Android key and ID attestation data. `Proprietary`
 * [LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps on your device. Uses Shizuku to determine the installation source of other apps. `Apache-2.0`
 * [LogFox](https://github.com/F0x1d/LogFox) - Yet another logcat reader for Android  `GPL-3.0`
