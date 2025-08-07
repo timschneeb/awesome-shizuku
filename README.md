@@ -37,6 +37,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
   - [Miscellaneous](#miscellaneous)
   - [Network](#network)
   - [Power management](#power-management)
+  - [Privacy](#privacy)
   - [Productivity](#productivity)
   - [Software management](#software-management)
   - [Terminals](#terminals)
@@ -102,6 +103,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [LinkSheet](https://github.com/LinkSheet/LinkSheet) - Restore the Android <12 Url-App-Link-Chooser with Material3  `Modified MPL-2.0`
 * [Lockscreen Widgets](https://play.google.com/store/apps/details?id=tk.zwander.lockscreenwidgets) `IAP` 💰 - Display widgets on the lockscreen. Shizuku is only required on Android 13 and later `MIT` [(Source code)](https://github.com/zacharee/LockscreenWidgets/)
 * [MultiLocale](https://github.com/Nightdavisao/MultiLocale) - A simple app that enables you to add additional (or "unsupported") languages to your device's locale settings, if the OEM (Xiaomi) doesn't let you  `MIT`
+* [Quick-Tile Settings](https://f-droid.org/packages/com.rbn.qtsettings/) - QS tiles for toggling USB debugging and switching private DNS hosts `GPL-3.0` [(Source code)](https://github.com/RBN-Apps/Quick-Tile-Settings)
 * [ShizuTools](https://github.com/legendsayantan/ShizuTools) - Contains some easy-to-use tools to go beyond the level of control allowed by Android System `GPL-3.0`
 * [SmartspacerPlugins](https://github.com/KieronQuinn/SmartspacerPlugins) - Plugins for Smartspacer `GPL-3.0`
 * [System UI Tuner](https://github.com/zacharee/Tweaker) - View and modify hidden settings on Android devices `MIT`
@@ -205,6 +207,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [Obtainium](https://github.com/ImranR98/Obtainium) - Get Android App Updates Directly From the Source `GPL-3.0`
 * [PI](https://github.com/SanmerApps/PI) - Package installer that allows overwriting the package requester and executor `MIT`
 * [SAI](https://f-droid.org/packages/com.aefyr.sai.fdroid/) - Android split APKs installer `GPL-3.0` [(Source code)](https://github.com/Aefyr/SAI)
+* [Shizuku Package Installer](https://github.com/vvb2060/PackageInstaller) - A lightweight app installer replacement with split APK support `Proprietary`
 * [skydroid](https://github.com/redsolver/skydroid) - A decentralized domain-based App Store for Android `GPL-3.0`
 
 ### Miscellaneous
@@ -214,6 +217,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [dualapp-mediastore-compatibility](https://github.com/kaedea/dualapp-mediastore-compatibility) - Fixes MediaStore & File IO compatibility issues between HostProfile App and WorkProfile/DualApp/MultiApp. `Proprietary`
 * [krude](https://github.com/KusStar/krude) - All-in-one app and workflow launcher. Uses Shizuku for process killing and file management `MIT`
 * [LSPatch](https://github.com/JingMatrix/LSPatch) - A non-root Xposed framework extending from LSPosed `GPL-3.0`
+* [setbox](https://github.com/YasserNull/setbox) - Modifies Android system settings through community-developed modules `GPL-3.0`
 * [SimpleWear](https://play.google.com/store/apps/details?id=com.thewizrd.simplewear) - A simple app for controlling your Android devices from your WearOS watch `Apache-2.0` [(Source code)](https://github.com/SimpleAppProjects/SimpleWear)
 
 ### Network
@@ -234,8 +238,13 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [dumpsys-battery-manager](https://github.com/superisuer/dumpsys-battery-manager) - View and change the battery values using the dumpsys command `GPL-3.0`
 * [Extinguish](https://play.google.com/store/apps/details?id=own.moderpach.extinguish) - Extinguish turns your screen off but keeps your device awake `Proprietary`
 * [rebootmenu](https://github.com/ryuunoakaihitomi/rebootmenu) - Lock the screen or open the power menu using shortcuts. Useful if your power button is broken. `MIT`
+* [RebootNya](https://github.com/daisukiKaffuChino/RebootNya) - Advanced reboot menu with Shizuku support `Apache-2.0`
 * [ScreenOff](https://github.com/WuDi-ZhanShen/ScreenOff) - Turn off your Android's screen without entering standby/sleep mode `Proprietary`
 * [zukulock](https://github.com/tiendnm/zukulock) - Very lightweight app that locks the screen when launched. Helps reduce wear on the power button `Proprietary`
+
+### Privacy
+
+* [AppLock](https://github.com/PranavPurwar/AppLock) - Lock sensitive apps with a PIN and optionally biometrics `MIT`
 
 ### Productivity
 
@@ -277,6 +286,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 ### Vendor-specific
 
 #### Google Pixel
+* [Always On Display](https://f-droid.org/packages/org.alberto97.aodtoggle/) - Toggle Always on Display from the quick settings panel `MIT` [(Source code)](https://github.com/Alberto97/AlwaysOnDisplayToggle)
 * [pixel-volte-patch](https://github.com/kyujin-cho/pixel-volte-patch/blob/main/README.en.md) - Enable VoLTE on Pixel 6 & 7 with LG U+ `GPL-3.0`
 * [Smartspacer](https://github.com/KieronQuinn/Smartspacer) - Customizable widget, can upgrade the built-in 'At a glance' widget on Pixel devices using Shizuku `GPL-3.0`
 
