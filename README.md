@@ -13,7 +13,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 
 
 > [!NOTE]
-> To stay up-to-date with this list, [you can check the daily changelogs](https://github.com/timschneeb/changelog-awesome-shizuku/blob/main/day/README.md).
+> To stay up-to-date with this list, [you can check the daily changelogs](https://github.com/timschneeb/changelog-awesome-shizuku).
 
 
 --------------------
