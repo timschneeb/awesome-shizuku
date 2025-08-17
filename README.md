@@ -93,19 +93,19 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [AutoRotate](https://github.com/eiyooooo/AutoRotate) - Manage automatic rotation of different screens on Android phones `GPL-3.0`
 * [CarrierVanityName](https://github.com/nullbytepl/CarrierVanityName) - Carrier Vanity Name is a very simple app to change the carrier names on unrooted Android devices `GPL-3.0`
 * [ColorBlendr](https://github.com/Mahmud0808/ColorBlendr) - An application to modify Material You colors of your device `GPL-3.0`
-* [DarQ](https://github.com/KieronQuinn/DarQ) - DarQ provides a per-app selectable force dark option for Android 10 and above `Apache-2.0`
+* [DarQ](https://github.com/KieronQuinn/DarQ) ✨ - DarQ provides a per-app selectable force dark option for Android 10 and above `Apache-2.0`
 * [Dawn-Desktop-Addons](https://github.com/Dawncraft/Dawn-Desktop-Addons) - Some Android app widgets and live wallpapers `GPL-3.0`
-* [Extendroid](https://github.com/legendsayantan/Extendroid) - Adds desktop-like multi-window support on Android for smartphones. `GPL-3.0`
+* [Extendroid](https://github.com/legendsayantan/Extendroid) ✨ - Adds desktop-like multi-window support on Android for smartphones. `GPL-3.0`
 * [GrooveLauncher](https://github.com/groovelauncher/GrooveLauncher) - Windows 8 Metro-styled launcher that can uninstall apps using Shizuku
 * [Language-Selector](https://github.com/VegaBobo/Language-Selector) - Allows users to select individual app languages (Android 13+) `Apache-2.0`
 * [LinkSheet](https://github.com/LinkSheet/LinkSheet) - Restore the Android <12 Url-App-Link-Chooser with Material3  `Modified MPL-2.0`
 * [Lockscreen Widgets](https://play.google.com/store/apps/details?id=tk.zwander.lockscreenwidgets) `IAP` 💰 - Display widgets on the lockscreen. Shizuku is only required on Android 13 and later `MIT` [(Source code)](https://github.com/zacharee/LockscreenWidgets/)
 * [MultiLocale](https://github.com/Nightdavisao/MultiLocale) - A simple app that enables you to add additional (or "unsupported") languages to your device's locale settings, if the OEM (Xiaomi) doesn't let you  `MIT`
 * [setbox](https://github.com/YasserNull/setbox) - Modifies Android system settings through community-developed modules `GPL-3.0`
-* [ShizuTools](https://github.com/legendsayantan/ShizuTools) - Contains some easy-to-use tools to go beyond the level of control allowed by Android System `GPL-3.0`
+* [ShizuTools](https://github.com/legendsayantan/ShizuTools) ✨ - Contains some easy-to-use tools to go beyond the level of control allowed by Android System `GPL-3.0`
 * [SmartspacerPlugins](https://github.com/KieronQuinn/SmartspacerPlugins) - Plugins for Smartspacer `GPL-3.0`
 * [System UI Tuner](https://github.com/zacharee/Tweaker) - View and modify hidden settings on Android devices `MIT`
-* [TapTap](https://github.com/KieronQuinn/TapTap) - Port of the double tap on the back of the device feature from Android 12 to any Android 7.0+ device `GPL-3.0`
+* [TapTap](https://github.com/KieronQuinn/TapTap) ✨ - Port of the double tap on the back of the device feature from Android 12 to any Android 7.0+ device `GPL-3.0`
 * [Tarnhelm](https://f-droid.org/packages/cn.ac.lz233.tarnhelm/) - Clean up tracking from sharing links. Supports custom URL rewrite rules `GPL-3.0` [(Source code)](https://github.com/lz233/Tarnhelm)
 * [Taskbar](https://f-droid.org/packages/com.farmerbb.taskbar/) - Use a start menu to access apps. Shizuku can unlock additional features `Apache-2.0` [(Source code)](https://github.com/farmerbb/Taskbar)
 * [UbikiTouch](https://play.google.com/store/apps/details?id=eu.toneiv.ubktouch) `IAP` 💰 - Add custom swipe-from-edge gestures to Android `Propietary`
@@ -124,7 +124,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [get_event](https://github.com/lalakii/get_event) - Read /dev/input/event*  `Proprietary`
 * [KeyAttestation](https://github.com/vvb2060/KeyAttestation) - Supports generating, saving, loading, parsing and verifying Android key and ID attestation data. `Proprietary`
 * [LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps on your device. Uses Shizuku to determine the installation source of other apps. `Apache-2.0`
-* [LogFox](https://github.com/F0x1d/LogFox) - Yet another logcat reader for Android  `GPL-3.0`
+* [LogFox](https://github.com/F0x1d/LogFox) ✨ - Yet another logcat reader for Android  `GPL-3.0`
 * [Logra](https://github.com/wingio/Logra) - Material You logcat viewer for Android `GPL-2.0`
 * [ManageSensors](https://github.com/Carry-rrk/ManageSensors) - Utilizes Shizuku to call AppOps APIs for fine-grained app permission control `MIT`
 * [PyDroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) `Ads` `IAP` 💰 - IDE for Python 3 `Proprietary`
@@ -187,7 +187,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [Android-Show-Taps](https://github.com/k3x1n/Android-Show-Taps) - Show customized taps upon touches `GPL-3.0`
 * [Auto Cursor](https://play.google.com/store/apps/details?id=eu.toneiv.cursor) `IAP` 💰 - Makes it easy to use large smartphones with just one hand, thanks to a pointer accessible from the edges of the screen. `Proprietary`
 * [C9](https://github.com/austinauyeung/C9) - Efficient grid-based cursor provided alongside a traditional cursor. Shizuku is only required on Android 11. `Apache-2.0`
-* [KeyMapper](https://play.google.com/store/apps/details?id=io.github.sds100.keymapper) - An Android app that changes what the buttons do on your devices! `GPL-3.0` [(Source code)](https://github.com/keymapperorg/KeyMapper)
+* [KeyMapper](https://play.google.com/store/apps/details?id=io.github.sds100.keymapper) ✨ - An Android app that changes what the buttons do on your devices! `GPL-3.0` [(Source code)](https://github.com/keymapperorg/KeyMapper)
 * [keysync](https://github.com/aka-munan/keysync) - Play games using mouse and keyboard on Android device; keymapper for games `Apache-2.0`
 * [Panda Gamepad Pro](https://play.google.com/store/apps/details?id=com.panda.gamepad) `Paid` `IAP` 💰 - Keymapper for games `Proprietary`
 * [RealMouse](https://play.google.com/store/apps/details?id=com.redlee90.realmouse) - Control the mouse using a virtual touchpad. Designed for secondary displays. `Proprietary`
@@ -201,7 +201,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [Droid-ify](https://f-droid.org/packages/com.looker.droidify/) - Material F-Droid client `GPL-3.0` [(Source code)](https://github.com/Droid-ify/client)
 * [ffupdater](https://f-droid.org/packages/de.marmaro.krt.ffupdater/) - FFUpdater: Updater for privacy-friendly browser `GPL-3.0` [(Source code)](https://github.com/Tobi823/ffupdater)
 * [instafel-updater](https://github.com/mamiiblt/instafel-updater) - Updater app for Instafel, an Instagram mod `Apache-2.0`
-* [InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived/blob/main/README_EN.md) - Modern and functional Android app installer replacement `GPL-3.0`
+* [InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived/blob/main/README_EN.md) ✨ - Modern and functional Android app installer replacement `GPL-3.0`
 * [InstallWithOptions](https://github.com/zacharee/InstallWithOptions) -  Simple-ish app using Shizuku to install APKs on-device with advanced options `MIT`
 * [IzzyOnDroid](https://gitlab.com/sunilpaulmathew/izzyondroid) - An unofficial client for IzzyOnDroid F-Droid Repository `GPL-3.0`
 * [Obtainium](https://github.com/ImranR98/Obtainium) - Get Android App Updates Directly From the Source `GPL-3.0`
@@ -224,7 +224,6 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [FindMyDevice](https://gitlab.com/Nulide/findmydevice) - Secure & open-source alternative to Google's FindMyDevice service. `GPL-3.0`
 * [Hostman](https://github.com/LinZong/Hostman) `Root` - Preview & edit the /etc/hosts file `MIT`
 * [NaiveproxyForAndroid](https://github.com/Dobiec/NaiveproxyForAndroid) - A simple application to run Naiveproxy on Android `MIT`
-* [PrivateDNSAndroid](https://github.com/karasevm/PrivateDNSAndroid) - Quick settings tile to switch active private DNS server  `MIT`
 * [WG Tunnel](https://github.com/wgtunnel/wgtunnel) - A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling. `MIT`
 * [WiFiList](https://play.google.com/store/apps/details?id=tk.zwander.wifilist) `Paid` 💰 - View your saved WiFi passwords on Android 11 and later without root `Proprietary` [(Source code)](https://github.com/zacharee/WiFiList)
 * [WiFiList (Fork)](https://github.com/jaredcat/WiFiList) - Fork of 'WiFiList' `Proprietary`
@@ -242,17 +241,18 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 ### Privacy
 
 * [Amarok-Hider](https://apt.izzysoft.de/fdroid/index/apk/deltazero.amarok.foss) - Hide your private files and Android apps with just one click `Apache-2.0` [(Source code)](https://github.com/deltazefiro/Amarok-Hider)
-* [AppLock](https://github.com/PranavPurwar/AppLock) - Lock sensitive apps with a PIN and optionally biometrics `MIT`
+* [AppLock](https://github.com/PranavPurwar/AppLock) ✨ - Lock sensitive apps with a PIN and optionally biometrics `MIT`
 
 ### Productivity
 
-* [digipaws](https://f-droid.org/packages/nethical.digipaws/) - Tool to reduce screen addiction by regulating app usage through a gamified experience `GPL-3.0` [(Source code)](https://github.com/nethical6/digipaws)
+* [digipaws](https://f-droid.org/packages/nethical.digipaws/) ✨ - Tool to reduce screen addiction by regulating app usage through a gamified experience `GPL-3.0` [(Source code)](https://github.com/nethical6/digipaws)
 
 ### Quick settings tiles
 
 * [AlwaysOnDisplayToggle](https://f-droid.org/packages/org.alberto97.aodtoggle/) - An Android quick setting to toggle Always on Display `MIT` [(Source code)](https://github.com/Alberto97/AlwaysOnDisplayToggle)
 * [Better Internet Tiles](https://play.google.com/store/apps/details?id=be.casperverswijvelt.unifiedinternetqs) - Bring back Wi-Fi and mobile data tiles on Android 12 or higher + a better-unified internet tile `GPL-3.0` [(Source code)](https://github.com/CasperVerswijvelt/Better-Internet-Tiles)
-* [Private DNS Quick Setting](https://apt.izzysoft.de/fdroid/index/apk/com.flashsphere.privatednsqs) - QS tile for toggling the private DNS setting `GPL-3.0` [(Source code)](https://github.com/flashsphere/private-dns-qs)
+* [PrivateDNSAndroid](https://github.com/karasevm/PrivateDNSAndroid) - Quick settings tile to switch active private DNS server  `MIT`
+* [Private DNS Quick Setting](https://apt.izzysoft.de/fdroid/index/apk/com.flashsphere.privatednsqs) - QS tile for toggling the private DNS setting on or off  `GPL-3.0` [(Source code)](https://github.com/flashsphere/private-dns-qs)
 * [Quick-Tile Settings](https://f-droid.org/packages/com.rbn.qtsettings/) - QS tiles for toggling USB debugging and switching private DNS hosts `GPL-3.0` [(Source code)](https://github.com/RBN-Apps/Quick-Tile-Settings)
 
 ### Software management
@@ -260,10 +260,10 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [AppDash](https://play.google.com/store/apps/details?id=flar2.appdashboard) `7-day trial` `Paid` 💰 - An app manager that makes it easy to manage APKs and apps installed on your device `Proprietary`
 * [App Ops](https://play.google.com/store/apps/details?id=rikka.appops) `Ads` `IAP` 💰 -  Manage application permissions without root `Proprietary`
 * [Blocker](https://github.com/lihenggui/blocker) - Enable/disable Android components such as activities, services, receivers, and providers `Apache-2.0`
-* [Canta](https://play.google.com/store/apps/details?id=io.github.samolego.canta) - Uninstall any app without root `LGPL-3.0` [(Source code)](https://github.com/samolego/Canta)
+* [Canta](https://play.google.com/store/apps/details?id=io.github.samolego.canta) ✨ - Uninstall any app without root `LGPL-3.0` [(Source code)](https://github.com/samolego/Canta)
 * [DisabledLauncher](https://github.com/voruti/DisabledLauncher) - Android app that disables unused apps while still allowing convenient access to them `MIT`
 * [FreezeYou](https://f-droid.org/packages/cf.playhi.freezeyou/) - Improve your device's speed and battery life by freezing crappy software manually or semi-automatically `Apache-2.0` [(Source code)](https://github.com/FreezeYou/FreezeYou)
-* [Hail](https://f-droid.org/packages/com.aistra.hail/) Freeze, hide or disable any app. Create and organize app groups that can be frozen with one click.  - `GPL-3.0` [(Source code)](https://github.com/aistra0528/Hail)
+* [Hail](https://f-droid.org/packages/com.aistra.hail/) ✨ - Freeze, hide, or disable any app. Create and organize app groups that can be frozen with one click.  - `GPL-3.0` [(Source code)](https://github.com/aistra0528/Hail)
 * [Ice Box](https://play.google.com/store/apps/details?id=com.catchingnow.icebox) `IAP` 💰 - Freeze or hide apps using Shizuku `Proprietary`
 * [Inure App Manager](https://play.google.com/store/apps/details?id=app.simple.inure.play) `15-day trial` `IAP` 💰 - Android app manager for both rooted and non-rooted devices `GPL-3.0` [(Source code)](https://github.com/Hamza417/Inure)
 * [Insular](https://f-droid.org/packages/com.oasisfeng.island.fdroid/) - Complete FLOSS fork of Island `Apache-2.0` [(Source code)](https://gitlab.com/secure-system/Insular)
@@ -272,7 +272,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [MMRL](https://github.com/MMRLApp/MMRL) `Root` - Manage your Magisk module repository `GPL-3.0`
 * [Package Manager](https://play.google.com/store/apps/details?id=com.smartpack.packagemanager) - A powerful app to manage both system and user apps `GPL-3.0` [(Source code)](https://github.com/SmartPack/PackageManager)
 * [Package Name Scripter](https://play.google.com/store/apps/details?id=in.ms.packagenamesscripter) - Manage installed apps using Shizuku or create ADB scripts to enable, disable, uninstall, reinstall, or run other app-related ADB commands. `Proprietary`
-* [shappky](https://github.com/YasserNull/shappky) - A simple app to boost performance by stopping background apps.  `GPL-3.0`
+* [shappky](https://github.com/YasserNull/shappky) ✨ - A simple app to boost performance by stopping background apps.  `GPL-3.0`
 * [TaskManager](https://github.com/RohitKushvaha01/TaskManager) - A Task Manager for Android. Killing processes requires root access. `Apache-2.0`
 * [Thor](https://play.google.com/store/apps/details?id=com.valhalla.thor) - App manager with freeze and install capabilities. `GPL-3.0`  [(Source code)](https://github.com/trinadhthatakula/Thor)
 * [UpgradeAll](https://f-droid.org/packages/net.xzos.upgradeall/) - Check updates for Android apps, Magisk modules and more! `GPL-3.0` [(Source code)](https://github.com/DUpdateSystem/UpgradeAll)
@@ -281,7 +281,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 
 * [aShell](https://gitlab.com/sunilpaulmathew/ashell) - A local ADB shell for Shizuku-powered Android devices `GPL-3.0`
   * [aShell You](https://github.com/DP-Hridayan/aShellYou) - Material You Redesign of aShell app. `GPL-3.0`
-* [ReTerminal](https://github.com/RohitKushvaha01/ReTerminal) - Sleek, Material 3-inspired terminal emulator based on Termux's robust TerminalView `MIT`
+* [ReTerminal](https://github.com/RohitKushvaha01/ReTerminal) ✨ - Sleek, Material 3-inspired terminal emulator based on Termux's robust TerminalView `MIT`
 * [ShizuShell](https://play.google.com/store/apps/details?id=com.noxinfinity.shell) - ADB shell using Shizuku `Proprietary`
 
 
@@ -383,7 +383,7 @@ The official rish documentation is available here: https://github.com/RikkaApps/
 --------------------
 
 ## Annotations
-
+- ✨ - My personal recommendation: makes extensive use of Shizuku or is a unique/hidden gem
 - `Paid` 💰 - Paid application
 - `IAP` 💰 - Contains in-app purchases
 - `Ads` - Contains ads
