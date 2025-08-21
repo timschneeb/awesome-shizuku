@@ -114,7 +114,6 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 
 ### Development utilities
 
-* [AIDE-Plus](https://github.com/AndroidIDE-CN/AIDE-Plus) - Android IDE for phones `AGPL-3.0`
 * [AndroidAccounts](https://github.com/iamr0s/AndroidAccounts) - Dump package names of apps that have registered an account for a user. `Proprietary`
 * [AndroidLowLevelDetector](https://play.google.com/store/apps/details?id=net.imknown.android.forefrontinfo) - Detect Treble, GSI, Mainline, APEX, system-as-root(SAR), A/B, etc. `Apache-2.0` [(Source code)](https://github.com/imknown/AndroidLowLevelDetector)
 * [Cosmic-IDE](https://github.com/Cosmic-Ide/Cosmic-IDE) IDE for JVM development. Uses Shizuku for an embedded shell - `GPL-3.0`
