@@ -223,6 +223,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [Hostman](https://github.com/LinZong/Hostman) `Root` - Preview & edit the /etc/hosts file `MIT`
 * [NaiveproxyForAndroid](https://github.com/Dobiec/NaiveproxyForAndroid) - A simple application to run Naiveproxy on Android `MIT`
 * [NetWall](https://play.google.com/store/apps/details?id=com.ysy.app.firewall) `IAP` 💰 - App firewall that doesn't depend on a local VPN or root `Proprietary`
+* [NetworkSwitch](https://github.com/aunchagaonkar/NetworkSwitch) - Android app for 4G/5G network mode switching `GPL-3.0`
 * [WG Tunnel](https://github.com/wgtunnel/wgtunnel) - A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling. `MIT`
 * [WiFiList](https://play.google.com/store/apps/details?id=tk.zwander.wifilist) `Paid` 💰 - View your saved WiFi passwords on Android 11 and later without root `Proprietary` [(Source code)](https://github.com/zacharee/WiFiList)
 * [WiFiList (Fork)](https://github.com/jaredcat/WiFiList) - Fork of 'WiFiList' `Proprietary`
