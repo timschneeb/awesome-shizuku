@@ -179,6 +179,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [fdroid_shizuku_privileged_extension](https://depau.github.io/fdroid_shizuku_privileged_extension/fdroid/repo/) - 与 Shizuku 协同工作的 F-Droid 权限扩展`Apache-2.0` [(源代码)](https://github.com/depau/fdroid_shizuku_privileged_extension)
 * [ffupdater](https://f-droid.org/packages/de.marmaro.krt.ffupdater/) - FFUpdater：隐私友好浏览器的更新程序 `GPL-3.0` [(源代码)](https://github.com/Tobi823/ffupdater)
 * [glassdown](https://github.com/Sinneida/glassdown) - APKMirror 客户端 `GPL-3.0`
+* [InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) ✨ - 现代且实用的 Android 应用安装程序替代品 `GPL-3.0`
 * [InstallWithOptions](https://github.com/zacharee/InstallWithOptions) - 简单的应用程序使用 Shizuku 在设备上安装带有高级选项的 APK `MIT`
 * [IzzyOnDroid](https://gitlab.com/sunilpaulmathew/izzyondroid) - IzzyOnDroid F-Droid 存储库的非官方客户端`GPL-3.0`
 * [Obtainium](https://github.com/ImranR98/Obtainium) - 直接从源获取 Android 应用程序更新 `GPL-3.0`
