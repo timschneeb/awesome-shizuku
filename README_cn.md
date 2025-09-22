@@ -38,6 +38,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
   - [Miscellaneous](#miscellaneous)
   - [Network](#network)
   - [Power management](#power-management)
+  - [Quick Settings](#quick-settings)
   - [Software management](#software-management)
   - [Terminals](#terminals)
   - [Vendor-specific](#vendor-specific)
@@ -211,6 +212,10 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [Extinguish](https://play.google.com/store/apps/details?id=own.moderpach.extinguish) - 熄灭关闭屏幕，但保持设备唤醒状态 `Proprietary`
 * [rebootmenu](https://github.com/ryuunoakaihitomi/rebootmenu)- 使用快捷方式锁定屏幕或打开电源菜单。如果您的电源按钮坏了，这很有用。 `MIT`
 * [ScreenOff](https://github.com/WuDi-ZhanShen/ScreenOff) - 关闭 Android 屏幕而不进入待机/睡眠模式 `Proprietary`
+
+### Quick Settings
+* [Ultimate Settings](https://play.google.com/store/apps/details?id=com.precisebytes.androidtoggles.free.release) `Ads` - 可从小部件/应用/通知/锁屏通知直接切换 Wi-Fi、蓝牙、移动网络、飞行模式、GPS、NFC、Wi-Fi/蓝牙/USB 网络共享热点、屏幕亮度、屏幕自动旋转、LED 灯、铃声模式。 `Proprietary`
+* [Ultimate Settings PRO](https://play.google.com/store/apps/details?id=com.precisebytes.androidtoggles.pro.release) `Paid` 💰 - 可从小部件/应用/通知/锁屏通知直接切换 Wi-Fi、蓝牙、移动网络、飞行模式、GPS、NFC、Wi-Fi/蓝牙/USB 网络共享热点、屏幕亮度、屏幕自动旋转、LED 灯、铃声模式。 `Proprietary`
 
 ### Software management
 
