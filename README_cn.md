@@ -199,12 +199,16 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 ### Network
 
 * [CellReader](https://play.google.com/store/apps/details?id=dev.zwander.cellreader) `Paid` 💰 - 可以在Android上读取手机信号塔信息`MIT` [(源代码)](https://github.com/zacharee/CellReader)
-* [FindMyDevice](https://gitlab.com/Nulide/findmydevice) - Google FindMyDevice 服务的安全和开源替代方案。 `GPL-3.0`
+* [delta](https://github.com/supershadoe/delta) - 使用 Shizuku 的热点管理器 `BSD-3-Clause`
+* [FindMyDevice](https://gitlab.com/Nulide/findmydevice) - Google FindMyDevice 服务的安全和开源替代方案 `GPL-3.0`
 * [Hostman](https://github.com/LinZong/Hostman) `Root` - 预览和编辑/etc/hosts文件 `MIT`
-* [NaiveproxyForAndroid](https://github.com/Dobiec/NaiveproxyForAndroid) - 一个在 Android 上运行 Naiveproxy 的简单应用程序`MIT`
+* [NaiveproxyForAndroid](https://github.com/Dobiec/NaiveproxyForAndroid) - 一个在 Android 上运行 Naiveproxy 的简单应用程序 `MIT`
+* [NetWall](https://play.google.com/store/apps/details?id=com.ysy.app.firewall) `IAP` 💰 - 不依赖本地 VPN 或 root 的应用防火墙 `Proprietary`
+* [NetworkSwitch](https://github.com/aunchagaonkar/NetworkSwitch) - 用于 4G/5G 网络模式切换的 Android 应用 `GPL-3.0`
 * [PrivateDNSAndroid](https://github.com/karasevm/PrivateDNSAndroid) - 快速设置图块可切换活动的私有 DNS 服务器 `MIT`
-* [WiFiList](https://play.google.com/store/apps/details?id=tk.zwander.wifilist) `Paid` 💰- 在 Android 11 及更高版本上查看您保存的 WiFi 密码，无需 root `Proprietary` [(源代码)](https://github.com/zacharee/WiFiList)
-* [WiFiList (FOSS)](https://github.com/jaredcat/WiFiList) - 'WiFiList' 的 FOSS 分叉  `Missing license`
+* [WG Tunnel](https://github.com/wgtunnel/wgtunnel) - WireGuard 和 AmneziaWG 的 FOSS Android 客户端，支持自动隧道功能 `MIT`
+* [WiFiList](https://play.google.com/store/apps/details?id=tk.zwander.wifilist) `Paid` 💰 - 在 Android 11 及更高版本上查看您保存的 WiFi 密码，无需 root `Proprietary` [(源代码)](https://github.com/zacharee/WiFiList)
+* [WiFiList (Fork)](https://github.com/jaredcat/WiFiList) - 'WiFiList' 的分支版本 `Proprietary`
 
 ### Power management
 
