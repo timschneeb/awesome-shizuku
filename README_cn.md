@@ -199,12 +199,15 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 ### Network
 
 * [CellReader](https://play.google.com/store/apps/details?id=dev.zwander.cellreader) `Paid` 💰 - 可以在Android上读取手机信号塔信息`MIT` [(源代码)](https://github.com/zacharee/CellReader)
-* [FindMyDevice](https://gitlab.com/Nulide/findmydevice) - Google FindMyDevice 服务的安全和开源替代方案。 `GPL-3.0`
+* [delta](https://github.com/supershadoe/delta) - 使用 Shizuku 的热点管理器 `BSD-3-Clause`
+* [FindMyDevice](https://gitlab.com/Nulide/findmydevice) - Google FindMyDevice 服务的安全和开源替代方案 `GPL-3.0`
 * [Hostman](https://github.com/LinZong/Hostman) `Root` - 预览和编辑/etc/hosts文件 `MIT`
-* [NaiveproxyForAndroid](https://github.com/Dobiec/NaiveproxyForAndroid) - 一个在 Android 上运行 Naiveproxy 的简单应用程序`MIT`
-* [PrivateDNSAndroid](https://github.com/karasevm/PrivateDNSAndroid) - 快速设置图块可切换活动的私有 DNS 服务器 `MIT`
-* [WiFiList](https://play.google.com/store/apps/details?id=tk.zwander.wifilist) `Paid` 💰- 在 Android 11 及更高版本上查看您保存的 WiFi 密码，无需 root `Proprietary` [(源代码)](https://github.com/zacharee/WiFiList)
-* [WiFiList (FOSS)](https://github.com/jaredcat/WiFiList) - 'WiFiList' 的 FOSS 分叉  `Missing license`
+* [NaiveproxyForAndroid](https://github.com/Dobiec/NaiveproxyForAndroid) - 一个在 Android 上运行 Naiveproxy 的简单应用程序 `MIT`
+* [NetWall](https://play.google.com/store/apps/details?id=com.ysy.app.firewall) `IAP` 💰 - 不依赖本地 VPN 或 root 的应用防火墙 `Proprietary`
+* [NetworkSwitch](https://github.com/aunchagaonkar/NetworkSwitch) - 用于 4G/5G 网络模式切换的 Android 应用 `GPL-3.0`
+* [WG Tunnel](https://github.com/wgtunnel/wgtunnel) - WireGuard 和 AmneziaWG 的 FOSS Android 客户端，支持自动隧道功能 `MIT`
+* [WiFiList](https://play.google.com/store/apps/details?id=tk.zwander.wifilist) `Paid` 💰 - 在 Android 11 及更高版本上查看您保存的 WiFi 密码，无需 root `Proprietary` [(源代码)](https://github.com/zacharee/WiFiList)
+  * [WiFiList (Fork)](https://github.com/jaredcat/WiFiList) - 'WiFiList' 的分支版本 `Proprietary`
 
 ### Power management
 
@@ -214,6 +217,13 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [ScreenOff](https://github.com/WuDi-ZhanShen/ScreenOff) - 关闭 Android 屏幕而不进入待机/睡眠模式 `Proprietary`
 
 ### Quick Settings
+
+* [AlwaysOnDisplayToggle](https://f-droid.org/packages/org.alberto97.aodtoggle/) - 一个用于切换“息屏显示（Always on Display）”的 Android 快捷设置 `MIT` [(源代码)](https://github.com/Alberto97/AlwaysOnDisplayToggle)
+* [Better Internet Tiles](https://play.google.com/store/apps/details?id=be.casperverswijvelt.unifiedinternetqs) - 在 Android 12 或更高版本上带回独立的 Wi-Fi 和移动数据磁贴，并提供更好的统一网络磁贴 `GPL-3.0` [(源代码)](https://github.com/CasperVerswijvelt/Better-Internet-Tiles)
+* [SensorsOff](https://github.com/LinerSRT/SensorsOff) - 通过快捷设置启用/禁用设备传感器 `Apache-2.0`
+* [PrivateDNSAndroid](https://github.com/karasevm/PrivateDNSAndroid) - 用于切换当前私有 DNS 服务器的快捷设置磁贴 `MIT`
+* [Private DNS Quick Setting](https://apt.izzysoft.de/fdroid/index/apk/com.flashsphere.privatednsqs) - 用于开启或关闭私有 DNS 设置的快捷磁贴 `GPL-3.0` [(源代码)](https://github.com/flashsphere/private-dns-qs)
+* [Quick-Tile Settings](https://f-droid.org/packages/com.rbn.qtsettings/) - 提供用于切换 USB 调试和切换私有 DNS 主机的快捷磁贴 `GPL-3.0` [(源代码)](https://github.com/RBN-Apps/Quick-Tile-Settings)
 * [Ultimate Settings](https://play.google.com/store/apps/details?id=com.precisebytes.androidtoggles.free.release) `Ads` - 可从小部件/应用/通知/锁屏通知直接切换 Wi-Fi、蓝牙、移动网络、飞行模式、GPS、NFC、Wi-Fi/蓝牙/USB 网络共享热点、屏幕亮度、屏幕自动旋转、LED 灯、铃声模式。 `Proprietary`
 * [Ultimate Settings PRO](https://play.google.com/store/apps/details?id=com.precisebytes.androidtoggles.pro.release) `Paid` 💰 - 可从小部件/应用/通知/锁屏通知直接切换 Wi-Fi、蓝牙、移动网络、飞行模式、GPS、NFC、Wi-Fi/蓝牙/USB 网络共享热点、屏幕亮度、屏幕自动旋转、LED 灯、铃声模式。 `Proprietary`
 
@@ -259,7 +269,8 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 #### MIUI
 
 * [AppLock](https://github.com/Mufanc/AppLock) - MIUI 12+ 防止应用被侧滑或一键清理杀死 `GPL-3.0` 
-* [FiveGSwitcher](https://play.google.com/store/apps/details?id=com.ysy.switcherfiveg) - MIUI 5G快捷开关 `GPL-3.0` - [(源代码)](https://github.com/ysy950803/FiveGSwitcher)
+* [FiveGSwitcher](https://play.google.com/store/apps/details?id=com.ysy.switcherfiveg) - HyperOS/MIUI 5G快捷开关 `GPL-3.0` - [(源代码)](https://github.com/ysy950803/FiveGSwitcher)
+* [FpsSwitcher](https://play.google.com/store/apps/details?id=com.ysy.fpsswitcher) `Paid` 💰 - HyperOS/MIUI 刷新率快捷开关 `Proprietary`
 * [FxxkMIUIAd](https://github.com/qhy040404/FxxkMIUIAd) - 以最低成本关闭 MIUI 广告 `Apache-2.0`
 * [Mi-FreeForm](https://github.com/sunshine0523/Mi-FreeForm) - 在 MIUI 上以自由格式显示大多数应用程序 `GPL-3.0`
   * [Flyme-FreeForm](https://github.com/Live-Block/Flyme-FreeForm)- Mi-FreeForm 的分叉 `GPL-3.0`
