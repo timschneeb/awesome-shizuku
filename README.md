@@ -361,9 +361,8 @@ I'm also using an automated crawler that searches for new projects, making use o
 
 ### Flows for [Automate](https://llamalab.com/automate/)
 
-* [Better Shizuku Starter](https://llamalab.com/automate/community/flows/50863) - Rootless script to automatically start the Shizuku service on boot, WiFi connect, wake from doze, power (dis)connect, and/or on demand
-* [Shizuku Watchdog](https://llamalab.com/automate/community/flows/51012) - Rootless script to automatically start the Shizuku service on boot and restart it if it stops
-
+* [Better Shizuku Starter](https://llamalab.com/automate/community/flows/50863) - Automatically start Shizuku via wireless debugging on boot, WiFi connect, wake from doze, power (dis)connect, and/or on demand!
+* [Shizuku Keeper](https://github.com/protonpony/Shizuku-Keeper/tree/main) - Continuously run Shizuku and ADB uninterrupted without root or Wi-Fi!
 --------------------
 
 ## Rish shell
