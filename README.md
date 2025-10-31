@@ -363,7 +363,7 @@ I'm also using an automated crawler that searches for new projects, making use o
 
 ### Flows for [Automate](https://llamalab.com/automate/)
 
-* [Better Shizuku Starter](https://llamalab.com/automate/community/flows/50863) - Automatically start Shizuku via wireless debugging on boot, WiFi connect, wake from doze, power (dis)connect, and/or on demand!
+* [Better Shizuku Starter](https://llamalab.com/automate/community/flows/50863) - Automatically start Shizuku via wireless debugging on boot, Wi-Fi connect, wake from doze, power (dis)connect, and/or on demand!
 * [Shizuku Keeper](https://github.com/protonpony/Shizuku-Keeper/tree/main) - Continuously run Shizuku and ADB uninterrupted without root or Wi-Fi!
 --------------------
 
