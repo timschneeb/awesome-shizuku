@@ -198,7 +198,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 
 ### Network
 
-* [Athena](https://github.com/Kin69/Athena) `IAP` 💰 ✨ 款名为“Material You (Material 3)”的防火墙和广告拦截器，它使用 Shizuku 和 Root 权限
+* [Athena](https://github.com/Kin69/Athena) `IAP` 💰 ✨ - 款名为“Material You (Material 3)”的防火墙和广告拦截器，它使用 Shizuku 和 Root 权限
 * [CellReader](https://play.google.com/store/apps/details?id=dev.zwander.cellreader) `Paid` 💰 - 可以在Android上读取手机信号塔信息`MIT` [(源代码)](https://github.com/zacharee/CellReader)
 * [delta](https://github.com/supershadoe/delta) - 使用 Shizuku 的热点管理器 `BSD-3-Clause`
 * [FindMyDevice](https://gitlab.com/Nulide/findmydevice) - Google FindMyDevice 服务的安全和开源替代方案 `GPL-3.0`
