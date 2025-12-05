@@ -37,6 +37,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
   - [Installer & app stores](#installer--app-stores)
   - [Miscellaneous](#miscellaneous)
   - [Network](#network)
+  - [Patching](#patching)
   - [Power management](#power-management)
   - [Privacy](#privacy)
   - [Productivity](#productivity)
@@ -223,7 +224,6 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 
 * [Anywhere](https://github.com/zhaobozhen/Anywhere-/) - An activity and shell shortcut folder `Apache-2.0`
 * [krude](https://github.com/KusStar/krude) - All-in-one app and workflow launcher. Uses Shizuku for process killing and file management `MIT`
-* [LSPatch](https://github.com/JingMatrix/LSPatch) - A non-root Xposed framework extending from LSPosed `GPL-3.0`
 * [SimpleWear](https://play.google.com/store/apps/details?id=com.thewizrd.simplewear) - A simple app for controlling your Android devices from your WearOS watch `Apache-2.0` [(Source code)](https://github.com/SimpleAppProjects/SimpleWear)
 
 ### Network
@@ -241,6 +241,10 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [WG Tunnel](https://github.com/wgtunnel/wgtunnel) - A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling. `MIT`
 * [WiFiList](https://play.google.com/store/apps/details?id=tk.zwander.wifilist) `Paid` 💰 - View your saved WiFi passwords on Android 11 and later without root `Proprietary` [(Source code)](https://github.com/zacharee/WiFiList)
   * [WiFiList (Fork)](https://github.com/jaredcat/WiFiList) - Fork of 'WiFiList' `Proprietary`
+
+### Patching
+
+* [LSPatch](https://github.com/JingMatrix/LSPatch) - A non-root Xposed framework extending from LSPosed `GPL-3.0`
 
 ### Power management
 
