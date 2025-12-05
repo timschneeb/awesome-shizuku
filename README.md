@@ -365,6 +365,10 @@ I'm also using an automated crawler that searches for new projects, making use o
 
 ## Miscellaneous content
 
+### Command-line utilities
+
+* [AndroSH](https://github.com/ahmed-alnassif/AndroSH) - Professional Multi-Distribution Linux Environments for Android 🚀 Run Archlinux, Fedora, Alpine, Debian, Ubuntu & Kali with full Android system integration `GPL-3.0`
+
 ### Flows for [Automate](https://llamalab.com/automate/)
 
 * [Better Shizuku Starter](https://llamalab.com/automate/community/flows/50863) - Check and automatically start Shizuku **13.6** on key events via wireless debugging with the *free* version of Automate.
