@@ -366,8 +366,9 @@ I'm also using an automated crawler that searches for new projects, making use o
 
 ### Flows for [Automate](https://llamalab.com/automate/)
 
-* [Better Shizuku Starter](https://llamalab.com/automate/community/flows/50863) - Automatically start Shizuku via wireless debugging on boot, Wi-Fi connect, wake from doze, power (dis)connect, and/or on demand!
-* [Shizuku Keeper](https://github.com/protonpony/Shizuku-Keeper/tree/main) - Continuously run Shizuku and ADB uninterrupted without root or Wi-Fi!
+* [Better Shizuku Starter](https://llamalab.com/automate/community/flows/50863) - Check and automatically start Shizuku **13.6** on key events via wireless debugging with the *free* version of Automate.
+* [Shizuku Keeper](https://llamalab.com/automate/community/flows/51118) - Continuously run Shizuku **13.6** or **ADB** uninterrupted without root, Wi-Fi, or cables via USB debugging with Automate *Premium.*
+  * [Shizuku Keeper Lite](https://llamalab.com/automate/community/flows/51012) - Check Shizuku **13.6** at regular intervals and automatically restart it via wireless debugging with the *free* version of Automate.
 --------------------
 
 ## Rish shell
