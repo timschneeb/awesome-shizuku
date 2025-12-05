@@ -122,7 +122,6 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 
 ### Development utilities
 
-* [AndroSH](https://github.com/ahmed-alnassif/AndroSH) - Professional Multi-Distribution Linux Environments for Android 🚀 Run Archlinux, Fedora, Alpine, Debian, Ubuntu & Kali with full Android system integration - `GPL-3.0`
 * [AndroidAccounts](https://github.com/iamr0s/AndroidAccounts) - Dump package names of apps that have registered an account for a user. `Proprietary`
 * [AndroidLowLevelDetector](https://play.google.com/store/apps/details?id=net.imknown.android.forefrontinfo) - Detect Treble, GSI, Mainline, APEX, system-as-root(SAR), A/B, etc. `Apache-2.0` [(Source code)](https://github.com/imknown/AndroidLowLevelDetector)
 * [Cosmic-IDE](https://github.com/Cosmic-Ide/Cosmic-IDE) IDE for JVM development. Uses Shizuku for an embedded shell - `GPL-3.0`
@@ -364,6 +363,10 @@ I'm also using an automated crawler that searches for new projects, making use o
 --------------------
 
 ## Miscellaneous content
+
+### Command-line utilities
+
+* [AndroSH](https://github.com/ahmed-alnassif/AndroSH) - Professional Multi-Distribution Linux Environments for Android 🚀 Run Archlinux, Fedora, Alpine, Debian, Ubuntu & Kali with full Android system integration `GPL-3.0`
 
 ### Flows for [Automate](https://llamalab.com/automate/)
 
