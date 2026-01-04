@@ -7,7 +7,7 @@ on:
     branches: [ '*' ]
 
 jobs:
-  linkcheck:
+  check_link_health:
     strategy:
       fail-fast: false
       matrix:
@@ -18,7 +18,7 @@ jobs:
 
 
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
     - name: Set up Ruby 2.6
       uses: ruby/setup-ruby@v1
       with:
@@ -33,3 +33,28 @@ jobs:
         awesome_bot -f "$FILE" -a 429 --allow-dupe --base-url https://github.com/timschneeb/awesome-shizuku/blob/master/
         echo "## $FILE" >> $$GITHUB_STEP_SUMMARY
         cat ab-results-${FILE_SLUG}-markdown-table.json | jq .message -r >> $GITHUB_STEP_SUMMARY
+
+  check_repository_health:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run repository check script
+        run: python .github/scripts/check_links.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Append report to job summary
+        run: |
+          cat report.md >> $GITHUB_STEP_SUMMARY
