@@ -1,0 +1,37 @@
+name: Check Repository Health
+
+on:
+  push:
+    branches: [ '*' ]
+  workflow_dispatch: # Allows manual triggering of the workflow
+  schedule:
+    - cron: '0 2 * * 0' # Runs every Sunday at 2:00 AM UTC
+
+jobs:
+  check_repository_links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run repository check script
+        run: python .github/scripts/check_links.py
+        env:
+          # The GITHUB_TOKEN is automatically provided by GitHub Actions
+          # and is used by the script to make authenticated API requests.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Append report to job summary
+        run: |
+          echo '### Repository Health Report' >> $GITHUB_STEP_SUMMARY
+          cat report.md >> $GITHUB_STEP_SUMMARY
