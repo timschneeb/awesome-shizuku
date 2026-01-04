@@ -1,9 +1,9 @@
-name: Check Repository Health
+name: Check GitHub repository age and state
 
 on:
   push:
     branches: [ '*' ]
-  workflow_dispatch: # Allows manual triggering of the workflow
+  workflow_dispatch:
   schedule:
     - cron: '0 2 * * 0' # Runs every Sunday at 2:00 AM UTC
 
@@ -27,11 +27,8 @@ jobs:
       - name: Run repository check script
         run: python .github/scripts/check_links.py
         env:
-          # The GITHUB_TOKEN is automatically provided by GitHub Actions
-          # and is used by the script to make authenticated API requests.
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Append report to job summary
         run: |
-          echo '### Repository Health Report' >> $GITHUB_STEP_SUMMARY
           cat report.md >> $GITHUB_STEP_SUMMARY
