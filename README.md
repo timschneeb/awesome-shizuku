@@ -88,7 +88,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [Aliucord-Manager](https://github.com/Aliucord/Manager) - Discord modding tool `OSL-3.0`
 * [Bluesky Redirect](https://apt.izzysoft.de/fdroid/index/apk/io.github.turtlepaw.blueskyredirect) - A simple app for automatically launching Bluesky links in your preferred Bluesky client `MIT` [(Source code)](https://github.com/Turtlepaw/BlueskyRedirect)
 * [CatShare](https://f-droid.org/packages/moe.reimu.catshare/) - Send and receive files over Bluetooth `MIT` [(Source code)](https://github.com/kmod-midori/CatShare)
-* [Kettu](https://github.com/C0C0B01/Kettu) - Discord modding tool. Continuation of the abandoned [Bunny-Manager](https://github.com/bunny-mod/BunnyManager) project `OSL-3.0`
+* [Kettu](https://github.com/C0C0B01/Kettu) - Discord modding tool. Continuation of the abandoned Bunny-Manager project `OSL-3.0`
 * [Lemmy Redirect](https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.lemmyredirect) - A simple app for automatically launching Lemmy links in your preferred Lemmy client. `MIT` [(Source code)](https://github.com/zacharee/MastodonRedirect)
 * [Mastodon Redirect](https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.mastodonredirect) - A simple app for automatically launching fediverse links in your preferred Mastodon client. `MIT` [(Source code)](https://github.com/zacharee/MastodonRedirect)
 * [revenge-manager](https://github.com/revenge-mod/revenge-manager) - Discord modding tool. Another continuation of the abandoned [Bunny-Manager](https://github.com/bunny-mod/BunnyManager) project `OSL-3.0`
@@ -137,7 +137,6 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [KeyAttestation](https://github.com/vvb2060/KeyAttestation) - Supports generating, saving, loading, parsing and verifying Android key and ID attestation data. `Proprietary`
 * [LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps on your device. Uses Shizuku to determine the installation source of other apps. `Apache-2.0`
 * [LogFox](https://github.com/F0x1d/LogFox) ✨ - Yet another logcat reader for Android  `GPL-3.0`
-* [Logra](https://github.com/wingio/Logra) - Material You logcat viewer for Android `GPL-2.0`
 * [ManageSensors](https://github.com/Carry-rrk/ManageSensors) - Utilizes Shizuku to call AppOps APIs for fine-grained app permission control `MIT`
 * [PyDroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) `Ads` `IAP` 💰 - IDE for Python 3 `Proprietary`
 * [RootActivityLauncher](https://play.google.com/store/apps/details?id=tk.zwander.rootactivitylauncher) `Paid` 💰 - Launch/interact with (un)exported activities, services, and receivers. Supports Shizuku alongside root. `Proprietary` [(Source code)](https://github.com/zacharee/RootActivityLauncher)
@@ -147,7 +146,6 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 ### Device owner (DPM)
 
 * [Dhizuku](https://github.com/iamr0s/Dhizuku) - Shizuku-inspired app that allows sharing DeviceOwner permissions to third-party apps `GPL-3.0`
-* [HardenDroid](https://github.com/oddbyte/HardenDroid) - Shizuku & dhizuku app to allow you to manage users without root `Apache-2.0`
 * [OwnDroid](https://github.com/BinTianqi/OwnDroid) - Manage your device with Device owner privileges `GPL-3.0`
   * [MDPC](https://github.com/MrRare2/MDPC) - Fork of OwnDroid with added features `GPL-3.0`
 
@@ -217,7 +215,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [BHub](https://github.com/B1ays/BHub) - Download, install and share mods easily `Proprietary`
 * [Droid-ify](https://f-droid.org/packages/com.looker.droidify/) - Material F-Droid client `GPL-3.0` [(Source code)](https://github.com/Droid-ify/client)
 * [ffupdater](https://f-droid.org/packages/de.marmaro.krt.ffupdater/) - FFUpdater: Updater for privacy-friendly browser `GPL-3.0` [(Source code)](https://github.com/Tobi823/ffupdater)
-* [instafel-updater](https://github.com/mamiiblt/instafel-updater) - Updater app for Instafel, an Instagram mod `Apache-2.0`
+* [instafel](https://github.com/mamiiblt/instafel) - Updater app for Instafel, an Instagram mod `MIT`
 * [InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) ✨ - Modern and functional Android app installer replacement `GPL-3.0`
 * [InstallWithOptions](https://github.com/zacharee/InstallWithOptions) -  Simple-ish app using Shizuku to install APKs on-device with advanced options `MIT`
 * [IzzyOnDroid](https://gitlab.com/sunilpaulmathew/izzyondroid) - An unofficial client for IzzyOnDroid F-Droid Repository `GPL-3.0`
@@ -226,13 +224,11 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [PI](https://github.com/SanmerApps/PI) - Package installer that allows overwriting the package requester and executor `MIT`
 * [SAI](https://f-droid.org/packages/com.aefyr.sai.fdroid/) - Android split APKs installer `GPL-3.0` [(Source code)](https://github.com/Aefyr/SAI)
 * [Shizuku Package Installer](https://github.com/vvb2060/PackageInstaller) - A lightweight app installer replacement with split APK support `Apache-2.0`
-* [skydroid](https://github.com/redsolver/skydroid) - A decentralized domain-based App Store for Android `GPL-3.0`
 
 ### Miscellaneous
 
-* [Anywhere](https://github.com/zhaobozhen/Anywhere-/) - An activity and shell shortcut folder `Apache-2.0`
+
 * [krude](https://github.com/KusStar/krude) - All-in-one app and workflow launcher. Uses Shizuku for process killing and file management `MIT`
-* [maps-min](https://github.com/sameerasw/maps-min) - Google Maps Minimalistic mode for any device with Shizuku  `MPL-2.0`
 * [OnStop2FinishAndRemoveTask](https://github.com/takusan23/OnStop2FinishAndRemoveTask) - Automatically close selected apps when you exit them to save power and memory `Apache-2.0`
 * [Operit AI](https://github.com/AAswordman/Operit) - The most powerful AI agent and AI chat software on Android. Can run commands using Shizuku `LGPL-3.0`
 * [SimpleWear](https://play.google.com/store/apps/details?id=com.thewizrd.simplewear) - A simple app for controlling your Android devices from your WearOS watch `Apache-2.0` [(Source code)](https://github.com/SimpleAppProjects/SimpleWear)
@@ -268,7 +264,6 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [FDE.AI](https://github.com/feravolt/FDE.AI-docs/releases) `IAP` 💰 - All-in-One optimizer for Android `Proprietary`
 * [EnforceDoze](https://f-droid.org/packages/com.akylas.enforcedoze/) - Enable Doze mode immediately after screen off and turn off motion sensing to get best battery life `GPL-3.0` [(Source code)](https://github.com/farfromrefug/EnforceDoze)
 * [Extinguish](https://play.google.com/store/apps/details?id=own.moderpach.extinguish) - Extinguish turns your screen off but keeps your device awake `Proprietary`
-* [rebootmenu](https://github.com/ryuunoakaihitomi/rebootmenu) - Lock the screen or open the power menu using shortcuts. Useful if your power button is broken. `MIT`
 * [RebootNya](https://github.com/daisukiKaffuChino/RebootNya) - Advanced reboot menu with Shizuku support `Apache-2.0`
 * [ScreenOff](https://github.com/WuDi-ZhanShen/ScreenOff) - Turn off your Android's screen without entering standby/sleep mode `Proprietary`
 * [zukulock](https://github.com/tiendnm/zukulock) - Very lightweight app that locks the screen when launched. Helps reduce wear on the power button `MIT`
@@ -343,7 +338,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 #### Samsung OneUI
 
 * [Galaxy MaxHz](https://github.com/tribalfs/GalaxyMaxHzPub) `IAP` 💰 - Refresh Rate Mods, Screen-off Mods, QS Tiles, Tasker Support and More  `Proprietary`
-* [Fonts](https://apt.izzysoft.de/packages/com.je.fontsmanager.samsung) - One UI 8 rootless font installer `GPL-3.0` [(Source code)](https://github.com/jeeneo/fonts)
+* [Fonts](https://apt.izzysoft.de/packages/com.je.fontsmanager.samsung) - One UI 8 rootless font installer `GPL-3.0` [(Source code)](https://codeberg.org/dryerlint/fontsmanager)
 * [Hex Installer: OneUI themes](https://play.google.com/store/apps/details?id=project.vivid.hex.bodhi) `IAP` 💰 - Custom system-wide theming engine for Samsung OneUI devices `Proprietary`
 * [SBatteryTweaks](https://github.com/pascua28/SBatteryTweaks) - Enable or disable fast charging mode on Samsung devices when the battery temperature reaches a certain point  `Proprietary`
 * [SMTShell](https://github.com/BLuFeNiX/SMTShell) - Privilege escalation exploit [(CVE-2019-16253)](https://nvd.nist.gov/vuln/detail/CVE-2019-16253) to system user access (UID 1000) on non-rooted devices running up to OneUI 5. Uses Shizuku for automation `LGPL-2.1`
@@ -381,11 +376,6 @@ I'm also using an automated crawler that searches for new projects, making use o
 
 ### System
 * [ServiceManagerCompat](https://github.com/SanmerApps/ServiceManagerCompat) - ServiceManager bindings `MIT`
-
-### Power
-
-* [PowerAct](https://github.com/ryuunoakaihitomi/PowerAct) - An Android library that can manipulate power-related actions with just a few lines of code `Apache-2.0`
-
 
 --------------------
 
