@@ -213,6 +213,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [Panda Gamepad Pro](https://play.google.com/store/apps/details?id=com.panda.gamepad) `Paid` `IAP` 💰 - Keymapper for games `Proprietary`
 * [pastiera](https://github.com/palsoftware/pastiera) - Android keyboard specialized for Physical Keyboard Devices. Uses Shizuku for trackpad gestures `GPL-3.0`
 * [RealMouse](https://play.google.com/store/apps/details?id=com.redlee90.realmouse) - Control the mouse using a virtual touchpad. Designed for secondary displays. `Proprietary`
+* [TitanPad](https://github.com/sztupy/TitanPad) - Converts the Titan2's Physical Keyboard's capacitive input into mouse and scroll gestures. Uses Shizuku for reading the trackpad input and setting up virtual HID devices `Apache-2.0`
 * [XtMapper](https://github.com/Xtr126/XtMapper) - Keymapper for Android x86  `GPL-3.0`
 
 
