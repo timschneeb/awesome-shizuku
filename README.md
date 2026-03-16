@@ -451,6 +451,12 @@ The official rish documentation is available here: https://github.com/RikkaApps/
 
 --------------------
 
+## Related Lists
+
+- [awesome-android-customization](https://github.com/OutrageousStorm/awesome-android-customization) - Broader Android customization list covering launchers, icon packs, ROMs, debloating tools, and ADB cheat sheets. Includes Shizuku apps alongside other no-root methods.
+
+--------------------
+
 ## License
 
 This list is licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en) License.
