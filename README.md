@@ -286,6 +286,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 * [AntiForensic-Tools](https://github.com/bakad3v/Android-AntiForensic-Tools) - An application designed to silently protect user data from powerful adversaries `GPL-3.0`
 * [AppLock](https://github.com/PranavPurwar/AppLock) ✨ - Lock sensitive apps with a PIN and optionally biometrics `MIT`
 * [PrivacyFlip](https://f-droid.org/en/packages/io.github.dorumrr.privacyflip/) - Manage your device privacy based on lock/unlock state `MIT` [(Source code)](https://github.com/dorumrr/privacyflip)
+* [Android Permission Auditor](https://github.com/OutrageousStorm/android-permission-auditor) - Audit every app's dangerous permissions via ADB and generate revoke scripts `MIT`
 
 ### Productivity
 
