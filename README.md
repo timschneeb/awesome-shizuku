@@ -285,7 +285,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 
 * [Amarok-Hider](https://apt.izzysoft.de/fdroid/index/apk/deltazero.amarok.foss) - Hide your private files and Android apps with just one click `Apache-2.0` [(Source code)](https://github.com/deltazefiro/Amarok-Hider)
 * [AntiForensic-Tools](https://github.com/bakad3v/Android-AntiForensic-Tools) - An application designed to silently protect user data from powerful adversaries `GPL-3.0`
-* [AppLock](https://github.com/PranavPurwar/AppLock) ✨ - Lock sensitive apps with a PIN and optionally biometrics `MIT`
+* [AppLock](https://github.com/aload0/AppLock) ✨ - Lock sensitive apps with a PIN and optionally biometrics `MIT`
 * [PrivacyFlip](https://f-droid.org/en/packages/io.github.dorumrr.privacyflip/) - Manage your device privacy based on lock/unlock state `MIT` [(Source code)](https://github.com/dorumrr/privacyflip)
 
 ### Productivity
