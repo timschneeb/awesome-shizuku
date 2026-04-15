@@ -22,6 +22,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 ## Table of contents
 
 - [Apps](#apps)
+  - [AI agents](#ai-agents)
   - [Android TV](#android-tv)
   - [Audio](#audio)
   - [Automation](#automation)
@@ -64,6 +65,12 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 --------------------
 
 ## Apps
+
+### AI agents
+
+* [Open-AutoGLM-Android](https://github.com/xinzezhu/Open-AutoGLM-Android/blob/main/README_EN.md) - Automates actions on your device using the AutoGLM vision language model `GPL-3.0`
+* [Ruto-GLM](https://github.com/iamr0s/Ruto-GLM/blob/main/README_en.md) - Automation and Multitasking Framework using AutoGLM. Can create virtual screens that agents can run apps on and use multi-window `Apache 2.0`
+
 
 ### Android TV
 
