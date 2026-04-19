@@ -25,4 +25,4 @@ jobs:
           python-version: '3.12'
 
       - name: Run Linter
-        run: python script/lint.py
+        run: python scripts/lint.py
