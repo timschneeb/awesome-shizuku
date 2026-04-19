@@ -181,5 +181,5 @@ def sync_readme(source_path, target_path, toc_heading, source_code_label):
     print(f"Synced: {target_path}")
 
 if __name__ == "__main__":
-    sync_readme('../README.md', 'README_cn.md', '## 目录', '源代码')
-    sync_readme('../README.md', 'README_tw.md', '## 目錄', '原始碼')
+    sync_readme('README.md', 'README_cn.md', '## 目录', '源代码')
+    sync_readme('README.md', 'README_tw.md', '## 目錄', '原始碼')
