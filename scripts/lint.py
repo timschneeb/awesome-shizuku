@@ -89,7 +89,7 @@ def lint_readme(file_path):
         print(f"Linting passed for {file_path}")
         if summary_file:
             with open(summary_file, 'a', encoding='utf-8') as f:
-                f.write(f"### ✅ {file_path} Passed\n\n\n")
+                f.write(f"### ✅ {file_path}\n\n\n")
         return True
     else:
         print(f"❌ Found {len(errors)} formatting error(s) in {file_path}:\n")
@@ -98,7 +98,7 @@ def lint_readme(file_path):
 
         if summary_file:
             with open(summary_file, 'a', encoding='utf-8') as f:
-                f.write(f"### ❌ {file_path} Failed\nFound **{len(errors)}** formatting error(s):\n\n")
+                f.write(f"### ❌ {file_path}\nFound **{len(errors)}** formatting error(s):\n\n")
                 for e in errors:
                     f.write(f"- {e}\n")
                 f.write("\n---\n")
