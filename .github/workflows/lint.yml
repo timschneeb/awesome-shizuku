@@ -25,6 +25,4 @@ jobs:
           python-version: '3.12'
 
       - name: Run Linter
-        # This executes the script. If the script calls sys.exit(1), 
-        # the action will fail and block the PR.
-        run: python lint_readme.py
+        run: python lint.py
