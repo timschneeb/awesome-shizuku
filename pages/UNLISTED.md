@@ -15,7 +15,6 @@ For the sake of completeness, these projects are linked despite being inaccessib
 * [Cfm_Joy_Manager](https://github.com/rlin1538/Cfm_Joy_Manager) - Gamepad mapper for CrossFire: Gunfight King `No license`
 * [CokoTools](https://github.com/Yorick-Ryu/CokoTools) - Toolbox for Vivo/Iqoo devices `Apache-2.0`
 * [crosscore-mod-manager](https://github.com/laoxinH/crosscore-mod-manager) - Game mod manager for games such as Azur Lane `GPL-3.0`
-* [DisabledLauncher](https://github.com/voruti/DisabledLauncher) - Android app that disables unused apps while still allowing convenient access to them `MIT`
 * [DroidCloudSms](https://github.com/xfl12345/DroidCloudSms) - Use your phone as a cloud SMS server `AGPL-3.0`
 * [FabricateOverlay](https://github.com/zacharee/FabricateOverlay) - (Deprecated) Manage fabricated overlays on Android 12.0; Android 12L breaks this app. `No license`
 * [fps-switcher](https://github.com/AlphaBoom/fps_switcher) - Refresh rate quick settings tile for MIUI `No license`
