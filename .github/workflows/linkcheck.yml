@@ -11,11 +11,10 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        file: ['README.md', 'pages/UNLISTED.md']
+        file: ['README.md', 'pages/ARCHIVED.md']
 
     runs-on: ubuntu-latest
     continue-on-error: true
-
 
     steps:
     - uses: actions/checkout@v4
@@ -51,7 +50,7 @@ jobs:
           pip install requests
 
       - name: Run repository check script
-        run: python .github/scripts/check_links.py
+        run: python scripts/check_links.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

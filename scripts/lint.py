@@ -1,3 +1,4 @@
+import os
 import re
 import sys
 
@@ -81,13 +82,26 @@ def lint_readme(file_path):
             if entry_start_pattern.match(line):
                 errors.append(f"[Line {line_num}] MALFORMED ENTRY: Ensure the entry exactly matches '* [Name](URL) [Tags] - Description'. Missing hyphen? ({line_stripped[:40]}...)")
 
+    # --- Generate GitHub Actions Summary ---
+    summary_file = os.environ.get('GITHUB_STEP_SUMMARY')
+
     if not errors:
         print(f"Linting passed for {file_path}")
+        if summary_file:
+            with open(summary_file, 'a', encoding='utf-8') as f:
+                f.write(f"### ✅ {file_path} Passed\n\n\n")
         return True
     else:
-        print(f"Found {len(errors)} formatting errors:\n")
+        print(f"❌ Found {len(errors)} formatting error(s) in {file_path}:\n")
         for e in errors:
             print(e)
+
+        if summary_file:
+            with open(summary_file, 'a', encoding='utf-8') as f:
+                f.write(f"### ❌ {file_path} Failed\nFound **{len(errors)}** formatting error(s):\n\n")
+                for e in errors:
+                    f.write(f"- {e}\n")
+                f.write("\n---\n")
         return False
 
 if __name__ == "__main__":
