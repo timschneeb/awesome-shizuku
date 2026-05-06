@@ -9,9 +9,7 @@ Shizuku allows normal apps to use system APIs directly with elevated privileges 
 
 More details: https://shizuku.rikka.app/
 
-Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
-
-Closed-source apps are listed in a separate file. See below for details.
+Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed-source apps are listed in a separate file. See [below](#closed-source-apps) for details.
 
 > [!NOTE]
 > To stay up-to-date with this list, [you can check the daily changelogs](https://github.com/timschneeb/changelog-awesome-shizuku).
@@ -185,7 +183,7 @@ Closed-source apps are listed in a separate file. See below for details.
 * [SDMaid-SE](https://play.google.com/store/apps/details?id=eu.darken.sdmse) `IAP` 💰 - SD Maid 2/SE is Android's most thorough cleaning tool `GPL-3.0` [(Source code)](https://github.com/d4rken-org/sdmaid-se)
 
 > [!NOTE]
-> There are currently no mature open-source file managers with Shizuku support. [See here for closed-source file managers instead.](pages/CLOSED_SOURCE.md#file-management)
+> [See here more file managers (closed-source)](pages/CLOSED_SOURCE.md#file-management)
 
 ### Games
 
