@@ -11,6 +11,7 @@ More details: https://shizuku.rikka.app/
 
 Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 
+Closed-source apps are listed in a separate file. See below for details.
 
 > [!NOTE]
 > To stay up-to-date with this list, [you can check the daily changelogs](https://github.com/timschneeb/changelog-awesome-shizuku).
@@ -183,6 +184,8 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 ### File management
 * [SDMaid-SE](https://play.google.com/store/apps/details?id=eu.darken.sdmse) `IAP` 💰 - SD Maid 2/SE is Android's most thorough cleaning tool `GPL-3.0` [(Source code)](https://github.com/d4rken-org/sdmaid-se)
 
+> [!NOTE]
+> There are currently no mature open-source file maangers with Shizuku support. [See here for closed-source file managers instead.](pages/CLOSED_SOURCE.md)
 
 ### Games
 
@@ -381,7 +384,8 @@ Closed-source apps have been moved into a separate sublist. [You can view them h
 ### Unlisted apps
 To keep the main list clean, all apps that have been deprecated or abandoned are stored on a separate page: [ARCHIVED.md](pages/ARCHIVED.md)
 
-I'm also using an automated crawler that searches for new projects, making use of Shizuku across GitHub and several F-Droid repos. You can view the [current auto-generated crawl report here](https://github.com/timschneeb/app-crawler/blob/master/SUMMARY.md).
+> [!NOTE]
+> I'm also using an automated crawler that searches for new projects, making use of Shizuku across GitHub and several F-Droid repos. You can view the [current auto-generated crawl report here](https://github.com/timschneeb/app-crawler/blob/master/SUMMARY.md).
 
 
 --------------------
