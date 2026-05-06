@@ -13,7 +13,7 @@ This sublist only contains applications that are closed-source.
 
 ## Table of contents
 
-- [Closed-source apps](#closed-source apps)
+- [Closed-source apps](#closed-source-apps)
   - [Audio](#audio)
   - [Automation](#automation)
   - [Customization](#customization)
