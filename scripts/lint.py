@@ -106,9 +106,10 @@ def lint_readme(file_path):
 
 if __name__ == "__main__":
     success_readme = lint_readme('README.md')
+    success_closed = lint_readme('pages/CLOSED_SOURCE.md')
     success_archived = lint_readme('pages/ARCHIVED.md')
 
-    if not success_readme or not success_archived:
+    if not success_readme or not success_archived or not success_closed:
         sys.exit(1)
     else:
         sys.exit(0)
