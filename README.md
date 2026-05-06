@@ -185,7 +185,7 @@ Closed-source apps are listed in a separate file. See below for details.
 * [SDMaid-SE](https://play.google.com/store/apps/details?id=eu.darken.sdmse) `IAP` 💰 - SD Maid 2/SE is Android's most thorough cleaning tool `GPL-3.0` [(Source code)](https://github.com/d4rken-org/sdmaid-se)
 
 > [!NOTE]
-> There are currently no mature open-source file maangers with Shizuku support. [See here for closed-source file managers instead.](pages/CLOSED_SOURCE.md)
+> There are currently no mature open-source file managers with Shizuku support. [See here for closed-source file managers instead.](pages/CLOSED_SOURCE.md#file-management)
 
 ### Games
 
