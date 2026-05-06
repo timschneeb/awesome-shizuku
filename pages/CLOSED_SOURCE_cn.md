@@ -43,7 +43,6 @@
 * [MacroDroid](https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid) `Ads` `IAP` 💰 - 适用于 Android 设备的自动化应用程序。版本 5.46 及更高版本引入了 Shizuku 支持。 `Proprietary`
 * [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) `Paid` 💰 - Automation app for Android devices. Version 6.6 and later introduce Shizuku support. `Proprietary`
 
-
 ### Customization
 
 * [AAAD](https://github.com/shmykelsa/AAAD) `IAP` 💰 - 下载流行的 Android Auto 第三方应用程序并安装到 Android Auto 上 `Proprietary`
@@ -123,5 +122,5 @@
 
 #### MIUI
 
-* [FpsSwitcher](https://play.google.com/store/apps/details?id=com.ysy.fpsswitcher) `Paid` 💰 - HyperOS/MIUI 刷新率快捷开关  `Proprietary`
+* [FpsSwitcher](https://play.google.com/store/apps/details?id=com.ysy.fpsswitcher) `Paid` 💰 - HyperOS/MIUI 刷新率快捷开关 `Proprietary`
 

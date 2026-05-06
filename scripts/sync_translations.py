@@ -26,6 +26,7 @@ def sync_readme(source_path, target_path, toc_heading, source_code_label):
 
     pre_toc_block = []
     unlisted_block = []
+    closed_source_block = []
     license_block = []
 
     current_section = "PRE_TOC"
@@ -45,6 +46,10 @@ def sync_readme(source_path, target_path, toc_heading, source_code_label):
             current_section = "UNLISTED"
             unlisted_block.append(line)
             continue
+        elif line.startswith('### Closed-source apps'):
+            current_section = "CLOSED_SOURCE"
+            closed_source_block.append(line)
+            continue
         elif line.startswith('## License'):
             current_section = "LICENSE"
             license_block.append(line)
@@ -54,12 +59,15 @@ def sync_readme(source_path, target_path, toc_heading, source_code_label):
             continue
 
         if current_section == "UNLISTED" and line.startswith('## '): current_section = "CONTENT"
+        elif current_section == "CLOSED_SOURCE" and line.startswith('## '): current_section = "CONTENT"
         elif current_section == "TOC" and line.startswith('## '): current_section = "CONTENT"
 
         if current_section == "PRE_TOC":
             pre_toc_block.append(line)
         elif current_section == "UNLISTED":
             unlisted_block.append(line)
+        elif current_section == "CLOSED_SOURCE":
+            closed_source_block.append(line)
         elif current_section == "LICENSE":
             license_block.append(line)
         elif current_section == "ANNOTATIONS":
@@ -112,6 +120,10 @@ def sync_readme(source_path, target_path, toc_heading, source_code_label):
             current_source_section = "UNLISTED"
             output_lines.extend(unlisted_block)
             continue
+        elif line.startswith('### Closed-source apps'):
+            current_source_section = "CLOSED_SOURCE"
+            output_lines.extend(closed_source_block)
+            continue
         elif line.startswith('## License'):
             current_source_section = "LICENSE"
             output_lines.extend(license_block)
@@ -122,9 +134,10 @@ def sync_readme(source_path, target_path, toc_heading, source_code_label):
             continue
 
         if current_source_section == "UNLISTED" and line.startswith('## '): current_source_section = "CONTENT"
+        elif current_source_section == "CLOSED_SOURCE" and line.startswith('## '): current_source_section = "CONTENT"
         elif current_source_section == "TOC" and line.startswith('## '): current_source_section = "CONTENT"
 
-        if current_source_section in ["PRE_TOC", "UNLISTED", "LICENSE"]: continue
+        if current_source_section in ["PRE_TOC", "UNLISTED", "CLOSED_SOURCE", "LICENSE"]: continue
         elif current_source_section == "TOC": output_lines.append(line)
         elif current_source_section == "ANNOTATIONS":
             m = re.match(r'^(\s*(?:\*|-)\s+)(.*?)\s+-\s+(.*)$', line)
@@ -183,3 +196,5 @@ def sync_readme(source_path, target_path, toc_heading, source_code_label):
 if __name__ == "__main__":
     sync_readme('README.md', 'README_cn.md', '## 目录', '源代码')
     sync_readme('README.md', 'README_tw.md', '## 目錄', '原始碼')
+    sync_readme('pages/CLOSED_SOURCE.md', 'pages/CLOSED_SOURCE_cn.md', '## 目录', '源代码')
+    sync_readme('pages/CLOSED_SOURCE.md', 'pages/CLOSED_SOURCE_tw.md', '## 目錄', '原始碼')

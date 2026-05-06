@@ -48,7 +48,7 @@
 
 * [AAAD](https://github.com/shmykelsa/AAAD) `IAP` 💰 - 下載流行的 Android Auto 第三方應用程式並安裝到 Android Auto 上 `Proprietary`
 * [SetEdit: Settings Editor](https://play.google.com/store/apps/details?id=com.netvor.settings.database.editor) - View and edit settings from the system, global, and secure tables `Proprietary`
-* [UbikiTouch](https://play.google.com/store/apps/details?id=eu.toneiv.ubktouch) `IAP` 💰 - 為您喜愛的應用程式新增功能，只需一個手勢即可訪問。輕掃螢幕的一側邊緣，即可顯示一個可定製的選單，其中顯示了您最喜歡的操作 `Propietary`
+* [UbikiTouch](https://play.google.com/store/apps/details?id=eu.toneiv.ubktouch) `IAP` 💰 - 為您喜愛的應用程式新增功能，只需一個手勢即可訪問。輕掃螢幕的一側邊緣，即可顯示一個可定製的選單，其中顯示了您最喜歡的操作 `Proprietary`
 * [zFont 3](https://play.google.com/store/apps/details?id=com.htetznaing.zfont2) `Ads` `IAP` 💰 - 表情符號和字型更換器 `Proprietary`
 
 ### Development utilities
@@ -103,12 +103,12 @@
 
 * [App Ops](https://play.google.com/store/apps/details?id=rikka.appops) `Ads` `IAP` 💰 - 無需root即可管理應用程式許可權 `Proprietary`
 * [AppDash](https://play.google.com/store/apps/details?id=flar2.appdashboard) `7-day trial` `Paid` 💰 - 一個應用程式管理器，可以輕鬆管理裝置上安裝的 APK 和應用程式 `Proprietary`
-* [Ice Box](https://play.google.com/store/apps/details?id=com.catchingnow.icebox) `IAP` 💰 - 使用 Shizuku 凍結或隱藏應用程式  `Proprietary`
+* [Ice Box](https://play.google.com/store/apps/details?id=com.catchingnow.icebox) `IAP` 💰 - 使用 Shizuku 凍結或隱藏應用程式 `Proprietary`
 * [Package Name Scripter](https://play.google.com/store/apps/details?id=in.ms.packagenamesscripter) - Manage installed apps using Shizuku or create ADB scripts to enable, disable, uninstall, reinstall, or run other app-related ADB commands. `Proprietary`
 
 ### Terminals
 
-* [ShizuShell](https://play.google.com/store/apps/details?id=com.noxinfinity.shell) - 使用 Shizuku 的 ADB shell  `Proprietary`
+* [ShizuShell](https://play.google.com/store/apps/details?id=com.noxinfinity.shell) - 使用 Shizuku 的 ADB shell `Proprietary`
 
 
 > [!NOTE]

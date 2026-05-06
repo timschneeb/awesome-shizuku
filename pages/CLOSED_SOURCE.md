@@ -48,7 +48,7 @@ This sublist only contains applications that are closed-source.
 
 * [AAAD](https://github.com/shmykelsa/AAAD) `IAP` 💰 - Downloads popular Android Auto 3rd party apps and installs on Android Auto `Proprietary`
 * [SetEdit: Settings Editor](https://play.google.com/store/apps/details?id=com.netvor.settings.database.editor) - View and edit settings from the system, global, and secure tables `Proprietary`
-* [UbikiTouch](https://play.google.com/store/apps/details?id=eu.toneiv.ubktouch) `IAP` 💰 - Add custom swipe-from-edge gestures to Android `Propietary`
+* [UbikiTouch](https://play.google.com/store/apps/details?id=eu.toneiv.ubktouch) `IAP` 💰 - Add custom swipe-from-edge gestures to Android `Proprietary`
 * [zFont 3](https://play.google.com/store/apps/details?id=com.htetznaing.zfont2) `Ads` `IAP` 💰 - Emoji & Font Changer `Proprietary`
 
 ### Development utilities
@@ -59,7 +59,6 @@ This sublist only contains applications that are closed-source.
 
 ### Display management
 * [AG Displays](https://play.google.com/store/apps/details?id=com.htl.agdisplays) `Ads` - Launch other apps on external displays (TV/Monitor) or desktop mode on virtual displays while the phone screen can be used for other purposes or turned off `Proprietary`
-* [meow](https://google.de) - Hi `GPL-3.0`
 
 ### File management
 * [AirData UAV](https://play.google.com/store/apps/details?id=com.airdata.uav.app) - Drone flight analysis and fleet management platform with [access to /Android/Data](https://app.airdata.com/wiki/Help/Granting+Permissions+in+Android+13+and+14) `Proprietary`
