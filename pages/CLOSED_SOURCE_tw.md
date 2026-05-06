@@ -11,7 +11,7 @@
 > 完全專有的應用程式需要使用者盲目信任，因此被列在獨立清單中。
 
 
-## Table of contents
+## 目錄
 
 - [Closed-source apps](#closed-source-apps)
   - [Audio](#audio)

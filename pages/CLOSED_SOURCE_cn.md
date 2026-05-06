@@ -10,7 +10,7 @@
 >
 > 完全闭源的应用需要用户盲目信任，因此它们被单独列出。
 
-## Table of contents
+## 目录
 
 - [Closed-source apps](#closed-source-apps)
   - [Audio](#audio)
