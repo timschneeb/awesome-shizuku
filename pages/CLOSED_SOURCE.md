@@ -37,6 +37,7 @@ This sublist only contains applications that are closed-source.
 
 ### Audio
 
+* [Call Recorder (Skvalex)](https://callrecorder.skvalex.com/get) `Paid` `Trial` 💰 - Call recorder
 * [PrecisEQ](https://play.google.com/store/apps/details?id=com.yokodev.preciseqpro) `IAP` `15-minute trial` 💰 - Use spatial audio, headphone calibration, PEQ and convolver system-wide. `Proprietary`
 
 ### Automation
