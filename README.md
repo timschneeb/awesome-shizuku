@@ -376,7 +376,7 @@ Closed-source apps have been moved into a separate sublist. [You can view them h
 
 > [!NOTE]
 > **Why are closed-source apps in a separate list?**
-> Shizuku gives apps high-level ADB access. For security reasons, this main directory only includes open-source and source-available apps, as anyone can check their code to make sure they aren't doing anything shady and/or compile them on their own machine.
+> Shizuku gives apps high-level ADB access. For security reasons, this main directory only includes open-source and source-available apps, as anyone can check their code to make sure they aren't doing anything shady and compile them on their own machine.
 >
 > Fully closed-source apps require blind trust, so they are kept in a separate list. 
 > Almost all closed-source apps have already open-source counterparts that implement the same (if not even more) features anyways.
