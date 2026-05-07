@@ -43,6 +43,7 @@ This sublist only contains applications that are closed-source.
 
 * [MacroDroid](https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid) `Ads` `IAP` 💰 - Automation app for Android devices. Version 5.46 and later introduce Shizuku support. `Proprietary`
 * [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) `Paid` 💰 - Automation app for Android devices. Version 6.6 and later introduce Shizuku support. `Proprietary`
+* [Taskly](https://play.google.com/store/apps/details?id=com.dylan.dalle3.pro) - Closed source fork of https://github.com/gkd-kit/gkd `Proprietary`
 
 ### Customization
 
