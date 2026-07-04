@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/timschneeb-awesome-shizuku-badge.png)](https://mseep.ai/app/timschneeb-awesome-shizuku)
+
 # awesome-shizuku
 
 ### Languages
