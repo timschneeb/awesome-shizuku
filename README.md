@@ -338,6 +338,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 
 ### Task manager
 
+* [memhogs](https://github.com/cicerothoma/memhogs-android) - Which apps are eating your phone's memory. Per-app breakdown via Shizuku, helpers grouped under the app that owns them `MIT`
 * [Pensum](https://github.com/troikoss/Pensum) ✨ - Windows-style Task Manager for Android `GPL-3.0`
 * [ReAppzuku](https://github.com/gree1d/ReAppzuku) - Control and manage background applications. Fork of shappky `GPL-3.0`
 * [Running Services Monitor](https://play.google.com/store/apps/details?id=me.biplobsd.rsm) - Monitor running services on your Android device `MIT` [(Source code)](https://github.com/biplobsd/running_services_monitor)
