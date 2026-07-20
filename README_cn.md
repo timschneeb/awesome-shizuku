@@ -68,8 +68,10 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 
 ### AI agents
 
+* [Mythara](https://github.com/ankurCES/project_mythara) - Open-source local-first agentic AI OS layer for Android. Runs 65+ on-device tools (calls, SMS, calendar, Termux, face recognition); uses Shizuku for cosmetic system tweaks (font scale, dark mode, accent) without root `MIT`
 * [Open-AutoGLM-Android](https://github.com/xinzezhu/Open-AutoGLM-Android/blob/main/README_EN.md) - Automates actions on your device using the AutoGLM vision language model `GPL-3.0`
 * [Operit AI](https://github.com/AAswordman/Operit) - The most powerful AI agent and AI chat software on Android. Can run commands using Shizuku `LGPL-3.0`
+* [rish-mcp](https://github.com/turin-dev/rish-mcp) - Exposes an Android device's Shizuku shell to AIs as an MCP `run_shell` tool over an outbound WebSocket relay — run shell commands from Claude or any MCP client with no VPN, ADB, or sshd `MIT`
 * [Ruto-GLM](https://github.com/iamr0s/Ruto-GLM/blob/main/README_en.md) - Automation and Multitasking Framework using AutoGLM. Can create virtual screens that agents can run apps on and use multi-window `Apache 2.0`
 
 
@@ -77,7 +79,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 
 * [flicky](https://apt.izzysoft.de/fdroid/index/apk/app.flicky) - An F-Droid client designed for Android TVs `GPL-3.0` [(源代码)](https://github.com/mlm-games/flicky)
 * [fluffy](https://apt.izzysoft.de/fdroid/index/apk/app.fluffy) - An file manager and archive viewer designed for Android TVs `GPL-3.0` [(源代码)](https://github.com/mlm-games/fluffy)
-
+* [RecentAppsTV](https://github.com/Qutaiba-Khader/RecentAppsTV) - Recent Apps overlay for Android TV `Propietary`
 
 ### Audio
 
@@ -102,6 +104,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [Lemmy Redirect](https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.lemmyredirect) - 这是一款简单的应用程序，可在您喜欢的 Lemmy 客户端中自动启动 lemmy 链接。 `MIT` [(源代码)](https://github.com/zacharee/MastodonRedirect)
 * [Mastodon Redirect](https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.mastodonredirect) - 这是一个简单的应用程序，可在您喜欢的 Mastodon 客户端中自动启动 fediverse 链接。 `MIT` [(源代码)](https://github.com/zacharee/MastodonRedirect)
 * [revenge-manager](https://github.com/revenge-mod/revenge-manager) - Discord modding tool. Another continuation of the abandoned Bunny-Manager project `OSL-3.0`
+* [ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder) ✨ - ShizuCallRecorder empowers ADB through Shizuku to record phone calls on non-rooted device! `GPL-3.0`
 * [TxtNet-Browser](https://github.com/lukeaschenbrenner/TxtNet-Browser) - 让您通过短信浏览网页的应用程序 `GPL-3.0`
 
 ### Customization
@@ -129,6 +132,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [OmniPrompt](https://github.com/mrndstvndv/OmniPrompt) - A keyboard-first Android command palette that unifies app/device search, and system utilities into an overlay `GPL-3.0`
 * [ShizukuShortcuts](https://github.com/yshalsager/ShizukuShortcuts) - Create launcher shortcuts for shell commands `GPL-3.0`
 * [ShizuTools](https://github.com/legendsayantan/ShizuTools) - 包含一些易于使用的工具，超越Android系统允许的控制级别 `GPL-3.0`
+* [Smart Dock](https://f-droid.org/packages/com.axel358.smartdock/) - Transform your phone into a desktop environment with taskbar, recent apps, and start menu `GPL-3.0` [(源代码)](https://github.com/axel358/smartdock)
 * [Smart Edge](https://f-droid.org/en/packages/com.imi.smartedge.sidebar.panel/) - A highly customizable Android side panel inspired by OriginOS `MIT` [(源代码)](https://github.com/Imtiaz-Official/Smart-Edge)
 * [SmartspacerPlugins](https://github.com/KieronQuinn/SmartspacerPlugins) - Smartspacer 插件 `GPL-3.0`
 * [System UI Tuner](https://github.com/zacharee/Tweaker) - 查看和修改 Android 设备上的隐藏设置 `MIT`
@@ -140,6 +144,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 
 ### Development utilities
 
+* [ActivityManager](https://github.com/sdex/ActivityManager) - Launch hidden and unexported activities directly without root `Apache-2.0`
 * [AndroidAccounts](https://github.com/iamr0s/AndroidAccounts) - 删除已为用户注册账户的应用程序的软件包名称. `Proprietary`
 * [AndroidLowLevelDetector](https://play.google.com/store/apps/details?id=net.imknown.android.forefrontinfo) - 检测 Treble、GSI、Mainline、APEX、system-as-root(SAR)、A/B 等。 `Apache-2.0` [(源代码)](https://github.com/imknown/AndroidLowLevelDetector)
 * [Cosmic-IDE](https://github.com/Cosmic-Ide/Cosmic-IDE) - IDE for JVM development. Uses Shizuku for an embedded shell - 用于 JVM 开发的 IDE。使用 Shizuku 作为嵌入式 shell `GPL-3.0`
@@ -164,9 +169,10 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
   * [MDPC](https://github.com/MrRare2/MDPC) - Fork of OwnDroid with added features `GPL-3.0`
 
 ### Display management
+* [android-display-extend](https://github.com/jqssun/android-display-extend) ✨ - Display manager for physical and virtual displays with a built-in virtual touchscreen. Great for use with `scrcpy --new-display` on a PC `GPL-3.0`
+* [android-display-mirror](https://github.com/jqssun/android-display-mirror) ✨ - Screen mirroring hub with support for sharing screen content over AirPlay, Moonlight/Sunshine, and DisplayLink `GPL-3.0`
 * [ConnectScreen](https://connect-screen.com/) - Launch single apps to display in fullscreen on external displays, supporting both USB 2.0 (via DisplayLink dock) and USB 3.0 mobile phones. Can control the external display with a touch screen, USB devices or Bluetooth controller (even if you are USB 2.0 and using a DisplayLink dock). Can use the primary screen of the mobile as a virtual touchpad to control external display. Can rotate the screen for applications like TikTok `GPL-3.0` [(源代码)](https://gitee.com/connect-screen/connect-screen)
 * [deskcontrol](https://github.com/exiarepairii/deskcontrol) - Turns your phone into a touchpad and keyboard for a single app running on a wired external display `GPL-3.0`
-* [android-display-extend](https://github.com/jqssun/android-display-extend) ✨ - Display manager for physical and virtual displays with a built-in virtual touchscreen. Great for use with `scrcpy --new-display` on a PC `GPL-3.0`
 * [Fold_Switcher](https://github.com/eiyooooo/Fold_Switcher) - 在可折叠设备上的各种显示屏折叠状态之间切换 `Apache-2.0`
 * [Grayscaler](https://github.com/C10udburst/Grayscaler) - Keep your phone mostly monochrome, but allow apps like camera to be in color `GPL-3.0`
 * [SecondScreen](https://play.google.com/store/apps/details?id=com.farmerbb.secondscreen.free) - 为 Android 设备提供更好的屏幕镜像 `Apache-2.0` [(源代码)](https://github.com/farmerbb/SecondScreen)
@@ -181,7 +187,9 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 
 ### File management
 * [fluffy](https://apt.izzysoft.de/fdroid/index/apk/app.fluffy) - An file manager and archive viewer designed for Android TVs `GPL-3.0` [(源代码)](https://github.com/mlm-games/fluffy)
+* [NFile](https://github.com/Senzme/NFile) - File manager with Android folder access using Shizuku `GPL-3.0`
 * [SDMaid-SE](https://play.google.com/store/apps/details?id=eu.darken.sdmse) `IAP` 💰 - SD Maid 2/SE是Android最彻底的清理工具 `GPL-3.0` [(源代码)](https://github.com/d4rken-org/sdmaid-se)
+* [ZenFile](https://github.com/l930203811/ZenFile) - NFile fork with built-in remote file server support `GPL-3.0`
 
 > [!NOTE]
 > [点击此处查看更多文件管理器（闭源）](pages/CLOSED_SOURCE_cn.md#file-management)
@@ -197,6 +205,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [LOModInstaller](https://github.com/anyabot/LOModInstaller) - 游戏“Last Origin”的 Mod 管理器 `Proprietary`
 * [Okkei Patcher](https://github.com/solrudev/OkkeiPatcher) - Companion app for localizing the Android version of CHAOS;CHILD visual novel `GPL-3.0`
 * [pf-tool](https://github.com/aliernfrog/pf-tool) - 轻松导入和共享 Polyfield 地图 `GPL-3.0`
+* [pogoplusle](https://github.com/Mygod/pogoplusle) - Skip the pairing dialog when connecting a Pokémon GO Plus `Apache-2.0`
 * [ShinGen](https://github.com/Shio2077/ShinGen#genshin-impact-auto-conversation-clicker-on-android) - Genshin Impact Auto-Conversation Clicker `MIT`
 * [stalker](https://github.com/onerdna/stalker) - Save data viewer & editor for Shadow Fight 2 `GPL-3.0`
 * [translatefgo](https://github.com/rayshift/translatefgo) - Fate/Grand Order游戏翻译项目 `MIT`
@@ -251,6 +260,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [CellReader](https://play.google.com/store/apps/details?id=dev.zwander.cellreader) `Paid` 💰 - 可以在Android上读取手机信号塔信息 `MIT` [(源代码)](https://github.com/zacharee/CellReader)
 * [de1984](https://github.com/dorumrr/de1984) - App firewall without using an VPN; can also manage packages `MIT`
 * [delta](https://github.com/supershadoe/delta) - 使用 Shizuku 的热点管理器 `BSD-3-Clause`
+* [Dolphy-App](https://github.com/unvoiddd/Dolphy-App) - NFC, BLE, and IR multi-tool for wireless protocol research `GPL-3.0`
 * [EasySpot](https://github.com/EasySpotApp/EasySpot) - An app that allows you to turn on your hotspot remotely via Bluetooth - think Apple Continuity, but for everyone `GPL-3.0`
 * [FindMyDevice](https://gitlab.com/fmd-foss/fmd-android) - Google FindMyDevice 服务的安全和开源替代方案 `GPL-3.0`
 * [FireWall Blocks](https://github.com/shynoiddev/FireWall-Blocks) - Dual-mode firewall: blocks internet access using Shizuku or a standard local VPN interface or both. `MIT`
@@ -258,6 +268,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [NaiveproxyForAndroid](https://github.com/Dobiec/NaiveproxyForAndroid) - 一个在 Android 上运行 Naiveproxy 的简单应用程序 `MIT`
 * [NetworkSwitch](https://github.com/aunchagaonkar/NetworkSwitch) - 用于 4G/5G 网络模式切换的 Android 应用 `GPL-3.0`
 * [ShizuWall](https://github.com/AhmetCanArslan/ShizuWall) ✨ - Open-source app firewall that doesn't depend on VPNs or root `GPL-3.0`
+* [sing-box](https://f-droid.org/packages/io.nekohasekai.sfa/) - Universal proxy platform. Uses Shizuku for per-app proxying `GPL-3.0` [(源代码)](https://github.com/SagerNet/sing-box)
 * [Traffic Light](https://play.google.com/store/apps/details?id=com.leekleak.trafficlight) - A persistent network speed tracker in your status bar `GPL-3.0` [(源代码)](https://github.com/leekleak/traffic-light)
 * [WG Tunnel](https://github.com/wgtunnel/android) - WireGuard 和 AmneziaWG 的 FOSS Android 客户端，支持自动隧道功能 `MIT`
 * [wifi-password-manager](https://github.com/Khh-vu/wifi-password-manager) - Simple app using Shizuku to manage & view saved Wi-Fi passwords  `MIT`
@@ -273,6 +284,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 
 * [BatStats](https://github.com/mlm-games/BatStats) - Battery monitor with stats via Shizuku `GPL-3.0`
 * [Batt](https://gitlab.com/narektor/batt) - 一个简单的应用程序，可在 Android 14 及更高版本上显示电池状态信息。 `GPL-3.0`
+* [Battery-Monitor](https://github.com/tswistak/Battery-Monitor) - Track and log battery capacity and parameters over time using Shizuku `GPL-3.0`
 * [battery-stats-changer](https://github.com/superisuer/battery-stats-changer) - Open source app to visually change battery data via Shizuku `GPL-3.0`
 * [EnforceDoze](https://f-droid.org/packages/com.akylas.enforcedoze/) - Enable Doze mode immediately after screen off and turn off motion sensing to get best battery life `GPL-3.0` [(源代码)](https://github.com/farfromrefug/EnforceDoze)
 * [NoMoreBackground](https://f-droid.org/packages/com.adilhanney.no_more_background/) - A fire-and-forget program to stop Android apps from running in the background `GPL-3.0` [(源代码)](https://github.com/adil192/no_more_background)
@@ -290,8 +302,9 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 
 ### Productivity
 
+* [Blink](https://github.com/character-flat/Blink) - A persistent, highly customizable 20-20-20 rule eye-care timer that uses Shizuku to whitelist itself from Android's battery optimizations `GPL-3.0`
 * [DetoxDroid](https://github.com/flxapps/DetoxDroid) - Digital Detoxing: Use your phone rather than letting your phone use you `GPL-3.0`
-* [digipaws](https://f-droid.org/packages/nethical.digipaws/) ✨ - Tool to reduce screen addiction by regulating app usage through a gamified experience `GPL-3.0` [(源代码)](https://github.com/nethical6/digipaws)
+* [Curbox](https://f-droid.org/packages/neth.iecal.curbox/) ✨ - Tool to reduce screen addiction and view usage analytics `GPL-3.0` [(源代码)](https://github.com/nethical6/curbox)
 
 ### Quick settings
 
@@ -344,6 +357,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 
 #### Google Pixel
 * [Always On Display](https://f-droid.org/packages/org.alberto97.aodtoggle/) - 一个用于切换“息屏显示（Always on Display）”的 Android 快捷设置 `MIT` [(源代码)](https://github.com/Alberto97/AlwaysOnDisplayToggle)
+* [Pixel-IMS-5G](https://github.com/barrylk/Pixel-IMS-5G) - Enable 5G standalone (5G SA) and VoNR on Google Pixel devices `GPL-3.0`
 * [pixel-volte-patch](https://github.com/kyujin-cho/pixel-volte-patch/blob/main/README.en.md) - 通过 LG U+ 在 Pixel 6 和 7 上启用 VoLTE `GPL-3.0`
 * [PixelCarrierSettings](https://github.com/iKirby/PixelCarrierSettings) - Enable VoLTE for carriers in unsupported regions on Pixel devices `GPL-3.0`
 * [Smartspacer](https://github.com/KieronQuinn/Smartspacer) - 可定制的小部件，可以使用 Shizuku 升级 Pixel 设备上内置的“概览”小部件 `GPL-3.0`
@@ -362,12 +376,15 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [FxxkMIUIAd](https://github.com/qhy040404/FxxkMIUIAd) - 以最低成本关闭 MIUI 广告 `Apache-2.0`
 * [Mi-FreeForm](https://github.com/sunshine0523/Mi-FreeForm) - 在 MIUI 上以自由格式显示大多数应用程序 `GPL-3.0`
 * [MixFlipTool](https://github.com/parallelcc/MixFlipTool) - One-click configuration for Mix Flip's outer screen: Use any apps and restore system apps to default style `GPL-3.0`
+* [mtbtool-android-app](https://github.com/h3nnes/mtbtool-android-app) - Perform bandlock and edit EFS NV items on qualcomm-based Xiaomi devices without root  `MIT`
 * [NavigationSwitcher](https://github.com/chiyuki0325/NavigationSwitcher) - 在 MIUI / HyperOS 节奏游戏中启用 3 键导航  `Proprietary`
 
 #### Other
 
+* [ClusterTune](https://github.com/AurelioB/ClusterTune) - Tune CPU cluster frequencies to balance performance and power on AYN handheld devices `GPL-2.0`
 * [Recording-Light-Control](https://github.com/Farpathan/Recording-Light-Control) - Recording Light Control gives precise control over the Nothing Phone (3)'s recording light `Proprietary`
 * [RedTrigger](https://github.com/zampierilucas/RedTrigger) - System-wide shoulder triggers for Nubia Red Magic phones `MIT`
+* [ThorVolumeLink](https://github.com/pth2000/ThorVolumeLink) - Synchronized volume control for the dual displays of the AYN Thor `MIT`
 
 ### Closed-source apps
 

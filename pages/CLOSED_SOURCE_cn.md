@@ -36,12 +36,14 @@
 
 ### Audio
 
+* [Call Recorder (Skvalex)](https://callrecorder.skvalex.com/get) `Paid` 💰 - Call recorder `Proprietary`
 * [PrecisEQ](https://play.google.com/store/apps/details?id=com.yokodev.preciseqpro) `IAP` `15-minute trial` 💰 - 在系统全局使用空间音频、耳机校准和参数均衡器。 `Proprietary`
 
 ### Automation
 
 * [MacroDroid](https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid) `Ads` `IAP` 💰 - 适用于 Android 设备的自动化应用程序。版本 5.46 及更高版本引入了 Shizuku 支持。 `Proprietary`
 * [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) `Paid` 💰 - Automation app for Android devices. Version 6.6 and later introduce Shizuku support. `Proprietary`
+* [Taskly](https://play.google.com/store/apps/details?id=com.dylan.dalle3.pro) - Closed source fork of https://github.com/gkd-kit/gkd `Proprietary`
 
 ### Customization
 
