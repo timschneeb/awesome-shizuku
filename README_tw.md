@@ -133,6 +133,7 @@ Shizuku 允許普通應用程式在非root 裝置上使用 ADB 直接使用許�
 * [ShizuTools](https://github.com/legendsayantan/ShizuTools) - 包含一些易於使用的工具，超越Android系統允許的控制級別 `GPL-3.0`
 * [Smart Dock](https://f-droid.org/packages/com.axel358.smartdock/) - Transform your phone into a desktop environment with taskbar, recent apps, and start menu `GPL-3.0` [(原始碼)](https://github.com/axel358/smartdock)
 * [Smart Edge](https://f-droid.org/en/packages/com.imi.smartedge.sidebar.panel/) - A highly customizable Android side panel inspired by OriginOS `MIT` [(原始碼)](https://github.com/Imtiaz-Official/Smart-Edge)
+* [Smart Island](https://github.com/agupta07505/SmartIsland) - A lightweight Android overlay that turns notifications, calls, and media playback into a floating glanceable island `GPL-3.0`
 * [SmartspacerPlugins](https://github.com/KieronQuinn/SmartspacerPlugins) - Smartspacer 外掛 `GPL-3.0`
 * [System UI Tuner](https://github.com/zacharee/Tweaker) - 檢視和修改 Android 裝置上的隱藏設定 `MIT`
 * [TapTap](https://github.com/KieronQuinn/TapTap) ✨ - 將裝置背面的雙擊功能從 Android 12 移植到任何 Android 7.0+ 裝置 `GPL-3.0`
@@ -168,6 +169,7 @@ Shizuku 允許普通應用程式在非root 裝置上使用 ADB 直接使用許�
   * [MDPC](https://github.com/MrRare2/MDPC) - Fork of OwnDroid with added features `GPL-3.0`
 
 ### Display management
+* [Adaptive-Hz](https://github.com/mahmutaunal/Adaptive-Hz) - Automatically switches display refresh rate between 60Hz and 120Hz based on user interaction. Designed for Samsung devices without true adaptive refresh `MIT`
 * [android-display-extend](https://github.com/jqssun/android-display-extend) ✨ - Display manager for physical and virtual displays with a built-in virtual touchscreen. Great for use with `scrcpy --new-display` on a PC `GPL-3.0`
 * [android-display-mirror](https://github.com/jqssun/android-display-mirror) ✨ - Screen mirroring hub with support for sharing screen content over AirPlay, Moonlight/Sunshine, and DisplayLink `GPL-3.0`
 * [ConnectScreen](https://connect-screen.com/) - Launch single apps to display in fullscreen on external displays, supporting both USB 2.0 (via DisplayLink dock) and USB 3.0 mobile phones. Can control the external display with a touch screen, USB devices or Bluetooth controller (even if you are USB 2.0 and using a DisplayLink dock). Can use the primary screen of the mobile as a virtual touchpad to control external display. Can rotate the screen for applications like TikTok `GPL-3.0` [(原始碼)](https://gitee.com/connect-screen/connect-screen)
@@ -265,6 +267,7 @@ Shizuku 允許普通應用程式在非root 裝置上使用 ADB 直接使用許�
 * [FireWall Blocks](https://github.com/shynoiddev/FireWall-Blocks) - Dual-mode firewall: blocks internet access using Shizuku or a standard local VPN interface or both. `MIT`
 * [Hostman](https://github.com/LinZong/Hostman) `Root` - 預覽和編輯/etc/hosts檔案 `MIT`
 * [NaiveproxyForAndroid](https://github.com/Dobiec/NaiveproxyForAndroid) - 一個在 Android 上執行 Naiveproxy 的簡單應用程式 `MIT`
+* [NetToggle](https://github.com/Dhangofa/NetToggle) - A lightweight Android Quick Settings tile to force 5G Only, 4G Only and preferred network modes using Root or Shizuku `GPL-3.0`
 * [NetworkSwitch](https://github.com/aunchagaonkar/NetworkSwitch) - 用於 4G/5G 網路模式切換的 Android 應用 `GPL-3.0`
 * [ShizuWall](https://github.com/AhmetCanArslan/ShizuWall) ✨ - Open-source app firewall that doesn't depend on VPNs or root `GPL-3.0`
 * [sing-box](https://f-droid.org/packages/io.nekohasekai.sfa/) - Universal proxy platform. Uses Shizuku for per-app proxying `GPL-3.0` [(原始碼)](https://github.com/SagerNet/sing-box)
@@ -281,6 +284,7 @@ Shizuku 允許普通應用程式在非root 裝置上使用 ADB 直接使用許�
 
 ### Power management
 
+* [Amply](https://github.com/d4rken-org/amply) - Easy control of charging limits. Temporarily allows one full charge, then automatically restores your protective charge limit `GPL-3.0`
 * [BatStats](https://github.com/mlm-games/BatStats) - Battery monitor with stats via Shizuku `GPL-3.0`
 * [Batt](https://gitlab.com/narektor/batt) - 一個簡單的應用程式，可在 Android 14 及更高版本上顯示電池狀態資訊。 `GPL-3.0`
 * [Battery-Monitor](https://github.com/tswistak/Battery-Monitor) - Track and log battery capacity and parameters over time using Shizuku `GPL-3.0`
@@ -366,7 +370,9 @@ Shizuku 允許普通應用程式在非root 裝置上使用 ADB 直接使用許�
 #### Samsung OneUI
 
 * [Fonts](https://apt.izzysoft.de/fdroid/index/apk/com.je.fontsmanager.samsung) - One UI 8 rootless font installer `GPL-3.0` [(原始碼)](https://codeberg.org/dryerlint/fontsmanager)
+* [Root-My-Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy) - KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499 `Apache-2.0`
 * [SBatteryTweaks](https://github.com/pascua28/SBatteryTweaks) - Enable or disable fast charging mode on Samsung devices when the battery temperature reaches a certain point  `Proprietary`
+* [ScamsungFonts](https://github.com/KhunHtetzNaing/ScamsungFonts) - Font manager for Samsung Galaxy (OneUI) via System shell or Root `No license`
 * [ShutterMute](https://github.com/ajebulon/ShutterMute) - Disable the forced camera shutter sounds on Samsung devices that have their CSC set to certain countries with this restriction `Proprietary`
 * [SMTShell](https://github.com/BLuFeNiX/SMTShell) - 許可權提升漏洞[(CVE-2019-16253)](https://nvd.nist.gov/vuln/detail/CVE-2019-16253) 執行 OneUI 5 的非 root 裝置上的系統使用者訪問 (UID 1000)。使用 Shizuku 實現自動化 `LGPL-2.1`
 
