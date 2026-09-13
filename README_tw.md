@@ -514,6 +514,7 @@ Shizuku 允許普通應用程式在非root 裝置上使用 ADB 直接使用許�
 ### Core
 
 * [Shizuku-API](https://github.com/RikkaApps/Shizuku-API) - Shizuku 和 Sui 的開發人員檔案，包括示例 `Apache-2.0`
+* [Shizuku-API-Flutter-Plugin](https://github.com/runoob-coder/shizuku-api-flutter-plugin) - 一個用於串接 Shizuku API 的 Flutter 插件。 `MIT`
 * [Shizuku-Plugin (Flutter)](https://github.com/santhosh-D-subramani/Shizuku-Plugin) - Shizuku API bindings for Flutter apps `GPL-3.0`
 
 ### Filesystem
