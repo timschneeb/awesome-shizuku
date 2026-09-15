@@ -178,7 +178,6 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 * [FPSViewer](https://github.com/binhmod/FPSViewer) - FPS viewer overlay with graph `Proprietary`
 * [FrameX-Android](https://github.com/MaheshSharan/FrameX-Android) - Real-time performance overlay for Android `MIT`
 * [get_event](https://github.com/lalakii/get_event) - Read /dev/input/event* `Proprietary`
-* [KeyAttestation](https://github.com/vvb2060/KeyAttestation) - Supports generating, saving, loading, parsing and verifying Android key and ID attestation data. `Proprietary`
 * [LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps on your device. Uses Shizuku to determine the installation source of other apps. `Apache-2.0`
 * [LogFox](https://github.com/F0x1d/LogFox) ✨ - Yet another logcat reader for Android `GPL-3.0`
 * [ManageSensors](https://github.com/Carry-rrk/ManageSensors) - Utilizes Shizuku to call AppOps APIs for fine-grained app permission control `MIT`
