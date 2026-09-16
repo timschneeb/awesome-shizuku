@@ -95,7 +95,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 * [Spotify Ad Skipper](https://github.com/sihooney/spotify-ad-skipper) - Watches Spotify notifications and auto-skips ads by restarting playback, using Shizuku to relaunch from background. `Proprietary`
 * [Volume++](https://github.com/noel-digital-fan/volume_plus_plus) - Custom volume panel with per-app audio mixing via Shizuku or root `MIT`
 * [VolumeManager](https://github.com/yume-chan/VolumeManager) - Control each app's volume independently `GPL-2.0`
-* [wecho](https://github.com/qumolangmo/wecho) - An Android application for global audio effects processing `MIT`
+* [wecho](https://github.com/qumolangmo/wecho) - An Android application for global audio effects processing `GPL-3.0`
 
 ### Automation
 
@@ -116,7 +116,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 * [CatShare](https://f-droid.org/packages/moe.reimu.catshare/) - Send and receive files over Bluetooth `MIT` [(Source code)](https://github.com/kmod-midori/CatShare)
 * [GhostMode](https://github.com/Foxlape/GhostMode) - Makes the phone appear unavailable for incoming calls while keeping LTE/5G data active `Apache-2.0`
 * [KDE Connect (Shizuku)](https://github.com/libdu/kde-connect-shizuku) - KDE Connect build with Shizuku-powered automatic bidirectional clipboard sync between Android and PC. (Fork of KDE Connect with restored clipboard-send support via Shizuku.) `GPL-2.0`
-* [KettuManager](https://github.com/C0C0B01/KettuManager) - Discord modding tool. Continuation of the abandoned BunnyManager project `BSD-3-Clause`
+* [KettuManager](https://github.com/C0C0B01/KettuManager) - Discord modding tool. Continuation of the abandoned BunnyManager project `OSL-3.0`
 * [Lemmy Redirect](https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.lemmyredirect) - A simple app for automatically launching Lemmy links in your preferred Lemmy client. `MIT` [(Source code)](https://github.com/zacharee/MastodonRedirect)
 * [Mastodon Redirect](https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.mastodonredirect) - A simple app for automatically launching fediverse links in your preferred Mastodon client. `MIT` [(Source code)](https://github.com/zacharee/MastodonRedirect)
 * [revenge-manager](https://github.com/revenge-mod/revenge-manager) - Discord modding tool. Another continuation of the abandoned Bunny-Manager project `OSL-3.0`
@@ -462,7 +462,6 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 * [HyperOSUnfcker](https://github.com/Enki013/hyperosunfcker) - Unlocks hidden performance, display, memory, battery, and visual settings on HyperOS/MIUI devices `LGPL-3.0`
 * [IslandRecorder](https://github.com/wxxsfxyzm/IslandRecorder) - Xiaomi-focused screen recorder with Super Island controls `GPL-3.0`
 * [MixFlipTool](https://github.com/parallelcc/MixFlipTool) - One-click configuration for Mix Flip's outer screen: Use any apps and restore system apps to default style `GPL-3.0`
-* [mtbtool-android-app](https://github.com/h3nnes/mtbtool-android-app) - Perform bandlock and edit EFS NV items on qualcomm-based Xiaomi devices without root  `MIT`
 * [NavigationSwitcher](https://github.com/chiyuki0325/NavigationSwitcher) - Enable 3-button navigation in rhythm games for MIUI / HyperOS  `Proprietary`
 
 #### Other

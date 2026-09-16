@@ -7,6 +7,7 @@ All projects in this section have been deprecated or abandoned by the developer.
 * [DarQ](https://github.com/KieronQuinn/DarQ) - Per-app selectable force dark option for Android 10 and above `Apache-2.0`
 * [FabricateOverlay](https://github.com/zacharee/FabricateOverlay) - (Deprecated) Manage fabricated overlays on Android 12.0; Android 12L breaks this app. `No license`
 * [HardenDroid](https://github.com/oddbyte/HardenDroid) - Shizuku & dhizuku app to allow you to manage users without root `Apache-2.0`
+* [mtbtool-android-app](https://github.com/h3nnes/mtbtool-android-app) - Perform bandlock and edit EFS NV items on qualcomm-based Xiaomi devices without root  `MIT`
 * [NoPopping](https://appteka.store/app/d9fr99475) `IAP` 💰 - Auto Do-Not-Disturb mode (Discontinued) `Proprietary`
 * [ServiceManagerCompat](https://github.com/SanmerApps/ServiceManagerCompat) - ServiceManager bindings `MIT`
 * [setbox](https://github.com/YasserNull/setbox) - Modifies Android system settings through community-developed modules `GPL-3.0`
