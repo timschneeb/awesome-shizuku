@@ -72,9 +72,9 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 
 > [!NOTE]
 > The official Shizuku app by RikkaApps has not been updated in over a year and is currently broken on Android 17.
-> Below, you can find forks that are based on Shizuku with new features and fixes.
+> Below, you can find forks of Shizuku with new features and fixes.
 > 
-> You should uninstall your current Shizuku version before installing any of the replacements below, otherwise you may run into installation errors due to conflicts.
+> You should uninstall your current Shizuku version before installing any of the replacements below, otherwise, you may run into installation conflicts.
 
 * [shevery](https://github.com/HmnDev-Tech/shevery) ✨ - Material 3 fork with autostart, TCP mode, Dhizuku, module support and a built-in terminal with AI integration `Apache-2.0` 
 * [Shizako](https://github.com/xm1437/Shizako) - A catgirl-mascot edition of Shizuku, a drop-in replacement manager that official Shizuku-API apps connect to without modification (with similar features like shevery) `Apache-2.0`
