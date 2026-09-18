@@ -21,6 +21,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 ## Table of contents
 
 - [Apps](#apps)
+  - [Shizuku implementations](#shizuku-implementations)
   - [AI agents](#ai-agents)
   - [Android Auto](#android-auto)
   - [Android TV](#android-tv)
@@ -66,6 +67,20 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 --------------------
 
 ## Apps
+
+### Shizuku implementations
+
+> [!NOTE]
+> The official Shizuku app by RikkaApps has not been updated in over a year and is currently broken on Android 17.
+> Below, you can find forks that are based on Shizuku with new features and fixes.
+> 
+> You should uninstall your current Shizuku version before installing any of the replacements below, otherwise you may run into installation errors due to conflicts.
+
+* [shevery](https://github.com/HmnDev-Tech/shevery) ✨ - Material 3 fork with autostart, TCP mode, Dhizuku, module support and a built-in terminal with AI integration `Apache-2.0` 
+* [Shizako](https://github.com/xm1437/Shizako) - A catgirl-mascot edition of Shizuku, a drop-in replacement manager that official Shizuku-API apps connect to without modification (with similar features like shevery) `Apache-2.0`
+* [Shizuku (thedjchi's fork)](https://github.com/thedjchi/Shizuku) - Fork of Shizuku with autostart, TCP mode and stealth mode (maintenance currently paused) `Apache-2.0`
+* [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus) - Shizuku fork with an extended API surface for developers, autostart, TCP mode, Dhizuku and more `Apache-2.0`
+* [Stellar](https://github.com/roro2239/Stellar/blob/main/README_en.md) - Another Shizuku implementation with autostart, TCP mode and a simple terminal (can run commands automatically on startup) `MPL-2.0`
 
 ### AI agents
 
@@ -430,7 +445,6 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 * [PrivateDNSAndroid](https://github.com/karasevm/PrivateDNSAndroid) - Quick settings tile to switch active private DNS server `MIT`
 * [Quick-Tile Settings](https://f-droid.org/packages/com.rbn.qtsettings/) - QS tiles for toggling USB debugging and switching private DNS hosts `GPL-3.0` [(Source code)](https://github.com/RBN-Apps/Quick-Tile-Settings)
 * [SensorsOff](https://github.com/LinerSRT/SensorsOff) - Enable/Disable device sensors via quick settings `Apache-2.0`
-* [Shizako](https://github.com/xm1437/Shizako) - A catgirl-mascot edition of Shizuku, a drop-in replacement manager that official Shizuku-API apps (MT Manager, Hail, etc.) connect to without modification `Apache-2.0`
 
 ### Software management
 
