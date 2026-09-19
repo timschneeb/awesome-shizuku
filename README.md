@@ -100,11 +100,9 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 ### Android Auto
 
 * [Flywheel](https://github.com/Benjamin-Wiegand/Flywheel) - Free and open source alternative to Android Auto aimed at de-googled phones, compatible with existing headunits; Shizuku is used for app embedding and call-audio capture. `GPL-3.0`
-* [Open Headunit](https://github.com/andreknieriem/open-headunit) - Turns an Android tablet or phone into an Android Auto headunit receiver; Shizuku or root unlocks steering-wheel keymaps. `AGPL-3.0`
 
 ### Android TV
 
-* [flaunchermod](https://github.com/ctnkyaumt/flaunchermod) - Android TV launcher fork adding a button mapper that remaps remote buttons through Shizuku reading /dev/input. `GPL-3.0`
 * [flicky](https://apt.izzysoft.de/fdroid/index/apk/app.flicky) - An F-Droid client designed for Android TVs `GPL-3.0` [(Source code)](https://github.com/mlm-games/flicky)
 * [fluffy](https://apt.izzysoft.de/fdroid/index/apk/app.fluffy) - An file manager and archive viewer designed for Android TVs `GPL-3.0` [(Source code)](https://github.com/mlm-games/fluffy)
 * [RecentAppsTV](https://github.com/Qutaiba-Khader/RecentAppsTV) - Recent Apps overlay for Android TV `Propietary`
@@ -139,7 +137,6 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 ### Communication
 
 * [Aliucord-Manager](https://github.com/Aliucord/Manager) - Discord modding tool `OSL-3.0`
-* [Bada](https://github.com/kyujin-cho/Bada) - Pure Android Quick Share/Nearby Share implementation without Google Play Services; uses Shizuku or ADB to toggle Wi-Fi Direct radios for transfers. `Proprietary`
 * [Bluesky Redirect](https://apt.izzysoft.de/fdroid/index/apk/io.github.turtlepaw.blueskyredirect) - A simple app for automatically launching Bluesky links in your preferred Bluesky client `MIT` [(Source code)](https://github.com/Turtlepaw/BlueskyRedirect)
 * [CallVault](https://github.com/madkongo/CallVault) - Non-root call recorder with on-device transcripts/summaries; self-contained over embedded ADB or via an optional Shizuku backend. `GPL-3.0`
 * [cally](https://github.com/LyoSU/cally) - Call recorder for stock Pixel 6+ devices that captures both call directions via a Shizuku shell-UID audio service, without root or unlocked bootloader. `GPL-3.0`
