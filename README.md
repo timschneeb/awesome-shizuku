@@ -20,7 +20,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
       <h2>App Store for Shizuku apps</h2>   
       <p>
       This list is now available as an open-source app store for Android called ShizuStore.<br/>
-        <a href="https://github.com/timschneeb/ShizuStore">Downloads and source code available on GitHub</a>
+        <a href="https://github.com/timschneeb/ShizuStore">Downloads and code source are available on GitHub.</a>
       </p>
       You can browse every Shizuku app by category, sort by recently added, GitHub star count, downloads or update date, and install or update APKs silently through Shizuku. 
       APKs are downloaded straight from the official developer via GitHub, GitLab, F-Droid, and other sources.
