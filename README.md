@@ -14,6 +14,24 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 > [!NOTE]
 > To stay up-to-date with this list, [you can check the daily changelogs](https://github.com/timschneeb/changelog-awesome-shizuku).
 
+<table>
+  <tr>
+    <td>
+      <h2>App Store for Shizuku apps</h2>   
+      <p>
+      This list is now available as an open-source app store for Android called ShizuStore.<br/>
+        <a href="https://github.com/timschneeb/ShizuStore">Downloads and source code available on GitHub</a>
+      </p>
+      You can browse every Shizuku app by category, sort by recently added, GitHub star count, downloads or update date, and install or update APKs silently through Shizuku. 
+      APKs are downloaded straight from the official developer via GitHub, GitLab, F-Droid, and other sources.
+      <br><br>
+      <a href="https://github.com/timschneeb/ShizuStore/releases/latest"><img src="https://raw.githubusercontent.com/Kunzisoft/Github-badge/main/get-it-on-github.png" width="240" alt="Get it on GitHub"></a>
+    </td>
+    <td align="right">
+      <img src="https://raw.githubusercontent.com/timschneeb/ShizuStore/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png" width="800" alt="Browse Shizuku apps by category">
+    </td>
+  </tr>
+</table>
 
 --------------------
 
