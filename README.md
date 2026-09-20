@@ -25,7 +25,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
       You can browse every Shizuku app by category, sort by recently added, GitHub star count, downloads or update date, and install or update APKs silently through Shizuku. 
       APKs are downloaded straight from the official developer via GitHub, GitLab, F-Droid, and other sources.
       <br><br>
-      <a href="https://github.com/timschneeb/ShizuStore/releases/latest"><img src="https://raw.githubusercontent.com/Kunzisoft/Github-badge/main/get-it-on-github.png" width="240" alt="Get it on GitHub"></a>
+      <a href="https://github.com/timschneeb/ShizuStore"><img src="https://raw.githubusercontent.com/Kunzisoft/Github-badge/main/get-it-on-github.png" width="240" alt="Get it on GitHub"></a>
     </td>
     <td align="right">
       <img src="https://raw.githubusercontent.com/timschneeb/ShizuStore/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png" width="800" alt="Browse Shizuku apps by category">
