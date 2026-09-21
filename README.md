@@ -94,6 +94,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 > 
 > You should uninstall your current Shizuku version before installing any of the replacements below, otherwise, you may run into installation conflicts.
 
+* [Porter](https://github.com/d4rken-org/porter) - Minimal, maintained Shizuku fork that gives apps ADB access with optional root, plus a compatibility companion for Shizuku-only apps `Apache-2.0`
 * [shevery](https://github.com/HmnDev-Tech/shevery) ✨ - Material 3 fork with autostart, TCP mode, Dhizuku, module support and a built-in terminal with AI integration `Apache-2.0` 
 * [Shizako](https://github.com/xm1437/Shizako) - A catgirl-mascot edition of Shizuku, a drop-in replacement manager that official Shizuku-API apps connect to without modification (with similar features like shevery) `Apache-2.0`
 * [Shizuku (thedjchi's fork)](https://github.com/thedjchi/Shizuku) - Fork of Shizuku with autostart, TCP mode and stealth mode (maintenance currently paused) `Apache-2.0`
