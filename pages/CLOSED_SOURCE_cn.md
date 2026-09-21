@@ -83,15 +83,18 @@
 ### Input methods
 
 * [Auto Cursor](https://play.google.com/store/apps/details?id=eu.toneiv.cursor) `IAP` 💰 - 通过屏幕边缘的指针，单手即可轻松使用大型智能手机。 `Proprietary`
+* [Button Mapper](https://play.google.com/store/apps/details?id=flar2.homebutton) `IAP` 💰 - Remap hardware buttons to launch any app, shortcut or custom action with a single, double or long press `Proprietary`
 * [Panda Gamepad Pro](https://play.google.com/store/apps/details?id=com.panda.gamepad) `Paid` `IAP` 💰 - 游戏键盘映射器 `Proprietary`
 * [RealMouse](https://play.google.com/store/apps/details?id=com.redlee90.realmouse) - 使用虚拟触摸板控制鼠标。专为辅助显示器而设计。 `Proprietary`
 
 ### Network
 
+* [Netmonitor](https://play.google.com/store/apps/details?id=com.parizene.netmonitor) `Ads` `IAP` 💰 - Monitor cellular (2G/3G/4G/5G) and WiFi networks: signal strength, cell tower info and network diagnostics `Proprietary`
 * [NetWall](https://play.google.com/store/apps/details?id=com.ysy.app.firewall) `IAP` 💰 - 不依赖本地 VPN 或 root 的应用防火墙 `Proprietary`
 
 ### Power management
 
+* [Battery Guru](https://play.google.com/store/apps/details?id=com.paget96.batteryguru) `Ads` `IAP` 💰 - Battery health monitor with actual capacity in mAh, charging speed, temperature and usage tracking. Can request additional permissions via Shizuku. `Proprietary`
 * [Extinguish](https://play.google.com/store/apps/details?id=own.moderpach.extinguish) - 熄灭关闭屏幕，但保持设备唤醒状态 `Proprietary`
 * [FDE.AI](https://github.com/feravolt/FDE.AI-docs/releases) `IAP` 💰 - All-in-One optimizer for Android `Proprietary`
 * [Nightcap](https://play.google.com/store/apps/details?id=com.sleepshutdown.app) `IAP` 💰 - Power off your phone automatically for focus, sleep or any scheduled time you pick `Proprietary`
@@ -103,6 +106,7 @@
 
 ### Software management
 
+* [APKMirror Installer](https://play.google.com/store/apps/details?id=com.apkmirror.helper.prod) `Ads` `IAP` 💰 - Helper app to install .apkm, .xapk and .apks app bundles as well as regular APK files `Proprietary`
 * [App Ops](https://play.google.com/store/apps/details?id=rikka.appops) `Ads` `IAP` 💰 - 无需root即可管理应用程序权限 `Proprietary`
 * [AppDash](https://play.google.com/store/apps/details?id=flar2.appdashboard) `7-day trial` `Paid` 💰 - 一个应用程序管理器，可以轻松管理设备上安装的 APK 和应用程序 `Proprietary`
 * [Ice Box](https://play.google.com/store/apps/details?id=com.catchingnow.icebox) `IAP` 💰 - 使用 Shizuku 冻结或隐藏应用程序 `Proprietary`

@@ -84,16 +84,19 @@ This sublist only contains applications that are closed-source.
 ### Input methods
 
 * [Auto Cursor](https://play.google.com/store/apps/details?id=eu.toneiv.cursor) `IAP` 💰 - Makes it easy to use large smartphones with just one hand, thanks to a pointer accessible from the edges of the screen. `Proprietary`
+* [Button Mapper](https://play.google.com/store/apps/details?id=flar2.homebutton) `IAP` 💰 - Remap hardware buttons to launch any app, shortcut or custom action with a single, double or long press `Proprietary`
 * [Cover Screen Trackpad](https://play.google.com/store/apps/details?id=com.june8llc.covertrackpad) `IAP` 💰 - Turns a Samsung foldable's cover screen into a rear trackpad while the phone is open: a finger on the back moves a pointer on the main display, and a tap clicks. `Proprietary`
 * [Panda Gamepad Pro](https://play.google.com/store/apps/details?id=com.panda.gamepad) `Paid` `IAP` 💰 - Keymapper for games `Proprietary`
 * [RealMouse](https://play.google.com/store/apps/details?id=com.redlee90.realmouse) - Control the mouse using a virtual touchpad. Designed for secondary displays. `Proprietary`
 
 ### Network
 
+* [Netmonitor](https://play.google.com/store/apps/details?id=com.parizene.netmonitor) `Ads` `IAP` 💰 - Monitor cellular (2G/3G/4G/5G) and WiFi networks: signal strength, cell tower info and network diagnostics `Proprietary`
 * [NetWall](https://play.google.com/store/apps/details?id=com.ysy.app.firewall) `IAP` 💰 - Another app firewall that doesn't depend on a local VPN or root `Proprietary`
 
 ### Power management
 
+* [Battery Guru](https://play.google.com/store/apps/details?id=com.paget96.batteryguru) `Ads` `IAP` 💰 - Battery health monitor with actual capacity in mAh, charging speed, temperature and usage tracking. Can request additional permissions via Shizuku. `Proprietary`
 * [Extinguish](https://play.google.com/store/apps/details?id=own.moderpach.extinguish) - Extinguish turns your screen off but keeps your device awake `Proprietary`
 * [FDE.AI](https://github.com/feravolt/FDE.AI-docs/releases) `IAP` 💰 - All-in-One optimizer for Android `Proprietary`
 * [Nightcap](https://play.google.com/store/apps/details?id=com.sleepshutdown.app) `IAP` 💰 - Power off your phone automatically for focus, sleep or any scheduled time you pick `Proprietary`
@@ -105,6 +108,7 @@ This sublist only contains applications that are closed-source.
 
 ### Software management
 
+* [APKMirror Installer](https://play.google.com/store/apps/details?id=com.apkmirror.helper.prod) `Ads` `IAP` 💰 - Helper app to install .apkm, .xapk and .apks app bundles as well as regular APK files `Proprietary`
 * [App Ops](https://play.google.com/store/apps/details?id=rikka.appops) `Ads` `IAP` 💰 -  Manage application permissions without root `Proprietary`
 * [AppDash](https://play.google.com/store/apps/details?id=flar2.appdashboard) `7-day trial` `Paid` 💰 - An app manager that makes it easy to manage APKs and apps installed on your device `Proprietary`
 * [Ice Box](https://play.google.com/store/apps/details?id=com.catchingnow.icebox) `IAP` 💰 - Freeze or hide apps using Shizuku `Proprietary`
