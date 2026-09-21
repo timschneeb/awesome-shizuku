@@ -54,6 +54,7 @@
 
 ### Development utilities
 
+* [AIDE-Plus](https://github.com/AndroidIDE-CN/AIDE-Plus) - AndroidIDE fork with silent APK installation through Shizuku. `Proprietary`
 * [PyDroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) `Ads` `IAP` 💰 - 启动/交互（未）导出的活动、服务和接收器。支持 Shizuku 和 root。 `Proprietary`
 * [TakoStats](https://play.google.com/store/apps/details?id=rikka.fpsmonitor) `IAP` 💰 - FPS 和性能叠加，提供详细的实时系统信息 `Proprietary`
 
@@ -84,6 +85,7 @@
 
 * [Auto Cursor](https://play.google.com/store/apps/details?id=eu.toneiv.cursor) `IAP` 💰 - 通过屏幕边缘的指针，单手即可轻松使用大型智能手机。 `Proprietary`
 * [Button Mapper](https://play.google.com/store/apps/details?id=flar2.homebutton) `IAP` 💰 - Remap hardware buttons to launch any app, shortcut or custom action with a single, double or long press `Proprietary`
+* [Cover Screen Trackpad](https://play.google.com/store/apps/details?id=com.june8llc.covertrackpad) `IAP` 💰 - Turns a Samsung foldable's cover screen into a rear trackpad while the phone is open: a finger on the back moves a pointer on the main display, and a tap clicks. `Proprietary`
 * [Panda Gamepad Pro](https://play.google.com/store/apps/details?id=com.panda.gamepad) `Paid` `IAP` 💰 - 游戏键盘映射器 `Proprietary`
 * [RealMouse](https://play.google.com/store/apps/details?id=com.redlee90.realmouse) - 使用虚拟触摸板控制鼠标。专为辅助显示器而设计。 `Proprietary`
 
