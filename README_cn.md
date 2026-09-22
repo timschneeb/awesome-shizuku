@@ -15,6 +15,25 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 > [!NOTE]
 > 如需获取本列表的最新动态，[你可以查看每日更新日志](https://github.com/timschneeb/changelog-awesome-shizuku)。
 
+<table>
+  <tr>
+    <td>
+      <h2>Shizuku 应用商店</h2>   
+      <p>
+      本列表现已作为一个名为 ShizuStore 的开源 Android 应用商店提供。<br/>
+        <a href="https://github.com/timschneeb/ShizuStore">下载和源代码可在 GitHub 上获取。</a>
+      </p>
+      你可以按分类浏览所有 Shizuku 应用，按最近添加、GitHub 星标数、下载量或更新日期排序，并通过 Shizuku 静默安装或更新 APK。
+      APK 直接从官方开发者处通过 GitHub、GitLab、F-Droid 及其他来源下载。
+      <br><br>
+      <a href="https://github.com/timschneeb/ShizuStore"><img src="https://raw.githubusercontent.com/Kunzisoft/Github-badge/main/get-it-on-github.png" width="240" alt="在 GitHub 上获取"></a>
+    </td>
+    <td align="right">
+      <img src="https://raw.githubusercontent.com/timschneeb/ShizuStore/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png" width="800" alt="按分类浏览 Shizuku 应用">
+    </td>
+  </tr>
+</table>
+
 --------------------
 
 
