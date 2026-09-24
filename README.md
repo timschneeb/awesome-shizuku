@@ -443,7 +443,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 * [BatStats](https://github.com/mlm-games/BatStats) - Battery monitor with stats via Shizuku `GPL-3.0`
 * [Batt](https://gitlab.com/narektor/batt) - A simple app that shows battery status information on Android 14 and later. `GPL-3.0`
 * [Battery](https://github.com/zhyang18/Battery/blob/main/README_EN.md) - Battery health and hardware analysis; Shizuku provides the elevated shell for deep battery parameter reads. `MIT`
-* * [Battery Health Tracker](https://github.com/FrancescoMin/batteryhealthtracker) - Battery health diagnostics and true chemical capacity tracker for Oppo, OnePlus, and Realme devices via Shizuku. `Apache-2.0`
+* [Battery Health Tracker](https://github.com/FrancescoMin/batteryhealthtracker) - Battery health diagnostics and true chemical capacity tracker for Oppo, OnePlus, and Realme devices via Shizuku. `Apache-2.0`
 * [Battery Mode Checker](https://github.com/mrdarksidetm/Android-Battery-Unrestricted-Checker) - Audit, manage, and toggle Android battery optimization states (Unrestricted, Optimized, Restricted) with Shizuku `Apache-2.0`
 * [Battery-Monitor](https://github.com/tswistak/Battery-Monitor) - Track and log battery capacity and parameters over time using Shizuku `GPL-3.0`
 * [battery-stats-changer](https://github.com/superisuer/battery-stats-changer) - Open source app to visually change battery data via Shizuku `GPL-3.0`
