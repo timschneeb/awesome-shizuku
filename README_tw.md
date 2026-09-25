@@ -100,6 +100,7 @@ Shizuku 允許普通應用程式在非root 裝置上使用 ADB 直接使用許�
 
 * [Aether](https://github.com/Zhou-Shilin/Aether) - Localized, extensible general-purpose AI agent for Android, iOS and macOS, with optional Shizuku and Termux integration for direct device control. `GPL-3.0`
 * [AndroidHarness](https://github.com/Sanuu7/AndroidHarness) - On-device coding agent that routes privileged commands through a Shizuku shell UID, with a Termux-prefixed Linux toolchain as fallback. `MIT`
+* [AutoXiao'er](https://github.com/Joy-word/AutoXiaoer/blob/main/README_zh.md) - 全天候在 Android 手機上運作的 AI 夥伴，能像人一樣透過視覺操作手機，同時支援 Shizuku 與無障礙服務操作模式。 `MIT`
 * [ClawGUI](https://github.com/ZJU-REAL/ClawGUI) - On-device GUI-agent runner deploying the full ClawGUI brain stack on one phone controlled via Shizuku. `Apache-2.0`
 * [Hermes Agent](https://github.com/adybag14-cyber/hermes-agent) - Hermes Agent port for Android with a Shizuku privileged shell bridge for on-device actions. `MIT`
 * [OmniBot](https://github.com/omnimind-ai/OmniBot) - On-device AI agent with terminal, web browsing, device control, and system integration `GPL-3.0`
@@ -112,7 +113,6 @@ Shizuku 允許普通應用程式在非root 裝置上使用 ADB 直接使用許�
 * [roubao](https://github.com/Turbo1123/roubao/blob/main/README_EN.md) - Open-source on-device AI phone automation assistant based on vision-language models that performs tasks via Shizuku system permissions, no PC needed. `MIT` [(原始碼)](https://github.com/Turbo1123/roubao)
 * [Ruto-GLM](https://github.com/iamr0s/Ruto-GLM/blob/main/README_en.md) - Automation and Multitasking Framework using AutoGLM. Can create virtual screens that agents can run apps on and use multi-window `Apache 2.0`
 * [Zafiro](https://github.com/niki914/zafiro) - Bring-your-own-key AI agent that reads the screen and controls the device through Shizuku, without root. `MIT`
-* [AutoXiao'er](https://github.com/Joy-word/AutoXiaoer/blob/main/README_zh.md) - 全天候在 Android 手機上運作的 AI 夥伴，能像人一樣透過視覺操作手機，同時支援 Shizuku 與無障礙服務操作模式。 `MIT`
 
 
 ### Android Auto
