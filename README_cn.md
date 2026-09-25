@@ -113,6 +113,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [roubao](https://github.com/Turbo1123/roubao/blob/main/README_EN.md) - Open-source on-device AI phone automation assistant based on vision-language models that performs tasks via Shizuku system permissions, no PC needed. `MIT` [(源代码)](https://github.com/Turbo1123/roubao)
 * [Ruto-GLM](https://github.com/iamr0s/Ruto-GLM/blob/main/README_en.md) - Automation and Multitasking Framework using AutoGLM. Can create virtual screens that agents can run apps on and use multi-window `Apache 2.0`
 * [Zafiro](https://github.com/niki914/zafiro) - Bring-your-own-key AI agent that reads the screen and controls the device through Shizuku, without root. `MIT`
+* [AutoXiao'er](https://github.com/Joy-word/AutoXiaoer/blob/main/README_zh.md) - 在安卓机器上 7*24h 的伙伴，像人一样基于视觉操作手机。同时支持 Shizuku 和 无障碍操作 模式。 `MIT`
 
 
 ### Android Auto
