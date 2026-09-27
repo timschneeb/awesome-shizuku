@@ -221,7 +221,6 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [Taskbar](https://f-droid.org/packages/com.farmerbb.taskbar/) - 使用开始菜单访问应用程序可以解锁其他功能 `Apache-2.0` [(源代码)](https://github.com/farmerbb/Taskbar)
 * [WidgetsPro](https://github.com/preethamkmr3/WidgetsPro) - CPU and battery widgets `Proprietary`
 * [YoukiDEX](https://github.com/mrYouki/YoukiDex-Android-Desktop) - A full desktop experience layer for Android `GPL-3.0`
-* [YoukiShell](https://github.com/mrYouki/YoukiShell-Android-Desktop) - Plugin-driven Android shell with a taskbar, floating windows and a built-in plugin store; some features need Root or Shizuku `GPL-3.0`
 
 ### Development utilities
 
@@ -261,7 +260,6 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [akiHz](https://github.com/anlaki-py/akihz) - Lightweight refresh rate switcher with Quick Settings tile, automatic rate detection, and floating FPS monitor `MIT`
 * [android-display-extend](https://github.com/jqssun/android-display-extend) ✨ - Display manager for physical and virtual displays with a built-in virtual touchscreen. Great for use with `scrcpy --new-display` on a PC `GPL-3.0`
 * [android-display-mirror](https://github.com/jqssun/android-display-mirror) ✨ - Screen mirroring hub with support for sharing screen content over AirPlay, Moonlight/Sunshine, and DisplayLink `GPL-3.0`
-* [Castla](https://github.com/Suprhimp/castla) - Creates a virtual display, runs apps on it, and streams screen, touch, and audio into a remote browser over local Wi-Fi `Apache-2.0`
 * [deskcontrol](https://github.com/exiarepairii/deskcontrol) - Turns your phone into a touchpad and keyboard for a single app running on a wired external display `GPL-3.0`
 * [Dextop](https://github.com/NarYuki/Dextop) - Desktop environment using Samsung DeX or Shizuku with multitasking and custom resolution `GPL-3.0`
 * [Fold_Switcher](https://github.com/eiyooooo/Fold_Switcher) - 在可折叠设备上的各种显示屏折叠状态之间切换 `Apache-2.0`
@@ -440,7 +438,6 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [BatStats](https://github.com/mlm-games/BatStats) - Battery monitor with stats via Shizuku `GPL-3.0`
 * [Batt](https://gitlab.com/narektor/batt) - 一个简单的应用程序，可在 Android 14 及更高版本上显示电池状态信息。 `GPL-3.0`
 * [Battery](https://github.com/zhyang18/Battery/blob/main/README_EN.md) - Battery health and hardware analysis; Shizuku provides the elevated shell for deep battery parameter reads. `MIT`
-* [Battery Mode Checker](https://github.com/mrdarksidetm/Android-Battery-Unrestricted-Checker) - Audit, manage, and toggle Android battery optimization states (Unrestricted, Optimized, Restricted) with Shizuku `Apache-2.0`
 * [Battery-Monitor](https://github.com/tswistak/Battery-Monitor) - Track and log battery capacity and parameters over time using Shizuku `GPL-3.0`
 * [battery-stats-changer](https://github.com/superisuer/battery-stats-changer) - Open source app to visually change battery data via Shizuku `GPL-3.0`
 * [DozeTap](https://github.com/dhruvanbhalara/DozeTap) - Screen timeout presets that grant WRITE_SECURE_SETTINGS in one tap through Shizuku. `Apache-2.0`
