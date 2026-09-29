@@ -57,6 +57,7 @@ This sublist only contains applications that are closed-source.
 
 * [AIDE-Plus](https://github.com/AndroidIDE-CN/AIDE-Plus) - AndroidIDE fork with silent APK installation through Shizuku. `Proprietary`
 * [PyDroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) `Ads` `IAP` 💰 - IDE for Python 3 `Proprietary`
+* [Reboot](https://play.google.com/store/apps/details?id=com.aistudio.reboot.vtwpkc) `Ads` `IAP 💰` `Root` - Fast rebooter into Recovery, Fastboot, EDL & other modes via Root or Shizuku `Proprietary`
 * [TakoStats](https://play.google.com/store/apps/details?id=rikka.fpsmonitor) `IAP` 💰 - FPS and performance overlay with detailed real-time system information `Proprietary`
 
 
