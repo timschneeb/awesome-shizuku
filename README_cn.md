@@ -92,10 +92,11 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 
 * [Porter](https://github.com/d4rken-org/porter) - 精简且持续维护的 Shizuku 分支，为应用提供 ADB 访问权限并可选支持 root，还为仅支持 Shizuku 的应用提供兼容配套组件 `Apache-2.0`
 * [shevery](https://github.com/HmnDev-Tech/shevery) ✨ - Material 3 分支，支持自启动、TCP 模式、Dhizuku、模块，以及内置集成 AI 的终端
-* [Shizako](https://github.com/xm1437/Shizako) - 猫娘形象版 Shizuku，可无缝替代官方管理器，官方 Shizuku-API 应用无需修改即可连接（功能与 shevery 类似） `Apache-2.0`
+* [Shizako](https://github.com/cr1437/Shizako) - 猫娘形象版 Shizuku，可无缝替代官方管理器，官方 Shizuku-API 应用无需修改即可连接（功能与 shevery 类似） `Apache-2.0`
 * [Shizuku (thedjchi's fork)](https://github.com/thedjchi/Shizuku) - Shizuku 分支，支持自启动、TCP 模式和隐身模式（目前暂停维护） `Apache-2.0`
 * [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus) - Shizuku 分支，为开发者提供扩展 API，并支持自启动、TCP 模式、Dhizuku 等 `Apache-2.0`
 * [Stellar](https://github.com/roro2239/Stellar/blob/main/README_en.md) - 另一个 Shizuku 实现，支持自启动、TCP 模式和简易终端（可在启动时自动执行命令） `MPL-2.0`
+* [Xhizuku](https://github.com/xeonleonreal/Xhizuku) - Maintained Shizuku fork with Material 3 Expressive UI, ADB module runner, onboarding wizard, server monitor and built-in diagnostics `Apache-2.0`
 
 ### AI agents
 
@@ -113,6 +114,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [rish-mcp](https://github.com/turin-dev/rish-mcp) - 通过出站 WebSocket 中继，将 Android 设备的 Shizuku shell 作为 MCP `run_shell` 工具提供给 AI——无需 VPN、ADB 或 sshd，即可从 Claude 或任意 MCP 客户端运行 shell 命令 `MIT`
 * [roubao](https://github.com/Turbo1123/roubao/blob/main/README_EN.md) - 基于视觉语言模型的开源设备端 AI 手机自动化助手，通过 Shizuku 系统权限执行任务，无需电脑。 `MIT` [(源代码)](https://github.com/Turbo1123/roubao)
 * [Ruto-GLM](https://github.com/iamr0s/Ruto-GLM/blob/main/README_en.md) - 基于 AutoGLM 的自动化与多任务框架。可创建虚拟屏幕供智能体运行应用，并使用多窗口 `Apache 2.0`
+* [talon](https://github.com/thefalconry/talon) - Multi-platform agentic AI harness for Telegram/Discord/Teams/terminal with a Flutter companion app; Shizuku enables silent self-updates and elevated access. `Apache-2.0`
 * [Zafiro](https://github.com/niki914/zafiro) - 自带 API Key 的 AI 智能体，通过 Shizuku 读取屏幕并控制设备，无需 root。 `MIT`
 
 ### Android Auto
@@ -131,6 +133,8 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [allEQ](https://github.com/omixin/allEQ) - 无需 root 的 10 段系统均衡器，通过 Shizuku 挂接输出混音音频会话。 `GPL-3.0`
 * [android-realtime-voice-isolation](https://github.com/sk2andy/android-realtime-voice-isolation) - 使用 Shizuku、GTCRN 和 ONNX Runtime 的设备端实时语音隔离 `MIT`
 * [Castix](https://github.com/elhizazi1/Castix) - 管理后台播放限制，并添加 AMOLED 纯黑息屏时钟，支持 Shizuku、Dhizuku、root、LSPosed 或无障碍等多种后端。 `GPL-3.0`
+* [centuryplay](https://github.com/g8row/centuryplay) - Streams Android system audio to AirPlay 1/2 speakers; optional Shizuku mode provides silent-phone capture via AudioPolicy loopback and removes capture prompts. `AGPL-3.0`
+* [finevolume](https://github.com/broknhrt2562/finevolume) - Pixel-style volume panel with 120-step precision plus per-app and per-stream volume control, using a Shizuku high-precision audio proxy. `Apache-2.0`
 * [MicUp](https://github.com/papergray/MicUp) ✨ - 适用于 Android 的实时麦克风音频处理 `MIT`
 * [Mixer (1)](https://github.com/farizanjum/mixer-1) - 拦截硬件按键的分应用音量悬浮窗 `Proprietary`
 * [RootlessJamesDSP](https://play.google.com/store/apps/details?id=me.timschneeberger.rootlessjamesdsp) - 针对非 root Android 设备的系统级 JamesDSP 音频处理引擎的实现 `GPL-3.0` [(源代码)](https://github.com/timschneeb/RootlessJamesDSP)
@@ -188,14 +192,19 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [CustomAnimator](https://play.google.com/store/apps/details?id=com.arslan.customanimator) - 更精细地自定义动画速度 `GPL-3.0` [(源代码)](https://github.com/AhmetCanArslan/CustomAnimator)
 * [DarQ-Reborn](https://github.com/Arora-Sir/DarQ-Reborn) - 适用于 Android 10 及以上、可按应用选择的强制深色模式选项 `Apache-2.0`
 * [Dawn-Desktop-Addons](https://github.com/Dawncraft/Dawn-Desktop-Addons) - 一些 Android 应用小部件和动态壁纸 `GPL-3.0`
+* [DevBay-Launcher](https://github.com/Zoder-Studio/DevBay-Launcher) - Developer-focused launcher with debug app sections, folders, gestures and Quick toggle chips for developer options, animations, fonts and wireless ADB via Shizuku. `GPL-3.0`
 * [Dragon-Launcher](https://f-droid.org/packages/org.elnix.dragonlauncher/) ✨ - 高度可定制、基于手势的 Android 启动器，注重速度与效率 `GPL-3.0` [(源代码)](https://github.com/Elnix90/Dragon-Launcher)
 * [DroidOS](https://github.com/Katsuyamaki/DroidOS) ✨ - 平铺窗口管理器、三星 DeX 替代品、弹出式应用启动器 `Proprietary`
+* [duo-open](https://github.com/marcoazeem/duo-open) - System-wide iPhone-Duo frosted-glass fold effect for book-style foldables, driven by the real hinge angle as an accessibility overlay or live wallpaper, with optional Shizuku. `MIT`
 * [DuoFold-Android](https://github.com/jcx396905-gif/DuoFold-Android) - 全局 iPhone Duo 风格折叠错觉效果，利用 OpenGL ES 根据设备运动重新投影整个屏幕，由 Shizuku 驱动。 `MIT`
+* [EdgeGesture](https://github.com/Evilgodxu/EdgeGesture) - Edge-gesture app built on accessibility plus Shizuku: edge swipes, back-tap, floating music and task panels, freeform and app-kill actions. `AGPL-3.0`
 * [essentials](https://github.com/sameerasw/essentials) ✨ - 适用于 Pixel 的必备工具、修改和变通方案，也兼容其他设备 `MIT`
 * [expressive-cutout](https://github.com/EvanKoe/expressive-cutout) - 遵循 Material Expressive 设计的离线灵动岛，支持通知、实时磁贴和 Material You 颜色 `GPL-3.0`
 * [Extendroid](https://github.com/legendsayantan/Extendroid) ✨ - 在智能手机的 Android 操作系统上添加类似桌面的多窗口支持。 `GPL-3.0`
 * [FreeformShell](https://github.com/bravoyush/FreeformShell) - 实验性自由窗口管理器辅助工具，通过 Shizuku 系统 API 添加标题栏、调整边框和显示缩放。 `Apache-2.0`
 * [gama](https://github.com/palincat/gama) - 可通过设置 `debug.hwui.renderer` 系统属性在 OpenGL 和 Vulkan 渲染器之间切换 `MIT`
+* [Google-Shortcuts-Launcher](https://github.com/WSTxda/Google-Shortcuts-Launcher) - Launcher app-drawer shortcut hub for Google app features; Shizuku launches otherwise inaccessible Google components. `GPL-3.0`
+* [GSplit](https://github.com/Salat39/GSplit) - Split-screen and freeform multi-window presets with scheduling, boot autostart and overlays; an optional Shizuku ADB shell configures splits. `Proprietary`
 * [HyperBridge](https://github.com/D4vidDf/HyperBridge) - 通过将通知桥接到摄像头挖孔 UI，为 HyperOS 带来原生 HyperIsland 体验，支持主题和小部件 `Apache-2.0`
 * [Jarngreipr](https://github.com/BrianJr03/Jarngreipr) - 双屏游戏设备启动器。使用 Shizuku 将其中一个触摸屏映射为手柄输入 `MIT`
 * [Language-Selector](https://github.com/VegaBobo/Language-Selector) - 允许用户选择单独的应用语言（Android 13+） `Apache-2.0`
@@ -214,6 +223,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [Smart Island](https://github.com/agupta07505/SmartIsland) - 轻量级 Android 悬浮界面，将通知、通话和媒体播放汇集为可快速浏览的悬浮岛 `GPL-3.0`
 * [SmartspacerPlugins](https://github.com/KieronQuinn/SmartspacerPlugins) - Smartspacer 插件 `GPL-3.0`
 * [SuperShade](https://github.com/thejaustin/SuperShade) - 通知栏替代品，通过 Shizuku shell 命令控制亮度、状态下拉和电源操作。 `Proprietary`
+* [SysReadout-Launcher](https://github.com/AndSni/SysReadout-Launcher) - Terminal-style launcher that turns the home screen into a live system monitor with pinned status rows, process/connection/DNS tables and an event log, reading system data through Shizuku. `GPL-3.0`
 * [System UI Tuner](https://github.com/zacharee/Tweaker) - 查看和修改 Android 设备上的隐藏设置 `MIT`
 * [TapTap](https://github.com/KieronQuinn/TapTap) ✨ - 将设备背面的双击功能从 Android 12 移植到任何 Android 7.0+ 设备 `GPL-3.0`
 * [Tarnhelm](https://f-droid.org/packages/cn.ac.lz233.tarnhelm/) - 清除分享链接中的跟踪参数，支持自定义 URL 重写规则 `GPL-3.0` [(源代码)](https://github.com/lz233/Tarnhelm)
@@ -238,6 +248,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [FPSViewer](https://github.com/binhmod/FPSViewer) - 带图表的 FPS 查看悬浮窗 `Proprietary`
 * [FrameX-Android](https://github.com/MaheshSharan/FrameX-Android) - 适用于 Android 的实时性能悬浮窗 `MIT`
 * [get_event](https://github.com/lalakii/get_event) - 读取/dev/input/event* `Proprietary`
+* [IntentX](https://github.com/wxxsfxyzm/IntentX) - Explores installed apps and activities and crafts, tests and launches intents with normal, root or Shizuku access; saves intents as shortcuts. `GPL-3.0`
 * [LibChecker](https://github.com/LibChecker/LibChecker) - 用于查看设备上的应用程序中使用的库的应用程序。使用 Shizuku 确定其他应用程序的安装源。 `Apache-2.0`
 * [LogFox](https://github.com/F0x1d/LogFox) ✨ - 另一个适用于 Android 的 logcat 阅读器 `GPL-3.0`
 * [ManageSensors](https://github.com/Carry-rrk/ManageSensors) - 利用 Shizuku 调用 AppOps API，实现精细的应用权限控制 `MIT`
@@ -259,6 +270,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [akiHz](https://github.com/anlaki-py/akihz) - 轻量级刷新率切换器，具备快捷设置磁贴、自动刷新率检测和悬浮 FPS 监视器 `MIT`
 * [android-display-extend](https://github.com/jqssun/android-display-extend) ✨ - 适用于物理和虚拟显示器的显示管理器，内置虚拟触摸屏。非常适合在 PC 上配合 `scrcpy --new-display` 使用 `GPL-3.0`
 * [android-display-mirror](https://github.com/jqssun/android-display-mirror) ✨ - 屏幕镜像中心，支持通过 AirPlay、Moonlight/Sunshine 和 DisplayLink 共享屏幕内容 `GPL-3.0`
+* [BetterNightLight](https://github.com/paulsnuff/BetterNightLight) - Grants advanced control over Android's native Night Light: scheduling, boost phases and precise colour temperature through Shizuku or root secure-settings access. `GPL-3.0`
 * [deskcontrol](https://github.com/exiarepairii/deskcontrol) - 将手机变为触控板和键盘，用于控制在外接有线显示器上运行的单个应用 `GPL-3.0`
 * [Dextop](https://github.com/NarYuki/Dextop) - 使用三星 DeX 或 Shizuku 的桌面环境，支持多任务和自定义分辨率 `GPL-3.0`
 * [Fold_Switcher](https://github.com/eiyooooo/Fold_Switcher) - 在可折叠设备上的各种显示屏折叠状态之间切换 `Apache-2.0`
@@ -284,6 +296,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [immich-cloud-media](https://github.com/Dreaming-Codes/immich-cloud-media) - 云媒体提供程序，在 Android 系统照片选择器中显示自托管的 Immich 媒体库，可通过 Shizuku 或 ADB 配置。 `GPL-3.0`
 * [KArchiver](https://github.com/sysrv64/KArchiver) - 以归档为核心的 Android 文件管理器：浏览存储，无需解压即可打开并原地编辑 ZIP/TAR/7Z，可在文件和归档内搜索，并可选 Shizuku 或 root 引擎访问受限路径 `GPL-3.0`
 * [MaterialFiles](https://github.com/zhanghai/MaterialFiles) - 适用于 Android 的 Material Design 文件管理器 `GPL-3.0`
+* [MP-Manager](https://github.com/AbdurazaaqMohammed/MP-Manager) - Dual-pane Material file manager focused on APKs as an open-source MT Manager alternative, with root and Shizuku privileged file management. `GPL-3.0`
 * [NFile](https://github.com/Senzme/NFile) - 使用 Shizuku 访问 Android 文件夹的文件管理器 `GPL-3.0`
 * [plain-app](https://github.com/plainhub/plain-app) - 自托管 Web 控制面板，可从浏览器管理文件、媒体、联系人、短信和通话，并通过 Shizuku 执行特权短信删除。 `AGPL-3.0`
 * [RippleFiles](https://github.com/GokulSB/RippleFiles-FileManager) - Expressive Material 文件管理器，支持本地和云存储，并通过 Shizuku 访问 Android/data。 `MIT`
@@ -303,10 +316,12 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 
 ### Games
 
+* [ADOFAI-Key-Viewer-Mobile](https://github.com/QuyetGD-15/ADOFAI-Key-Viewer-Mobile) - Overlay key visualizer for ADOFAI and rhythm games; reads hardware input events through Shizuku getevent for ultra-low-latency touch visualization, KPS tracking and click counting. `Proprietary`
 * [Ascent](https://github.com/4o3F/Ascent) - 用于获取米哈游游戏抽卡历史链接的工具  `AGPL-3.0`
 * [BDroid_X](https://github.com/Ark-Repoleved/BDroid_X) - 《BrownDust II》Mod 管理器 `Proprietary`
 * [Cinderbox-Companion](https://github.com/ObfuscatedVoid/Cinderbox-Companion) - 《星露谷物语》Android 版配套应用，支持 Steam 云存档同步、游戏文件下载和 SMAPI Mod 管理 `MIT`
 * [CloudSync-Mobile](https://github.com/StardewValleyMods/CloudSync-Mobile) - 可在多台设备间同步《星露谷物语》存档的应用 `GPL-3.0`
+* [ex-astris-save-editor](https://github.com/Ncorror/ex-astris-save-editor) - Unofficial Ex Astris save editor: inventory editing, verified backups and Arknights skin switching, with automatic save discovery through Root or Shizuku. `GPL-3.0`
 * [lac-tool](https://github.com/aliernfrog/lac-tool) - 管理“洛杉矶犯罪”游戏的地图、壁纸和屏幕截图 `GPL-3.0`
 * [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 《Link！Like！LoveLive！》的本地化插件，通过 LLM 翻译游戏文本 `GPL-3.0`
 * [LOModInstaller](https://github.com/anyabot/LOModInstaller) - 游戏“Last Origin”的 Mod 管理器 `Proprietary`
@@ -365,15 +380,19 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [PI](https://github.com/SanmerApps/PI) - 允许覆盖包请求者和执行者的包安装程序 `MIT`
 * [SAI](https://f-droid.org/packages/com.aefyr.sai.fdroid/) - Android 拆分 APK 安装程序 `GPL-3.0` [(源代码)](https://github.com/Aefyr/SAI)
 * [ShizuCoreFetch](https://github.com/elhizazi1/ShizuCoreFetch) - 由 Shizuku 驱动的应用管理器，支持静默安装、更新和批量操作 `GPL-3.0`
-* [ShizuStore](https://github.com/timschneeb/ShizuStore) ✨ - Shizuku 应用商店。基于这份 awesome-shizuku 列表，直接从上游来源安装 APK `GPL-3.0`
 * [Shizuku Package Installer](https://github.com/vvb2060/PackageInstaller) - 轻量级应用安装器替代品，支持拆分 APK `Apache-2.0`
+* [ShizuStore](https://github.com/timschneeb/ShizuStore) ✨ - Shizuku 应用商店。基于这份 awesome-shizuku 列表，直接从上游来源安装 APK `GPL-3.0`
+* [tern](https://github.com/munzzyy/tern) - Obtainium-style updater that verifies package name, signing certificate and publisher checksums before installing via Shizuku, Dhizuku, root or the system installer on phones, tablets and TV. `GPL-3.0`
 * [universal-installer](https://github.com/pass-with-high-score/universal-installer) - 安装和管理 APK 软件包，支持拆分 APK、通过 Shizuku 静默安装以及 VirusTotal 恶意软件扫描 `GPL-3.0`
 * [Vyxel Apps](https://github.com/NikhilKain/vyxel-apps) `IAP` 💰 - 由 GitHub 支持的应用商店，具备签名验证和通过 Shizuku 的静默安装。 `AGPL-3.0`
+* [yuki](https://github.com/carlelieser/yuki) - Catalog and storefront for open-source Shizuku apps, crawled from GitHub `MIT`
 
 ### Miscellaneous
 
 * [AppBooster](https://github.com/androidexpert35/AppBooster) - Android 内置 `dex2oat` 工具的图形界面，可重新优化已安装应用的 DEX 代码 `Apache-2.0`
 * [CaptureCap](https://github.com/yepgoryo/CaptureCap) - 屏幕和音频录制及串流应用，无需 root `MIT`
+* [Fern](https://github.com/wized2/Fern) - Material 3 live system monitor for CPU, RAM, storage, battery, thermal and network, with an optional Shizuku shell for elevated readings. `Proprietary`
+* [ghostlock-app](https://github.com/YuKongA/ghostlock-app) - One-tap CVE-2026-43499 privilege-escalation app granting temporary uid 0 across many stock devices; Shizuku-required kernel profiles run through a shell Shizuku. `Apache-2.0`
 * [HiddenAlarmRevealer](https://github.com/AhmetCanArslan/HiddenAlarmRevealer) - 找出状态栏闹钟图标处于活动状态的原因 `Proprietary`
 * [IrisShot](https://github.com/raging-flames/IrisShot) - 适用于 Android 游戏的长截图工具，使用 MediaProjection 或由 Shizuku 驱动的 shell 截图自动滚动并拼接长截图。 `Proprietary`
 * [KeiOS](https://github.com/hosizoraru/KeiOS) - 系统工具控制台，内置本地 MCP 服务、GitHub 发布跟踪，可通过 Shizuku 或 root 执行特权安装，并提供 Blue Archive 辅助工具 `Apache-2.0`
@@ -406,6 +425,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [FireWall Blocks](https://github.com/shynoiddev/FireWall-Blocks) - 双模式防火墙：可使用 Shizuku、标准本地 VPN 接口或两者同时阻止互联网访问。 `MIT`
 * [hikari-adblock](https://github.com/codegeasse1/hikari-adblock) - 无需 root 的广告/跟踪器/恶意软件拦截器，具备本地 VPN DNS 过滤以及 Shizuku iptables/nftables 防火墙模式 `GPL-3.0`
 * [Hostman](https://github.com/LinZong/Hostman) `Root` - 预览和编辑/etc/hosts文件 `MIT`
+* [hotspot_channel_setter](https://github.com/Lorax121/hotspot_channel_setter) - Lists and applies the Wi-Fi hotspot SoftAP 2.4/5 GHz channel via Shizuku or root and persists the choice across reboots. `Proprietary`
 * [MaybeEdgeScanner](https://github.com/maybeknott/MaybeEdgeScanner) - 路由配对网络扫描器，探测 TCP/TLS/HTTP 目标，可选 Shizuku 辅助的射频诊断。 `AGPL-3.0`
 * [NaiveproxyForAndroid](https://github.com/Dobiec/NaiveproxyForAndroid) - 一个在 Android 上运行 Naiveproxy 的简单应用程序 `MIT`
 * [NetManager](https://github.com/DottoXD/NetManager) - Material 风格的 4G/5G NR 蜂窝网络监视器，具备基站地图、路测和速度测试；Shizuku shell 桥接可解锁额外网络数据。 `GPL-3.0`
@@ -557,9 +577,11 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 
 * [4Zones](https://github.com/mr-biz-apps/4zones) - 在三星 DeX 和 Android 桌面模式下恢复四区域窗口平铺，支持点击吸附和键盘快捷键 `Apache-2.0`
 * [android-battery-health](https://github.com/willbilec/android-battery-health) - 三星电池健康和循环次数查看器，通过 Shizuku 提供对屏幕阅读器友好的布局。 `Proprietary`
+* [duo-fold-live](https://github.com/joeconsorti/duo-fold-live) - Live hinge-driven iPhone-Duo fold animation for Galaxy Z Fold 8 with windowed glass, live cover previews and smooth display handoff, reading the true hinge angle via Shizuku. `MIT`
 * [Fonts](https://apt.izzysoft.de/fdroid/index/apk/com.je.fontsmanager.samsung) - One UI 8 免 root 字体安装器 `GPL-3.0` [(源代码)](https://codeberg.org/dryerlint/fontsmanager)
-* [Root-My-Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy) - 使用 CVE-2026-43499 为受支持的三星 Galaxy 固件安装 KSU `Apache-2.0`
+* [galaxy-auto-brightness-offset](https://github.com/fullmetalsonic/galaxy-auto-brightness-offset) - Samsung Galaxy adaptive-brightness offset for screens that feel too dark or too bright, including under privacy films: applies a fixed correction to the auto-brightness curve via Shizuku. `Proprietary`
 * [pearity](https://github.com/thejaustin/pearity) - 逐项将三星 One UI 系统设置匹配为 iOS 默认值（Android/自定义/iOS 三种状态），并通过 Shizuku 或 root 写入安全设置。 `Proprietary`
+* [Root-My-Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy) - 使用 CVE-2026-43499 为受支持的三星 Galaxy 固件安装 KSU `Apache-2.0`
 * [SamsungRegionOverride](https://github.com/Ritel-T/SamsungRegionOverride) - 临时更改 Galaxy Store 及其他区域锁定应用所见的 SIM 地区，无需 root，一键恢复 `MIT`
 * [SBatteryTweaks](https://github.com/pascua28/SBatteryTweaks) - 在三星设备电池温度达到特定值时启用或禁用快速充电模式  `Proprietary`
 * [ScamsungFonts](https://github.com/KhunHtetzNaing/ScamsungFonts) - 通过系统 shell 或 Root 为三星 Galaxy（OneUI）管理字体 `No license`
@@ -570,6 +592,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 #### MIUI
 
 * [Aura](https://github.com/tgvdufuture/Aura) - 适用于 POCO X8 Pro 的自定义 RGB 通知 LED 应用，支持按应用、联系人和群组设置颜色和动画 `MIT`
+* [CodecTweaker](https://github.com/Halo0sama/CodecTweaker) - Bluetooth codec fix for Xiaomi HyperOS: restores each earphone's chosen codec and bitrate after A2DP reconnects using Shizuku plus accessibility UI automation. `GPL-3.0`
 * [FiveGSwitcher](https://play.google.com/store/apps/details?id=com.ysy.switcherfiveg) `Paid` 💰 - HyperOS/MIUI 5G快捷开关 `GPL-3.0` [(源代码)](https://github.com/ysy950803/FiveGSwitcher)
 * [FxxkMIUIAd](https://github.com/qhy040404/FxxkMIUIAd) - 以最低成本关闭 MIUI 广告 `Apache-2.0`
 * [HyperOS FCM Fix](https://github.com/dingwen07/hyperos-fcm-fix) - 在 HyperOS 上保持 Google Play 服务不受限制，确保 FCM 推送通知准时送达 `GPL-3.0`
@@ -582,8 +605,10 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 
 #### Other
 
+* [BooxUltimatum](https://github.com/huuunleashed/BooxUltimatum) - Open-source suite for BOOX E Ink tablets: high-contrast home, sleep screens, instant pen ink, battery log and reversible tweaks, using Shizuku for privileged tweak tiers. `GPL-3.0`
 * [buttonoo](https://github.com/bractstudio/buttonoo) - 将 Nothing 的 Essential 键重新映射为任意按压模式；Shizuku 启用特权输入通道。 `GPL-3.0`
 * [Calibrate-SoC](https://github.com/mayusi/Calibrate-SoC) - 面向 Android 游戏掌机的 SoC 调优、监控和基准测试套件，具备目标寻优型频率策略和实时 HUD。 `Apache-2.0`
+* [DiAuto](https://github.com/shihabal3amri/DiAuto) - Wireless and USB Android Auto receiver for BYD DiLink head units; runs entirely on the car display and uses Shizuku or root for privileged setup. No phone companion app or dongle. `AGPL-3.0`
 * [Evolve_Launcher_v2](https://github.com/JarJarBlinkz/Evolve_Launcher_v2) - 适用于 Meta Quest 头显的可定制桌面启动器，具备应用整理、游戏时长跟踪和由 Shizuku 支持的清除数据/缓存操作。 `Proprietary`
 * [flipx](https://github.com/jlgrimes/flipx) - 根据 Anbernic RG Rotate 的转轴状态将主页键路由到不同的启动器 `Proprietary`
 * [GlyphBarty](https://github.com/Link2011-Act2/GlyphBarty) - 适用于 Nothing Phone 的可定制 Glyph 可视化工具，支持音乐同步、快捷设置开关和充电状态显示 `MIT`
@@ -593,6 +618,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [Recording-Light-Control](https://github.com/Farpathan/Recording-Light-Control) - Recording Light Control 可精确控制 Nothing Phone (3) 的录制指示灯 `Proprietary`
 * [RedTrigger](https://github.com/zampierilucas/RedTrigger) - 适用于 Nubia Red Magic 手机的全局肩键 `MIT`
 * [Thor SidePad](https://github.com/bentolanh/thor-sidepad) - 将 AYN Thor 下屏变为虚拟手柄；Shizuku 将其按压注入为原生手柄输入。 `MIT`
+* [thor-pathfinder](https://github.com/KaitonGxx/thor-pathfinder) - AYN Thor dual-screen companion: swaps running apps between screens and maps button/combo shortcuts per game profile, using Shizuku to move windows to the other display. `GPL-3.0`
 * [thor-wayfinder](https://github.com/Thor-Wayfinder/thor-wayfinder) - 通过返回键手势在 AYN Thor 的两块屏幕之间移动应用 `CC-BY-NC-ND-4.0`
 * [Thors-Lightning](https://github.com/HughesTechNZ/Thors-Lightning) - 适用于 AYN Thor 的手柄驱动双屏亮度控制，可选 Shizuku 特权级输入（宏）录制。 `MIT`
 * [ThorVolumeLink](https://github.com/pth2000/ThorVolumeLink) - AYN Thor 双屏的同步音量控制 `MIT`

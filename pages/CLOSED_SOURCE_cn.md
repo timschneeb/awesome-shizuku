@@ -56,6 +56,7 @@
 
 * [AIDE-Plus](https://github.com/AndroidIDE-CN/AIDE-Plus) - AndroidIDE fork with silent APK installation through Shizuku. `Proprietary`
 * [PyDroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) `Ads` `IAP` 💰 - 启动/交互（未）导出的活动、服务和接收器。支持 Shizuku 和 root。 `Proprietary`
+* [Reboot](https://play.google.com/store/apps/details?id=com.aistudio.reboot.vtwpkc) `Ads` `IAP` 💰 `Root` - Fast rebooter into Recovery, Fastboot, EDL & other modes via Root or Shizuku `Proprietary`
 * [TakoStats](https://play.google.com/store/apps/details?id=rikka.fpsmonitor) `IAP` 💰 - FPS 和性能叠加，提供详细的实时系统信息 `Proprietary`
 
 
