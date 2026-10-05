@@ -93,6 +93,7 @@ Shizuku 允許普通應用程式在非root 裝置上使用 ADB 直接使用權�
 * [shevery](https://github.com/HmnDev-Tech/shevery) ✨ - Material 3 分支，支援自啟動、TCP 模式、Dhizuku、模組，以及內建整合 AI 的終端
 * [Shizako](https://github.com/cr1437/Shizako) - 貓娘形象版 Shizuku，可無縫替代官方管理器，官方 Shizuku-API 應用無需修改即可連線（功能與 shevery 類似） `Apache-2.0`
 * [Shizuku (thedjchi's fork)](https://github.com/thedjchi/Shizuku) - Shizuku 分支，支援自啟動、TCP 模式和隱身模式（目前暫停維護） `Apache-2.0`
+* [Shizuku Next](https://github.com/rushiranpise/Shizuku-Next) - Maintained continuation of thedjchi's fork: automated pairing without typing, start method selection, watchdog, in-app shell terminal, app-ops/firewall manager and a Material 3 UI `Apache-2.0`
 * [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus) - Shizuku 分支，為開發者提供擴充 API，並支援自啟動、TCP 模式、Dhizuku 等 `Apache-2.0`
 * [Stellar](https://github.com/roro2239/Stellar/blob/main/README_en.md) - 另一個 Shizuku 實作，支援自啟動、TCP 模式和簡易終端（可在啟動時自動執行命令） `MPL-2.0`
 * [Xhizuku](https://github.com/xeonleonreal/Xhizuku) - Maintained Shizuku fork with Material 3 Expressive UI, ADB module runner, onboarding wizard, server monitor and built-in diagnostics `Apache-2.0`
@@ -207,6 +208,7 @@ Shizuku 允許普通應用程式在非root 裝置上使用 ADB 直接使用權�
 * [HyperBridge](https://github.com/D4vidDf/HyperBridge) - 透過將通知橋接到相機挖孔 UI，為 HyperOS 帶來原生 HyperIsland 體驗，支援主題和小工具 `Apache-2.0`
 * [Jarngreipr](https://github.com/BrianJr03/Jarngreipr) - 雙螢幕遊戲裝置啟動器。使用 Shizuku 將其中一個觸控式螢幕對應為手把輸入 `MIT`
 * [Language-Selector](https://github.com/VegaBobo/Language-Selector) - 允許使用者選擇個別應用程式的語言（Android 13+） `Apache-2.0`
+* [Lightspeed](https://github.com/SBFlabs/Lightspeed) `IAP` 💰 - Offline gesture-driven workstation and control layer over OEM setups, using Shizuku for elevated navigation and seamless app switching. `Proprietary`
 * [LinkSheet](https://github.com/LinkSheet/LinkSheet) - 使用 Material3 還原 Android 12 以前的 URL 應用程式連結選擇器 `Modified MPL-2.0`
 * [Lockscreen Widgets](https://play.google.com/store/apps/details?id=tk.zwander.lockscreenwidgets) `IAP` 💰 - 在鎖定畫面上顯示小工具。僅在 Android 13 及更高版本需要 Shizuku `MIT` [(原始碼)](https://github.com/zacharee/LockscreenWidgets/)
 * [MultiLocale](https://github.com/Nightdavisao/MultiLocale) - 如果原始裝置製造商（小米）不允許您在裝置的地區設定中新增額外的（或 "不支援的"）語言，那麼這款簡單的應用程式就能幫您達成這一功能。 `MIT`
@@ -241,6 +243,7 @@ Shizuku 允許普通應用程式在非root 裝置上使用 ADB 直接使用權�
 * [Cosmic-IDE](https://github.com/aload0/Cosmic-IDE) - 用於 JVM 開發的 IDE。使用 Shizuku 作為嵌入式 shell `GPL-3.0`
 * [debuggable-app-data-backup](https://github.com/timschneeb/debuggable-app-data-backup) - 使用 Shizuku 備份/還原可偵錯應用的私有資料 `GPL-3.0`
 * [DEVTools](https://github.com/MetxStudio/DEVTools) - 一體化 Android 開發工具箱：終端、感測器監視器、應用/檔案管理器，以及 Shizuku shell 助手。 `MIT`
+* [DroidPerf](https://github.com/fortifying/DroidPerf) - Real-time FPS and hardware telemetry overlay that measures true frame delivery from SurfaceFlinger; Shizuku is required for target FPS, frame times and shell-level app detection. `Proprietary`
 * [DSU-Sideloader](https://github.com/VegaBobo/DSU-Sideloader) - 一個簡單的應用程式，旨在幫助使用者透過 DSU 的 Android 功能輕鬆安裝 GSI。 `Apache-2.0`
 * [dualapp-mediastore-compatibility](https://github.com/kaedea/dualapp-mediastore-compatibility) - 修復了 HostProfile 應用程式和 WorkProfile/DualApp/MultiApp 之間的 MediaStore 和檔案 IO 相容性問題。 `Proprietary`
 * [FPS-Meter-Android](https://github.com/rdevz-ph/FPS-Meter-Android) - 受三星 Perf Z 啟發的高效能輕量 FPS 監控懸浮視窗，適用於遊戲和效能測試 `MIT`
@@ -250,6 +253,7 @@ Shizuku 允許普通應用程式在非root 裝置上使用 ADB 直接使用權�
 * [IntentX](https://github.com/wxxsfxyzm/IntentX) - Explores installed apps and activities and crafts, tests and launches intents with normal, root or Shizuku access; saves intents as shortcuts. `GPL-3.0`
 * [LibChecker](https://github.com/LibChecker/LibChecker) - 用於檢視裝置上的應用程式中所用函式庫的應用程式。使用 Shizuku 確定其他應用程式的安裝來源。 `Apache-2.0`
 * [LogFox](https://github.com/F0x1d/LogFox) ✨ - 另一個適用於 Android 的 logcat 閱讀器 `GPL-3.0`
+* [LogSleuth](https://github.com/shiaho777/LogSleuth) - Powerful root-free logcat viewer and embeddable logging SDK with live streaming, search, filters, crash/ANR detection and session replay. `Apache-2.0`
 * [ManageSensors](https://github.com/Carry-rrk/ManageSensors) - 利用 Shizuku 呼叫 AppOps API，實現精細的應用權限控制 `MIT`
 * [panda-ide](https://github.com/ferelking242/panda-ide) - 行動裝置優先的 Flutter IDE，包含程式碼編輯器、PTY 終端、Git 和 VS Code 擴充功能；Shizuku 橋接提供 ADB 級 shell，用於在裝置上執行 flutter run。 `MIT`
 * [roamer](https://github.com/eigenlux-ai/roamer) - 開發者工具，可透過 Shizuku 覆寫 SIM 的 ISO 國碼和電信業者名稱，並可選擇同步各應用程式的地區設定。 `MIT`
@@ -290,6 +294,7 @@ Shizuku 允許普通應用程式在非root 裝置上使用 ADB 直接使用權�
 ### File management
 * [Buge-Files](https://bugestudio.website/files/) - Material 3 Expressive 檔案管理器，除儲存瀏覽和管理外，還可透過 Shizuku 安裝 APK。 `GPL-3.0` [(原始碼)](https://github.com/BugeStudioTeam/Buge-Files)
 * [Butler](https://github.com/d4rken-org/butler) `IAP` 💰 - 針對高階使用者的快速、私密檔案瀏覽器，具備標籤頁、回收站、正規表達式搜尋、應用管理以及 root/Shizuku 支援 `GPL-3.0`
+* [Continuum Explorer (Memories)](https://github.com/johakovi/Continuum-Explorer-Memories) - Desktop-class multimedia file manager for DeX, tablets and phones with media/PDF viewers, archives, network storage and game saves, using Shizuku for privileged file access. `GPL-3.0`
 * [FileExplorer](https://github.com/SysAdminDoc/FileExplorer) - 支援本機、root、壓縮檔、網路共用、雲端、保險庫和儲存分析的檔案管理器 `MIT`
 * [fluffy](https://apt.izzysoft.de/fdroid/index/apk/app.fluffy) - 專為 Android TV 設計的檔案管理器和壓縮檔檢視器 `GPL-3.0` [(原始碼)](https://github.com/mlm-games/fluffy)
 * [immich-cloud-media](https://github.com/Dreaming-Codes/immich-cloud-media) - 雲端媒體提供者，在 Android 系統相片選取器中顯示自託管的 Immich 媒體庫，可透過 Shizuku 或 ADB 設定。 `GPL-3.0`
@@ -316,6 +321,7 @@ Shizuku 允許普通應用程式在非root 裝置上使用 ADB 直接使用權�
 ### Games
 
 * [ADOFAI-Key-Viewer-Mobile](https://github.com/QuyetGD-15/ADOFAI-Key-Viewer-Mobile) - Overlay key visualizer for ADOFAI and rhythm games; reads hardware input events through Shizuku getevent for ultra-low-latency touch visualization, KPS tracking and click counting. `Proprietary`
+* [AimBuddy](https://github.com/1337Xcode/AimBuddy) - On-device aim assistant for Android games: real-time screen capture, object detection and target-tracking overlays; optional assisted input through Shizuku injectInputEvent. `Proprietary`
 * [Ascent](https://github.com/4o3F/Ascent) - 用於取得米哈遊遊戲抽卡歷史連結的工具  `AGPL-3.0`
 * [BDroid_X](https://github.com/Ark-Repoleved/BDroid_X) - 《BrownDust II》Mod 管理器 `Proprietary`
 * [Cinderbox-Companion](https://github.com/ObfuscatedVoid/Cinderbox-Companion) - 《星露谷物語》Android 版配套應用，支援 Steam 雲端存檔同步、遊戲檔案下載和 SMAPI Mod 管理 `MIT`
@@ -390,6 +396,7 @@ Shizuku 允許普通應用程式在非root 裝置上使用 ADB 直接使用權�
 
 * [AppBooster](https://github.com/androidexpert35/AppBooster) - Android 內建 `dex2oat` 工具的圖形介面，可重新最佳化已安裝應用的 DEX 程式碼 `Apache-2.0`
 * [CaptureCap](https://github.com/yepgoryo/CaptureCap) - 螢幕和音訊錄製及串流應用，無需 root `MIT`
+* [Device Watch](https://github.com/jrs8205/Device-Watch) - Offline device monitor with widgets, per-app usage insights and a charging screensaver; optional Shizuku access reveals battery statistics, real CPU/GPU load and temperatures. `GPL-3.0`
 * [Fern](https://github.com/wized2/Fern) - Material 3 live system monitor for CPU, RAM, storage, battery, thermal and network, with an optional Shizuku shell for elevated readings. `Proprietary`
 * [ghostlock-app](https://github.com/YuKongA/ghostlock-app) - One-tap CVE-2026-43499 privilege-escalation app granting temporary uid 0 across many stock devices; Shizuku-required kernel profiles run through a shell Shizuku. `Apache-2.0`
 * [HiddenAlarmRevealer](https://github.com/AhmetCanArslan/HiddenAlarmRevealer) - 找出狀態列鬧鐘圖示處於作用中的原因 `Proprietary`
@@ -462,6 +469,7 @@ Shizuku 允許普通應用程式在非root 裝置上使用 ADB 直接使用權�
 * [DozeTap](https://github.com/dhruvanbhalara/DozeTap) - 畫面逾時預設，透過 Shizuku 一鍵授予 WRITE_SECURE_SETTINGS 權限。 `Apache-2.0`
 * [EnforceDoze](https://f-droid.org/packages/com.akylas.enforcedoze/) - 螢幕關閉後立即啟用 Doze 模式並關閉動作感測，以獲得最佳電池續航 `GPL-3.0` [(原始碼)](https://github.com/Akylas/EnforceDoze)
 * [NoMoreBackground](https://f-droid.org/packages/com.adilhanney.no_more_background/) - 設定後無需打理的程式，用於阻止 Android 應用在背景執行 `GPL-3.0` [(原始碼)](https://github.com/adil192/no_more_background)
+* [PULSE // BATTERY](https://github.com/kreza6173-pixel/pulse-battery) - Overnight per-app alarm-wakeup report with verified one-tap standby restrict and revert, plus wake lock and alarm diagnostics, Doze controls and APK backup `MIT`
 * [RebootNya](https://github.com/daisukiKaffuChino/RebootNya) - 支援 Shizuku 的高階重新啟動選單 `Apache-2.0`
 * [ScreenOff](https://github.com/WuDi-ZhanShen/ScreenOff) - 關閉 Android 螢幕而不進入待機/睡眠模式 `Proprietary`
 * [sleep-timer](https://github.com/Xitee1/sleep-timer) - 睡眠定時器，可暫停媒體並關閉 Wi-Fi/藍牙/螢幕 `GPL-3.0`
@@ -509,6 +517,7 @@ Shizuku 允許普通應用程式在非root 裝置上使用 ADB 直接使用權�
 
 ### Software management
 
+* [ADB Application Manager Pro](https://github.com/Bingblop/ADB-Application-Manager) - All-in-one app and device manager for debloating, freezing, installing, backing up and tweaking hidden settings through Shizuku or ADB. `Proprietary`
 * [AppControlX](https://github.com/risunCode/AppControl-X) - 凍結、強制停止、解除安裝應用，變更背景最佳化等 `GPL-3.0`
 * [AppDualZuku](https://github.com/nathanatgit/AppDualZuku) - 使用 Shizuku 在隔離或共用工作區（受管理設定檔）中管理多個應用實例，可選 root 後端。 `Proprietary`
 * [AppManagerNG](https://github.com/SysAdminDoc/AppManagerNG) - [AppManager](https://github.com/muntashirakon/appmanager) 的分支，用於檢查、精簡、備份、凍結和控制 Android 應用；支援 Shizuku、ADB、Dhizuku 或 root。 `GPL-3.0`
@@ -518,6 +527,7 @@ Shizuku 允許普通應用程式在非root 裝置上使用 ADB 直接使用權�
 * [Buge App Manager](https://github.com/BugeStudioTeam/Buge-App-Manager) - 專注於權限管理的應用管理器 `GPL-3.0`
 * [Canta](https://play.google.com/store/apps/details?id=io.github.samolego.canta) - 無需 root 即可解除安裝任何應用程式 `LGPL-3.0` [(原始碼)](https://github.com/samolego/Canta)
 * [CloneCat](https://github.com/AhmetCanArslan/CloneCat) - 跨工作資料夾、私人空間、雙應用程式和次要使用者複製和管理應用，並提供主螢幕捷徑 `Proprietary`
+* [CloneSpace](https://github.com/udmodz0/adb-cloner) - App cloner and isolated multi-user workspace powered by Shizuku that runs extra copies of apps in separate profiles without duplicating APKs or needing a PC. `Apache-2.0`
 * [Dexor](https://github.com/DeveshTone/Dexor) - 針對 Android 應用的提前（AOT）位元組碼編譯和 dexopt 執行階段管理器 `MIT`
 * [DisabledLauncher](https://github.com/voruti/DisabledLauncher) - Android 應用程式可停用未使用的應用程式，同時仍允許方便地存取它們 `MIT`
 * [DroidUtility](https://github.com/DroidUtility/DroidUtility) - 無需 root 的工具套件，透過 Shizuku 進行應用精簡、系統調整和特權 shell 執行，針對僅使用手機的開發者。 `MIT`
@@ -533,9 +543,12 @@ Shizuku 允許普通應用程式在非root 裝置上使用 ADB 直接使用權�
 * [Package Manager](https://play.google.com/store/apps/details?id=com.smartpack.packagemanager) - 功能強大的應用程式，可管理系統和使用者應用程式 `GPL-3.0` [(原始碼)](https://github.com/SmartPack/PackageManager)
 * [Thor](https://play.google.com/store/apps/details?id=com.valhalla.thor) - 具備凍結和安裝功能的應用管理器。 `GPL-3.0` [(原始碼)](https://github.com/trinadhthatakula/Thor)
 * [UpgradeAll](https://f-droid.org/packages/net.xzos.upgradeall/) - 檢查 Android 應用程式、Magisk 模組等的更新！ `GPL-3.0` [(原始碼)](https://github.com/DUpdateSystem/UpgradeAll)
+* [VOID // APPS](https://github.com/kreza6173-pixel/void-apps) - Shizuku app manager: suspend, disable, debloat presets, permissions and AppOps, autostart, per-app network block, APK/XAPK installer and cleaner. Every change is read back from Android `MIT`
+* [Youki Users](https://github.com/mrYouki/Youki-Users) ✨ - Standalone Android multi-user manager to create, switch and delete user profiles with custom photos. `GPL-3.0`
 
 ### Task manager
 
+* [Android Monitor (Preview)](https://github.com/TerminalDev-1/AndroidMonitor-Preview) - Task-Manager-style system monitor with live CPU, GPU, RAM, network and thermal graphs; Shizuku unlocks real CPU usage, the process list and End task. `MIT`
 * [KillMyApps](https://github.com/dedeadend/KillMyApps) - 透過 Shizuku 或 root 結束背景行程，以改善電池續航和效能 `GPL-3.0`
 * [memhogs](https://github.com/cicerothoma/memhogs-android) - 檢視哪些應用在消耗手機記憶體。透過 Shizuku 提供各應用明細，輔助行程會歸類到擁有它們的應用程式底下 `MIT`
 * [MemorySnapshot](https://github.com/RyensX/MemorySnapshot/blob/master/docs/README_EN.md) - 裝置端 Android 記憶體觀察器：依應用程式/行程追蹤 PSS、儲存及比較快照，透過 Shizuku 或 root 收集資料。 `Proprietary`
