@@ -4,65 +4,63 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Awesome Shizuku</title>
-<meta name="description" content="A searchable directory of apps, libraries and resources that use Shizuku to get elevated Android privileges without root.">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%2314b8a6'/%3E%3Cpath d='M18 4 8 18h7l-1 10 10-14h-7z' fill='white'/%3E%3C/svg%3E">
+<meta name="description" content="Browse 500+ Shizuku apps, libraries and tools, plus guides for running Android with elevated privileges without root.">
+<meta name="color-scheme" content="light dark">
+<link rel="icon" type="image/svg+xml" href="logo.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
+<script>(function(){try{var t=localStorage.getItem("theme");if(t==="dark"||(t!=="light"&&matchMedia("(prefers-color-scheme: dark)").matches))document.documentElement.classList.add("dark")}catch(e){if(matchMedia("(prefers-color-scheme: dark)").matches)document.documentElement.classList.add("dark")}})()</script>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <header class="nav">
-  <div class="wrap nav-in">
-    <a class="brand" href="#top"><span class="logo">⚡</span> awesome-shizuku</a>
-    <nav>
-      <a href="#about">About</a>
-      <a href="#directory">Directory</a>
+  <div class="nav-in">
+    <a class="title" href="#top"><img src="logo.svg" alt="" width="24" height="24"><span>Awesome Shizuku</span></a>
+    <button class="search-btn" id="search-btn" type="button" aria-label="Search" aria-keyshortcuts="/ Control+k Meta+k">
+      <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <span class="txt">Search</span><span class="keys"><kbd id="kbd-mod">Ctrl</kbd><kbd>K</kbd></span>
+    </button>
+    <nav class="menu" id="menu">
+      <a class="active" href="#top">Home</a>
+      <a href="#directory">Apps &amp; Libraries</a>
+      <a href="#guides">Guides</a>
       <a href="#rish">rish</a>
-      <a href="#more">More</a>
-      <a class="btn small" href="https://github.com/timschneeb/awesome-shizuku" target="_blank" rel="noopener">GitHub ↗</a>
+      <a href="#resources">Resources</a>
     </nav>
+    <div class="nav-end">
+      <button class="theme" id="theme" type="button" role="switch" aria-label="Toggle dark mode" aria-checked="false"><span class="knob"></span></button>
+      <span class="sep"></span>
+      <a class="ico" href="https://github.com/timschneeb/awesome-shizuku" target="_blank" rel="noopener" aria-label="GitHub"><svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M12 .5a11.5 11.5 0 0 0-3.64 22.41c.58.1.79-.25.79-.56v-2c-3.2.7-3.88-1.37-3.88-1.37-.52-1.33-1.28-1.69-1.28-1.69-1.05-.72.08-.7.08-.7 1.15.08 1.76 1.19 1.76 1.19 1.03 1.76 2.7 1.25 3.36.96.1-.75.4-1.25.73-1.54-2.55-.29-5.24-1.28-5.24-5.69 0-1.26.45-2.28 1.19-3.09-.12-.29-.52-1.46.11-3.05 0 0 .97-.31 3.17 1.18a11 11 0 0 1 5.78 0c2.2-1.49 3.17-1.18 3.17-1.18.63 1.59.23 2.76.11 3.05.74.81 1.19 1.83 1.19 3.09 0 4.42-2.69 5.39-5.25 5.68.41.36.78 1.06.78 2.14v3.17c0 .31.21.67.8.56A11.5 11.5 0 0 0 12 .5z"/></svg></a>
+    </div>
   </div>
 </header>
 
 <main id="top">
-  <section class="hero wrap">
-    <p class="eyebrow">Community-curated list</p>
-    <h1>Every app that unlocks Android with <span class="grad">Shizuku</span></h1>
-    <p class="lead">Shizuku lets normal apps call system APIs with elevated privileges through ADB — no root required. Browse, search and filter <strong id="count-total">500+</strong> apps, libraries and tools.</p>
-    <div class="hero-cta">
-      <a class="btn" href="#directory">Browse the directory</a>
-      <a class="btn ghost" href="https://shizuku.rikka.app/" target="_blank" rel="noopener">What is Shizuku?</a>
-    </div>
-    <div class="stats" id="stats"></div>
-  </section>
-
-  <section class="wrap" id="about">
-    <div class="callout">
-      <div>
-        <h2>ShizuStore — the app store for Shizuku apps</h2>
-        <p>This list is also available as an open-source Android app. Browse every Shizuku app by category, sort by recently added, stars, downloads or update date, and install or update APKs silently through Shizuku. APKs come straight from the developers via GitHub, GitLab, F-Droid and more.</p>
-        <a class="btn" href="https://github.com/timschneeb/ShizuStore" target="_blank" rel="noopener">Get ShizuStore on GitHub ↗</a>
+  <section class="hero">
+    <div class="hero-text">
+      <h1 class="name">Awesome Shizuku</h1>
+      <p class="tagline">Explore <span id="count-total">500+</span> Shizuku apps and libraries, rish shell guides, and resources for running Android with elevated privileges — no root required.</p>
+      <div class="actions">
+        <a class="pill brand" href="#directory">Browse Shizuku Apps</a>
+        <a class="pill alt" href="#guides">Guides</a>
+        <a class="pill alt" href="#resources">Resources</a>
       </div>
-      <img src="https://raw.githubusercontent.com/timschneeb/ShizuStore/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png" alt="ShizuStore browsing Shizuku apps by category" loading="lazy" onerror="this.style.display='none'">
     </div>
+    <div class="hero-img"><div class="glow"></div><img src="logo-large.svg" alt="Shizuku bolt logo" width="190" height="190"></div>
   </section>
 
-  <section class="wrap" id="directory">
-    <div class="sec-head">
-      <h2>Directory</h2>
-      <p>Press <kbd>/</kbd> to search. Filters are saved in the URL so you can share a view.</p>
-    </div>
+  <section class="page">
+    <div class="features" id="features"></div>
+  </section>
 
+  <section class="page" id="directory">
+    <h2 class="h">Apps &amp; Libraries</h2>
+    <p class="sub">All <b id="count-open"></b> open-source entries, plus closed-source and archived apps. Press <kbd>/</kbd> to search — filters are saved in the URL.</p>
     <div class="layout">
       <aside class="side" id="side">
-        <div class="side-block">
-          <h3>Source</h3>
-          <div class="seg" id="kind-seg"></div>
-        </div>
-        <div class="side-block">
-          <h3>Categories</h3>
-          <div id="cats" class="cats"></div>
-        </div>
+        <div class="side-block"><h3>Source</h3><div class="seg" id="kind-seg"></div></div>
+        <div class="side-block"><h3>Categories</h3><div id="cats" class="cats"></div></div>
       </aside>
-
       <div class="results">
         <div class="toolbar">
           <input id="q" type="search" placeholder="Search by name, description or license…" autocomplete="off" aria-label="Search">
@@ -71,34 +69,65 @@
             <option value="az">Name A–Z</option>
             <option value="za">Name Z–A</option>
           </select>
-          <button class="btn ghost small filter-toggle" id="side-toggle" type="button">Categories</button>
+          <button class="pill alt filter-toggle" id="side-toggle" type="button">Categories</button>
         </div>
         <div class="chips" id="chips"></div>
         <p class="meta" id="meta"></p>
         <div class="grid" id="grid"></div>
         <p class="empty" id="empty" hidden>No matches. Try clearing a filter.</p>
-        <button class="btn ghost" id="more-btn" type="button" hidden>Show more</button>
+        <button class="pill alt" id="more-btn" type="button" hidden>Show more</button>
       </div>
     </div>
   </section>
 
-  <section class="wrap" id="rish">
-    <div class="sec-head"><h2>Resource: rish shell</h2></div>
+  <section class="page">
+    <h2 class="h">Start Your Shizuku Journey</h2>
+    <div class="journey">
+      <div class="jcard"><h3>New to Shizuku</h3><p class="d">Never used it? Learn what Shizuku is and how to start it with wireless debugging.</p>
+        <ul><li>No root needed</li><li>Pairs over wireless ADB</li><li>Runs until reboot</li></ul>
+        <a class="pill brand sm" href="https://shizuku.rikka.app/" target="_blank" rel="noopener">Start Learning →</a></div>
+      <div class="jcard"><h3>Ready to Use It</h3><p class="d">Install Shizuku (or a maintained fork) and grant apps access.</p>
+        <ul><li>Maintained forks</li><li>Browse by category</li><li>Install via ShizuStore</li></ul>
+        <a class="pill brand sm" href="#directory" data-cat="Shizuku implementations">Find Your Fork →</a></div>
+      <div class="jcard"><h3>Developer</h3><p class="d">Build your own app on top of the Shizuku API and libraries.</p>
+        <ul><li>Shizuku-API docs</li><li>Flutter &amp; Kotlin libs</li><li>Open-source examples</li></ul>
+        <a class="pill brand sm" href="https://github.com/RikkaApps/Shizuku-API" target="_blank" rel="noopener">Explore the API →</a></div>
+    </div>
+  </section>
+
+  <section class="page" id="guides">
+    <h2 class="h">Major Guides</h2>
+    <div class="tiles">
+      <a class="tile" href="https://shizuku.rikka.app/guide/setup/" target="_blank" rel="noopener"><i>🚀</i><b>Set Up Shizuku</b><span>Official setup guide</span></a>
+      <a class="tile" href="#rish"><i>💻</i><b>rish Shell</b><span>ADB shell in any terminal</span></a>
+      <a class="tile" href="https://github.com/timschneeb/ShizuStore" target="_blank" rel="noopener"><i>🛍️</i><b>ShizuStore</b><span>App store for Shizuku apps</span></a>
+      <a class="tile" href="https://github.com/RikkaApps/Shizuku-API" target="_blank" rel="noopener"><i>🧩</i><b>Shizuku-API</b><span>Developer docs &amp; examples</span></a>
+      <a class="tile" href="https://github.com/timschneeb/awesome-shizuku/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener"><i>✍️</i><b>Contribute</b><span>Add an app to the list</span></a>
+    </div>
+  </section>
+
+  <section class="page" id="rish">
+    <h2 class="h">The rish Shell</h2>
     <article class="prose" id="rish-body"></article>
   </section>
 
-  <section class="wrap" id="more">
-    <div class="sec-head"><h2>More resources</h2></div>
-    <div class="cards3">
-      <a class="rc" href="https://shizuku.rikka.app/" target="_blank" rel="noopener"><h3>Shizuku documentation</h3><p>Official guides for setting up and using Shizuku.</p></a>
-      <a class="rc" href="https://github.com/RikkaApps/Shizuku-API" target="_blank" rel="noopener"><h3>Shizuku-API</h3><p>Developer documentation and examples for building Shizuku apps.</p></a>
-      <a class="rc" href="https://github.com/timschneeb/changelog-awesome-shizuku" target="_blank" rel="noopener"><h3>Daily changelog</h3><p>Track new additions to the list as they land.</p></a>
-      <a class="rc" href="https://github.com/timschneeb/app-crawler/blob/master/SUMMARY.md" target="_blank" rel="noopener"><h3>Crawler report</h3><p>Auto-generated report of new Shizuku projects found on GitHub and F-Droid.</p></a>
-      <a class="rc" href="https://github.com/RikkaApps/Shizuku-API/blob/master/rish/README.md" target="_blank" rel="noopener"><h3>Official rish docs</h3><p>Upstream documentation for the rish shell.</p></a>
-      <a class="rc" href="https://github.com/timschneeb/awesome-shizuku/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener"><h3>Contribute</h3><p>Add an app to the list — format and inclusion requirements.</p></a>
+  <section class="page" id="resources">
+    <h2 class="h">Resources</h2>
+    <div class="tiles">
+      <a class="tile" href="https://shizuku.rikka.app/" target="_blank" rel="noopener"><i>📖</i><b>Shizuku Docs</b><span>Official documentation</span></a>
+      <a class="tile" href="https://github.com/RikkaApps/Shizuku-API/blob/master/rish/README.md" target="_blank" rel="noopener"><i>📜</i><b>Official rish Docs</b><span>Upstream reference</span></a>
+      <a class="tile" href="https://github.com/timschneeb/app-crawler/blob/master/SUMMARY.md" target="_blank" rel="noopener"><i>🕷️</i><b>Crawler Report</b><span>New projects found automatically</span></a>
+      <a class="tile" href="https://llamalab.com/automate/" target="_blank" rel="noopener"><i>🤖</i><b>Automate</b><span>Flows that start Shizuku</span></a>
+    </div>
+    <h2 class="h">Community</h2>
+    <div class="tiles">
+      <a class="tile" href="https://github.com/timschneeb/awesome-shizuku" target="_blank" rel="noopener"><i>⭐</i><b>GitHub</b><span>Star &amp; contribute</span></a>
+      <a class="tile" href="https://github.com/timschneeb/changelog-awesome-shizuku" target="_blank" rel="noopener"><i>🗓️</i><b>Daily Changelog</b><span>New additions, daily</span></a>
+      <a class="tile" href="https://github.com/timschneeb/awesome-shizuku/issues" target="_blank" rel="noopener"><i>❓</i><b>Issues</b><span>Report problems</span></a>
+      <a class="tile" href="https://github.com/RikkaApps/Shizuku" target="_blank" rel="noopener"><i>⚡</i><b>Shizuku</b><span>The original project</span></a>
     </div>
 
-    <h3 class="sub">Annotations</h3>
+    <h2 class="h">Annotations</h2>
     <ul class="legend">
       <li><span class="badge feat">✨ Recommended</span> Personal recommendation: heavy Shizuku use or a hidden gem</li>
       <li><span class="badge paid">Paid 💰</span> Paid application</li>
@@ -108,15 +137,13 @@
       <li><span class="badge">n-day trial</span> Payment required after n days</li>
       <li><span class="badge root">Root</span> Requires Shizuku to run in root mode</li>
     </ul>
-
-    <div class="note">
-      <strong>Why are closed-source apps separate?</strong> Shizuku gives apps high-level ADB access. The main directory only includes open-source and source-available apps so anyone can audit them. Closed-source apps require blind trust, so they're kept in a separate group — use the Source filter to see them.
-    </div>
+    <div class="tip"><b>Why are closed-source apps separate?</b> Shizuku gives apps high-level ADB access. The main directory only includes open-source and source-available apps so anyone can audit them. Closed-source apps require blind trust, so use the Source filter to view them separately.</div>
   </section>
 </main>
 
-<footer class="wrap foot">
-  <p>Content from <a href="https://github.com/timschneeb/awesome-shizuku" target="_blank" rel="noopener">awesome-shizuku</a>, licensed <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" target="_blank" rel="noopener">CC BY-SA 3.0</a>. This site is generated from the repository's Markdown files (<code>python3 scripts/build_site.py</code>).</p>
+<footer class="foot">
+  <p><a href="https://github.com/timschneeb/awesome-shizuku/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener">Contribute</a><i>·</i><a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" target="_blank" rel="noopener">License (CC BY-SA 3.0)</a><i>·</i><a href="https://github.com/timschneeb/awesome-shizuku" target="_blank" rel="noopener">GitHub</a></p>
+  <p class="copy">Content from awesome-shizuku. Site generated from the repository's Markdown files.</p>
 </footer>
 
 <script src="data.js"></script>

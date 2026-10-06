@@ -39,12 +39,31 @@
   const open = apps.filter((a) => a.kind === "open");
   const groups = new Set(open.map((a) => a.group.split(" / ")[0]));
   $("count-total").textContent = apps.length;
-  $("stats").innerHTML = [
-    [open.length, "open-source entries"],
-    [apps.filter((a) => a.kind === "closed").length, "closed-source apps"],
-    [groups.size, "categories"],
-    [apps.filter((a) => a.featured).length, "recommended ✨"],
-  ].map(([n, l]) => `<div class="stat"><b>${n}</b><span>${l}</span></div>`).join("");
+
+  // ---- category cards (home)
+  const FEATURES = [
+    ["Shizuku implementations", "🔧", "Maintained Shizuku forks with autostart, TCP mode, terminals and more."],
+    ["AI agents", "🤖", "On-device AI agents that control your phone through a Shizuku shell."],
+    ["Customization", "🎨", "Themes, fonts, status bar, gestures and system UI tweaks."],
+    ["Automation", "⚙️", "Tasker-style automation and shell triggers with elevated access."],
+    ["Software management", "📦", "Freeze, uninstall, debloat and manage app permissions."],
+    ["Installer & app stores", "🛍️", "Install APKs silently and keep apps updated."],
+    ["Network", "🌐", "DNS, firewalls, VPN helpers and Wi-Fi / mobile data tools."],
+    ["Power management", "🔋", "Battery tuning, doze control and charging tools."],
+    ["File management", "🗂️", "Access Android/data and protected storage without root."],
+    ["Development utilities", "🧑‍💻", "ADB helpers, logcat, shell and dev toggles on device."],
+    ["Display management", "🖥️", "Refresh rate, resolution, DPI and multi-display control."],
+    ["Privacy", "🕵️", "App-ops, permissions and tracker controls."],
+    ["Input methods", "⌨️", "Keyboards and input tools using elevated privileges."],
+    ["Games", "🎮", "Game tweaks, controllers and handheld utilities."],
+    ["Vendor-specific", "📱", "Pixel, Samsung OneUI, MIUI/HyperOS and other devices."],
+    ["Development libraries", "🧩", "SDKs and libraries to add Shizuku to your own app."],
+  ];
+  const countCat = (c) => open.filter((a) => a.group === c || a.group.startsWith(c + " / ") || a.section === c).length;
+  $("features").innerHTML = FEATURES.map(([c, ic, d]) =>
+    `<a class="feat-card" href="#directory" data-cat="${esc(c)}"><div class="ic">${ic}</div><h3>${esc(c)}</h3><p>${esc(d)}</p><small>${countCat(c)} entries</small></a>`
+  ).join("");
+  $("count-open").textContent = open.length;
 
   // ---- sidebar
   function scoped() { return apps.filter((a) => a.kind === state.kind); }
@@ -74,7 +93,7 @@
   function filtered() {
     const terms = state.q.toLowerCase().split(/\s+/).filter(Boolean);
     let list = scoped().filter((a) => {
-      if (state.cat && a.group !== state.cat) return false;
+      if (state.cat && !(a.group === state.cat || a.group.startsWith(state.cat + " / ") || a.section === state.cat)) return false;
       if (state.tag === "featured" && !a.featured) return false;
       if (state.tag && state.tag !== "featured" && !a.tags.includes(state.tag)) return false;
       if (state.lic === "foss" && /^proprietary$|no license/i.test(a.license)) return false;
@@ -150,9 +169,26 @@
     if (b.dataset.lic) state.lic = state.lic === b.dataset.lic ? "" : b.dataset.lic;
     reset();
   });
+  function jumpTo(cat) { state.kind = "open"; state.cat = cat; state.q = ""; $("q").value = ""; state.limit = PAGE; render(); }
+  document.addEventListener("click", (e) => {
+    const l = e.target.closest("a[data-cat]");
+    if (l) { e.preventDefault(); jumpTo(l.dataset.cat); $("directory").scrollIntoView(); }
+  });
+  function focusSearch() { $("directory").scrollIntoView(); setTimeout(() => $("q").focus(), 250); }
+  $("search-btn").addEventListener("click", focusSearch);
+  $("kbd-mod").textContent = /Mac|iPhone|iPad/i.test(navigator.platform) ? "⌘" : "Ctrl";
+  const themeBtn = $("theme");
+  const syncTheme = () => themeBtn.setAttribute("aria-checked", document.documentElement.classList.contains("dark"));
+  themeBtn.addEventListener("click", () => {
+    const dark = document.documentElement.classList.toggle("dark");
+    try { localStorage.setItem("theme", dark ? "dark" : "light"); } catch (e) {}
+    syncTheme();
+  });
+  syncTheme();
   document.addEventListener("keydown", (e) => {
+    if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "k") { e.preventDefault(); focusSearch(); return; }
     if (e.key === "/" && !/INPUT|SELECT|TEXTAREA/.test(document.activeElement.tagName)) {
-      e.preventDefault(); $("q").focus(); $("directory").scrollIntoView();
+      e.preventDefault(); focusSearch();
     }
   });
 
