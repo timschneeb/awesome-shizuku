@@ -28,6 +28,7 @@
       <a href="#resources">Resources</a>
     </nav>
     <div class="nav-end">
+      <select id="lang" class="lang" aria-label="Language"></select>
       <button class="theme" id="theme" type="button" role="switch" aria-label="Toggle dark mode" aria-checked="false"><span class="knob"></span></button>
       <span class="sep"></span>
       <a class="ico" href="https://github.com/timschneeb/awesome-shizuku" target="_blank" rel="noopener" aria-label="GitHub"><svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M12 .5a11.5 11.5 0 0 0-3.64 22.41c.58.1.79-.25.79-.56v-2c-3.2.7-3.88-1.37-3.88-1.37-.52-1.33-1.28-1.69-1.28-1.69-1.05-.72.08-.7.08-.7 1.15.08 1.76 1.19 1.76 1.19 1.03 1.76 2.7 1.25 3.36.96.1-.75.4-1.25.73-1.54-2.55-.29-5.24-1.28-5.24-5.69 0-1.26.45-2.28 1.19-3.09-.12-.29-.52-1.46.11-3.05 0 0 .97-.31 3.17 1.18a11 11 0 0 1 5.78 0c2.2-1.49 3.17-1.18 3.17-1.18.63 1.59.23 2.76.11 3.05.74.81 1.19 1.83 1.19 3.09 0 4.42-2.69 5.39-5.25 5.68.41.36.78 1.06.78 2.14v3.17c0 .31.21.67.8.56A11.5 11.5 0 0 0 12 .5z"/></svg></a>
@@ -39,7 +40,7 @@
   <section class="hero">
     <div class="hero-text">
       <h1 class="name">Awesome Shizuku</h1>
-      <p class="tagline">Explore <span id="count-total">500+</span> Shizuku apps and libraries, rish shell guides, and resources for running Android with elevated privileges — no root required.</p>
+      <p class="tagline" id="tagline">Explore <span id="count-total">500+</span> Shizuku apps and libraries, rish shell guides, and resources for running Android with elevated privileges — no root required.</p>
       <div class="actions">
         <a class="pill brand" href="#directory">Browse Shizuku Apps</a>
         <a class="pill alt" href="#guides">Guides</a>
@@ -55,7 +56,7 @@
 
   <section class="page" id="directory">
     <h2 class="h">Apps &amp; Libraries</h2>
-    <p class="sub">All <b id="count-open"></b> open-source entries, plus closed-source and archived apps. Press <kbd>/</kbd> to search — filters are saved in the URL.</p>
+    <p class="sub" id="sub">All <b id="count-open"></b> open-source entries, plus closed-source and archived apps. Press <kbd>/</kbd> to search — filters are saved in the URL.</p>
     <div class="layout">
       <aside class="side" id="side">
         <div class="side-block"><h3>Source</h3><div class="seg" id="kind-seg"></div></div>
@@ -146,6 +147,7 @@
   <p class="copy">Content from awesome-shizuku. Site generated from the repository's Markdown files.</p>
 </footer>
 
+<script src="i18n.js"></script>
 <script src="data.js"></script>
 <script src="app.js"></script>
 </body>
