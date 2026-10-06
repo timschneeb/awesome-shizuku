@@ -69,7 +69,7 @@
 * [FV File Manager](https://play.google.com/store/apps/details?id=com.folderv.file) - 文件管理器 [access Android/data and Android/obb](https://folderv.com/2023/11/24/access-Android-data-and-Android-obb-on-Android-14/) `Proprietary`
 * [MiXplorer](https://xdaforums.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/#post-23109280) ✨ - 文件管理器，可以批量安装 APK 并使用 Shizuku 访问 Android/数据和 obb `Proprietary`
   * [MiXplorer Silver](https://play.google.com/store/apps/details?id=com.mixplorer.silver) - MiXplorer 付费 Google Play 版本 `Proprietary`
-* [MT Manager](https://mt2.cn) - 分屏文件管理器。可以使用 Shizuku 安装 APK 并访问 Android/data 和 Android/obb `Proprietary`
+* [MT Manager](https://mt.cc/) - 分屏文件管理器。可以使用 Shizuku 安装 APK 并访问 Android/data 和 Android/obb `Proprietary`
 * [NMM File Manager / Text Edit](https://play.google.com/store/apps/details?id=in.mfile) - 文件管理器和内置文本编辑器 `Proprietary`
 * [Solid Explorer](https://play.google.com/store/apps/details?id=pl.solidexplorer2) `Ads` `IAP` 💰 - File explorer `Proprietary`
 * [SwiftBackup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup) `IAP` 💰 - Swift Backup 可在几分钟内备份重要数据 `Proprietary`
