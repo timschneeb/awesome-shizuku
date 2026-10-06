@@ -10,7 +10,51 @@
   const $ = (id) => document.getElementById(id);
   const esc = (s) => s.replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 
-  const state = { q: "", kind: "open", cat: "", sort: "list", tag: "", lic: "", limit: PAGE };
+  const I = window.I18N;
+  const state = { q: "", kind: "open", cat: "", sort: "list", tag: "", lic: "", limit: PAGE, lang: "en" };
+
+  // ---- i18n helpers
+  function t(key, vars) {
+    let v = (I.ui[state.lang] && I.ui[state.lang][key]) || key;
+    for (const k in vars || {}) v = v.replace("{" + k + "}", vars[k]);
+    return v;
+  }
+  const tg = (g) => g.split(" / ").map((p) => (state.lang !== "en" && I.groups[state.lang][p]) || p).join(" · ");
+  const desc = (a) => (state.lang !== "en" && a["desc_" + state.lang]) || a.desc;
+  function detectLang() {
+    try { const l = localStorage.getItem("lang"); if (l) return l; } catch (e) {}
+    const n = (navigator.language || "en").toLowerCase();
+    if (/^zh-(tw|hk|mo|hant)/.test(n)) return "tw";
+    return n.startsWith("zh") ? "cn" : "en";
+  }
+  const textNodes = [];
+  (function collect() {
+    const w = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
+    for (let n; (n = w.nextNode()); ) {
+      const v = n.nodeValue.trim();
+      if (v && !/^(SCRIPT|STYLE)$/.test(n.parentNode.nodeName)) textNodes.push([n, n.nodeValue, v]);
+    }
+  })();
+  function staticText(v) {
+    if (I.ui[state.lang] === undefined) return null;
+    const u = I.ui[state.lang];
+    if (u[v]) return u[v];
+    const noEmoji = v.replace(/ 💰$/, "");
+    if (noEmoji !== v && u[noEmoji]) return u[noEmoji] + " 💰";
+    return null;
+  }
+  function applyStatic() {
+    for (const [n, orig, v] of textNodes) {
+      const tr = state.lang === "en" ? null : staticText(v);
+      n.nodeValue = tr ? orig.replace(v, tr) : orig;
+    }
+    document.documentElement.lang = I.htmlLang[state.lang];
+    $("q").placeholder = t("Search by name, description or license…");
+    $("tagline").innerHTML = state.lang === "en" ? TAGLINE_EN : t("tagline", { n: apps.length });
+    $("sub").innerHTML = state.lang === "en" ? SUB_EN : t("sub", { open: open.length });
+    $("rish-body").innerHTML = md(DATA.rish[state.lang] || DATA.rish.en);
+    document.title = "Awesome Shizuku";
+  }
 
   function readHash() {
     const p = new URLSearchParams(location.hash.replace(/^#directory\??/, "").replace(/^#/, ""));
@@ -21,6 +65,7 @@
       state.sort = p.get("sort") || "list";
       state.tag = p.get("tag") || "";
       state.lic = p.get("lic") || "";
+      if (p.get("lang")) state.lang = p.get("lang");
     }
   }
   function writeHash() {
@@ -31,6 +76,7 @@
     if (state.sort !== "list") p.set("sort", state.sort);
     if (state.tag) p.set("tag", state.tag);
     if (state.lic) p.set("lic", state.lic);
+    if (state.lang !== "en") p.set("lang", state.lang);
     const s = p.toString();
     history.replaceState(null, "", s ? "#directory?" + s : location.pathname + location.search);
   }
@@ -60,8 +106,8 @@
     ["Development libraries", "🧩", "SDKs and libraries to add Shizuku to your own app."],
   ];
   const countCat = (c) => open.filter((a) => a.group === c || a.group.startsWith(c + " / ") || a.section === c).length;
-  $("features").innerHTML = FEATURES.map(([c, ic, d]) =>
-    `<a class="feat-card" href="#directory" data-cat="${esc(c)}"><div class="ic">${ic}</div><h3>${esc(c)}</h3><p>${esc(d)}</p><small>${countCat(c)} entries</small></a>`
+  const renderFeatures = () => $("features").innerHTML = FEATURES.map(([c, ic, d]) =>
+    `<a class="feat-card" href="#directory" data-cat="${esc(c)}"><div class="ic">${ic}</div><h3>${esc(tg(c))}</h3><p>${esc((state.lang !== "en" && I.blurbs[state.lang][c]) || d)}</p><small>${esc(t("{n} entries", { n: countCat(c) }))}</small></a>`
   ).join("");
   $("count-open").textContent = open.length;
 
@@ -70,7 +116,7 @@
   function renderSide() {
     $("kind-seg").innerHTML = KINDS.map(([k, l]) => {
       const n = apps.filter((a) => a.kind === k).length;
-      return `<button class="opt ${state.kind === k ? "on" : ""}" data-kind="${k}">${l}<small>${n}</small></button>`;
+      return `<button class="opt ${state.kind === k ? "on" : ""}" data-kind="${k}">${esc(t(l))}<small>${n}</small></button>`;
     }).join("");
     const counts = new Map();
     const order = [];
@@ -79,12 +125,12 @@
       if (!counts.has(k)) { counts.set(k, 0); order.push([a.section, a.group]); }
       counts.set(k, counts.get(k) + 1);
     }
-    let html = `<button class="opt ${state.cat === "" ? "on" : ""}" data-cat="">All<small>${scoped().length}</small></button>`;
+    let html = `<button class="opt ${state.cat === "" ? "on" : ""}" data-cat="">${esc(t("All"))}<small>${scoped().length}</small></button>`;
     let cur = null;
     for (const [sec, grp] of order) {
-      if (sec !== cur && state.kind === "open") { html += `<div class="cat-head">${esc(sec)}</div>`; cur = sec; }
+      if (sec !== cur && state.kind === "open") { html += `<div class="cat-head">${esc(tg(sec))}</div>`; cur = sec; }
       const n = counts.get(sec + "\u0000" + grp);
-      html += `<button class="opt ${state.cat === grp ? "on" : ""}" data-cat="${esc(grp)}">${esc(grp.replace("Vendor-specific / ", "Vendor · "))}<small>${n}</small></button>`;
+      html += `<button class="opt ${state.cat === grp ? "on" : ""}" data-cat="${esc(grp)}">${esc(tg(grp))}<small>${n}</small></button>`;
     }
     $("cats").innerHTML = html;
   }
@@ -107,9 +153,9 @@
 
   function badges(a) {
     const out = [];
-    if (a.featured) out.push(`<span class="badge feat">✨ Recommended</span>`);
-    if (a.kind === "closed") out.push(`<span class="badge closed">Closed source</span>`);
-    if (a.kind === "archived") out.push(`<span class="badge arch">Archived</span>`);
+    if (a.featured) out.push(`<span class="badge feat">${esc(t("✨ Recommended"))}</span>`);
+    if (a.kind === "closed") out.push(`<span class="badge closed">${esc(t("Closed source"))}</span>`);
+    if (a.kind === "archived") out.push(`<span class="badge arch">${esc(t("Archived"))}</span>`);
     for (const t of a.tags) {
       const cls = /Paid|IAP/.test(t) ? "paid" : t === "Root" ? "root" : "";
       out.push(`<span class="badge ${cls}">${esc(t)}${/Paid|IAP/.test(t) ? " 💰" : ""}</span>`);
@@ -119,11 +165,11 @@
   }
 
   function card(a) {
-    const src = a.source ? `<a class="srclink" href="${esc(a.source)}" target="_blank" rel="noopener">Source ↗</a>` : "";
+    const src = a.source ? `<a class="srclink" href="${esc(a.source)}" target="_blank" rel="noopener">${esc(t("Source ↗"))}</a>` : "";
     return `<article class="card">
-      <span class="grp">${esc(a.group.replace("Vendor-specific / ", "Vendor · "))}</span>
+      <span class="grp">${esc(tg(a.group))}</span>
       <h3><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.name)}</a></h3>
-      <p>${esc(a.desc) || "—"}</p>
+      <p>${esc(desc(a)) || "—"}</p>
       <div class="foot2">${badges(a)}${src}</div>
     </article>`;
   }
@@ -131,9 +177,9 @@
   function renderChips() {
     const chips = [
       ["featured", "✨ Recommended"], ["Root", "Root"], ["Paid", "Paid"], ["IAP", "IAP"], ["Ads", "Ads"],
-    ].map(([k, l]) => `<button class="chip ${state.tag === k ? "on" : ""}" data-tag="${k}">${l}</button>`);
-    chips.push(`<button class="chip ${state.lic === "foss" ? "on" : ""}" data-lic="foss">FOSS license</button>`);
-    chips.push(`<button class="chip ${state.lic === "proprietary" ? "on" : ""}" data-lic="proprietary">Proprietary</button>`);
+    ].map(([k, l]) => `<button class="chip ${state.tag === k ? "on" : ""}" data-tag="${k}">${esc(t(l))}</button>`);
+    chips.push(`<button class="chip ${state.lic === "foss" ? "on" : ""}" data-lic="foss">${esc(t("FOSS license"))}</button>`);
+    chips.push(`<button class="chip ${state.lic === "proprietary" ? "on" : ""}" data-lic="proprietary">${esc(t("Proprietary"))}</button>`);
     $("chips").innerHTML = chips.join("");
   }
 
@@ -143,8 +189,8 @@
     $("grid").innerHTML = shown.map(card).join("");
     $("empty").hidden = list.length > 0;
     $("more-btn").hidden = list.length <= shown.length;
-    $("more-btn").textContent = `Show more (${list.length - shown.length} left)`;
-    $("meta").textContent = `${list.length} result${list.length === 1 ? "" : "s"}`;
+    $("more-btn").textContent = t("Show more ({n} left)", { n: list.length - shown.length });
+    $("meta").textContent = t(list.length === 1 ? "{n} result" : "{n} results", { n: list.length });
   }
 
   function render() { renderSide(); renderChips(); renderResults(); writeHash(); }
@@ -217,10 +263,20 @@
     flushQuote(); closeList(0);
     return out.join("\n");
   }
-  $("rish-body").innerHTML = md(DATA.rish);
+  // ---- language switcher
+  const langSel = $("lang");
+  langSel.innerHTML = I.langs.map(([k, l]) => `<option value="${k}">${l}</option>`).join("");
+  const TAGLINE_EN = $("tagline").innerHTML, SUB_EN = $("sub").innerHTML;
+  function setLang(l, persist) {
+    state.lang = I.ui[l] || l === "en" ? l : "en";
+    langSel.value = state.lang;
+    if (persist) { try { localStorage.setItem("lang", state.lang); } catch (e) {} }
+    applyStatic(); renderFeatures(); render();
+  }
+  langSel.addEventListener("change", (e) => setLang(e.target.value, true));
 
   readHash();
   $("q").value = state.q;
   $("sort").value = state.sort;
-  render();
+  setLang(location.hash.includes("lang=") ? state.lang : detectLang(), false);
 })();

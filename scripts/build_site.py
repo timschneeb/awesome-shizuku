@@ -73,16 +73,32 @@ def parse(path, kind, top_levels):
     return items
 
 
+LANGS = {"cn": ("README_cn.md", "CLOSED_SOURCE_cn.md", "RISH_cn.md"),
+         "tw": ("README_tw.md", "CLOSED_SOURCE_tw.md", "RISH_tw.md")}
+SECTIONS = {"Apps": "Apps", "Development libraries": "Development libraries",
+            "Miscellaneous content": "Miscellaneous content"}
+
+
 def main():
     items = []
-    items += parse(ROOT / "README.md", "open", {
-        "Apps": "Apps",
-        "Development libraries": "Development libraries",
-        "Miscellaneous content": "Miscellaneous content",
-    })
+    items += parse(ROOT / "README.md", "open", SECTIONS)
     items += parse(ROOT / "pages" / "CLOSED_SOURCE.md", "closed", {"Closed-source apps": "Apps"})
     items += parse(ROOT / "pages" / "ARCHIVED.md", "archived", {"Archived apps": "Apps"})
-    rish = (ROOT / "pages" / "RISH.md").read_text(encoding="utf-8")
+    rish = {"en": (ROOT / "pages" / "RISH.md").read_text(encoding="utf-8")}
+
+    # Translations from the original project: match entries by (kind, URL) and
+    # fall back to the English description when an entry is not translated.
+    for lang, (readme, closed, rish_file) in LANGS.items():
+        tr = parse(ROOT / readme, "open", SECTIONS)
+        tr += parse(ROOT / "pages" / closed, "closed", {"Closed-source apps": "Apps", "Closed-source apps ": "Apps"})
+        by_url = {}
+        for t in tr:
+            by_url.setdefault((t["kind"], t["url"]), []).append(t["desc"])
+        for it in items:
+            found = by_url.get((it["kind"], it["url"]))
+            if found:
+                it["desc_" + lang] = found.pop(0)
+        rish[lang] = (ROOT / "pages" / rish_file).read_text(encoding="utf-8")
     payload = {"apps": items, "rish": rish}
     OUT.write_text("window.SHIZUKU_DATA = " + json.dumps(payload, ensure_ascii=False) + ";\n", encoding="utf-8")
     print(f"Wrote {OUT.relative_to(ROOT)}: {len(items)} entries")

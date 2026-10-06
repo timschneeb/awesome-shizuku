@@ -160,3 +160,5 @@ select{padding:0 12px;border-radius:8px;border:1px solid var(--line);background:
   .filter-toggle{display:inline-block}
   .nav-end .sep{display:none}
 }
+.lang{height:32px;padding:0 8px;border-radius:6px;font:500 13px var(--font);background:var(--soft);border:1px solid transparent;color:var(--text)}
+.lang:hover{border-color:var(--brand1)}
