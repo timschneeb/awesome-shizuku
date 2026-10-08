@@ -67,9 +67,11 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
   - [Task manager](#task-manager)
   - [Terminals](#terminals)
   - [Vendor-specific](#vendor-specific)
+    - [AYN](#ayn)
     - [Google Pixel](#google-pixel)
     - [Samsung OneUI](#samsung-oneui)
     - [MIUI](#miui)
+    - [Nothing Phone](#nothing-phone)
     - [Other](#other)
   - [Closed-source apps](#closed-source-apps)
   - [Unlisted apps](#unlisted-apps)
@@ -212,6 +214,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [Lightspeed](https://github.com/SBFlabs/Lightspeed) `IAP` 💰 - Offline gesture-driven workstation and control layer over OEM setups, using Shizuku for elevated navigation and seamless app switching. `Proprietary`
 * [LinkSheet](https://github.com/LinkSheet/LinkSheet) - 使用 Material3 恢复 Android <12 Url-App 链接选择器 `Modified MPL-2.0`
 * [Lockscreen Widgets](https://play.google.com/store/apps/details?id=tk.zwander.lockscreenwidgets) `IAP` 💰 - 在锁屏上显示小部件。仅在 Android 13 及更高版本需要 Shizuku `MIT` [(源代码)](https://github.com/zacharee/LockscreenWidgets/)
+* [LogCat Live Wallpaper](https://github.com/YasserNull/logcat-live-wallpaper) - Live wallpaper that displays Logcat output on screen with customizable colors, fonts and scrolling; uses Shizuku or root for the full log. `GPL-3.0`
 * [MultiLocale](https://github.com/Nightdavisao/MultiLocale) - 如果原始设备制造商（小米）不允许您在设备的本地设置中添加额外的（或 "不支持的"）语言，那么这款简单的应用程序就能帮您实现这一功能。 `MIT`
 * [O.status](https://github.com/CATCHINGL/O.status) - 简洁的状态栏指示器，用于 Wi-Fi、蜂窝网络和电池，可选集成 Shizuku 以匹配系统图标颜色。 `Proprietary`
 * [OmniPrompt](https://github.com/mrndstvndv/OmniPrompt) - 键盘优先的 Android 命令面板，将应用/设备搜索和系统工具统一到悬浮界面中 `GPL-3.0`
@@ -573,6 +576,14 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 
 ### Vendor-specific
 
+#### AYN
+* [Heimdall-AYN-Thor-Assistant](https://github.com/mastercook777/Heimdall-AYN-Thor-Assistant) - 适用于 AYN Thor 的下屏游戏助手，具备配置档案、宏、触控、地图和由 Shizuku 驱动的触摸注入。 `Apache-2.0`
+* [Thor SidePad](https://github.com/bentolanh/thor-sidepad) - 将 AYN Thor 下屏变为虚拟手柄；Shizuku 将其按压注入为原生手柄输入。 `MIT`
+* [thor-pathfinder](https://github.com/KaitonGxx/thor-pathfinder) - AYN Thor dual-screen companion: swaps running apps between screens and maps button/combo shortcuts per game profile, using Shizuku to move windows to the other display. `GPL-3.0`
+* [thor-wayfinder](https://github.com/Thor-Wayfinder/thor-wayfinder) - 通过返回键手势在 AYN Thor 的两块屏幕之间移动应用 `CC-BY-NC-ND-4.0`
+* [Thors-Lightning](https://github.com/HughesTechNZ/Thors-Lightning) - 适用于 AYN Thor 的手柄驱动双屏亮度控制，可选 Shizuku 特权级输入（宏）录制。 `MIT`
+* [ThorVolumeLink](https://github.com/pth2000/ThorVolumeLink) - AYN Thor 双屏的同步音量控制 `MIT`
+
 #### Google Pixel
 * [Always On Display](https://f-droid.org/packages/org.alberto97.aodtoggle/) - 一个用于切换“息屏显示（Always on Display）”的 Android 快捷设置 `MIT` [(源代码)](https://github.com/Alberto97/AlwaysOnDisplayToggle)
 * [carrier-ims-for-pixel](https://github.com/ryfineZ/carrier-ims-for-pixel) - 持续维护的 Pixel IMS 工具包：通过 Shizuku 调整 VoLTE/VoWiFi/VoNR、5G 图标显示和运营商配置 `Apache-2.0`
@@ -615,25 +626,21 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [MixFlipTool](https://github.com/parallelcc/MixFlipTool) - Mix Flip 外屏一键配置：使用任意应用并将系统应用恢复为默认样式 `GPL-3.0`
 * [NavigationSwitcher](https://github.com/chiyuki0325/NavigationSwitcher) - 在 MIUI / HyperOS 节奏游戏中启用 3 键导航  `Proprietary`
 
+#### Nothing Phone
+* [buttonoo](https://github.com/bractstudio/buttonoo) - 将 Nothing 的 Essential 键重新映射为任意按压模式；Shizuku 启用特权输入通道。 `GPL-3.0`
+* [GlyphBarty](https://github.com/Link2011-Act2/GlyphBarty) - 适用于 Nothing Phone 的可定制 Glyph 可视化工具，支持音乐同步、快捷设置开关和充电状态显示 `MIT`
+* [Recording-Light-Control](https://github.com/Farpathan/Recording-Light-Control) - Recording Light Control 可精确控制 Nothing Phone (3) 的录制指示灯 `Proprietary`
+
 #### Other
 
 * [BooxUltimatum](https://github.com/huuunleashed/BooxUltimatum) - Open-source suite for BOOX E Ink tablets: high-contrast home, sleep screens, instant pen ink, battery log and reversible tweaks, using Shizuku for privileged tweak tiers. `GPL-3.0`
-* [buttonoo](https://github.com/bractstudio/buttonoo) - 将 Nothing 的 Essential 键重新映射为任意按压模式；Shizuku 启用特权输入通道。 `GPL-3.0`
 * [Calibrate-SoC](https://github.com/mayusi/Calibrate-SoC) - 面向 Android 游戏掌机的 SoC 调优、监控和基准测试套件，具备目标寻优型频率策略和实时 HUD。 `Apache-2.0`
 * [DiAuto](https://github.com/shihabal3amri/DiAuto) - Wireless and USB Android Auto receiver for BYD DiLink head units; runs entirely on the car display and uses Shizuku or root for privileged setup. No phone companion app or dongle. `AGPL-3.0`
 * [Evolve_Launcher_v2](https://github.com/JarJarBlinkz/Evolve_Launcher_v2) - 适用于 Meta Quest 头显的可定制桌面启动器，具备应用整理、游戏时长跟踪和由 Shizuku 支持的清除数据/缓存操作。 `Proprietary`
 * [flipx](https://github.com/jlgrimes/flipx) - 根据 Anbernic RG Rotate 的转轴状态将主页键路由到不同的启动器 `Proprietary`
-* [GlyphBarty](https://github.com/Link2011-Act2/GlyphBarty) - 适用于 Nothing Phone 的可定制 Glyph 可视化工具，支持音乐同步、快捷设置开关和充电状态显示 `MIT`
-* [Heimdall-AYN-Thor-Assistant](https://github.com/mastercook777/Heimdall-AYN-Thor-Assistant) - 适用于 AYN Thor 的下屏游戏助手，具备配置档案、宏、触控、地图和由 Shizuku 驱动的触摸注入。 `Apache-2.0`
 * [MindControl](https://github.com/Dinico414/MindControl) - 适用于 iKKO MindOne 的硬件按键重映射和息屏显示工具包，通过 Shizuku getevent 监控物理按键，并支持 root 回退。 `Proprietary`
 * [panel-assistant](https://github.com/panel-assistant/android) - Home Assistant 墙面板仪表板，具备实体过滤、MQTT 设备控制，以及由 Shizuku/root 支持的配置和经校验的安装流程。 `Apache-2.0`
-* [Recording-Light-Control](https://github.com/Farpathan/Recording-Light-Control) - Recording Light Control 可精确控制 Nothing Phone (3) 的录制指示灯 `Proprietary`
 * [RedTrigger](https://github.com/zampierilucas/RedTrigger) - 适用于 Nubia Red Magic 手机的全局肩键 `MIT`
-* [Thor SidePad](https://github.com/bentolanh/thor-sidepad) - 将 AYN Thor 下屏变为虚拟手柄；Shizuku 将其按压注入为原生手柄输入。 `MIT`
-* [thor-pathfinder](https://github.com/KaitonGxx/thor-pathfinder) - AYN Thor dual-screen companion: swaps running apps between screens and maps button/combo shortcuts per game profile, using Shizuku to move windows to the other display. `GPL-3.0`
-* [thor-wayfinder](https://github.com/Thor-Wayfinder/thor-wayfinder) - 通过返回键手势在 AYN Thor 的两块屏幕之间移动应用 `CC-BY-NC-ND-4.0`
-* [Thors-Lightning](https://github.com/HughesTechNZ/Thors-Lightning) - 适用于 AYN Thor 的手柄驱动双屏亮度控制，可选 Shizuku 特权级输入（宏）录制。 `MIT`
-* [ThorVolumeLink](https://github.com/pth2000/ThorVolumeLink) - AYN Thor 双屏的同步音量控制 `MIT`
 
 ### Closed-source apps
 
