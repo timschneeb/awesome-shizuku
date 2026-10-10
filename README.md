@@ -111,6 +111,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 * [AndroidHarness](https://github.com/Sanuu7/AndroidHarness) - On-device coding agent that routes privileged commands through a Shizuku shell UID, with a Termux-prefixed Linux toolchain as fallback. `MIT`
 * [AutoXiao'er](https://github.com/Joy-word/AutoXiaoer) - On-device AI agent that visually operates Android apps, with scheduled, notification, and ClawBot task triggers. Supports both Shizuku and accessibility-based control. `MIT`
 * [ClawGUI](https://github.com/ZJU-REAL/ClawGUI) - On-device GUI-agent runner deploying the full ClawGUI brain stack on one phone controlled via Shizuku. `Apache-2.0`
+* [DeepSeek Harness for Android](https://github.com/guzhou079-arch/deepseek-harness-android) - Packages the DeepSeek Harness agent runtime and 21 bundled skills into an APK with no Termux or root needed. Shizuku powers the privileged shell, app control and virtual-display automation; the app can also build and sign its own APK on-device. `MIT`
 * [Hermes Agent](https://github.com/adybag14-cyber/hermes-agent) - Hermes Agent port for Android with a Shizuku privileged shell bridge for on-device actions. `MIT`
 * [OmniBot](https://github.com/omnimind-ai/OmniBot) - On-device AI agent with terminal, web browsing, device control, and system integration `GPL-3.0`
 * [Open-AutoGLM-Android](https://github.com/xinzezhu/Open-AutoGLM-Android/blob/main/README_EN.md) - Automates actions on your device using the AutoGLM vision language model `GPL-3.0`
