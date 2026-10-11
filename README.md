@@ -123,6 +123,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 * [roubao](https://github.com/Turbo1123/roubao/blob/main/README_EN.md) - Open-source on-device AI phone automation assistant based on vision-language models that performs tasks via Shizuku system permissions, no PC needed. `MIT` [(Source code)](https://github.com/Turbo1123/roubao)
 * [Ruto-GLM](https://github.com/iamr0s/Ruto-GLM/blob/main/README_en.md) - Automation and Multitasking Framework using AutoGLM. Can create virtual screens that agents can run apps on and use multi-window `Apache 2.0`
 * [talon](https://github.com/thefalconry/talon) - Multi-platform agentic AI harness for Telegram/Discord/Teams/terminal with a Flutter companion app; Shizuku enables silent self-updates and elevated access. `Apache-2.0`
+* [Verdroid](https://github.com/chr243/Verdroid) - On-device AI agent tuned for free OpenRouter/Kilo models, with Termux tools, Shizuku/rish shell access, accessibility control and ebook/PDF translation. `GPL-3.0`
 * [Zafiro](https://github.com/niki914/zafiro) - Bring-your-own-key AI agent that reads the screen and controls the device through Shizuku, without root. `MIT`
 
 ### Android Auto
