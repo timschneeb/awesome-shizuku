@@ -1,7 +1,7 @@
 # awesome-shizuku
 
 ### Languages
-English | [简体中文](/README_cn.md) | [繁體中文](/README_tw.md)
+English | [简体中文](/README_cn.md) | [繁體中文](/README_tw.md) | [Português (Brasil)](/README_pt-BR.md)
 
 [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 

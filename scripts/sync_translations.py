@@ -198,3 +198,5 @@ if __name__ == "__main__":
     sync_readme('README.md', 'README_tw.md', '## 目錄', '原始碼')
     sync_readme('pages/CLOSED_SOURCE.md', 'pages/CLOSED_SOURCE_cn.md', '## 目录', '源代码')
     sync_readme('pages/CLOSED_SOURCE.md', 'pages/CLOSED_SOURCE_tw.md', '## 目錄', '原始碼')
+    sync_readme('README.md', 'README_pt-BR.md', '## Índice', 'Código-fonte')
+    sync_readme('pages/CLOSED_SOURCE.md', 'pages/CLOSED_SOURCE_pt-BR.md', '## Índice', 'Código-fonte')
