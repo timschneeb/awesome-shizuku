@@ -14,6 +14,7 @@ Esta sublista contém apenas aplicativos de código fechado.
 ## Índice
 
 - [Closed-source apps](#closed-source-apps)
+  - [Android Auto](#android-auto)
   - [Audio](#audio)
   - [Automation](#automation)
   - [Customization](#customization)
@@ -34,6 +35,10 @@ Esta sublista contém apenas aplicativos de código fechado.
 --------------------
 
 ## Closed-source apps
+
+### Android Auto
+
+* [ScreenOnAuto](https://screenonauto.lzn.idv.tw/) - Espelha a tela do celular no Android Auto, com encaminhamento de toque e controles de mídia. Com Shizuku/root opcional: desliga a tela do telefone, ativa a injeção de toque real (segurar, arrastar, multitoque) e ajusta a tela do telefone à do carro `Proprietary`
 
 ### Audio
 
