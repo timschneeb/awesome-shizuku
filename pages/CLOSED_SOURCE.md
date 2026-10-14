@@ -14,6 +14,7 @@ This sublist only contains applications that are closed-source.
 ## Table of contents
 
 - [Closed-source apps](#closed-source-apps)
+  - [Android Auto](#android-auto)
   - [Audio](#audio)
   - [Automation](#automation)
   - [Customization](#customization)
@@ -34,6 +35,10 @@ This sublist only contains applications that are closed-source.
 --------------------
 
 ## Closed-source apps
+
+### Android Auto
+
+* [ScreenOnAuto](https://screenonauto.lzn.idv.tw/) - Mirrors the phone screen to Android Auto with touch forwarding and media controls. Optional Shizuku/root turns the phone screen off, adds real touch injection (long-press, drag, multi-finger) and matches the phone screen to the car `Proprietary`
 
 ### Audio
 

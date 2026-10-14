@@ -13,6 +13,7 @@
 ## 目录
 
 - [Closed-source apps](#closed-source-apps)
+  - [Android Auto](#android-auto)
   - [Audio](#audio)
   - [Automation](#automation)
   - [Customization](#customization)
@@ -33,6 +34,10 @@
 --------------------
 
 ## Closed-source apps
+
+### Android Auto
+
+* [ScreenOnAuto](https://screenonauto.lzn.idv.tw/) - 将手机屏幕镜像到 Android Auto，支持触控转发与媒体控制。可选 Shizuku/root 可关闭手机屏幕、启用真实触控注入（长按、拖动、多指），并让手机画面比例匹配车机 `Proprietary`
 
 ### Audio
 
