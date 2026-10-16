@@ -104,6 +104,7 @@ Esta sublista contém apenas aplicativos de código fechado.
 ### Power management
 
 * [Battery Guru](https://play.google.com/store/apps/details?id=com.paget96.batteryguru) `Ads` `IAP` 💰 - Monitor de saúde da bateria com capacidade real em mAh, velocidade de carregamento, temperatura e acompanhamento de uso. Pode solicitar permissões adicionais via Shizuku. `Proprietary`
+* [Battery Health Tracker](https://github.com/FrancescoMin/batteryhealthtracker) - Advanced hardware battery health, dynamic BMS telemetry, and degradation tracker for Oppo, OnePlus, Realme, Samsung, and Nothing devices via Shizuku. `Proprietary` `No Ads`
 * [Extinguish](https://play.google.com/store/apps/details?id=own.moderpach.extinguish) - O Extinguish desliga a tela, mas mantém o dispositivo ativo `Proprietary`
 * [FDE.AI](https://github.com/feravolt/FDE.AI-docs/releases) `IAP` 💰 - Otimizador tudo em um para Android `Proprietary`
 * [Nightcap](https://play.google.com/store/apps/details?id=com.sleepshutdown.app) `IAP` 💰 - Desligue o celular automaticamente para foco, sono ou qualquer horário agendado que você escolher `Proprietary`
@@ -116,7 +117,7 @@ Esta sublista contém apenas aplicativos de código fechado.
 ### Software management
 
 * [APKMirror Installer](https://play.google.com/store/apps/details?id=com.apkmirror.helper.prod) `Ads` `IAP` 💰 - App auxiliar para instalar pacotes .apkm, .xapk e .apks, além de arquivos APK comuns `Proprietary`
-* [App Ops](https://play.google.com/store/apps/details?id=rikka.appops) `Ads` `IAP` 💰 -  Gerencie permissões de aplicativos sem root `Proprietary`
+* [App Ops](https://play.google.com/store/apps/details?id=rikka.appops) `Ads` `IAP` 💰 - Gerencie permissões de aplicativos sem root `Proprietary`
 * [AppDash](https://play.google.com/store/apps/details?id=flar2.appdashboard) `7-day trial` `Paid` 💰 - Um gerenciador de apps que facilita o gerenciamento de APKs e apps instalados no dispositivo `Proprietary`
 * [Ice Box](https://play.google.com/store/apps/details?id=com.catchingnow.icebox) `IAP` 💰 - Congele ou oculte apps usando o Shizuku `Proprietary`
 * [Package Name Scripter](https://play.google.com/store/apps/details?id=in.ms.packagenamesscripter) - Gerencie apps instalados usando o Shizuku ou crie scripts ADB para ativar, desativar, desinstalar, reinstalar ou executar outros comandos ADB relacionados a apps. `Proprietary`

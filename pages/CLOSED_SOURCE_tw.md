@@ -104,6 +104,7 @@
 ### Power management
 
 * [Battery Guru](https://play.google.com/store/apps/details?id=com.paget96.batteryguru) `Ads` `IAP` 💰 - Battery health monitor with actual capacity in mAh, charging speed, temperature and usage tracking. Can request additional permissions via Shizuku. `Proprietary`
+* [Battery Health Tracker](https://github.com/FrancescoMin/batteryhealthtracker) - Advanced hardware battery health, dynamic BMS telemetry, and degradation tracker for Oppo, OnePlus, Realme, Samsung, and Nothing devices via Shizuku. `Proprietary` `No Ads`
 * [Extinguish](https://play.google.com/store/apps/details?id=own.moderpach.extinguish) - 熄滅關閉螢幕，但保持裝置喚醒狀態 `Proprietary`
 * [FDE.AI](https://github.com/feravolt/FDE.AI-docs/releases) `IAP` 💰 - All-in-One optimizer for Android `Proprietary`
 * [Nightcap](https://play.google.com/store/apps/details?id=com.sleepshutdown.app) `IAP` 💰 - Power off your phone automatically for focus, sleep or any scheduled time you pick `Proprietary`
