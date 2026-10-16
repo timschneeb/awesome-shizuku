@@ -159,6 +159,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 * [AutoSlide](https://github.com/tianxing-ovo/AutoSlide/blob/master/README.en.md) - Auto-slide tool that auto-plays short videos and flips reading pages, with floating controls `Apache-2.0` [(Source code)](https://github.com/tianxing-ovo/AutoSlide)
 * [flowpilot](https://github.com/emi-ran/flowpilot) - Privacy-first offline automation engine running privileged system actions such as mobile data, airplane mode and dark theme through Shizuku. `GPL-3.0`
 * [IMD](https://github.com/soul-99/SU_IMD) - Fork of Geto that hides developer options, ADB, accessibility services and Shizuku itself for restrictive apps like banking, then restores them `GPL-3.0`
+* [Latch](https://github.com/wized2/Latch) - Privacy-first Tasker-style automation with local if/then rules, multi-action chains, optional Shizuku/root elevated actions, and no cloud. `MIT`
 * [NexaFlow](https://github.com/Alaa91H/NexaFlow) - Context-aware Android automation engine combining triggers, constraints and actions, with Shizuku execution for privileged device controls. `MIT`
 * [Nothing_Modes](https://github.com/Dvorinka/Nothing_Modes) - Automation app for Nothing phones (modes, routines, Glyph) that also runs on other Android devices with optional Shizuku `GPL-3.0`
 * [OpenTasker](https://github.com/SysAdminDoc/OpenTasker) - Local-first, open-source Tasker alternative with readable rules and honest permission gates; privileged actions run through a Shizuku AIDL user service. `MIT`
