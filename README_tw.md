@@ -92,7 +92,7 @@ Shizuku 允許普通應用程式在非root 裝置上使用 ADB 直接使用權�
 
 
 * [Porter](https://github.com/d4rken-org/porter) - 精簡且持續維護的 Shizuku 分支，為應用提供 ADB 存取權限並可選支援 root，還為僅支援 Shizuku 的應用提供相容性配套應用 `Apache-2.0`
-* [shevery](https://github.com/HmnDev-Tech/shevery) ✨ - Material 3 分支，支援自啟動、TCP 模式、Dhizuku、模組，以及內建整合 AI 的終端
+* [shevery](https://github.com/HmnDev-Tech/shevery) ✨ - Material 3 分支，支援自啟動、TCP 模式、Dhizuku、模組，以及內建整合 AI 的終端 `Apache-2.0`
 * [Shizako](https://github.com/cr1437/Shizako) - 貓娘形象版 Shizuku，可無縫替代官方管理器，官方 Shizuku-API 應用無需修改即可連線（功能與 shevery 類似） `Apache-2.0`
 * [Shizuku (thedjchi's fork)](https://github.com/thedjchi/Shizuku) - Shizuku 分支，支援自啟動、TCP 模式和隱身模式（目前暫停維護） `Apache-2.0`
 * [Shizuku Next](https://github.com/rushiranpise/Shizuku-Next) - Maintained continuation of thedjchi's fork: automated pairing without typing, start method selection, watchdog, in-app shell terminal, app-ops/firewall manager and a Material 3 UI `Apache-2.0`
@@ -543,7 +543,6 @@ Shizuku 允許普通應用程式在非root 裝置上使用 ADB 直接使用權�
 * [DisabledLauncher](https://github.com/voruti/DisabledLauncher) - Android 應用程式可停用未使用的應用程式，同時仍允許方便地存取它們 `MIT`
 * [DroidUtility](https://github.com/DroidUtility/DroidUtility) - 無需 root 的工具套件，透過 Shizuku 進行應用精簡、系統調整和特權 shell 執行，針對僅使用手機的開發者。 `MIT`
 * [FreezeYou](https://f-droid.org/packages/cf.playhi.freezeyou/) - 透過手動或半自動凍結品質不佳的軟體來提高裝置的速度和電池續航 `Apache-2.0` [(原始碼)](https://github.com/FreezeYou/FreezeYou)
-* [Guest-Manager](https://github.com/dlawoals2713/Guest-Manager) - 在廠商已停用訪客和多使用者模式的裝置上，透過 Shizuku shell 無需 root 啟用這些隱藏模式。 `Proprietary`
 * [Hail](https://f-droid.org/packages/com.aistra.hail/) ✨ - 凍結、隱藏或停用任何應用程式。建立並組織可一鍵凍結的應用程式組。 `GPL-3.0` [(原始碼)](https://github.com/aistra0528/Hail)
 * [Insular](https://f-droid.org/packages/com.oasisfeng.island.fdroid/) - Island 完整的 FLOSS 分支 `Apache-2.0` [(原始碼)](https://gitlab.com/secure-system/Insular)
 * [Inure App Manager](https://play.google.com/store/apps/details?id=app.simple.inure.play) `15-day trial` `IAP` 💰 - 適用於 root 和非 root 裝置的 Android 應用程式管理器 `GPL-3.0` [(原始碼)](https://github.com/Hamza417/Inure)
@@ -554,7 +553,7 @@ Shizuku 允許普通應用程式在非root 裝置上使用 ADB 直接使用權�
 * [Package Manager](https://play.google.com/store/apps/details?id=com.smartpack.packagemanager) - 功能強大的應用程式，可管理系統和使用者應用程式 `GPL-3.0` [(原始碼)](https://github.com/SmartPack/PackageManager)
 * [Thor](https://play.google.com/store/apps/details?id=com.valhalla.thor) - 具備凍結和安裝功能的應用管理器。 `GPL-3.0` [(原始碼)](https://github.com/trinadhthatakula/Thor)
 * [UpgradeAll](https://f-droid.org/packages/net.xzos.upgradeall/) - 檢查 Android 應用程式、Magisk 模組等的更新！ `GPL-3.0` [(原始碼)](https://github.com/DUpdateSystem/UpgradeAll)
-* [User-Hopper](https://github.com/dlawoals2713/User-Hopper) - Create, start, stop and delete guest and secondary users on devices where the maker disabled multi-user support; can set up Samsung's Digital Legacy workaround `GPL-3.0`
+* [User-Hopper](https://github.com/dlawoals2713/User-Hopper) - Create, start, stop and delete guest and secondary users on devices where the maker disabled multi-user support `GPL-3.0`
 * [VOID // APPS](https://github.com/kreza6173-pixel/void-apps) - Shizuku app manager: suspend, disable, debloat presets, permissions and AppOps, autostart, per-app network block, APK/XAPK installer and cleaner. Every change is read back from Android `MIT`
 * [Youki Users](https://github.com/mrYouki/Youki-Users) ✨ - Standalone Android multi-user manager to create, switch and delete user profiles with custom photos. `GPL-3.0`
 
