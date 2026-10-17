@@ -343,7 +343,6 @@ Pull requests são bem-vindos. Veja [Contribuindo](CONTRIBUTING.md) para dicas. 
 * [BDroid_X](https://github.com/Ark-Repoleved/BDroid_X) - Gerenciador de mods do Browndust II `MIT`
 * [Cinderbox-Companion](https://github.com/ObfuscatedVoid/Cinderbox-Companion) - App complementar para Stardew Valley no Android, com sincronização de saves pelo Steam Cloud, download dos arquivos do jogo e gerenciamento de mods SMAPI `MIT`
 * [CloudSync-Mobile](https://github.com/StardewValleyMods/CloudSync-Mobile) - App que permite sincronizar seus saves de Stardew Valley entre vários aparelhos `GPL-3.0`
-* [ex-astris-save-editor](https://github.com/Ncorror/ex-astris-save-editor) - Editor de saves não oficial do Ex Astris: edição de inventário, backups verificados e troca de skins do Arknights, com descoberta automática de saves via Root ou Shizuku. `GPL-3.0`
 * [lac-tool](https://github.com/aliernfrog/lac-tool) - Gerencia mapas, papéis de parede e capturas de tela do jogo 'Los Angeles Crimes' `GPL-3.0`
 * [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - Plugin de localização para Link! Like! LoveLive! que traduz os textos do jogo via LLM `GPL-3.0`
 * [LOModInstaller](https://github.com/anyabot/LOModInstaller) - Gerenciador de mods do jogo 'Last Origin' `Proprietary`

@@ -339,7 +339,6 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [BDroid_X](https://github.com/Ark-Repoleved/BDroid_X) - 《BrownDust II》Mod 管理器 `MIT`
 * [Cinderbox-Companion](https://github.com/ObfuscatedVoid/Cinderbox-Companion) - 《星露谷物语》Android 版配套应用，支持 Steam 云存档同步、游戏文件下载和 SMAPI Mod 管理 `MIT`
 * [CloudSync-Mobile](https://github.com/StardewValleyMods/CloudSync-Mobile) - 可在多台设备间同步《星露谷物语》存档的应用 `GPL-3.0`
-* [ex-astris-save-editor](https://github.com/Ncorror/ex-astris-save-editor) - Unofficial Ex Astris save editor: inventory editing, verified backups and Arknights skin switching, with automatic save discovery through Root or Shizuku. `GPL-3.0`
 * [lac-tool](https://github.com/aliernfrog/lac-tool) - 管理“洛杉矶犯罪”游戏的地图、壁纸和屏幕截图 `GPL-3.0`
 * [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 《Link！Like！LoveLive！》的本地化插件，通过 LLM 翻译游戏文本 `GPL-3.0`
 * [LOModInstaller](https://github.com/anyabot/LOModInstaller) - 游戏“Last Origin”的 Mod 管理器 `Proprietary`
