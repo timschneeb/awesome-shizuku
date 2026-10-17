@@ -157,6 +157,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [AutoSlide](https://github.com/tianxing-ovo/AutoSlide/blob/master/README.en.md) - 自动滑动工具，可自动播放短视频和自动翻页阅读，并带有悬浮控制 `Apache-2.0` [(源代码)](https://github.com/tianxing-ovo/AutoSlide)
 * [flowpilot](https://github.com/emi-ran/flowpilot) - 隐私优先的离线自动化引擎，通过 Shizuku 执行移动数据、飞行模式和深色主题等特权系统操作。 `GPL-3.0`
 * [IMD](https://github.com/soul-99/SU_IMD) ✨ - Geto 的分支，可针对银行等限制严格的应用隐藏开发者选项、ADB、无障碍服务和 Shizuku 本身，之后还可恢复 `GPL-3.0`
+* [Latch](https://github.com/wized2/Latch) - Privacy-first Tasker-style automation with local if/then rules, multi-action chains, optional Shizuku/root elevated actions, and no cloud. `MIT`
 * [NexaFlow](https://github.com/Alaa91H/NexaFlow) - 情境感知的 Android 自动化引擎，结合触发器、约束和动作，并通过 Shizuku 执行特权设备控制。 `MIT`
 * [Nothing_Modes](https://github.com/Dvorinka/Nothing_Modes) - 适用于 Nothing 手机的自动化应用（模式、例程、Glyph），也可在其他 Android 设备上运行，可选支持 Shizuku `GPL-3.0`
 * [OpenTasker](https://github.com/SysAdminDoc/OpenTasker) - 本地优先的开源 Tasker 替代品，规则易读、权限提示透明；特权操作通过 Shizuku AIDL 用户服务执行。 `MIT`
@@ -450,6 +451,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [NetManager](https://github.com/DottoXD/NetManager) - Material 风格的 4G/5G NR 蜂窝网络监视器，具备基站地图、路测和速度测试；Shizuku shell 桥接可解锁额外网络数据。 `GPL-3.0`
 * [NetSwitcher](https://github.com/nd4y/netswitcher) - 通过应用、快捷方式、小部件或快捷设置磁贴，使用 Shizuku 或 root 快速切换 Wi-Fi、移动数据和以太网。 `Proprietary`
 * [NetToggle](https://github.com/Dhangofa/NetToggle) - 轻量级 Android 快捷设置磁贴，使用 Root 或 Shizuku 强制仅 5G、仅 4G 和首选网络模式 `GPL-3.0`
+* [Network Scanner](https://github.com/usamaiqb/network-scanner) - Offline, privacy-focused scanner that discovers devices on your local network with hostnames, open ports and device types, using Shizuku or root to read the ARP table so MAC addresses and vendors show on Android 10+ `GPL-3.0`
 * [NetworkSwitch](https://github.com/aunchagaonkar/NetworkSwitch) - 用于 4G/5G 网络模式切换的 Android 应用 `GPL-3.0`
 * [nobita](https://github.com/duhow/nobita) - 使用 Shizuku 在设备上将蓝牙 HCI 流量记录为 Wireshark 兼容的 PCAPNG 文件。 `Proprietary`
 * [Quintz](https://github.com/corgilittlelegs/Quintz) - 无需 root 的 Wi-Fi 频段锁定和 BSSID 引导工具，通过 Shizuku 将 Android 固定在 5/6 GHz，具备 AP 遥测和射频测向功能。 `MIT`
@@ -481,7 +483,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [DozeTap](https://github.com/dhruvanbhalara/DozeTap) - 屏幕超时预设，通过 Shizuku 一键授予 WRITE_SECURE_SETTINGS 权限。 `Apache-2.0`
 * [EnforceDoze](https://f-droid.org/packages/com.akylas.enforcedoze/) ✨ - 息屏后立即启用 Doze 模式并关闭运动感应，以获得最佳电池续航 `GPL-3.0` [(源代码)](https://github.com/Akylas/EnforceDoze)
 * [NoMoreBackground](https://f-droid.org/packages/com.adilhanney.no_more_background/) ✨ - 设置后无需打理的程序，用于阻止 Android 应用在后台运行 `GPL-3.0` [(源代码)](https://github.com/adil192/no_more_background)
-* [PULSE // BATTERY](https://github.com/kreza6173-pixel/pulse-battery) - Overnight per-app alarm-wakeup report with verified one-tap standby restrict and revert, plus wake lock and alarm diagnostics, Doze controls and APK backup `MIT`
+* [PULSE // BATTERY](https://github.com/privshell/pulse-battery) - Overnight per-app alarm-wakeup report with verified one-tap standby restrict and revert, plus wake lock and alarm diagnostics, Doze controls and APK backup `MIT`
 * [RebootNya](https://github.com/daisukiKaffuChino/RebootNya) - 支持 Shizuku 的高级重启菜单 `Apache-2.0`
 * [ScreenOff](https://github.com/WuDi-ZhanShen/ScreenOff) - 关闭 Android 屏幕而不进入待机/睡眠模式 `Proprietary`
 * [sleep-timer](https://github.com/Xitee1/sleep-timer) - 睡眠定时器，可暂停媒体并关闭 WIFI/蓝牙/显示屏 `GPL-3.0`
@@ -555,7 +557,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [Thor](https://play.google.com/store/apps/details?id=com.valhalla.thor) - 具备冻结和安装功能的应用管理器。 `GPL-3.0` [(源代码)](https://github.com/trinadhthatakula/Thor)
 * [UpgradeAll](https://f-droid.org/packages/net.xzos.upgradeall/) - 检查 Android 应用程序、Magisk 模块等的更新！ `GPL-3.0` [(源代码)](https://github.com/DUpdateSystem/UpgradeAll)
 * [User-Hopper](https://github.com/dlawoals2713/User-Hopper) - Create, start, stop and delete guest and secondary users on devices where the maker disabled multi-user support `GPL-3.0`
-* [VOID // APPS](https://github.com/kreza6173-pixel/void-apps) - Shizuku app manager: suspend, disable, debloat presets, permissions and AppOps, autostart, per-app network block, APK/XAPK installer and cleaner. Every change is read back from Android `MIT`
+* [VOID // APPS](https://github.com/privshell/void-apps) - Shizuku app manager: suspend, disable, debloat presets, permissions and AppOps, autostart, per-app network block, APK/XAPK installer and cleaner. Every change is read back from Android `MIT`
 * [Youki Users](https://github.com/mrYouki/Youki-Users) ✨ - Standalone Android multi-user manager to create, switch and delete user profiles with custom photos. `GPL-3.0`
 
 ### Task manager

@@ -161,6 +161,7 @@ Pull requests são bem-vindos. Veja [Contribuindo](CONTRIBUTING.md) para dicas. 
 * [AutoSlide](https://github.com/tianxing-ovo/AutoSlide/blob/master/README.en.md) - Ferramenta de rolagem automática que reproduz vídeos curtos e vira páginas de leitura sozinha, com controles flutuantes `Apache-2.0` [(Código-fonte)](https://github.com/tianxing-ovo/AutoSlide)
 * [flowpilot](https://github.com/emi-ran/flowpilot) - Mecanismo de automação offline com foco em privacidade que executa ações privilegiadas do sistema, como dados móveis, modo avião e tema escuro, pelo Shizuku. `GPL-3.0`
 * [IMD](https://github.com/soul-99/SU_IMD) ✨ - Fork do Geto que oculta as opções do desenvolvedor, o ADB, os serviços de acessibilidade e o próprio Shizuku de apps restritivos, como os de banco, e depois os restaura `GPL-3.0`
+* [Latch](https://github.com/wized2/Latch) - Privacy-first Tasker-style automation with local if/then rules, multi-action chains, optional Shizuku/root elevated actions, and no cloud. `MIT`
 * [NexaFlow](https://github.com/Alaa91H/NexaFlow) - Mecanismo de automação Android sensível ao contexto que combina gatilhos, restrições e ações, com execução via Shizuku para controles privilegiados do dispositivo. `MIT`
 * [Nothing_Modes](https://github.com/Dvorinka/Nothing_Modes) - App de automação para celulares Nothing (modos, rotinas, Glyph) que também funciona em outros dispositivos Android com Shizuku opcional `GPL-3.0`
 * [OpenTasker](https://github.com/SysAdminDoc/OpenTasker) - Alternativa ao Tasker de código aberto e local em primeiro lugar, com regras legíveis e controles de permissão transparentes; ações privilegiadas rodam por um serviço de usuário AIDL do Shizuku. `MIT`
@@ -454,6 +455,7 @@ Pull requests são bem-vindos. Veja [Contribuindo](CONTRIBUTING.md) para dicas. 
 * [NetManager](https://github.com/DottoXD/NetManager) - Monitor de rede celular em Material para 4G/5G NR, com mapa de torres, drive tests e testes de velocidade; uma ponte de shell Shizuku libera dados de rede extras. `GPL-3.0`
 * [NetSwitcher](https://github.com/nd4y/netswitcher) - Alternância rápida entre Wi-Fi, dados móveis e Ethernet por app, atalho, widget ou bloco de configurações rápidas, usando Shizuku ou root. `Proprietary`
 * [NetToggle](https://github.com/Dhangofa/NetToggle) - Bloco leve de Configurações rápidas para forçar os modos Somente 5G, Somente 4G e de rede preferencial usando Root ou Shizuku `GPL-3.0`
+* [Network Scanner](https://github.com/usamaiqb/network-scanner) - Offline, privacy-focused scanner that discovers devices on your local network with hostnames, open ports and device types, using Shizuku or root to read the ARP table so MAC addresses and vendors show on Android 10+ `GPL-3.0`
 * [NetworkSwitch](https://github.com/aunchagaonkar/NetworkSwitch) - App Android para alternar o modo de rede entre 4G/5G `GPL-3.0`
 * [nobita](https://github.com/duhow/nobita) - Grava o tráfego Bluetooth HCI em arquivos PCAPNG compatíveis com o Wireshark no próprio aparelho, usando o Shizuku. `Proprietary`
 * [Quintz](https://github.com/corgilittlelegs/Quintz) - Ferramenta sem root para travar a banda Wi-Fi e direcionar BSSID, que fixa o Android em 5/6 GHz via Shizuku, com telemetria de AP e um localizador de direção de RF. `MIT`
@@ -485,7 +487,7 @@ Pull requests são bem-vindos. Veja [Contribuindo](CONTRIBUTING.md) para dicas. 
 * [DozeTap](https://github.com/dhruvanbhalara/DozeTap) - Predefinições de tempo limite de tela que concedem WRITE_SECURE_SETTINGS com um toque pelo Shizuku. `Apache-2.0`
 * [EnforceDoze](https://f-droid.org/packages/com.akylas.enforcedoze/) ✨ - Ativa o modo Doze logo após desligar a tela e desativa a detecção de movimento para obter a melhor duração de bateria `GPL-3.0` [(Código-fonte)](https://github.com/Akylas/EnforceDoze)
 * [NoMoreBackground](https://f-droid.org/packages/com.adilhanney.no_more_background/) ✨ - Programa do tipo "configure e esqueça" para impedir que apps Android rodem em segundo plano `GPL-3.0` [(Código-fonte)](https://github.com/adil192/no_more_background)
-* [PULSE // BATTERY](https://github.com/kreza6173-pixel/pulse-battery) - Relatório noturno de despertares por alarme de cada app, com restrição de standby verificada e reversível com um toque, além de diagnóstico de wake locks e alarmes, controles do Doze e backup de APK `MIT`
+* [PULSE // BATTERY](https://github.com/privshell/pulse-battery) - Relatório noturno de despertares por alarme de cada app, com restrição de standby verificada e reversível com um toque, além de diagnóstico de wake locks e alarmes, controles do Doze e backup de APK `MIT`
 * [RebootNya](https://github.com/daisukiKaffuChino/RebootNya) - Menu de reinicialização avançado com suporte a Shizuku `Apache-2.0`
 * [ScreenOff](https://github.com/WuDi-ZhanShen/ScreenOff) - Desliga a tela do Android sem entrar em modo de espera/suspensão `Proprietary`
 * [sleep-timer](https://github.com/Xitee1/sleep-timer) - Timer de sono que pode pausar a mídia e desligar Wi-Fi/Bluetooth/tela `GPL-3.0`
@@ -559,7 +561,7 @@ Pull requests são bem-vindos. Veja [Contribuindo](CONTRIBUTING.md) para dicas. 
 * [Thor](https://play.google.com/store/apps/details?id=com.valhalla.thor) - Gerenciador de apps com recursos de congelamento e instalação. `GPL-3.0` [(Código-fonte)](https://github.com/trinadhthatakula/Thor)
 * [UpgradeAll](https://f-droid.org/packages/net.xzos.upgradeall/) - Verifique atualizações de apps Android, módulos Magisk e mais! `GPL-3.0` [(Código-fonte)](https://github.com/DUpdateSystem/UpgradeAll)
 * [User-Hopper](https://github.com/dlawoals2713/User-Hopper) - Create, start, stop and delete guest and secondary users on devices where the maker disabled multi-user support `GPL-3.0`
-* [VOID // APPS](https://github.com/kreza6173-pixel/void-apps) - Gerenciador de apps via Shizuku: suspender, desativar, presets de debloat, permissões e AppOps, inicialização automática, bloqueio de rede por app, instalador de APK/XAPK e limpador. Toda alteração é conferida lendo de volta do Android `MIT`
+* [VOID // APPS](https://github.com/privshell/void-apps) - Gerenciador de apps via Shizuku: suspender, desativar, presets de debloat, permissões e AppOps, inicialização automática, bloqueio de rede por app, instalador de APK/XAPK e limpador. Toda alteração é conferida lendo de volta do Android `MIT`
 * [Youki Users](https://github.com/mrYouki/Youki-Users) ✨ - Gerenciador multiusuário independente para Android, para criar, alternar e excluir perfis de usuário com fotos personalizadas. `GPL-3.0`
 
 ### Task manager
