@@ -54,7 +54,7 @@ This sublist only contains applications that are closed-source.
 ### Customization
 
 * [AAAD](https://github.com/shmykelsa/AAAD) `IAP` 💰 - Downloads popular Android Auto 3rd party apps and installs on Android Auto `Proprietary`
-* [GMD Gestures](https://play.google.com/store/apps/details?id=com.goodmooddroid.gestures) `IAP` 💰 - Create system-wide multitouch and custom-drawn gestures anywhere on the screen to navigate, launch apps and shortcuts, or control device settings using Shizuku, without root. `Proprietary`
+* [GMD Gestures](https://play.google.com/store/apps/details?id=com.goodmooddroid.gestures) `IAP` 💰 - Create system-wide multitouch and custom-drawn gestures anywhere on the screen to navigate, launch apps and shortcuts, or control device settings. `Proprietary`
 * [SetEdit: Settings Editor](https://play.google.com/store/apps/details?id=com.netvor.settings.database.editor) - View and edit settings from the system, global, and secure tables `Proprietary`
 * [UbikiTouch](https://play.google.com/store/apps/details?id=eu.toneiv.ubktouch) `IAP` 💰 - Add custom swipe-from-edge gestures to Android `Proprietary`
 * [zFont 3](https://play.google.com/store/apps/details?id=com.htetznaing.zfont2) `Ads` `IAP` 💰 - Emoji & Font Changer `Proprietary`
