@@ -23,7 +23,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
         <a href="https://github.com/timschneeb/ShizuStore">Downloads and code source are available on GitHub.</a>
       </p>
       You can browse every Shizuku app by category, sort by recently added, GitHub star count, downloads or update date, and install or update APKs silently through Shizuku. 
-      APKs are downloaded straight from the official developer via GitHub, GitLab, F-Droid, and other sources.
+      APKs are downloaded straight from the official developer via GitHub, GitLab, F-Droid, and other sources. Also available <a href="https://shizustore.com/apps">on the web</a>.
       <br><br>
       <a href="https://github.com/timschneeb/ShizuStore"><img src="https://raw.githubusercontent.com/Kunzisoft/Github-badge/main/get-it-on-github.png" width="240" alt="Get it on GitHub"></a>
     </td>
