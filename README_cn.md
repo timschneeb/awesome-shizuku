@@ -129,6 +129,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 
 ### Android TV
 
+* [Applingo](https://github.com/ernisn/Applingo) - 为任意应用设置一个或多个偏好语言，且保持设置不被系统丢失。现代化界面和完整的 Android TV 支持便于轻松批量管理应用语言设置 `MIT`
 * [flicky](https://apt.izzysoft.de/fdroid/index/apk/app.flicky) - 专为 Android TV 设计的 F-Droid 客户端 `GPL-3.0` [(源代码)](https://github.com/mlm-games/flicky)
 * [fluffy](https://apt.izzysoft.de/fdroid/index/apk/app.fluffy) - 专为 Android TV 设计的文件管理器和压缩包查看器 `GPL-3.0` [(源代码)](https://github.com/mlm-games/fluffy)
 * [RecentAppsTV](https://github.com/Qutaiba-Khader/RecentAppsTV) - Android TV 的最近任务悬浮界面 `Propietary`
@@ -189,6 +190,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [Adaptive-Theme](https://play.google.com/store/apps/details?id=dev.lexip.hecate) - 基于环境光的智能深色模式 `GPL-3.0` [(源代码)](https://github.com/xLexip/Adaptive-Theme)
 * [AmbientMusicMod](https://github.com/KieronQuinn/AmbientMusicMod) - 将 Now Playing 从 Pixels 移植到其他 Android 设备 `GPL-3.0`
 * [android-perapp-language-selector](https://github.com/TakeruF/android-perapp-language-selector) - 在 Android 13+ 上无需 root 强制设置分应用语言，即使应用本身没有内置语言选项 `Apache-2.0`
+* [Applingo](https://github.com/ernisn/Applingo) - 为任意应用设置一个或多个偏好语言，且保持设置不被系统丢失。现代化界面和完整的 Android TV 支持便于轻松批量管理应用语言设置 `MIT`
 * [AutoDND](https://f-droid.org/packages/moe.dic1911.autodnd/) - 使用指定应用程序时自动切换免打扰的简单工具 `AGPL-3.0` [(源代码)](https://github.com/im030/android_AutoDND)
 * [AutoRotate](https://github.com/eiyooooo/AutoRotate) - 管理 Android 手机各屏幕的自动旋转 `GPL-3.0`
 * [BlackOut](https://github.com/xUmutKx/BlackOut) - Turns grey dark-mode surfaces into true AMOLED black with per-app color rules and force-dark. Shizuku only enables force-dark; root and LSPosed are needed for full functionality `Proprietary`
