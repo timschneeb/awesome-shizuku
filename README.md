@@ -133,6 +133,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 
 ### Android TV
 
+* [Applingo](https://github.com/ernisn/Applingo) - Set one or more languages for any app and keep settings if dropped by the system. Manage language settings in batch easily with modern UI and Android TV support `MIT`
 * [flicky](https://apt.izzysoft.de/fdroid/index/apk/app.flicky) - An F-Droid client designed for Android TVs `GPL-3.0` [(Source code)](https://github.com/mlm-games/flicky)
 * [fluffy](https://apt.izzysoft.de/fdroid/index/apk/app.fluffy) - An file manager and archive viewer designed for Android TVs `GPL-3.0` [(Source code)](https://github.com/mlm-games/fluffy)
 * [RecentAppsTV](https://github.com/Qutaiba-Khader/RecentAppsTV) - Recent Apps overlay for Android TV `Propietary`
@@ -194,6 +195,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 * [Adaptive-Theme](https://play.google.com/store/apps/details?id=dev.lexip.hecate) - Smart dark mode based on ambient light `GPL-3.0` [(Source code)](https://github.com/xLexip/Adaptive-Theme)
 * [AmbientMusicMod](https://github.com/KieronQuinn/AmbientMusicMod) - Port of Now Playing from Pixels to other Android devices `GPL-3.0`
 * [android-perapp-language-selector](https://github.com/TakeruF/android-perapp-language-selector) - Force per-app language settings on Android 13+ without root, even for apps without built-in language options `Apache-2.0`
+* [Applingo](https://github.com/ernisn/Applingo) - Set one or more languages for any app and keep settings if dropped by the system. Manage language settings in batch easily with modern UI and Android TV support `MIT`
 * [AutoDND](https://f-droid.org/packages/moe.dic1911.autodnd/) - A simple tool to toggle DND automatically when using specified apps `AGPL-3.0` [(Source code)](https://github.com/im030/android_AutoDND)
 * [AutoRotate](https://github.com/eiyooooo/AutoRotate) - Manage automatic rotation of different screens on Android phones `GPL-3.0`
 * [BlackOut](https://github.com/xUmutKx/BlackOut) - Turns grey dark-mode surfaces into true AMOLED black with per-app color rules and force-dark. Shizuku only enables force-dark; root and LSPosed are needed for full functionality `Proprietary`
