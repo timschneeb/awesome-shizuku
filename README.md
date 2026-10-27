@@ -433,6 +433,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 * [silent-alarm](https://github.com/izumisagirii/silent-alarm) - Earphone-first alarm clock that keeps alarms alive on aggressive OEM ROMs with a Shizuku or root watchdog that restarts the app. `AGPL-3.0`
 * [SimpleWear](https://play.google.com/store/apps/details?id=com.thewizrd.simplewear) - A simple app for controlling your Android devices from your WearOS watch `Apache-2.0` [(Source code)](https://github.com/SimpleAppProjects/SimpleWear)
 * [telegram-rc](https://github.com/telegram-sms/telegram-rc) - Remote control your device via Telegram messages `BSD 3-Clause`
+* [TinyKit](https://github.com/Order52/tinykit) - 39 KB toolbox of one-tap Shizuku tweaks: hide developer options, ad-blocking DNS, per-app camera/mic and background blocking, APK backup, cache cleaning, free hotspot and Shizuku start/stop. `MIT`
 * [VineOS](https://github.com/Hexadecinull/VineOS) - Android VM engine; Shizuku probes shell privileges for the no-root ADB and wireless debugging path. `GPL-3.0`
 
 ### Network
