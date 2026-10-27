@@ -25,6 +25,7 @@ This sublist only contains applications that are closed-source.
   - [Input methods](#input-methods)
   - [Network](#network)
   - [Power management](#power-management)
+  - [Productivity](#productivity)
   - [Quick settings](#quick-settings)
   - [Software management](#software-management)
   - [Terminals](#terminals)
@@ -109,6 +110,10 @@ This sublist only contains applications that are closed-source.
 * [Extinguish](https://play.google.com/store/apps/details?id=own.moderpach.extinguish) - Extinguish turns your screen off but keeps your device awake `Proprietary`
 * [FDE.AI](https://github.com/feravolt/FDE.AI-docs/releases) `IAP` 💰 - All-in-One optimizer for Android `Proprietary`
 * [Nightcap](https://play.google.com/store/apps/details?id=com.sleepshutdown.app) `IAP` 💰 - Power off your phone automatically for focus, sleep or any scheduled time you pick `Proprietary`
+
+### Productivity
+
+* [Ripple](https://ripplefocus.github.io/en/) - Free screen-time and app blocker with focus schedules, daily limits and a mandatory cooldown before relaxing rules; uses Shizuku or wireless debugging to lock uninstallation and auto-heal accessibility. `Proprietary` `No Ads`
 
 ### Quick settings
 

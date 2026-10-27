@@ -24,6 +24,7 @@
   - [Input methods](#input-methods)
   - [Network](#network)
   - [Power management](#power-management)
+  - [Productivity](#productivity)
   - [Quick settings](#quick-settings)
   - [Software management](#software-management)
   - [Terminals](#terminals)
@@ -107,6 +108,10 @@
 * [Extinguish](https://play.google.com/store/apps/details?id=own.moderpach.extinguish) - 熄灭关闭屏幕，但保持设备唤醒状态 `Proprietary`
 * [FDE.AI](https://github.com/feravolt/FDE.AI-docs/releases) `IAP` 💰 - All-in-One optimizer for Android `Proprietary`
 * [Nightcap](https://play.google.com/store/apps/details?id=com.sleepshutdown.app) `IAP` 💰 - Power off your phone automatically for focus, sleep or any scheduled time you pick `Proprietary`
+
+### Productivity
+
+* [Ripple (涟漪)](https://ripplefocus.github.io/) - 免费无广告的安卓屏幕时间管理与防沉迷工具，支持睡眠专注时段、每日限额与修改规则等待机制；支持通过 Shizuku 或无线调试锁住卸载开关并自动恢复无障碍服务。 `Proprietary` `No Ads`
 
 ### Quick settings
 
