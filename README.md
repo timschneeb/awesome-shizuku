@@ -511,6 +511,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 * [PhoneGuard](https://github.com/monarchsofchaos004-gif/phoneguard) - Guards an elderly relative's phone against apps that take over the screen; with Shizuku it force-stops or disables the offender and revokes its overlay and accessibility access. Remote rescue via encrypted ntfy. Alpha. `MIT`
 * [Privacify](https://github.com/robinsrk/privacify) - Privacy control center: permission scanner, sensor-usage timeline and privacy score, with Root/Shizuku advanced hardware controls. `Apache-2.0`
 * [PrivacyFlip](https://f-droid.org/packages/io.github.dorumrr.privacyflip/) - Manage your device privacy based on lock/unlock state `MIT` [(Source code)](https://github.com/dorumrr/privacyflip)
+* [RedirectGuard](https://github.com/rdevz-ph/RedirectGuard) - Intercepts unwanted ad redirects and deep links to prompt before opening external apps, terminating redirected processes with Shizuku `Apache-2.0`
 
 ### Productivity
 
