@@ -129,7 +129,9 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 
 ### Android Auto
 
+* [AARE](https://github.com/prototux/AARE) - Open-source phone-side Android Auto reimplementation with navigation, media and messaging; Shizuku routes car audio without root `GPL-3.0`
 * [Flywheel](https://github.com/Benjamin-Wiegand/Flywheel) - Free and open source alternative to Android Auto aimed at de-googled phones, compatible with existing headunits; Shizuku is used for app embedding and call-audio capture. `GPL-3.0`
+* [UnknownAuto](https://github.com/GitMag/UnknownAuto) - Sideload and install Android Auto apps from unknown sources on-device, marking installs as Play-sourced via Shizuku `MIT`
 
 ### Android TV
 
@@ -210,6 +212,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 * [Dawn-Desktop-Addons](https://github.com/Dawncraft/Dawn-Desktop-Addons) - Some Android app widgets and live wallpapers `GPL-3.0`
 * [DevBay-Launcher](https://github.com/Zoder-Studio/DevBay-Launcher) - Developer-focused launcher with debug app sections, folders, gestures and Quick toggle chips for developer options, animations, fonts and wireless ADB via Shizuku. `GPL-3.0`
 * [Dragon-Launcher](https://f-droid.org/packages/org.elnix.dragonlauncher/) ✨ - Highly customizable, gestures based Android launcher focused on speed and efficiency `GPL-3.0` [(Source code)](https://github.com/Elnix90/Dragon-Launcher)
+* [Droidbubble](https://github.com/Velocity081/droidbubble) - Interactive Dynamic Island overlay around the camera cutout with media, notifications and charging indicators; Shizuku hides status-bar icons `MIT`
 * [DroidOS](https://github.com/Katsuyamaki/DroidOS) ✨ - Tiling window manager, Samsung DEX replacement, popup app launcher `Proprietary`
 * [duo-open](https://github.com/marcoazeem/duo-open) - System-wide iPhone-Duo frosted-glass fold effect for book-style foldables, driven by the real hinge angle as an accessibility overlay or live wallpaper, with optional Shizuku. `MIT`
 * [DuoFold-Android](https://github.com/jcx396905-gif/DuoFold-Android) - System-wide iPhone Duo-style fold illusion that reprojects the whole screen from device motion with OpenGL ES, powered by Shizuku. `MIT`
@@ -241,6 +244,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 * [Smart Island](https://github.com/agupta07505/SmartIsland) - A lightweight Android overlay that turns notifications, calls, and media playback into a floating glanceable island `GPL-3.0`
 * [SmartspacerPlugins](https://github.com/KieronQuinn/SmartspacerPlugins) - Plugins for Smartspacer `GPL-3.0`
 * [SuperShade](https://github.com/thejaustin/SuperShade) - Notification shade replacement that drives brightness, status bar expansion and power actions through Shizuku shell commands. `Proprietary`
+* [SwitchAI](https://github.com/WSTxda/SwitchAI) - Select, start and manage preferred AI digital assistants with widgets and Quick Settings tiles; Shizuku enables voice input for specific assistants `GPL-3.0`
 * [SysReadout-Launcher](https://github.com/AndSni/SysReadout-Launcher) - Terminal-style launcher that turns the home screen into a live system monitor with pinned status rows, process/connection/DNS tables and an event log, reading system data through Shizuku. `GPL-3.0`
 * [System UI Tuner](https://github.com/zacharee/Tweaker) - View and modify hidden settings on Android devices `MIT`
 * [TapTap](https://github.com/KieronQuinn/TapTap) ✨ - Port of the double tap on the back of the device feature from Android 12 to any Android 7.0+ device `GPL-3.0`
@@ -307,6 +311,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 * [BiliDownOut](https://f-droid.org/packages/cn.a10miaomiao.bilidown/) - Export videos downloaded from the Android version of Bilibili `GPL-3.0` [(Source code)](https://github.com/10miaomiao/bili-down-out)
 * [Crosstune](https://github.com/astrovm/crosstune) - Opens any music link in your preferred app with exact match, playlists and synced lyrics; one-tap setup via Shizuku `MIT`
 * [hlbmerge_flutter](https://github.com/molihuan/hlbmerge_flutter) - Merge and export BiliBili cache files into MP4, supports mobile and computer client `Apache-2.0`
+* [Hush](https://github.com/coldMEW/Hush) - Skips Spotify ad breaks by restarting Spotify in the background, with optional Spotify-only DNS filter; works via Wireless debugging or Shizuku `GPL-3.0`
 * [Mihon](https://github.com/mihonapp/mihon) - Manga reader using Shizuku plugin management. Independent successor of Tachiyomi. `Apache-2.0`
   * Mihon/Tachiyomi has several other active forks, including [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) and [TachiyomiAZ](https://github.com/az4521/TachiyomiAZ)
 
@@ -329,6 +334,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 * [sync-to-android-data](https://github.com/kamren-zirger/sync-to-android-data) - Syncs files in and out of restricted Android/data folders when target apps open or close `MIT`
 * [twig](https://github.com/dev2ex/twig) - Size-first dual-pane file manager (~7MB) for local, archives, FTP/SFTP/SMB/WebDAV/S3/restic/Jellyfin `GPL-3.0`
 * [UnscopeMyData](https://github.com/kepatotorica/UnscopeMyData) - Moves app data in and out of scoped storage folders using Shizuku for elevated file access. `GPL-3.0`
+* [Voyager](https://github.com/AlanHuang99/Voyager) - Material Design 3 file browser for local storage, SFTP, FTP, SMB and WebDAV with an optional Shizuku session `GPL-3.0`
 * [XArchiver](https://github.com/Xtra-Manager-Software/XArchiver) - File manager with built-in archive support `MIT`
 * [XClean](https://github.com/utopiafar/XClean) - Rule-based cleaner with Normal, Shizuku and Root engines for clearing app junk. `Proprietary`
 * [XFiles](https://github.com/Local1stDotApp/XFiles) - Offline file manager with root and Shizuku support for full filesystem access `GPL-3.0`
@@ -413,10 +419,12 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 
 ### Miscellaneous
 
+* [abCheck](https://github.com/abanana84/abCheck) - Device and system diagnostics with hardware info, tests, live monitors and battery tools; Shizuku unlocks additional read-only diagnostics `Apache-2.0`
 * [AppBooster](https://github.com/androidexpert35/AppBooster) - GUI for Android's builtin `dex2oat` utility, allowing DEX code of installed apps to be re-optimized `Apache-2.0`
 * [CaptureCap](https://github.com/yepgoryo/CaptureCap) - Screen and audio recording and streaming app, no root required `MIT`
 * [Device Watch](https://github.com/jrs8205/Device-Watch) - Offline device monitor with widgets, per-app usage insights and a charging screensaver; optional Shizuku access reveals battery statistics, real CPU/GPU load and temperatures. `GPL-3.0`
 * [Fern](https://github.com/wized2/Fern) - Material 3 live system monitor for CPU, RAM, storage, battery, thermal and network; Shizuku/root Advanced mode for real per-app CPU/RAM, thermals and force-stop. `MIT`
+* [FluxLinux](https://github.com/zenithblue-oss/fluxlinux) - Run full Linux desktops on Android with 12 distros, PRoot/Chroot, XFCE4, X11 and PulseAudio; Shizuku applies the phantom-process fix `GPL-3.0`
 * [ghostlock-app](https://github.com/YuKongA/ghostlock-app) - One-tap CVE-2026-43499 privilege-escalation app granting temporary uid 0 across many stock devices; Shizuku-required kernel profiles run through a shell Shizuku. `Apache-2.0`
 * [HiddenAlarmRevealer](https://github.com/AhmetCanArslan/HiddenAlarmRevealer) - Find the reason why the alarm icon is active in the status bar `Proprietary`
 * [IrisShot](https://github.com/raging-flames/IrisShot) - Scrolling-screenshot tool for Android games that auto-scrolls and stitches long captures using MediaProjection or Shizuku-powered shell capture. `Proprietary`
@@ -495,6 +503,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 * [RebootNya](https://github.com/daisukiKaffuChino/RebootNya) - Advanced reboot menu with Shizuku support `Apache-2.0`
 * [ScreenOff](https://github.com/WuDi-ZhanShen/ScreenOff) - Turn off your Android's screen without entering standby/sleep mode `Proprietary`
 * [sleep-timer](https://github.com/Xitee1/sleep-timer) - Sleep timer that can pause media, and turn off WIFI/Bluetooth/Display `GPL-3.0`
+* [Stop](https://github.com/burakgon/stop) - Background app blocker that force-stops selected apps after you leave them via Shizuku, with new-install prompts and Play-safe updates `GPL-3.0`
 * [USB PD Bypass](https://github.com/ONDER1E/usbpdbs) - Toggles USB PD battery-bypass mode at charge thresholds via Shizuku with self-healing recovery. `Proprietary`
 * [volt](https://github.com/lebiggg/volt) - Greenify successor: scored app hibernation with UnifiedPush wake-on-push via Shizuku `GPL-3.0`
 * [wakelogs](https://github.com/dernikiausd/wakelogs) - Analyzes display wakeups, CPU activity, alarms and device rest with Shizuku-based system diagnostics. `GPL-3.0`
@@ -659,6 +668,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 * [DiAuto](https://github.com/shihabal3amri/DiAuto) - Wireless and USB Android Auto receiver for BYD DiLink head units; runs entirely on the car display and uses Shizuku or root for privileged setup. No phone companion app or dongle. `AGPL-3.0`
 * [Evolve_Launcher_v2](https://github.com/JarJarBlinkz/Evolve_Launcher_v2) - Customizable home launcher for Meta Quest headsets with app organization, playtime tracking and Shizuku-powered clear data/cache actions. `Proprietary`
 * [flipx](https://github.com/jlgrimes/flipx) - Routes the home button to different launchers based on Anbernic RG Rotate hinge state `Proprietary`
+* [InkPalm+](https://github.com/rn-os/inkpalm-plus) - Side panel of recent apps plus per-app e-ink tuning, fonts and touch-button remapping for the Moaan InkPalm Plus; Shizuku covers whitelist and animation toggles `Apache-2.0`
 * [MindControl](https://github.com/Dinico414/MindControl) - Hardware button remapper and AOD toolkit for the iKKO MindOne that monitors physical keys through Shizuku getevent, with a root fallback. `Proprietary`
 * [panel-assistant](https://github.com/panel-assistant/android) - Home Assistant wall-panel dashboard with entity filtering, MQTT device controls and Shizuku/root-powered provisioning and verified installs. `Apache-2.0`
 * [RedTrigger](https://github.com/zampierilucas/RedTrigger) - System-wide shoulder triggers for Nubia Red Magic phones `MIT`
