@@ -297,7 +297,7 @@ Shizuku 允許普通應用程式在非root 裝置上使用 ADB 直接使用權�
 
 * [Aniyomi](https://github.com/aniyomiorg/aniyomi) - Tachiyomi 的分支，具有動畫支援和使用 Shizuku 的外掛管理。 `Apache-2.0`
 * [BiliDownOut](https://f-droid.org/packages/cn.a10miaomiao.bilidown/) - 匯出從 Android 版嗶哩嗶哩下載的影片 `GPL-3.0` [(原始碼)](https://github.com/10miaomiao/bili-down-out)
-* [Crosstune](https://github.com/astrovm/crosstune) - Opens any music link in your preferred app with exact match, playlists and synced lyrics; one-tap setup via Shizuku `MIT`
+* [Crosstune](https://github.com/astrovm/crosstune) - Opens any music link in your preferred app with exact match, playlists and synced lyrics; one-tap setup via Shizuku `GPL-3.0`
 * [hlbmerge_flutter](https://github.com/molihuan/hlbmerge_flutter) - 將嗶哩嗶哩快取檔案合併並匯出為 MP4，支援手機和電腦用戶端 `Apache-2.0`
 * [Mihon](https://github.com/mihonapp/mihon) - 使用 Shizuku 進行外掛管理的漫畫閱讀器。Tachiyomi 的獨立後繼者。 `Apache-2.0`
   * Mihon/Tachiyomi 還有其他幾個活躍的分支，包括 [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) 和 [TachiyomiAZ](https://github.com/az4521/TachiyomiAZ)
@@ -391,14 +391,13 @@ Shizuku 允許普通應用程式在非root 裝置上使用 ADB 直接使用權�
 * [Obtainium](https://github.com/ImranR98/Obtainium) - 直接從來源取得 Android 應用程式更新 `GPL-3.0`
   * [ObtainX](https://f-droid.org/packages/dev.bikram.obtainx/) - Obtainium 分支，重新設計了 Material 3 UI `GPL-3.0` [(原始碼)](https://github.com/bikram-agarwal/ObtainX)
 * [Omnify](https://github.com/Victor-root/Omnify) - F-Droid 用戶端分支，還可安裝來自外部來源的應用，具備 Shizuku 安裝器和「支援 Shizuku」探索列。 `GPL-3.0`
-* [OpenLoader](https://github.com/thebytearray/OpenLoader) - 為 Android 開發者驗證時代打造的 APK 安裝器，使用 Shizuku 執行特權安裝。 `GPL-3.0`
 * [Orion Store](https://github.com/RookieEnough/Orion-Store) - Mod 應用商店 `GPL-3.0`
 * [PI](https://github.com/SanmerApps/PI) - 允許覆寫套件請求者和執行者的套件安裝程式 `MIT`
 * [SAI](https://f-droid.org/packages/com.aefyr.sai.fdroid/) - Android 分割 APK 安裝程式 `GPL-3.0` [(原始碼)](https://github.com/Aefyr/SAI)
 * [ShizuCoreFetch](https://github.com/elhizazi1/ShizuCoreFetch) - 由 Shizuku 驅動的應用管理器，支援無聲安裝、更新和批次操作 `GPL-3.0`
 * [Shizuku Package Installer](https://github.com/vvb2060/PackageInstaller) - 輕量級應用安裝器替代品，支援分割 APK `Apache-2.0`
 * [ShizuStore](https://github.com/timschneeb/ShizuStore) ✨ - Shizuku 應用商店。基於這份 awesome-shizuku 列表，直接從上游來源安裝 APK `GPL-3.0`
-* [tern](https://github.com/munzzyy/tern) - Obtainium-style updater that verifies package name, signing certificate and publisher checksums before installing via Shizuku, Dhizuku, root or the system installer on phones, tablets and TV. `GPL-3.0`
+* [tern](https://gitlab.com/Munzzyy/tern) - Obtainium-style updater that verifies package name, signing certificate and publisher checksums before installing via Shizuku, Dhizuku, root or the system installer on phones, tablets and TV. `GPL-3.0`
 * [universal-installer](https://github.com/pass-with-high-score/universal-installer) - 安裝和管理 APK 套件，支援分割 APK、透過 Shizuku 無聲安裝以及 VirusTotal 惡意軟體掃描 `GPL-3.0`
 * [Vyxel Apps](https://github.com/NikhilKain/vyxel-apps) `IAP` 💰 - 由 GitHub 支援的應用商店，具備簽名驗證和透過 Shizuku 的無聲安裝。 `AGPL-3.0`
 * [yuki](https://github.com/carlelieser/yuki) - Catalog and storefront for open-source Shizuku apps, crawled from GitHub `MIT`
@@ -468,7 +467,7 @@ Shizuku 允許普通應用程式在非root 裝置上使用 ADB 直接使用權�
 * [LSPatch](https://github.com/JingMatrix/LSPatch) - 延伸自 LSPosed 的免 root Xposed 框架 `GPL-3.0`
 * [Morphe](https://morphe.software/) - 基於 Universal-ReVanced-Manager 的易用 YouTube 補丁工具 `GPL-3.0` [(原始碼)](https://github.com/MorpheApp/morphe-manager)
 * [NPatch](https://github.com/7723mod/NPatch) ✨ - 基於 LSPosed 的免 root Xposed 框架，可將 Xposed API 注入目標 APK `GPL-3.0`
-* [Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - 具備官方管理器所沒有的額外功能的 ReVanced 補丁工具 `GPL-3.0`
+* [Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-Patch-Manager) - 具備官方管理器所沒有的額外功能的 ReVanced 補丁工具 `GPL-3.0`
 
 ### Power management
 
@@ -529,8 +528,7 @@ Shizuku 允許普通應用程式在非root 裝置上使用 ADB 直接使用權�
 
 ### Software management
 
-* [ADB Application Manager Pro](https://github.com/Bingblop/ADB-Application-Manager) - All-in-one app and device manager for debloating, freezing, installing, backing up and tweaking hidden settings through Shizuku or ADB. `Proprietary`
-* [AppControlX](https://github.com/risunCode/AppControl-X) - 凍結、強制停止、解除安裝應用，變更背景最佳化等 `GPL-3.0`
+* [ADB Application Manager Pro](https://github.com/Bingblop/ADB-Root-Toolbox) - All-in-one app and device manager for debloating, freezing, installing, backing up and tweaking hidden settings through Shizuku or ADB. `GPL-3.0`
 * [AppDualZuku](https://github.com/nathanatgit/AppDualZuku) - 使用 Shizuku 在隔離或共用工作區（受管理設定檔）中管理多個應用實例，可選 root 後端。 `Proprietary`
 * [AppManagerNG](https://github.com/SysAdminDoc/AppManagerNG) - [AppManager](https://github.com/muntashirakon/appmanager) 的分支，用於檢查、精簡、備份、凍結和控制 Android 應用；支援 Shizuku、ADB、Dhizuku 或 root。 `GPL-3.0`
 * [Appslim](https://github.com/Horizen5/Appslim/blob/master/docs/README_en.md) - Android 執行階段分析器，分析啟動行為、CPU/記憶體和 Dex 呼叫，然後透過鉤子、規則以及 Shizuku 或 root 操作精簡應用。 `Proprietary`
@@ -538,7 +536,7 @@ Shizuku 允許普通應用程式在非root 裝置上使用 ADB 直接使用權�
 * [Blocker](https://github.com/lihenggui/blocker) - 啟用/停用 Android 元件，例如活動、服務、接收器和提供者 `Apache-2.0`
 * [Buge App Manager](https://github.com/BugeStudioTeam/Buge-App-Manager) - 專注於權限管理的應用管理器 `GPL-3.0`
 * [Canta](https://play.google.com/store/apps/details?id=io.github.samolego.canta) ✨ - 無需 root 即可解除安裝任何應用程式 `LGPL-3.0` [(原始碼)](https://github.com/samolego/Canta)
-* [CloneCat](https://github.com/AhmetCanArslan/CloneCat) - 跨工作資料夾、私人空間、雙應用程式和次要使用者複製和管理應用，並提供主螢幕捷徑 `Proprietary`
+* [CloneCat](https://github.com/AhmetCanArslan/CloneCat) - 跨工作資料夾、私人空間、雙應用程式和次要使用者複製和管理應用，並提供主螢幕捷徑 `GPL-3.0`
 * [CloneSpace](https://github.com/udmodz0/adb-cloner) - App cloner and isolated multi-user workspace powered by Shizuku that runs extra copies of apps in separate profiles without duplicating APKs or needing a PC. `Apache-2.0`
 * [Dexor](https://github.com/DeveshTone/Dexor) - 針對 Android 應用的提前（AOT）位元組碼編譯和 dexopt 執行階段管理器 `MIT`
 * [DisabledLauncher](https://github.com/voruti/DisabledLauncher) - Android 應用程式可停用未使用的應用程式，同時仍允許方便地存取它們 `MIT`
@@ -565,7 +563,7 @@ Shizuku 允許普通應用程式在非root 裝置上使用 ADB 直接使用權�
 * [memhogs](https://github.com/cicerothoma/memhogs-android) - 檢視哪些應用在消耗手機記憶體。透過 Shizuku 提供各應用明細，輔助行程會歸類到擁有它們的應用程式底下 `MIT`
 * [MemorySnapshot](https://github.com/RyensX/MemorySnapshot/blob/master/docs/README_EN.md) - 裝置端 Android 記憶體觀察器：依應用程式/行程追蹤 PSS、儲存及比較快照，透過 Shizuku 或 root 收集資料。 `Proprietary`
 * [Pensum](https://github.com/troikoss/Pensum) ✨ - Android 版 Windows 風格工作管理員 `GPL-3.0`
-* [Pulse](https://github.com/xUmutKx/Pulse) - All-in-one toolbox built around a live task manager: CPU, memory, storage, network and temperature graphs, plus file explorer, silent installer, debloater, widgets and terminal `Proprietary`
+* [Pulse](https://github.com/xUmutKx/Pulse) - All-in-one toolbox built around a live task manager: CPU, memory, storage, network and temperature graphs, plus file explorer, silent installer, debloater, widgets and terminal `GPL-3.0`
 * [ProcessLens](https://github.com/Dreamucxe/ProcessLens) - 使用 Shizuku 取得 ADB 級 CPU、記憶體、執行緒、喚醒鎖定和各應用電池讀數的行程觀察器。 `MIT`
 * [ReAppzuku](https://github.com/gree1d/ReAppzuku) - 控制和管理背景應用。shappky 的分支 `GPL-3.0`
 * [Recents](https://github.com/tymwitko/Recents) - 不依賴啟動器的系統「最近使用」選單替代品，透過 Shizuku 支援結束應用 `GPL-3.0`

@@ -302,7 +302,7 @@ Pull requests são bem-vindos. Veja [Contribuindo](CONTRIBUTING.md) para dicas. 
 
 * [Aniyomi](https://github.com/aniyomiorg/aniyomi) - Fork do Tachiyomi com suporte a anime e gerenciamento de plugins usando o Shizuku. `Apache-2.0`
 * [BiliDownOut](https://f-droid.org/packages/cn.a10miaomiao.bilidown/) - Exporta vídeos baixados pela versão Android do Bilibili `GPL-3.0` [(Código-fonte)](https://github.com/10miaomiao/bili-down-out)
-* [Crosstune](https://github.com/astrovm/crosstune) - Opens any music link in your preferred app with exact match, playlists and synced lyrics; one-tap setup via Shizuku `MIT`
+* [Crosstune](https://github.com/astrovm/crosstune) - Opens any music link in your preferred app with exact match, playlists and synced lyrics; one-tap setup via Shizuku `GPL-3.0`
 * [hlbmerge_flutter](https://github.com/molihuan/hlbmerge_flutter) - Junta e exporta arquivos de cache do BiliBili em MP4, com suporte a cliente móvel e de computador `Apache-2.0`
 * [Mihon](https://github.com/mihonapp/mihon) - Leitor de mangá com gerenciamento de plugins via Shizuku. Sucessor independente do Tachiyomi. `Apache-2.0`
   * O Mihon/Tachiyomi tem vários outros forks ativos, incluindo [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) e [TachiyomiAZ](https://github.com/az4521/TachiyomiAZ)
@@ -396,14 +396,13 @@ Pull requests são bem-vindos. Veja [Contribuindo](CONTRIBUTING.md) para dicas. 
 * [Obtainium](https://github.com/ImranR98/Obtainium) - Receba atualizações de apps Android direto da fonte `GPL-3.0`
   * [ObtainX](https://f-droid.org/packages/dev.bikram.obtainx/) - Fork do Obtainium com interface redesenhada em Material 3 `GPL-3.0` [(Código-fonte)](https://github.com/bikram-agarwal/ObtainX)
 * [Omnify](https://github.com/Victor-root/Omnify) - Fork de cliente F-Droid que também instala apps de fontes externas, com instalador via Shizuku e uma linha de descoberta "Funciona com Shizuku". `GPL-3.0`
-* [OpenLoader](https://github.com/thebytearray/OpenLoader) - Instalador de APK feito para a era da verificação de desenvolvedores do Android, usando o Shizuku para o caminho de instalação privilegiado. `GPL-3.0`
 * [Orion Store](https://github.com/RookieEnough/Orion-Store) - Loja de apps modificados `GPL-3.0`
 * [PI](https://github.com/SanmerApps/PI) - Instalador de pacotes que permite sobrescrever o solicitante e o executor do pacote `MIT`
 * [SAI](https://f-droid.org/packages/com.aefyr.sai.fdroid/) - Instalador de APKs divididos (split APKs) para Android `GPL-3.0` [(Código-fonte)](https://github.com/Aefyr/SAI)
 * [ShizuCoreFetch](https://github.com/elhizazi1/ShizuCoreFetch) - Gerenciador de apps com Shizuku, com instalações silenciosas, atualizações e operações em lote `GPL-3.0`
 * [Shizuku Package Installer](https://github.com/vvb2060/PackageInstaller) - Substituto leve do instalador de apps com suporte a split APK `Apache-2.0`
 * [ShizuStore](https://github.com/timschneeb/ShizuStore) ✨ - Loja de apps para apps Shizuku. Baseada nesta lista awesome-shizuku, instala APKs direto das fontes originais `GPL-3.0`
-* [tern](https://github.com/munzzyy/tern) - Atualizador no estilo do Obtainium que verifica nome do pacote, certificado de assinatura e checksums do publicador antes de instalar via Shizuku, Dhizuku, root ou o instalador do sistema, em celulares, tablets e TV. `GPL-3.0`
+* [tern](https://gitlab.com/Munzzyy/tern) - Atualizador no estilo do Obtainium que verifica nome do pacote, certificado de assinatura e checksums do publicador antes de instalar via Shizuku, Dhizuku, root ou o instalador do sistema, em celulares, tablets e TV. `GPL-3.0`
 * [universal-installer](https://github.com/pass-with-high-score/universal-installer) - Instala e gerencia pacotes APK com suporte a split APK, instalação silenciosa via Shizuku e verificação de malware pelo VirusTotal `GPL-3.0`
 * [Vyxel Apps](https://github.com/NikhilKain/vyxel-apps) `IAP` 💰 - Loja de apps baseada no GitHub, com verificação de assinatura e instalações silenciosas pelo Shizuku. `AGPL-3.0`
 * [yuki](https://github.com/carlelieser/yuki) - Catálogo e vitrine de apps Shizuku de código aberto, coletados do GitHub `MIT`
@@ -473,7 +472,7 @@ Pull requests são bem-vindos. Veja [Contribuindo](CONTRIBUTING.md) para dicas. 
 * [LSPatch](https://github.com/JingMatrix/LSPatch) - Framework Xposed sem root derivado do LSPosed `GPL-3.0`
 * [Morphe](https://morphe.software/) - Patcher de YouTube fácil de usar, baseado no Universal-ReVanced-Manager `GPL-3.0` [(Código-fonte)](https://github.com/MorpheApp/morphe-manager)
 * [NPatch](https://github.com/7723mod/NPatch) ✨ - Framework Xposed sem root baseado no LSPosed, que injeta a API Xposed nos APKs alvo `GPL-3.0`
-* [Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - Patcher ReVanced com recursos extras que o gerenciador oficial não tem `GPL-3.0`
+* [Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-Patch-Manager) - Patcher ReVanced com recursos extras que o gerenciador oficial não tem `GPL-3.0`
 
 ### Power management
 
@@ -534,8 +533,7 @@ Pull requests são bem-vindos. Veja [Contribuindo](CONTRIBUTING.md) para dicas. 
 
 ### Software management
 
-* [ADB Application Manager Pro](https://github.com/Bingblop/ADB-Application-Manager) - Gerenciador completo de apps e do dispositivo para debloat, congelar, instalar, fazer backup e ajustar configurações ocultas via Shizuku ou ADB. `Proprietary`
-* [AppControlX](https://github.com/risunCode/AppControl-X) - Congele, force a parada, desinstale apps, altere a otimização em segundo plano e mais `GPL-3.0`
+* [ADB Application Manager Pro](https://github.com/Bingblop/ADB-Root-Toolbox) - Gerenciador completo de apps e do dispositivo para debloat, congelar, instalar, fazer backup e ajustar configurações ocultas via Shizuku ou ADB. `GPL-3.0`
 * [AppDualZuku](https://github.com/nathanatgit/AppDualZuku) - Gerencia várias instâncias de apps em espaços de trabalho isolados ou compartilhados (perfis gerenciados) usando Shizuku, com backend root opcional. `Proprietary`
 * [AppManagerNG](https://github.com/SysAdminDoc/AppManagerNG) - Fork do [AppManager](https://github.com/muntashirakon/appmanager) para inspecionar, fazer debloat, backup, congelar e controlar apps Android; funciona com Shizuku, ADB, Dhizuku ou root. `GPL-3.0`
 * [Appslim](https://github.com/Horizen5/Appslim/blob/master/docs/README_en.md) - Analisador de runtime Android que perfila o comportamento de inicialização, CPU/memória e chamadas Dex, e depois enxuga os apps por meio de hooks, regras e ações via Shizuku ou root. `Proprietary`
@@ -543,7 +541,7 @@ Pull requests são bem-vindos. Veja [Contribuindo](CONTRIBUTING.md) para dicas. 
 * [Blocker](https://github.com/lihenggui/blocker) - Ative/desative componentes do Android como activities, services, receivers e providers `Apache-2.0`
 * [Buge App Manager](https://github.com/BugeStudioTeam/Buge-App-Manager) - Um gerenciador de apps focado em gerenciamento de permissões `GPL-3.0`
 * [Canta](https://play.google.com/store/apps/details?id=io.github.samolego.canta) ✨ - Desinstale qualquer app sem root `LGPL-3.0` [(Código-fonte)](https://github.com/samolego/Canta)
-* [CloneCat](https://github.com/AhmetCanArslan/CloneCat) - Clone e gerencie apps entre perfil de trabalho, espaço privado, apps duplos e usuários secundários, com atalhos na tela inicial `Proprietary`
+* [CloneCat](https://github.com/AhmetCanArslan/CloneCat) - Clone e gerencie apps entre perfil de trabalho, espaço privado, apps duplos e usuários secundários, com atalhos na tela inicial `GPL-3.0`
 * [CloneSpace](https://github.com/udmodz0/adb-cloner) - Clonador de apps e espaço de trabalho multiusuário isolado movido pelo Shizuku, que executa cópias extras de apps em perfis separados sem duplicar APKs nem precisar de PC. `Apache-2.0`
 * [Dexor](https://github.com/DeveshTone/Dexor) - Gerenciador de compilação antecipada (AOT) de bytecode e de dexopt em runtime para aplicativos Android `MIT`
 * [DisabledLauncher](https://github.com/voruti/DisabledLauncher) - App Android que desativa apps não usados, mas ainda permite acessá-los com facilidade `MIT`
@@ -570,7 +568,7 @@ Pull requests são bem-vindos. Veja [Contribuindo](CONTRIBUTING.md) para dicas. 
 * [memhogs](https://github.com/cicerothoma/memhogs-android) - Quais apps estão consumindo a memória do seu celular. Detalhamento por app via Shizuku, com processos auxiliares agrupados sob o app a que pertencem `MIT`
 * [MemorySnapshot](https://github.com/RyensX/MemorySnapshot/blob/master/docs/README_EN.md) - Observador de memória Android no próprio dispositivo: acompanhamento de PSS por app/processo, salvamento e comparação de snapshots, com dados coletados via Shizuku ou root. `Proprietary`
 * [Pensum](https://github.com/troikoss/Pensum) ✨ - Gerenciador de Tarefas no estilo Windows para Android `GPL-3.0`
-* [Pulse](https://github.com/xUmutKx/Pulse) - All-in-one toolbox built around a live task manager: CPU, memory, storage, network and temperature graphs, plus file explorer, silent installer, debloater, widgets and terminal `Proprietary`
+* [Pulse](https://github.com/xUmutKx/Pulse) - All-in-one toolbox built around a live task manager: CPU, memory, storage, network and temperature graphs, plus file explorer, silent installer, debloater, widgets and terminal `GPL-3.0`
 * [ProcessLens](https://github.com/Dreamucxe/ProcessLens) - Observatório de processos que usa o Shizuku para leituras em nível de ADB de CPU, memória, threads, wake locks e bateria por app. `MIT`
 * [ReAppzuku](https://github.com/gree1d/ReAppzuku) - Controle e gerencie aplicativos em segundo plano. Fork do shappky `GPL-3.0`
 * [Recents](https://github.com/tymwitko/Recents) - Substituto do menu Recentes do sistema, independente do launcher, com suporte a finalizar apps via Shizuku `GPL-3.0`

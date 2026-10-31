@@ -9,6 +9,7 @@ All projects in this section have been deprecated or abandoned by the developer.
 * [HardenDroid](https://github.com/oddbyte/HardenDroid) - Shizuku & dhizuku app to allow you to manage users without root `Apache-2.0`
 * [mtbtool-android-app](https://github.com/h3nnes/mtbtool-android-app) - Perform bandlock and edit EFS NV items on qualcomm-based Xiaomi devices without root  `MIT`
 * [NoPopping](https://appteka.store/app/d9fr99475) `IAP` 💰 - Auto Do-Not-Disturb mode (Discontinued) `Proprietary`
+* [OpenLoader](https://github.com/thebytearray/OpenLoader) - APK installer built for the Android developer verification era, using Shizuku for the privileged install path. `GPL-3.0`
 * [ScamsungFonts](https://github.com/KhunHtetzNaing/ScamsungFonts) - Font manager for Samsung Galaxy (OneUI) via System shell or Root `No license`
 * [ServiceManagerCompat](https://github.com/SanmerApps/ServiceManagerCompat) - ServiceManager bindings `MIT`
 * [setbox](https://github.com/YasserNull/setbox) - Modifies Android system settings through community-developed modules `GPL-3.0`
