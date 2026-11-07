@@ -223,6 +223,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [LinkSheet](https://github.com/LinkSheet/LinkSheet) - 使用 Material3 恢复 Android <12 Url-App 链接选择器 `Modified MPL-2.0`
 * [Lockscreen Widgets](https://play.google.com/store/apps/details?id=tk.zwander.lockscreenwidgets) `IAP` 💰 - 在锁屏上显示小部件。仅在 Android 13 及更高版本需要 Shizuku `MIT` [(源代码)](https://github.com/zacharee/LockscreenWidgets/)
 * [LogCat Live Wallpaper](https://github.com/YasserNull/logcat-live-wallpaper) - Live wallpaper that displays Logcat output on screen with customizable colors, fonts and scrolling; uses Shizuku or root for the full log. `GPL-3.0`
+* [Majician](https://github.com/udmodz0/majician) - 免 Root Android 系统微调、设备标识伪造、电池状态模拟、DPI 调整以及全球模拟定位 `MIT`
 * [MultiLocale](https://github.com/Nightdavisao/MultiLocale) - 如果原始设备制造商（小米）不允许您在设备的本地设置中添加额外的（或 "不支持的"）语言，那么这款简单的应用程序就能帮您实现这一功能。 `MIT`
 * [O.status](https://github.com/CATCHINGL/O.status) - 简洁的状态栏指示器，用于 Wi-Fi、蜂窝网络和电池，可选集成 Shizuku 以匹配系统图标颜色。 `Proprietary`
 * [OmniPrompt](https://github.com/mrndstvndv/OmniPrompt) - 键盘优先的 Android 命令面板，将应用/设备搜索和系统工具统一到悬浮界面中 `GPL-3.0`
