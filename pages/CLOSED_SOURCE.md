@@ -14,6 +14,7 @@ This sublist only contains applications that are closed-source.
 ## Table of contents
 
 - [Closed-source apps](#closed-source-apps)
+  - [AI agents](#ai-agents)
   - [Android Auto](#android-auto)
   - [Audio](#audio)
   - [Automation](#automation)
@@ -37,6 +38,10 @@ This sublist only contains applications that are closed-source.
 
 ## Closed-source apps
 
+### AI agents
+
+* [Oktobot](https://github.com/seko121/oktobot-releases) - AI agent that controls your phone through chat and voice. Optional Shizuku support keeps its accessibility service running after crashes or reboots. `Proprietary`
+
 ### Android Auto
 
 * [ScreenOnAuto](https://screenonauto.lzn.idv.tw/) - Mirrors the phone screen to Android Auto with touch forwarding and media controls. Optional Shizuku/root turns the phone screen off, adds real touch injection (long-press, drag, multi-finger) and matches the phone screen to the car `Proprietary`
@@ -49,7 +54,6 @@ This sublist only contains applications that are closed-source.
 ### Automation
 
 * [MacroDroid](https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid) `Ads` `IAP` 💰 - Automation app for Android devices. Version 5.46 and later introduce Shizuku support. `Proprietary`
-* [Oktobot](https://github.com/seko121/oktobot-releases) - AI agent that controls your phone through chat and voice. Optional Shizuku support keeps its accessibility service running after crashes or reboots. `Proprietary`
 * [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) `Paid` 💰 - Automation app for Android devices. Version 6.6 and later introduce Shizuku support. `Proprietary`
 * [Taskly](https://play.google.com/store/apps/details?id=com.dylan.dalle3.pro) - Closed source fork of https://github.com/gkd-kit/gkd `Proprietary`
 
