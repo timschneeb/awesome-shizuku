@@ -525,6 +525,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 ### Productivity
 
 * [Blink](https://github.com/character-flat/Blink) - A persistent, highly customizable 20-20-20 rule eye-care timer that uses Shizuku to whitelist itself from Android's battery optimizations `GPL-3.0`
+* [ClipHistory](https://github.com/saroo98/cliphistory-android) - ClipHistory seamlessly saves the text you copy, so you can find and copy it again later. Works with any keyboard, with one-tap copy from Quick Settings and a super clean, highly customizable design. Passwords auto-delete if you want, and screenshots are blocked. Encrypted, private and 100% offline. `MIT`
 * [Cresto](https://github.com/Nevodev/Cresto) - To-do app with AI capture, calendar sync and reminders; its Quick Settings current-screen extraction captures the screen through Shizuku shell access. `Apache-2.0`
 * [Curbox](https://f-droid.org/packages/neth.iecal.curbox/) ✨ - Tool to reduce screen addiction and view usage analytics `GPL-3.0` [(Source code)](https://github.com/curbox-app/curbox-android)
 * [DetoxDroid](https://github.com/flxapps/DetoxDroid) - Digital Detoxing: Use your phone rather than letting your phone use you `GPL-3.0`
