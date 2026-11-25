@@ -150,6 +150,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 * [android-realtime-voice-isolation](https://github.com/sk2andy/android-realtime-voice-isolation) - On-device real-time voice isolation using Shizuku, GTCRN, and ONNX Runtime `MIT`
 * [Castix](https://github.com/elhizazi1/Castix) - Manages background playback restrictions and adds an AMOLED black-screen clock, with Shizuku, Dhizuku, root, LSPosed or accessibility backends. `GPL-3.0`
 * [centuryplay](https://github.com/g8row/centuryplay) - Streams Android system audio to AirPlay 1/2 speakers; optional Shizuku mode provides silent-phone capture via AudioPolicy loopback and removes capture prompts. `AGPL-3.0`
+* [Echora](https://github.com/ilbebino08/Echora) - Android audio dashcam that uses Shizuku to keep a rolling audio buffer and export recent audio as WAV. Root mode recommended. `MIT`
 * [finevolume](https://github.com/broknhrt2562/finevolume) - Pixel-style volume panel with 120-step precision plus per-app and per-stream volume control, using a Shizuku high-precision audio proxy. `Apache-2.0`
 * [MicUp](https://github.com/papergray/MicUp) ✨ - Real-time microphone audio processing for Android `MIT`
 * [Mixer (1)](https://github.com/farizanjum/mixer-1) - Per-app volume overlay intercepting hardware keys `Proprietary`
