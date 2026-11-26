@@ -415,6 +415,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 * [Orion Store](https://github.com/RookieEnough/Orion-Store) - App store for modded apps `GPL-3.0`
 * [PI](https://github.com/SanmerApps/PI) - Package installer that allows overwriting the package requester and executor `MIT`
 * [SAI](https://f-droid.org/packages/com.aefyr.sai.fdroid/) - Android split APKs installer `GPL-3.0` [(Source code)](https://github.com/Aefyr/SAI)
+* [Shell Installer](https://github.com/MoshEZeeD/Sh311Installer) - Install APKs and split bundles with shell privileges via Shizuku, on-device Wireless ADB or root; installer-identity spoofing, security scan and ad neuter `GPL-3.0`
 * [ShizuCoreFetch](https://github.com/elhizazi1/ShizuCoreFetch) - Shizuku-powered app manager with silent installs, updates, and batch operations `GPL-3.0`
 * [Shizuku Package Installer](https://github.com/vvb2060/PackageInstaller) - A lightweight app installer replacement with split APK support `Apache-2.0`
 * [ShizuStore](https://github.com/timschneeb/ShizuStore) ✨ - App store for Shizuku apps. Based on this awesome-shizuku list and installs APKs straight from their upstream sources `GPL-3.0`
