@@ -103,7 +103,7 @@ Shizuku 允許普通應用程式在非root 裝置上使用 ADB 直接使用權�
 ### AI agents
 
 * [Aether](https://github.com/Zhou-Shilin/Aether) - 在地化、可擴充的通用 AI 代理，適用於 Android、iOS 和 macOS，可選整合 Shizuku 和 Termux 以直接控制裝置。 `GPL-3.0`
-* [Agent-VScreen](https://github.com/kilolonion/agent-vscreen) - Gives any on-phone AI agent its own background virtual display to launch and drive apps over CLI, MCP or HTTP, with on-device OCR, a take-over floating window and per-app restrictions `MIT`
+* [Agent-VScreen](https://github.com/kilolonion/agent-vscreen) - Gives any AI agent, on the phone, a computer or the cloud, its own background virtual display to launch and drive apps over CLI, MCP or HTTP, with on-device OCR, a take-over floating window and per-agent permissions `MIT`
 * [AndroidHarness](https://github.com/Sanuu7/AndroidHarness) - 裝置端程式設計代理，透過 Shizuku shell UID 轉發特權命令，並以 `termux-` 為前綴的 Linux 工具鏈作為備援方案。 `MIT`
 * [AutoXiao'er](https://github.com/Joy-word/AutoXiaoer) - 裝置端 AI 代理，以視覺方式操作 Android 應用程式，支援排程、通知和 ClawBot 任務觸發；同時支援 Shizuku 與無障礙控制。 `MIT`
 * [ClawGUI](https://github.com/ZJU-REAL/ClawGUI) - 裝置端 GUI 代理執行器，可在單部手機上部署完整的 ClawGUI 模型堆疊，並透過 Shizuku 控制。 `Apache-2.0`
