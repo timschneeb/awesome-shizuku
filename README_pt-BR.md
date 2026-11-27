@@ -108,7 +108,7 @@ Pull requests são bem-vindos. Veja [Contribuindo](CONTRIBUTING.md) para dicas. 
 ### AI agents
 
 * [Aether](https://github.com/Zhou-Shilin/Aether) - Agente de IA de uso geral, localizado e extensível, para Android, iOS e macOS, com integração opcional com Shizuku e Termux para controle direto do dispositivo. `GPL-3.0`
-* [Agent-VScreen](https://github.com/kilolonion/agent-vscreen) - Gives any on-phone AI agent its own background virtual display to launch and drive apps over CLI, MCP or HTTP, with on-device OCR, a take-over floating window and per-app restrictions `MIT`
+* [Agent-VScreen](https://github.com/kilolonion/agent-vscreen) - Gives any AI agent, on the phone, a computer or the cloud, its own background virtual display to launch and drive apps over CLI, MCP or HTTP, with on-device OCR, a take-over floating window and per-agent permissions `MIT`
 * [AndroidHarness](https://github.com/Sanuu7/AndroidHarness) - Agente de programação no dispositivo que encaminha comandos privilegiados por um UID de shell do Shizuku, com um conjunto de ferramentas Linux com prefixo do Termux como alternativa. `MIT`
 * [AutoXiao'er](https://github.com/Joy-word/AutoXiaoer) - Agente de IA no dispositivo que opera apps Android visualmente, com gatilhos de tarefas agendadas, por notificação e via ClawBot. Suporta controle tanto pelo Shizuku quanto por acessibilidade. `MIT`
 * [ClawGUI](https://github.com/ZJU-REAL/ClawGUI) - Executor de agente de interface gráfica no dispositivo que roda toda a pilha "cérebro" do ClawGUI em um único celular controlado via Shizuku. `Apache-2.0`
