@@ -192,6 +192,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 * [revenge-manager](https://github.com/revenge-mod/revenge-manager) - Discord modding tool. Another continuation of the abandoned Bunny-Manager project `OSL-3.0`
 * [ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder) ✨ - ShizuCallRecorder empowers ADB through Shizuku to record phone calls on non-rooted device! `GPL-3.0`
 * [TxtNet-Browser](https://github.com/lukeaschenbrenner/TxtNet-Browser) - An app that lets you browse the web over SMS `GPL-3.0`
+* [Voice SIP Agent](https://github.com/sparkcyf/android-voice-sip-agent) - Turns an Android phone into a cellular-to-SIP gateway: bridges incoming and outgoing calls and their audio to a SIP account or PBX through Shizuku, without root `GPL-2.0`
 
 ### Customization
 
